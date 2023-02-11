@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import axios from 'axios';
 
 function Quiz(props) {
@@ -44,6 +44,9 @@ function GameSpace(props) {
     const [isAnswerCorrect, setIsAnswerCorrect] = useState(undefined);
     const [isAnimating, setIsAnimating] = useState(false);
 
+    const nextButton = useRef();
+    const endButton = useRef();
+
     function handleLinks(quiz, progress) {
         props.setQuiz(quiz);
         props.setProgress(progress);
@@ -58,6 +61,44 @@ function GameSpace(props) {
         return array;
     }
 
+    function handleNextClick() {
+        setIsAnimating(true);
+        setTimeout(() => {
+            props.setData(shuffleArray(questions.map(question => {
+                question["Válaszok"] = shuffleArray(question["Válaszok"]);
+                return question;
+            })).sort((a, b) => a.score - b.score));
+            setIsAnswerCorrect(undefined);
+        }, 500);
+        setTimeout(() => setIsAnimating(false), 500);
+    }
+
+    function handleEndClick() { handleLinks("", "End") }
+
+    function endKeyDown(e) {
+        if (e.key === "Enter" && !endButton.current.disabled && isAnswerCorrect === undefined) { handleEndClick() }
+    }
+
+    function nextKeyDown(e) {
+        if (e.key === "Enter" && !nextButton.current.disabled && isAnswerCorrect === undefined) { handleNextClick() }
+    }
+
+    useEffect(() => {
+        window.addEventListener("keydown", nextKeyDown);
+
+        return () => {
+            window.removeEventListener("keydown", nextKeyDown);
+        }
+    }, []);
+
+    useEffect(() => {
+        window.addEventListener("keydown", endKeyDown);
+
+        return () => {
+            window.removeEventListener("keydown", endKeyDown);
+        }
+    }, []);
+
     useEffect(() => {
         if (isAnswerCorrect) { questions[0].score = questions[0].score + 1 }
     }, [isAnswerCorrect]);
@@ -68,8 +109,9 @@ function GameSpace(props) {
             <div className={`animating ${isAnimating ? 'animating-on' : ''}`}>
                 <span className="block font_size-24 font_weight-bold margin-b-56">{ questions[0]["Kérdés"] }</span>
                 <div className="padding-b-128">
-                    { questions[0]["Válaszok"].map(answer => <AnswerButton
-                        key={answer}
+                    { questions[0]["Válaszok"].map((answer, index) => <AnswerButton
+                        key={`${index}${answer}`}
+                        index={index}
                         setCorrectAnswers={setCorrectAnswers}
                         isAnswerCorrect={isAnswerCorrect}
                         setIsAnswerCorrect={setIsAnswerCorrect}
@@ -78,23 +120,15 @@ function GameSpace(props) {
                 
                 <div className="relative floating max_width-512px flex end">
                     <button
+                        ref={nextButton}
                         className={`absolute right-0 button ${isAnswerCorrect !== undefined && correctAnswers < questions.length && !isAnimating ? 'visible' : 'hidden opacity-0'}`}
-                        onClick={() => {
-                            setIsAnimating(true);
-                            setTimeout(() => {
-                                props.setData(shuffleArray(questions.map(question => {
-                                    question["Válaszok"] = shuffleArray(question["Válaszok"]);
-                                    return question;
-                                })).sort((a, b) => a.score - b.score));
-                                setIsAnswerCorrect(undefined);
-                            }, 500);
-                            setTimeout(() => setIsAnimating(false), 500)
-                        }}
+                        onClick={handleNextClick}
                         disabled={!(isAnswerCorrect !== undefined && correctAnswers < questions.length)}
                     >Következő</button>
                     <button
+                        ref={endButton}
                         className={`absolute right-0 button ${correctAnswers >= questions.length && !isAnimating? 'visible' : 'hidden opacity-0'}`}
-                        onClick={() => { handleLinks("", "End") }}
+                        onClick={handleEndClick}
                         disabled={!(correctAnswers >= questions.length)}
                     >Vége</button>
                 </div>
@@ -105,24 +139,43 @@ function GameSpace(props) {
 
 function AnswerButton(props) {
     const [status, setStatus] = useState();
+    const button = useRef();
 
-    console.log(status, props.isAnswerCorrect);
+    function handleClick() {
+        if (props.answer[1]) {
+            setStatus("correct");
+            props.setCorrectAnswers(count => count + 1)
+            props.setIsAnswerCorrect(true);
+        } else {
+            setStatus("wrong");
+            props.setIsAnswerCorrect(false);
+        }
+    }
 
-    useEffect(() => { props.isAnswerCorrect === undefined && setStatus(undefined) });
+    function answerKeyDown(e) {
+        if (parseInt(e.key) === parseInt(props.index + 1) && !button.current.disabled) {
+            handleClick();
+            console.log(e.key, props.index + 1);
+        }
+    }
+
+    useEffect(() => {
+        window.addEventListener("keydown", answerKeyDown);
+
+        return () => {
+            window.removeEventListener("keydown", answerKeyDown)
+        }
+    }, []);
+
+    useEffect(() => {
+        props.isAnswerCorrect === undefined && setStatus(undefined)
+    }, [props.isAnswerCorrect]);
 
     return (
         <button
-            className={`margin-x-auto margin-b-16--d padding-y-16 ${props.isAnswerCorrect === false ? props.answer[1] ? "correct" : '' : ''} ${status ? status : ''}`.trim()}
-            onClick={() => {
-                if (props.answer[1]) {
-                    setStatus("correct");
-                    props.setCorrectAnswers(count => count + 1)
-                    props.setIsAnswerCorrect(true);
-                } else {
-                    setStatus("wrong");
-                    props.setIsAnswerCorrect(false);
-                }
-            }}
+            ref={props.isAnswerCorrect === undefined ? button : undefined}
+            className={`${props.index + 1} margin-x-auto margin-b-16--d padding-y-16 ${props.isAnswerCorrect === false ? props.answer[1] ? "correct" : '' : ''} ${status ? status : ''}`.trim()}
+            onClick={handleClick}
             disabled={props.isAnswerCorrect !== undefined}
         >{props.answer[0]}</button>
     )
