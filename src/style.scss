@@ -70,3 +70,24 @@ button {
 @media screen and (min-width: 512px) {
     .margin-b-16--d { margin-bottom: 16px !important; }
 }
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #141414;
+        color: #FFFFFF;
+    }
+
+    button {
+        color: #ffffff;
+
+        &:disabled {
+            &.correct { color: #141414 }
+            &.wrong { color: #141414 }
+        }
+    }
+
+    .button {
+        background-color: #ffffff;
+        color: #141414;
+    }
+}
