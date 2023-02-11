@@ -1,0 +1,68 @@
+a {
+    color: #000000;
+}
+
+button {
+    color: #000000;
+    transition:
+        background 250ms ease-in-out,
+        color 250ms ease-in-out,
+        opacity 250ms ease-in-out,
+        visibility 250ms ease-in-out;
+    &.correct, &.wrong {
+        padding-left: 24px;
+        padding-right: 24px;
+        margin-left: -24px;
+        margin-right: -24px;
+        width: calc(100% + 48px);
+    }
+
+    &:disabled {
+        opacity: 0.24;
+
+        &.correct {
+            background-color: #7AD223;
+            color: #ffffff;
+            opacity: 1;
+        }
+    
+        &.wrong {
+            background-color: #D71D74;
+            color: #ffffff;
+            opacity: 1;
+        }
+
+        @media screen and (min-width: 512px) {
+            border-radius: 32px;
+        }
+    }
+}
+
+.button {
+    background-color: #000000;
+    border-radius: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 16px 24px;
+}
+
+.floating {
+    position: fixed;
+    bottom: 40px;
+    margin: 0 auto;
+    width: calc(100% - 48px);
+}
+
+.animating {
+    transition:
+        visibility 500ms ease-in-out,
+        opacity 500ms ease-in-out;
+
+    &-on {
+        visibility: hidden;
+        opacity: 0;
+    }
+}
+
+.padding-b-128 { padding-bottom: 128px !important; }
+.max_width-512px { max-width: 512px !important; }

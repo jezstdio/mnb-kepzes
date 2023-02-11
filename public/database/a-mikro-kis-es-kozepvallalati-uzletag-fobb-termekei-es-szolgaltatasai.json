@@ -1,0 +1,3527 @@
+[
+    {
+        "Kérdés": "Mit jelent a vállalkozások finanszírozása?",
+        "Válaszok": [
+            [
+                "A tőkeszükséglet folyamatos biztosítását a vállalkozás részére.",
+                true
+            ],
+            [
+                "Rövid lejáratú hitelekkel fenntartani a vállalkozási tevékenység folytonosságát."
+            ],
+            [
+                "Hosszú távú beruházások biztosítását azonos lejáratú hitelekkel, a hosszabb megtérülési idő miatti tőkekiesés fedezésére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a kakukktojást az alábbiak közül! A vállalkozások belső finanszírozási forrása lehet",
+        "Válaszok": [
+            [
+                "az adózott eredmény visszaforgatása."
+            ],
+            [
+                "a vagyonátrendezés."
+            ],
+            [
+                "a kereskedelmi hitel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A vállalkozások külső finanszírozása megvalósulhat saját és idegen forrásból.",
+        "Válaszok": [
+            [
+                "Az állítás igaz.",
+                true
+            ],
+            [
+                "Az állítás hamis."
+            ],
+            [
+                "A vállalkozások finanszírozása sem saját, sem idegen forrásból nem valósulhat meg."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik fogalmat definiáltuk: A gazdasági tevékenység alapkövetelménye, amelynek célja, hogy a bevételek a ráfordítások (költségek) megtérülésén felül nyereséget is biztosítsanak a vállalkozásnak.?",
+        "Válaszok": [
+            [
+                "hatékonyság"
+            ],
+            [
+                "jövedelmezőség",
+                true
+            ],
+            [
+                "a gazdálkodás minősége"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A következő állítás mely vagyoni eszközcsoportra vonatkozik? Azokat az eszközöket, amelyeket a vállalkozás tartósan, 1 évnél hosszabb ideig használ.",
+        "Válaszok": [
+            [
+                "befektetett eszközöknek nevezzük.",
+                true
+            ],
+            [
+                "forgóeszközöknek nevezzük."
+            ],
+            [
+                "pénzeszközöknek nevezzük."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik eszköz nem tartozik a forgóeszközök csoportjába az alábbiak közül?",
+        "Válaszok": [
+            [
+                "a 3 hónapra nyújtott pénzkölcsön"
+            ],
+            [
+                "a beruházásra adott előleg",
+                true
+            ],
+            [
+                "a vásárolt anyagkészlet"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A felsoroltak közül válassza ki a tőkehatékonysági mutatót!",
+        "Válaszok": [
+            [
+                "eszközhatékonyság"
+            ],
+            [
+                "árbevétel arányos nyereség"
+            ],
+            [
+                "saját tőke arányos nyereség",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Pénzügyi szolgáltatások igénybevételekor kiemelt fontosságú a vállalkozás mérete. Kis-, és középvállalkozásnak számít, ahol",
+        "Válaszok": [
+            [
+                "a foglalkoztatottak létszáma 250 főnél kevesebb, a nettó árbevétel legfeljebb 50 millió euró, vagy a mérlegfőösszeg legfeljebb 43 millió euró.",
+                true
+            ],
+            [
+                "a foglalkoztatottak létszáma 250 főnél kevesebb, a nettó árbevétel legfeljebb 50 millió euró."
+            ],
+            [
+                "a foglalkoztatottak létszáma 250 főnél kevesebb."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Pénzügyi szolgáltatások igénybevételekor kiemelt fontosságú a vállalkozás mérete. Kisvállalkozásnak számít, ahol",
+        "Válaszok": [
+            [
+                "a foglalkoztatottak létszáma 10 főnél kevesebb, nettó árbevétel legfeljebb 10 millió forint."
+            ],
+            [
+                "a foglalkoztatottak létszáma 50 főnél kevesebb, a nettó árbevétel vagy a mérlegfőösszeg legfeljebb 10 millió euró.",
+                true
+            ],
+            [
+                "a foglalkoztatottak létszáma 50 főnél kevesebb."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Pénzügyi szolgáltatások igénybevételekor kiemelt fontosságú a vállalkozás mérete. Mikrovállalkozásnak számít, ahol",
+        "Válaszok": [
+            [
+                "a foglalkoztatottak száma maximum 10 fő."
+            ],
+            [
+                "a foglalkoztatottak létszáma 10 főnél kevesebb, a nettó árbevétel vagy a mérlegfőösszeg legfeljebb 2 millió euró.",
+                true
+            ],
+            [
+                "az éves árbevétel maximum 150 millió forint."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik lehet a hitel, a faktoring, és a váltó közül a vállalkozások finanszírozásának lehetséges formája?",
+        "Válaszok": [
+            [
+                "Mindhárom lehetséges finanszírozási forma. A váltó közvetlen, míg a hitel és a faktoring közvetett finanszírozás.",
+                true
+            ],
+            [
+                "Kizárólag a hitel és a faktoring."
+            ],
+            [
+                "Kizárólag a hitel és a váltó."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Hitel felvétele kizárólag banktól történhet."
+            ],
+            [
+                "A bank mindig vállalja, hogy készpénzben is hozzáférhető a hitelkeret."
+            ],
+            [
+                "A bank rendelkezésre tartási jutalék ellenében biztosítja a hitelkeretet.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a különbség a hitel és a kölcsön között?",
+        "Válaszok": [
+            [
+                "Nincsen semmilyen elméleti vagy gyakorlati különbség. A hitel fogalma alá tartozik a kölcsön."
+            ],
+            [
+                "A hitel esetében egy keretösszeg rendelkezésre tartása (hitelkeret) történik, míg kölcsön esetében egy adott pénzösszeg rendelkezésre bocsátása. A hitel a pénzhez jutás lehetőségét jelenti, míg a kölcsön a felvett pénzösszeget.",
+                true
+            ],
+            [
+                "A hitel hosszú távú, míg a kölcsön rövid távú finanszírozási lehetőség."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül a rulírozó hitellel kapcsolatban?",
+        "Válaszok": [
+            [
+                "Rulírozó hitellehetőséget (hitelkeretet) biztosít valamennyi bankkártya.",
+                true
+            ],
+            [
+                "Többször igénybe vehető hitelkeret."
+            ],
+            [
+                "Ismétlődő hitellehetőség, többszöri, de korlátozott számú  visszafizetést feltételezve."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik kamatlábhoz viszonyítják alapvetően a bankok a forint betéti- és hitelkamatokat?",
+        "Válaszok": [
+            [
+                "A jegybanki alapkamathoz.",
+                true
+            ],
+            [
+                "A diszkont állampapírok hozamindexéhez."
+            ],
+            [
+                "A Londoni Bankközi Kamatlábhoz (LIBOR)."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik kamatláb nem tipikusan hitel referencia-kamatláb?",
+        "Válaszok": [
+            [
+                "A jegybanki alapkamat."
+            ],
+            [
+                "A Budapesti Bankközi Kamatláb (BUBOR)."
+            ],
+            [
+                "A MAX állampapír hozamindex.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi téríti el egymástól a nominális és a reál kamatlábakat?",
+        "Válaszok": [
+            [
+                "az inflációs ráta.",
+                true
+            ],
+            [
+                "A pénz időértéke."
+            ],
+            [
+                "A GDP."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen szokványos időszakra nem számítják a bankok a kamatot?",
+        "Válaszok": [
+            [
+                "365 nap (angolszász módszer)."
+            ],
+            [
+                "360 nap (francia módszer)."
+            ],
+            [
+                "30 nap (amerikai módszer).",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit értünk lombardhitel alatt?",
+        "Válaszok": [
+            [
+                "Értékpapír, forint-, vagy devizabetét fedezete mellett nyújtott hitelt.",
+                true
+            ],
+            [
+                "Hosszú lejáratú jelzáloghitelt."
+            ],
+            [
+                "Kezesség fedezete mellett rendelkezésre bocsátott hosszú lejáratú hitelkeretet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi nem lehet lombardhitel fedezete?",
+        "Válaszok": [
+            [
+                "Értékpapír."
+            ],
+            [
+                "Forint- és devizabetét."
+            ],
+            [
+                "Ingatlan.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A hitelbírálati folyamat során a bankok",
+        "Válaszok": [
+            [
+                "minősítik az ügyfelet a belső minősítési paramétereik szerint.",
+                true
+            ],
+            [
+                "megkötik a kölcsönszerződést."
+            ],
+            [
+                "elindítják a hitelmonitoringot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi nem a hitelmonitoring célja?",
+        "Válaszok": [
+            [
+                "Az adós gazdálkodásának nyomonkövetése."
+            ],
+            [
+                "A hitel visszafizetésének folyamatos nyomonkövetése."
+            ],
+            [
+                "A hitelbírálat.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a hitelmonitoring során a követelések újraminősítésének célja?",
+        "Válaszok": [
+            [
+                "A hitelszerződés megkötése után nem minősítik újra a követeléseket."
+            ],
+            [
+                "A teljes hiteldíjmutató (THM) esetleges időszaki megnövelése."
+            ],
+            [
+                "Az adós gazdálkodásának és a hitel visszafizetésének nyomonkövetése.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a helyes sorrend a hitelezési folyamatban?",
+        "Válaszok": [
+            [
+                "A hitelkérelem összeállítása, annak befogadása, és előszűrés.",
+                true
+            ],
+            [
+                "Hitelbírálat, hitelkérelem benyújtása."
+            ],
+            [
+                "Hitelkérelem benyújtása, hitelmonitoring."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a deviza alapú hitelek fő hátránya?",
+        "Válaszok": [
+            [
+                "A havi törlesztőrészlet nagysága többször és jelentősen változhat.",
+                true
+            ],
+            [
+                "Forint erősödése esetén nő a törlesztőrészlet."
+            ],
+            [
+                "Minden más deviza kamatozása nagyobb, mint a forinté."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Függ-e a banki hitelek havi törlesztőrészletének nagysága a devizapiaci változásoktól?",
+        "Válaszok": [
+            [
+                "Nem, a havi törlesztőrészlet nagysága minden hitel esetén előre kiszámítható."
+            ],
+            [
+                "Igen, például az adott deviza gyengülése a forinttal szemben kedvező (az adott devizában fennálló) deviza alapú hitellel rendelkezők számára.",
+                true
+            ],
+            [
+                "Igen, például a forint erősödése kedvezőtlen a deviza alapú hitellel rendelkezők számára."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik értékpapír kibocsátásával történő forrásbevonás lehet egy nagyobb hitelfelvétel alternatívája?",
+        "Válaszok": [
+            [
+                "Kötvény.",
+                true
+            ],
+            [
+                "Részvény."
+            ],
+            [
+                "Kárpótlási jegy."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helytelen állítást az alábbiak közül! Egy vállalkozás által banktól felvett kölcsön esetében",
+        "Válaszok": [
+            [
+                "a vállalkozás (rövid lejáratú vagy hosszú lejáratú) kötelezettségként tartja nyilván a hitel összegét."
+            ],
+            [
+                "a bank ügyfelekkel szembeni követelésként (éven belüli vagy éven túli lejárattal) tartja nyilván a hitel összegét."
+            ],
+            [
+                "a bank az ügyféllel szembeni kötelezettségként (éven belüli vagy éven túli lejárattal) tartja nyilván a hitel összegét.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit értünk hitelek esetében rövid futamidő alatt?",
+        "Válaszok": [
+            [
+                "A 3 évnél rövidebb lejárattal rendelkező hiteleket."
+            ],
+            [
+                "A 2 évnél rövidebb lejárattal rendelkező hiteleket."
+            ],
+            [
+                "Az 1 évnél rövidebb lejárattal rendelkező hiteleket.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit értünk hitelek esetében közép lejárat alatt?",
+        "Válaszok": [
+            [
+                "A 3 évnél rövidebb lejárattal rendelkező hiteleket."
+            ],
+            [
+                "A 4 évnél rövidebb lejárattal rendelkező hiteleket."
+            ],
+            [
+                "Általában 1 évnél hosszabb, 5 évnél rövidebb lejárattal rendelkező hiteleket.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit értünk hitelek esetében hosszú futamidő alatt?",
+        "Válaszok": [
+            [
+                "3 évnél hosszabb lejáratú hiteleket."
+            ],
+            [
+                "5 évnél hosszabb lejáratú hiteleket.",
+                true
+            ],
+            [
+                "10 évnél hosszabb lejáratú hiteleket."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent egy banktól felvett hitel esetében az annuitás?",
+        "Válaszok": [
+            [
+                "Egymást követő időszakokban egyre csökken a fizetendő összeg."
+            ],
+            [
+                "Egymást követő időszakokban egyre nő a fizetendő összeg."
+            ],
+            [
+                "Egymást követő időszakokban megegyezik a fizetendő összeg.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Annuitásos banki hitel törlesztése során hogyan változik a fizetendő törlesztőrészlet \"tartalma\"?",
+        "Válaszok": [
+            [
+                "A kamatperióduson belül azonos összegű törlesztőrészletet kell fizetni, de a futamidő során a törlesztőrészleten belül egyre kisebb arányú lesz a kamat és egyre nagyobb arányú a tőketartalom.",
+                true
+            ],
+            [
+                "A törlesztés első felében a kamattal és kezelési költségekkel arányosan csökken a tőketartozás összege is."
+            ],
+            [
+                "A törlesztés során a tőketörlesztés egyenlő mértékű. Ez jelenti az annuitás jelleget."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a \"halasztott tőketörlesztés\" a mikro-, kis- és középvállalati hitelek esetében?",
+        "Válaszok": [
+            [
+                "A tőketörlesztés minden év végén arányosan történik."
+            ],
+            [
+                "A tőketörlesztés egyösszegben a futamidő végén kerül rendezésre."
+            ],
+            [
+                "A szerződésben meghatározott ideig csak kamatfizetés történik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a \"véglejáratú hitel\"?",
+        "Válaszok": [
+            [
+                "A tőketörlesztés egyösszegben a futamidő végén kerül rendezésre. A kombinált hitelek esetében jellemző megoldás lehet.",
+                true
+            ],
+            [
+                "A tőketörlesztés minden év végén arányosan történik."
+            ],
+            [
+                "A tőketörlesztés a futamidő alatt 3-4 alkalommal történik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lejárat szerinti csoportosításban hogyan tartják nyilván a vállalkozások az éves beszámolóban a felvett hiteleik értékét?",
+        "Válaszok": [
+            [
+                "Lakossági hitelek és vállalkozói hitelek."
+            ],
+            [
+                "Rövid- és hosszú lejáratú hitelek (kötelezettségek).",
+                true
+            ],
+            [
+                "Rövid- és középes lejáratú hitelek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit tartalmaz egy vállalkozás idegen tőke állománya?",
+        "Válaszok": [
+            [
+                "Saját tőke (például jegyzett tőke)."
+            ],
+            [
+                "Pénztár, bankbetét."
+            ],
+            [
+                "Rövid-, hosszú lejáratú kötelezettségek, hátra sorolt kötelezettségek.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit vállal a hitelező hitel nyújtása esetén?",
+        "Válaszok": [
+            [
+                "Meghatározott pénzösszeg átutalását a hiteligénylő részére."
+            ],
+            [
+                "A hitelszerződésben meghatározott hitelkeret rendelkezésre tartását az adós részére jutalék ellenében, és kötelezettségvállalást a szerződési feltételek megléte esetén a kölcsönszerződés megkötésére vagy egyéb hitelművelet végzésére.",
+                true
+            ],
+            [
+                "Meghatározott pénzösszeg készpénzben történő rendelkezésre bocsátását az adós részére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehetséges-e hitelfelvétel egy hitelintézettől abban az esetben, ha az ügyfélnek már van hitele?",
+        "Válaszok": [
+            [
+                "Igen, amennyiben a hitelintézet úgy ítéli meg, hogy az ügyfél rendelkezésére bocsátható a hitel.",
+                true
+            ],
+            [
+                "Csak abban az esetben, ha az ügyfél már a meglévő hitelét is az adott hitelintézettől vette fel."
+            ],
+            [
+                "Csak kisösszegű, egymillió forintot meg nem haladó hitelt lehet a már meglévő hitellel párhuzamosan az ügyfél rendelkezésére bocsátani."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az ügyfél rendelkezésére bocsátható-e vállalkozói hitelkeret, amennyiben az ügyfélnek magánszemélyként már van aktív hitelvisszafizetési kötelezettsége?",
+        "Válaszok": [
+            [
+                "Igen, amennyiben a hitelintézet úgy ítéli meg, hogy az az ügyfél rendelkezésére bocsátható.",
+                true
+            ],
+            [
+                "Csak abban az esetben, ha az ügyfél már meglévő hitelét is az adott hitelintézettől vette fel."
+            ],
+            [
+                "Nem, magánszemélyként felvett egyéb hitel mellé vállalkozói hitelt nem lehet igénybe venni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e egynél több hitelintézettel szemben aktív hitelvisszafizetési kötelezettsége az ügyfélnek?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, csak egy hitelintézettől lehet hitelt felvenni. A hitelek száma ezen belül nincs korlátozva, azt az adott hitelintézet ítéli meg."
+            ],
+            [
+                "Igen, de a hitelek törlesztőrészlete nem haladhatja meg a mindenkori minimálbér hatszorosát."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az ügyfél rendelkezésére bocsáthatnak-e a hitelintézetek lakossági hitelt, amennyiben az ügyfél már vállalkozásként vett fel korábban hitelt?",
+        "Válaszok": [
+            [
+                "Nem, vállalkozói ügyfélként már csak vállalkozói hitelkonstrukciókat vehet igénybe az ügyfél."
+            ],
+            [
+                "Igen, amennyiben a hitelintézet úgy ítéli meg, hogy az az ügyfél rendelkezésére bocsátható.",
+                true
+            ],
+            [
+                "Csak abban az esetben, ha a korábban felvett vállalkozói hitelét is az adott hitelintézettől vette igénybe."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan kell benyújtania az ügyfélnek a bank felé a hitelkérelmet?",
+        "Válaszok": [
+            [
+                "A fiókban lévő banki munkatárssal szóban lefolytatott tárgyalás maga a hitelkérelem."
+            ],
+            [
+                "Elektronikus formában (email-ben) kell elküldeni a bankfiók e-mail címére."
+            ],
+            [
+                "Írásban kell formanyomtatványon, vagy egyéb, a bank által meghatározott tartalommal benyújtani.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mikrovállalati hitelek igénylésére vonatkozóan válassza ki a helytelen állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az igénylés feltétele, hogy ne legyen az igénylőnek adó-, adójellegű vagy vámtartozása."
+            ],
+            [
+                "Általában feltétel az adott banknál vezetett számla is."
+            ],
+            [
+                "A bank elutasíthatja a hitelkérelmet, amelyet azonban írásban köteles minden esetben indokolni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A bank számára követelése biztosítására megfelelő biztosíték lehet - többek között - a kapott bankgarancia.",
+                true
+            ],
+            [
+                "A saját váltó kibocsátása nem lehet biztosíték a bank felé."
+            ],
+            [
+                "Nem lehet biztosíték a bank számára követelése biztosítására a zálogjog, óvadék."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Elfogadhat-e a bank mikrovállalati hitel fedezeteként saját maga által kibocsátott, tagsági jogokat megtestesítő értékpapírt?",
+        "Válaszok": [
+            [
+                "Kizárólag akkor, ha az ügyfél előre jelzi a hitelkérelemben."
+            ],
+            [
+                "Igen."
+            ],
+            [
+                "Nem.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e vállalkozásnak nyújtott banki hitel célja az átmeneti likviditási problémák kezelése?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, mivel átmeneti likviditási problémákkal küzdő vállalkozások valószínűsíthetően nem tudnák visszafizetni a hitel összegét."
+            ],
+            [
+                "Nem, a bankok kizárólag beruházási vagy projektfinanszírozási hiteleket nyújtanak a vállalkozói ügyfélkörnek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a hitelbírálati díjjal kapcsolatos hamis állítást!",
+        "Válaszok": [
+            [
+                "A hitelbírálati díjat a hitelképesség vizsgálata céljából számítják fel."
+            ],
+            [
+                "Amennyiben a hitel elfogadásra kerül, a hitelbírálati díjat visszafizeti a bank az ügyfélnek.",
+                true
+            ],
+            [
+                "Hitelkérelem elutasítása esetén a hitelbírálati díj vissza nem téríthető."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk rendelkezésre tartási jutaléknak?",
+        "Válaszok": [
+            [
+                "A rendelkezésre tartási jutalék a folyósított kölcsön százalékában meghatározott egyszeri jutalék, amelyet a hitelintézet egy összegben a kölcsön folyósításakor levon a folyósítandó kölcsönből."
+            ],
+            [
+                "A rendelkezésre tartási jutalék egyszeri díj, amelyet a hitelintézet az igénybe vett, vagy a ténylegesen fennálló hitel összegére vetítve terhel ügyfelére mindaddig, amíg a hitel fennáll."
+            ],
+            [
+                "A rendelkezésre tartási jutalék abban az esetben fizetendő, ha a hitelintézet hitelkeretet vagy követelésvásárlási keretet tart az ügyfele rendelkezésére, amelynél még nem (vagy csak részben) folyósított, vagy más módon még nem kellett helytállnia. A rendelkezésre tartási jutalék a keret ezen részére kerül felszámításra.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Definiálja a folyósítási jutalék fogalmát!",
+        "Válaszok": [
+            [
+                "A folyósított kölcsön százalékában meghatározott egyszeri jutalék, amelyet a hitelintézet vagy pénzügyi vállalkozás egy összegben a kölcsön folyósításakor levon a folyósítandó kölcsönből.",
+                true
+            ],
+            [
+                "Egyszeri díj, amelyet a hitelintézet a felvett, vagy a ténylegesen fennálló hitelkeret összegére vetítve terhel ügyfelére mindaddig, amíg a hitel fennáll."
+            ],
+            [
+                "Abban az esetben fizetendő, ha a hitelintézet hitelkeretet vagy követelésvásárlási keretet tart az ügyfele rendelkezésére, arra az összegre vetítve, amit a bank még nem folyósított, vagy más módon még nem kellett helytállnia."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e az az állítás, miszerint a hitelintézetek a kezelési költséget minden esetben a fennálló tőketartozásra vetítve számolják fel?",
+        "Válaszok": [
+            [
+                "Igen, mindig az év elején fennálló tőketartozásra vetítve számolják ki, így a futamidő alatt évente csökken az értéke."
+            ],
+            [
+                "Igen, mindig a fennálló aktuális tőketartozásra vetítve számolják ki havonta, így havonta csökken az értéke."
+            ],
+            [
+                "Nem, mert bizonyos esetekben a felvett hitelösszegre vetítve számolják fel a kezelési költséget, így értéke nem csökken a futamidő alatt.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan nevezzük a bank által a vállalkozás felé garancianyújtáskor felszámított költséget?",
+        "Válaszok": [
+            [
+                "Teljes Hiteldíj Hutató (THM)"
+            ],
+            [
+                "kamat"
+            ],
+            [
+                "garanciadíj",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Módosíthatja-e a bank egyoldalúan, az ügyfél hátrányára a fogyasztóval kötött kölcsönszerződést a szerződés közös megegyezéssel történő megszüntetésének feltételeire vonatkozóan?",
+        "Válaszok": [
+            [
+                "Igen, amennyiben a bank a szerződésben a módosításra okot adó körülményeket tételesen rögzítette."
+            ],
+            [
+                "Igen, amennyiben a bank a szerződésben a módosításra okot adó körülményeket és az árazás elveit tételesen rögzítette."
+            ],
+            [
+                "Nem, mert a fogyasztóval kötött kölcsönszerződésben az ügyfél számára kedvezőtlenül kizárólag a kamatot, díjat vagy költséget lehet egyoldalúan módosítani, meghatározott feltételek mellett.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Indíthat-e beszedési megbízást a bank az ügyfél bármely banknál vezetett számlája terhére, amennyiben az ügyféllel szembeni (pl. aktuális törlesztőrészlet) követelése nem teljesült?",
+        "Válaszok": [
+            [
+                "Igen, amennyiben ezt a szerződésben kikötötte.",
+                true
+            ],
+            [
+                "Nem, kizárólag a banknál vezetett számláira indíthat beszedési megbízást."
+            ],
+            [
+                "Nem, beszedési megbízást kizárólag állami szerv indíthat."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Amennyiben ezt a hitelszerződésben kikötötte, a hitelintézet az adós bankszámlájára beszedési megbízást indíthat, amennyiben az adóssal szemben fennálló követelése (pl. aktuális törlesztőrészlet) nem teljesül.",
+                true
+            ],
+            [
+                "A vonatkozó hitelszerződés rendelkezéseitől függetlenül a hitelintézet az adós bármely bankszámlájára beszedési megbízást indíthat, amennyiben az adóssal szemben fennálló követelése (pl. aktuális törlesztőrészlet) nem teljesül."
+            ],
+            [
+                "A hitelintézet az adós egyetlen bankszámlájára sem indíthat beszedési megbízást, még abban az esetben sem, ha az adóssal szemben fennálló követelése (pl. aktuális törlesztőrészlet) nem teljesül."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a helyes állítást!",
+        "Válaszok": [
+            [
+                "A bank a fogyasztóval kötött pénzügyi lízingszerződés bármely feltételét egyoldalúan módosíthatja az ügyfél számára kedvezőtlenül."
+            ],
+            [
+                "A bank a fogyasztóval kötött pénzügyi lízingszerződést egyoldalúan nem módosíthatja az ügyfél számára kedvezőtlenül."
+            ],
+            [
+                "A bank a fogyasztóval kötött pénzügyi lízingszerződésben az ügyfél számára kedvezőtlenül kizárólag a kamatot, díjat vagy költséget módosíthatja egyoldalúan.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik díjtételt módosíthatja a bank a vállalati hitelszerődés fennállása alatt, megfelelő feltételek mellett bármikor: kamatot, kezelési költséget vagy a garancia díját?",
+        "Válaszok": [
+            [
+                "Mindhármat.",
+                true
+            ],
+            [
+                "Csak a kamatot."
+            ],
+            [
+                "Csak a bankgarancia díja módosítható."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A bank értékvesztést számol el a követeléseit (hiteleket) illetően. Milyen folyamat részeként teszi mindezt?",
+        "Válaszok": [
+            [
+                "ügyfélminősítés"
+            ],
+            [
+                "követelésminősítés",
+                true
+            ],
+            [
+                "adósminősítés"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen eszközminősítési kategóriákat különböztetünk meg az elszámolt értékvesztés alapján?",
+        "Válaszok": [
+            [
+                "Teljesítő kitettség és nem teljesítő kitettség kategóriák.",
+                true
+            ],
+            [
+                "Megfelelő vagy nem megfelelő kategóriák."
+            ],
+            [
+                "Kétes és rossz kategóriák."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Nyújthat-e hitelkeretet egy bank egy másik bank számára?",
+        "Válaszok": [
+            [
+                "Nem, a bankok kizárólag magánszemélyeknek és vállalkozói ügyfeleknek nyújthatnak hitelt."
+            ],
+            [
+                "Igen, ezek a bankközi hitelügyletek.",
+                true
+            ],
+            [
+                "Igen, de csak egy másik országbeli banknak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi történik abban az esetben, ha a mikrovállalkozás a felvett hitel visszafizetése előtt kis- vagy középvállalkozási besorolásba lép át?",
+        "Válaszok": [
+            [
+                "A bank felmondja a szerződést, mivel abban rögzítették a vállalkozás méretét."
+            ],
+            [
+                "A hitelvisszafizetés egyösszegben kell, hogy megtörténjen, mivel gyakran a mikrovállalkozások kedvezőbb feltételekkel kaphatnak hitelt."
+            ],
+            [
+                "A bankhoz be kell jelenteni a változást, de ez a hitel feltételeire (paramétereire) jellemzően nincs hatással.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik kitettség nem tartozik a nem teljesítő kitettség kategóriába?",
+        "Válaszok": [
+            [
+                "A 90 napon túli késedelemben lévő kitettség, ha a késedelmes rész jelentős."
+            ],
+            [
+                "Azon kitettség, amellyel kapcsolatban az alkalmazott számviteli szabályozás szerint értékvesztés került elszámolásra."
+            ],
+            [
+                "A 60 napon túli késedelemben lévő kitettség, ha a késedelmes rész jelentős.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Köteles-e a bank intézkedni akkor, ha pénzmosásra vagy terrorizmus finanszírozására utaló tényt, adatot fedez fel valamely ügyfelének hitelügylete során?",
+        "Válaszok": [
+            [
+                "Nem, a banknak nem feladata ezen tények megítélése, kizárólag a szolgáltatásai szakszerű elvégzésére kell koncentrálnia."
+            ],
+            [
+                "Nem, ezen tények, adatok megítélése az állami hatóságok feladata."
+            ],
+            [
+                "Igen, a jogszabályi és belső előírásoknak megfelelően kell eljárnia.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Problémássá váló hitelügylet esetén a banknak mit célszerű tennie először annak érdekében, hogy a hitel visszafizetése megtörténjen?",
+        "Válaszok": [
+            [
+                "Átalakítani a hitelt (pl. fizetési átütemezés).",
+                true
+            ],
+            [
+                "Felbontani a szerződést."
+            ],
+            [
+                "Jogi útra terelni az ügyféllel szemben fennálló követelést."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az egyik fő eltérés a vállalati hitel és a projektfinanszírozási hitel között?",
+        "Válaszok": [
+            [
+                "A vállalati hitelek nagyobb összegűek."
+            ],
+            [
+                "A projektfinanszírozási hitelek hosszabb lejáratúak."
+            ],
+            [
+                "Vállalkozási hitel esetében a hitelbírálat alapja a vállalat múltja, míg projektfinanszírozás esetén a projekt várható jövőbeni teljesítménye.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Tekinthető-e a nem teljesítő kitettség újra teljesítő kitettségnek, amennyiben az adósnak az intézménnyel szemben fennálló egyetlen kötelezettsége tekintetében sem áll fenn 90 napot meghaladó fizetési késedelme?",
+        "Válaszok": [
+            [
+                "Igen, a nem teljesítő kitettség ebben az esetben újra teljesítő kitettségnek tekinthető.",
+                true
+            ],
+            [
+                "Nem, önmagában ez a feltétel nem elégséges az átminősítéshez."
+            ],
+            [
+                "Nem, a nem teljesítő kitettség nem tekinthető újra teljesítő kitettségnek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a hitel prolongálása?",
+        "Válaszok": [
+            [
+                "A hitelnek a bank részéről történő egyoldalú felmondását."
+            ],
+            [
+                "A hitelszerződés mindkét fél részéről történő felbontását."
+            ],
+            [
+                "A hitel lejáratának a meghosszabbítását jelenti abból a célból, hogy növelje a hitel visszafizetésének esélyét.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az érdeke a banknak, amennyiben a kisvállalkozás, mint adós nehéz gazdasági helyzetbe kerül?",
+        "Válaszok": [
+            [
+                "A hitelszerződés módosítása, így növelve meg a visszafizetés esélyét (pl. prolongáció).",
+                true
+            ],
+            [
+                "Azonnali végrehajtás kezdeményezése."
+            ],
+            [
+                "A kisvállalkozás felszámolása, így a felszámolási eljárás során a bank elsődleges kedvezményezett lesz."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az óvadék célja egy hitelügyletben?",
+        "Válaszok": [
+            [
+                "Óvadékként elhelyezett ingatlan (a piaci értékéig) megterhelhető az elmaradt törlesztőrészletek nagyságával."
+            ],
+            [
+                "Az óvadék az adós letartóztatása esetén biztosítja a szabadlábra helyezését."
+            ],
+            [
+                "Nemfizetés esetén a hitelintézet a követelését az óvadékból érvényesítheti.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi lehet az óvadék tárgya?",
+        "Válaszok": [
+            [
+                "Óvadék tárgya kizárólag ingó dolog lehet."
+            ],
+            [
+                "Óvadék tárgya kizárólag ingatlan lehet."
+            ],
+            [
+                "Óvadék tárgya különösen pénz, értékpapír, bankszámlakövetelés lehet.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik szolgáltatás nem minősül kölcsönnyújtásnak az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelreferencia szolgáltatás.",
+                true
+            ],
+            [
+                "A zálogkölcsön nyújtása."
+            ],
+            [
+                "A csoportfinanszírozás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik költségelem nem vehető figyelembe a teljes hiteldíj mutató (THM) számításánál?",
+        "Válaszok": [
+            [
+                "Az ingatlan-nyilvántartás eljárás díja."
+            ],
+            [
+                "A hitelközvetítőnek fizetendő díj."
+            ],
+            [
+                "A közjegyzői díj.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e a vállalkozás részére jóváhagyott éven belüli forgóeszközhitel rulírozó jellegű?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, mert a forgóeszközhitelek célja az egyedi vevők finanszírozása."
+            ],
+            [
+                "Nem, mert a forgóeszközhitel biztosítéka csak a készlet lehet, amelyet a hitel finanszíroz."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi lehet a rövid lejáratú, rulírozó jellegű hitelkeret előnye?",
+        "Válaszok": [
+            [
+                "Olcsóbb, mint bármely hitelforma."
+            ],
+            [
+                "Nagyobb összegű hitel felvétele lehetséges."
+            ],
+            [
+                "A vállalkozás mindenkori likviditásigényéhez igazodóan változik a hitel igénybevétele.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Meghosszabbítható-e egy kisvállalkozás 1 éves futamidejű forgóeszközhitele?",
+        "Válaszok": [
+            [
+                "Nem, nincs hosszabbítási lehetőség éven belüli vagy éves forgóeszközhiteleknél."
+            ],
+            [
+                "Nem, a forgóeszközhitel maximum 1 éves futamidejű lehet."
+            ],
+            [
+                "Igen, van rá lehetőség, hitelfelülvizsgálattal a hitelkeret összege és futamideje is megnövelhető.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Függ-e az éven belüli forgóeszközhitelek felhasználása a vállalkozás tevékenységétől?",
+        "Válaszok": [
+            [
+                "Igen, például szezonálisan működő vállalkozások esetében készletekkel kapcsolatos bővítésekre adhat fedezetet a hitel.",
+                true
+            ],
+            [
+                "Nem, kizárólag átmeneti likviditásproblémákra szolgálnak a hitelek."
+            ],
+            [
+                "Nem, a vállalkozás tevékenysége nem fontos. Kizárólag a pénzügyi beszámolók."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Jellemzően mit nem választanak biztosítékként az éven belüli forgóeszközhitel fedezésére?",
+        "Válaszok": [
+            [
+                "Készleteket, vevőköveteléseket."
+            ],
+            [
+                "Ingatlanokat, gépeket, berendezéseket."
+            ],
+            [
+                "Futó nagyberuházások (projektek) becsült jövőbeni pénzáramlásait, üzleti terveit.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Döntse el, melyik állítás a hamis az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A vállalkozások az éves üzleti terv megvalósítása érdekében is vesznek fel éven belüli forgóeszközhiteleket."
+            ],
+            [
+                "A forgóeszközhitel átmeneti készletezési problémákra is megoldás lehet."
+            ],
+            [
+                "Általában hosszú távú beruházások biztosítása is rövid lejáratú forgóeszközhitelekkel történik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A forgóeszközhitelek kizárólag éven belüli konstrukciók.",
+                true
+            ],
+            [
+                "A forgóeszközhitel lehet rulírozó jellegű."
+            ],
+            [
+                "A forgóeszközhitel-kérelem része az évekre visszamenőleg bemutatott mérleg, eredménykimutatás és cashflow."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő megállapítás: „Forgóeszközhitelt nem igényelhet egyéni vállalkozás.”?",
+        "Válaszok": [
+            [
+                "Igen, a megállapítás igaz. Kizárólag gazdasági társaságok és szövetkezetek igényelhetnek forgóeszközhitelt."
+            ],
+            [
+                "Nem, a megállapítás hamis.",
+                true
+            ],
+            [
+                "A megállapítás részben igaz. Gyártással foglalkozó egyéni vállalkozások is igényelhetnek forgóeszközhitelt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kapcsolódhat-e projektfinanszírozáshoz forgóeszközhitel?",
+        "Válaszok": [
+            [
+                "Igen, de természetesen teljes összegben nem finanszírozható a projekt forgóeszközhitelekből.",
+                true
+            ],
+            [
+                "Nem, kizárólag projektfinanszírozási hitelek kapcsolódhatnak projektberuházásokhoz."
+            ],
+            [
+                "Igen, gyakran teljes projektberuházásokat finanszíroznak több banktól felvett forgóeszközhitelekből."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen célra lehet alkalmas forgóeszközhitel felvétele az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Tartós eszközök finanszírozására."
+            ],
+            [
+                "Nem tartós eszközök (forgóeszközök) finanszírozására.",
+                true
+            ],
+            [
+                "Hiteltörlesztésre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a forgóeszközhitel célja az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Átmeneti likviditási zavarok áthidalása."
+            ],
+            [
+                "Átmeneti vagy tartós forgóeszközigény finanszírozása.",
+                true
+            ],
+            [
+                "Fejlesztések, beruházások finanszírozása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen finanszírozási céllal érdemes vállalkozásoknak exportcélú hitelt felvenni?",
+        "Válaszok": [
+            [
+                "Export-előfinanszírozás, vevőfinanszírozás, refinanszírozás.",
+                true
+            ],
+            [
+                "Hosszú távú, belföldön megvalósuló, külföldiek által finanszírozott beruházások támogatása."
+            ],
+            [
+                "Harmadik országban, vagy az Unión belüli beruházások finanszírozása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Exportcélú forgóeszközhiteleket milyen devizanemben érdemes igényelni?",
+        "Válaszok": [
+            [
+                "Forintban. A magas kamatozása miatt."
+            ],
+            [
+                "Euróban. A stabilitása miatt."
+            ],
+            [
+                "Az export árbevétel devizanemében.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hiteligénylés során kiemelt fontosságúak a hiteligénylő vállalat likviditási mutatói. Mit jelent a likviditási ráta?",
+        "Válaszok": [
+            [
+                "A vevő korosítás során kapott értékek viszonyítása a rövid lejáratú kötelezettségek nagyságához."
+            ],
+            [
+                "A hosszú és rövid lejáratú kötelezettségek aránya."
+            ],
+            [
+                "A forgóeszközök aránya a rövid lejáratú kötelezettségekhez.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hiteligénylés során kiemelt fontosságúak a hiteligénylő vállalat likviditási mutatói. Mit jelent a likviditási gyorsráta?",
+        "Válaszok": [
+            [
+                "A vevő korosítás során kapott értékek viszonyítása a rövid lejáratú kötelezettségek nagyságához."
+            ],
+            [
+                "A gyorsan (30 napon belül) teljesítő vevők aránya az összes vevők mérlegértékhez."
+            ],
+            [
+                "A készletekkel, mint a legkevésbé likvid eszközökkel csökkentett forgóeszköz állomány aránya a rövid lejáratú kötelezettségekhez.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miért lehet célszerű likviditási mérleget készíteni forgóeszközhitel-felvétel esetén?",
+        "Válaszok": [
+            [
+                "Nem célszerű, a likviditás hosszú távú hiteleknél fontos gazdasági mutató."
+            ],
+            [
+                "Az egyes eszközök pénzzé tehetőség, a források pedig lejárati időtartam szerint osztályozandóak, és az egyes osztályok összehasonlítása révén a likviditási többlet/hiány állapítható meg.",
+                true
+            ],
+            [
+                "Nemcsak célszerű, de jogszabály által előírt kötelező eleme a hitelkérelemnek minden rövid- és középtávú forgóeszközhitel-felvétel esetén."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik mutató nem meghatározó egy forgóeszköz hitelkeret megállapításánál?",
+        "Válaszok": [
+            [
+                "A vállalkozás gazdálkodása és éves forgalma."
+            ],
+            [
+                "A fedezetként felajánlott hitelbiztosíték értéke."
+            ],
+            [
+                "A futó beruházások pontos adatai, azokkal kapcsolatos számítások.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Létezik-e éven túli lejáratú forgóeszközhitel?",
+        "Válaszok": [
+            [
+                "Igen, a tartós (éven túli) forgóeszköz szükséglet finanszírozása céljából.",
+                true
+            ],
+            [
+                "Nem, a hitel céljából adódóan kizárólag éven belüli lejárattal lehet forgóeszközhitelt igénybe venni."
+            ],
+            [
+                "Csak abban az esetben, ha a forgóeszközhitelhez hosszú távú beruházási hitelt is igénybe vesz az ügyfél."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a közraktárjegy fedezete melletti forgóeszközhitel előnye?",
+        "Válaszok": [
+            [
+                "Széles körben igényelhető hitel."
+            ],
+            [
+                "A közraktárak tudják finanszíroztatni azokat a gazdasági időszakokat, amikor tevékenységük nem biztosít megfelelő árbevételt."
+            ],
+            [
+                "A vállalkozásnak a betakarított terményt nem szükséges azonnal értékesítenie, hanem a közraktárba történő betárolást követően kivárhatja azt az időpontot, amikor a legjobb árat kaphatja az áruért.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen eszközöket sorolunk a forgóeszközök közé?",
+        "Válaszok": [
+            [
+                "Készletek, követelések. Például az alapanyagok, áruk.",
+                true
+            ],
+            [
+                "Gépek, berendezések."
+            ],
+            [
+                "Befektetési céllal vásárolt értékpapírok."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen tételek nem tartoznak a forgóeszközök közé?",
+        "Válaszok": [
+            [
+                "Áruk, alapanyagok."
+            ],
+            [
+                "Pénztár, bankbetétek."
+            ],
+            [
+                "Szellemi termékek, hosszú távon a vállalkozás vagyonában maradó gépek.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi lehet az éven belüli forgóeszközhitel visszafizetésének biztosítéka?",
+        "Válaszok": [
+            [
+                "Lehet akár a megvásárolt készlet, de gépek, berendezések is.",
+                true
+            ],
+            [
+                "A menedzsment szavahihetősége."
+            ],
+            [
+                "A vállalkozás aktuális projektjeinek megvalósulása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen típusú hitelt érdemes a vállalkozásnak a szezonális árukészlet bővítése céljából igénybe vennie?",
+        "Válaszok": [
+            [
+                "Éven belüli forgóeszközhitelt.",
+                true
+            ],
+            [
+                "Éven túli beruházási hitelt."
+            ],
+            [
+                "Projektfinanszírozási hitelt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igénybe vehető-e ÁFA finanszírozásra éven belüli forgóeszközhitel?",
+        "Válaszok": [
+            [
+                "Nem, adófizetésre nem lehet használni egyetlen hitelkonstrukciót sem."
+            ],
+            [
+                "Nem, ÁFA fizetésre nem lehet használni egyetlen hitelkonstrukciót sem. Jövedelemadót azonban lehet hitelből fizetni."
+            ],
+            [
+                "Igen.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen előnye származhat egy kisvállalkozásnak a nem egyösszegű forgóeszközhitel-folyósításból?",
+        "Válaszok": [
+            [
+                "A nem egyösszegű forgóeszközhitel jobban idomul a vállalkozás gazdálkodásához, mindig a szükséges mértékű finanszírozást tudja biztosítani az üzletmenet részére.",
+                true
+            ],
+            [
+                "Ellenkezőleg, az egyösszegű kölcsön előnyösebb, mivel azonnali készpénzforráshoz jut a vállalkozás."
+            ],
+            [
+                "A nem egyösszegű forgóeszközhitel olcsóbb, és a kisvállalkozás hosszabb lejáratú idegen forrást szerez."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükséges lehet-e éven belüli forgóeszközhitel felvételéhez üzleti terv benyújtása a hitelkérelemhez?",
+        "Válaszok": [
+            [
+                "Nem, az üzleti terv csak előny lehet, jellemzően beruházási- és projektfinanszírozáshoz kell."
+            ],
+            [
+                "Igen, és a bank a saját hatáskörében döntheti el, hogy forgóeszközhitel felvételéhez kéri-e az üzleti terv benyújtását.",
+                true
+            ],
+            [
+                "Nem, az üzleti terv csak előny lehet, jellemzően devizahitelekhez kell."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen célt szolgálnak az éven túli beruházási hitelek az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Általában egyedi projektek megvalósulását."
+            ],
+            [
+                "A vállalkozás működési kockázatát el nem érő projektek áthidaló finanszírozását."
+            ],
+            [
+                "Általában több év alatt megtérülő beruházások és a hozzájuk kapcsolódó tartós forgóeszköz-bővítés finanszírozását.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükséges lehet-e éven túli beruházási hitel felvételéhez üzleti terv benyújtása a hitelkérelemmel?",
+        "Válaszok": [
+            [
+                "Nem, az üzleti terv csak előny lehet, jellemzően projektfinanszírozáshoz kell."
+            ],
+            [
+                "Igen, minden esetben.",
+                true
+            ],
+            [
+                "Nem, az üzleti terv csak előny lehet, jellemzően forgóeszköz-finanszírozáshoz kell."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen célt szolgálnak a fejlesztési hitelek az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A fejlesztési hitelek általában egyedi projektek megvalósulását szolgálják."
+            ],
+            [
+                "A fejlesztési hitelek több év alatt megtérülő vállalati beruházásokat és hozzájuk kapcsolódó tartós forgóeszköz bővítést szolgálják, közép vagy hosszú lejáratúak.",
+                true
+            ],
+            [
+                "A fejlesztési hitelek a vállalkozás működési kockázatát el nem érő projektek áthidaló finanszírozását szolgálják."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül az éven túli beruházási hitelekkel kapcsolatos hamis állítást!",
+        "Válaszok": [
+            [
+                "A beruházási hitel törlesztése előre meghatározott ütemben, vagy akár véglejáratú hitelként is megoldható."
+            ],
+            [
+                "A beruházási hitel forintban és más devizában is felvehető."
+            ],
+            [
+                "A beruházási hitel hosszú távú, de a törlesztés nincs összhangban a megtérüléssel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a beruházási hitelekkel kapcsolatos hamis állítást!",
+        "Válaszok": [
+            [
+                "A beruházási hitel kizárólag forintban folyósítható, mivel a hosszú lejárat alatt magas kockázatú lenne az árfolyamkitettség.",
+                true
+            ],
+            [
+                "A beruházási költségek egy részével a vállalkozásnak - általában, mint önerővel - rendelkeznie kell."
+            ],
+            [
+                "A beruházási hitel gyakran kombinálható állami támogatással és kedvezményekkel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás helyes az alábbiak közül a beruházási-fejlesztési hitelekkel kapcsolatban?",
+        "Válaszok": [
+            [
+                "A finanszírozás összege a vállalkozás beruházási igényeihez igazodik, és a fejlesztés megvalósulásának ütemében hívható le.",
+                true
+            ],
+            [
+                "A beruházási-fejlesztési hitel átlagos futamideje 1-5 év."
+            ],
+            [
+                "A beruházási-fejlesztési hitel kizárólag forintban folyósítható, mivel a hosszú lejárat alatt magas kockázatú lenne az árfolyamkitettség."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az éven túli beruházási hitelek folyósítása",
+        "Válaszok": [
+            [
+                "forrásarányosan, a benyújtott számlák alapján történik.",
+                true
+            ],
+            [
+                "a beruházás megkezdését megelőzően előre történik."
+            ],
+            [
+                "a beruházás befejezése után történik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A beruházási hitelek nagyrészt ÁFA finanszírozásra nem vehetőek igénybe. Hogyan lehet áthidalni ezt, egy hitelekre támaszkodó fejlődő cég esetében?",
+        "Válaszok": [
+            [
+                "Nem lehet áthidalni."
+            ],
+            [
+                "A cég adómentességet kér az állami adóhatóságtól."
+            ],
+            [
+                "Éven belüli hitelek megoldást nyújthatnak erre a problémára.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kapcsolódhat-e hosszú távú beruházási hitelhez állami támogatás?",
+        "Válaszok": [
+            [
+                "Igen, gyakorlatilag minden hosszú távú hitel állami kedvezményeket tartalmaz."
+            ],
+            [
+                "Nem, a hosszú lejárat miatt az állami támogatás nem vehető igénybe."
+            ],
+            [
+                "Igen, az úgynevezett támogatott hitelkonstrukciók tartalmaznak például kedvező, államilag támogatott kamatozást.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e éven túli beruházási hitel fedezete olyan ingatlan, amelyet a felvett keretösszegből kíván megvásárolni a hitelfelvevő?",
+        "Válaszok": [
+            [
+                "Nem, a bankok kizárólag már meglévő ingatlan fedezete mellett nyújtanak hosszú távú hiteleket."
+            ],
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, a beruházási hitelek fedezete a megvalósuló beruházásból származó pénzáramlások (cash flowk) jelenértéke."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Beruházási hitel forintban történő felvétele mindig alacsonyabb kamatozást biztosít."
+            ],
+            [
+                "Saját forrás kiegészítésére szolgáló beruházási és fejlesztési hitel felhasználható többek között tevékenység bővítésére, immateriális javak és tárgyi eszközök vásárlására, létesítésére, felújítására, korszerűsítésére.",
+                true
+            ],
+            [
+                "A beruházási hitel a beruházáshoz kapcsolódó ÁFA finanszírozásra is alkalmas."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mire nem lehet igénybe venni az éven túli beruházási hitelek teljes összegét az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Ingatlanok, gépek és berendezések vásárlására."
+            ],
+            [
+                "Készletvásárlásra.",
+                true
+            ],
+            [
+                "Kutatás-fejlesztésre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik célra alkalmasabb az éven túli beruházási hitel az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Tartós eszközök finanszírozására.",
+                true
+            ],
+            [
+                "Nem tartós eszközök (forgóeszközök) finanszírozására."
+            ],
+            [
+                "Hiteltörlesztésre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a beruházási hitel célja?",
+        "Válaszok": [
+            [
+                "Átmeneti likviditási zavarok áthidalása."
+            ],
+            [
+                "Átmeneti vagy tartós forgóeszközigény finanszírozása."
+            ],
+            [
+                "Fejlesztések, beruházások finanszírozása.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a fejlesztési hitelekre vonatkozó helytelen állítást!",
+        "Válaszok": [
+            [
+                "A fejlesztési hitel futamidejét tekintve általában közép- és hosszú konstrukció."
+            ],
+            [
+                "Fejlesztési hitel kapcsán ingatlanfedezet bevonása nem lehetséges, kizárólag az egyedi beruházási igény és pénzügyi helyzet alapján lehet fejlesztési hitelhez jutni.",
+                true
+            ],
+            [
+                "A fejlesztési hitelek több év alatt megtérülő vállalati beruházásokat és a hozzájuk kapcsolódó tartós forgóeszköz bővítést szolgálják."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előfordulhat-e, hogy a banktól igényelt fejlesztési hitel csak tartós forgóeszköz finanszírozást szolgál egy vállalkozásnál?",
+        "Válaszok": [
+            [
+                "Igen, természetesen előfordul a fejlesztési hitelek ilyen céllal történő igénylése is."
+            ],
+            [
+                "Nem, ilyen célra nem lehet fejlesztési hitelt igényelni.",
+                true
+            ],
+            [
+                "Nem, forgóeszközöket csak forgóeszközhitelekkel lehet finanszírozni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen felhasználásra nem alkalmas egy éven túli beruházási-fejlesztési hitel teljes összege?",
+        "Válaszok": [
+            [
+                "Vagyonalap kiegészítésére, kapacitásbővítésre."
+            ],
+            [
+                "Tárgyi eszköz állomány bővítésére."
+            ],
+            [
+                "Készletvásárlásra.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik a helyes állítás az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Beruházási hitelt gazdasági társaságok, egyéni vállalkozók, őstermelők igényelhetnek.",
+                true
+            ],
+            [
+                "Beruházási hitelt kizárólag természetes személyek igényelhetnek."
+            ],
+            [
+                "Beruházási hitelt kizárólag a vállalati fejlődés kezdeti szakaszában lévő vállalkozás  igényelhet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a türelmi idő az éven túli beruházási hitelek esetén?",
+        "Válaszok": [
+            [
+                "Amíg a megvalósult beruházás nem tudja kitermelni a hitel törlesztőösszegét, addig nem kell fizetni a bank felé."
+            ],
+            [
+                "Nincs türelmi idő ilyen típusú hitelek esetén."
+            ],
+            [
+                "A türelmi idő azt jelenti, hogy a tőketörlesztést a folyósítást követő, a szerződésben meghatározott idő elteltével kell megkezdeni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi után számít fel kamatot a bank éven túli beruházási hitel esetén?",
+        "Válaszok": [
+            [
+                "A teljes rendelkezésre bocsátott hitelkeretre, függetlenül attól, hogy ebből mennyit használ fel a vállalkozás."
+            ],
+            [
+                "A ténylegesen folyósított kölcsönösszegre.",
+                true
+            ],
+            [
+                "A kamatszámítás a beruházás  teljes értékére vonatkozik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan történik az éven túli beruházási hitelek folyósítása az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Számla ellenében, a beruházás készültségi szintjének ellenőrzésével párhuzamosan.",
+                true
+            ],
+            [
+                "Egyösszegben, a futamidő elején."
+            ],
+            [
+                "Egyösszegben, a futamidő alatt akkor, amikor a vállalkozás úgy dönt, hogy szüksége van a kölcsönre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kell-e kamatot fizetni a beruházási hitelekre, amennyiben még a türelmi időszakon belül van a vállalkozás?",
+        "Válaszok": [
+            [
+                "Nem, türelmi időszak alatt nincs kamatfizetés sem."
+            ],
+            [
+                "Igen, türelmi időszak alatt a kamatfizetés a már folyósított kölcsönösszegre folytatódik, a tőketörlesztés azonban szünetel.",
+                true
+            ],
+            [
+                "Türelmi időszak alatt mind a tőke- és kamattörlesztés folytatódik, csak kedvezőbb feltételekkel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Beruházási hitelek esetén lényeges szempont az adott beruházás becsült megtérülési ideje. Számítása úgy történik, hogy",
+        "Válaszok": [
+            [
+                "a kezdeti tőkeigényt korrigálják a beruházás által megtermelt jövőbeni pénzáramlásokkal. (Nettó jelenértékszámítás.)"
+            ],
+            [
+                "a beruházás által becsülten megtermelt jövőbeni pénzáramlásokat összeadják, és elosztják az évek számával. Az így kapott átlagos (beruházás által megtermelt) éves hozammal már elosztható a kezdeti tőkeigény, így megbecsülhető a megtérülési idő.",
+                true
+            ],
+            [
+                "összehasonlítják más hasonló beruházások megtérülési idejével."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Egy beruházási hitelt igénylő vállalkozás adósságállományának vizsgálatakor mely tételeket veszik figyelembe az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Hosszú lejáratú kötelezettségeket, hátrasorolt kötelezettségeket, tartóssá váló rövid lejáratú kötelezettségeket, valamint esetlegesen a feltételes és jövőbeni kötelezettségvállalásokat.",
+                true
+            ],
+            [
+                "Kizárólag a hátrasorolt kötelezettségeket."
+            ],
+            [
+                "Kizárólag a hosszú lejáratú kötelezettségeket."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Egy beruházási hitelt igénylő vállalkozás adósságállományának aránya:",
+        "Válaszok": [
+            [
+                "hosszú lejáratú kötelezettségek/(hosszú lejáratú kötelezettségek + saját tőke)",
+                true
+            ],
+            [
+                "hosszú lejáratú kötelezettségek / rövid lejáratú kötelezettségek."
+            ],
+            [
+                "rövid lejáratú kötelezettségek / vevő állomány."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Egy beruházási hitelt igénylő vállalkozás adósságállományának fedezettsége:",
+        "Válaszok": [
+            [
+                "saját tőke/(hosszú lejáratú kötelezettségek + hátrasorolt kötelezettségek)",
+                true
+            ],
+            [
+                "hosszú lejáratú kötelezettségek / rövid lejáratú kötelezettségek."
+            ],
+            [
+                "rövid lejáratú kötelezettségek / vevő állomány."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Adósságszolgálati fedezeti mutató esetében melyik tétellel nem kell számolni az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Hosszú lejáratú kötelezettségek esedékes törlesztőrészlete."
+            ],
+            [
+                "Rövid lejáratú kötelezettségek.",
+                true
+            ],
+            [
+                "Adózott eredmény."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen kamatozás jellemző az éven túli lejáratú beruházási hitelekre?",
+        "Válaszok": [
+            [
+                "Fix kamatozás."
+            ],
+            [
+                "Változó, általában referencia-kamatlábhoz kötött kamatozás.",
+                true
+            ],
+            [
+                "Nagyösszegű hitelek, ezért ezeket a bank kamat nélkül bocsátja a vállalkozás rendelkezésére, kezelési költség fejében."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Felhasználható-e éven túli beruházási hitel ÁFA finanszírozásra?",
+        "Válaszok": [
+            [
+                "Nem, mivel jellemzően a hitel folyósítása a számlák ÁFA nélküli, nettó értéke után történik. ÁFA finanszírozásra éven belüli hiteleket ajánlanak.",
+                true
+            ],
+            [
+                "Igen."
+            ],
+            [
+                "Nem, adóvonzatot nem lehet hitelből finanszírozni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az éven túli beruházási hitelek tárgyi eszköz beszerzésre is alkalmas keretet biztosíthatnak. Az alábbiak közül melyik tárgyi eszköz?",
+        "Válaszok": [
+            [
+                "A gép, berendezés (amely a vállalkozás működését egy éven túl szolgálja).",
+                true
+            ],
+            [
+                "A vagyoni értékű jog."
+            ],
+            [
+                "A vevőkövetelés."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ingatlanvásárlási céllal milyen hitelt érdemes igényelnie egy mikro-, kis- és középvállalkozásnak?",
+        "Válaszok": [
+            [
+                "Éven belüli forgóeszközhitelt."
+            ],
+            [
+                "Éven túli beruházási hitelt.",
+                true
+            ],
+            [
+                "Folyószámlahitelt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igényelhet-e éven túli beruházási hitelt az a vállalkozás, amely már rendelkezik éven belüli lejáratú hitelekkel?",
+        "Válaszok": [
+            [
+                "Igen, a hitelintézet döntésétől függően kaphat beruházási hitelt a vállalkozás.",
+                true
+            ],
+            [
+                "Nem, mert mind rövid, mind hosszú távon eladósodna a vállalkozás."
+            ],
+            [
+                "Igen, de ugyanazon hitelintézetnél kell felvennie a beruházási hitelt is."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Éven túli beruházási hitel igénylésekor a vállalkozás felméri-e a beruházásnak a vállalkozás eredményességére gyakorolt várható hatását?",
+        "Válaszok": [
+            [
+                "Igen, céljellegű beruházási hitel igénylésekor célszerű felmérni a beruházásnak a vállalkozás eredményére gyakorolt hatását.",
+                true
+            ],
+            [
+                "Nem, mert a beruházási hitel felhasználási célhoz nem kötött, szabadon felhasználható hitelkeret."
+            ],
+            [
+                "Nem, mert a hitelintézet a hiteljóváhagyás során kizárólag a vállalkozás múltbeli teljesítményét elemzi."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miért igényli a hitelező a beruházási hitel futamideje alatt a beruházás állapotának folyamatos nyomonkövetését?",
+        "Válaszok": [
+            [
+                "Azért, mert ha a beruházás üteme kedvezőbben alakul, mint a becsült tervben, a hitelező megnövelheti a hitel kamatát."
+            ],
+            [
+                "Azért, mert amennyiben a beruházás üteme kedvezőbben alakul, mint a becsült tervben, a hitelező egyoldalúan lecsökkentheti a hitel futamidejét."
+            ],
+            [
+                "A hitelező folyamatosan tájékozódik a beruházás aktuális állapotáról, mert a folyósítás a készültségi fok szerint történik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás helyes a visszlízinggel kapcsolatban az alábbiak közül!?",
+        "Válaszok": [
+            [
+                "A fizetőképesség javítására nem megfelelő finanszírozási módozat."
+            ],
+            [
+                "Megoldás lehet egy társaság likviditásszükségletének kielégítése céljából, ha tehermentes eszközei vannak és nem kíván tőlük véglegesen megválni.",
+                true
+            ],
+            [
+                "A visszlízing egy pénzügyi lízingelt eszköz tartós bérletbe adása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A lízingbe adó tulajdonába került eszközt az eredeti tulajdonos, mint lízingbe vevő vásárolja vissza a lízingbe adótól. Ez",
+        "Válaszok": [
+            [
+                "a visszlízing.",
+                true
+            ],
+            [
+                "az operatív lízing."
+            ],
+            [
+                "a pénzügyi lízing."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a visszlízingre vonatkozó helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az eladó véglegesen eladja a lízingelt tárgyat."
+            ],
+            [
+                "A szállító és a lízingbevevő azonos.",
+                true
+            ],
+            [
+                "Operatív lízingnek minősül."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Tipikusan mely esetben ajánlható a visszlízing az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Finanszírozási gondokkal küzdő vállalatok számára a visszlízing kedvező átcsoportosítást jelent a vállalat eszközei között, melynek eredményeképp a vállalat pénzhez jut termelésének finanszírozásához, míg eszközeinek használati jogá megtartja.",
+                true
+            ],
+            [
+                "Rövid távú finanszírozás esetén."
+            ],
+            [
+                "Ha a lízingbevevőnek allízingelni szükséges partnerei felé."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás helyes a visszlízinggel kapcsolatban az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A visszlízing általában 35 éves futamidővel rendelkezik."
+            ],
+            [
+                "A visszlízing használt eszközre is igénybe vehető.",
+                true
+            ],
+            [
+                "A tulajdonjog végül átkerül a lízingcéghez."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e visszlízinggel szabadon felhasználható pénzeszközhöz jutni?",
+        "Válaszok": [
+            [
+                "Igen, természetesen, ez a fő célja ennek a finanszírozási típusnak.",
+                true
+            ],
+            [
+                "Nem, kizárólag ingatlanhoz kapcsolódó szerződésekhez lehet felhasználni a visszlízing során szerzett összeget."
+            ],
+            [
+                "Nem, kizárólag a lízingelt eszköztípushoz hasonló eszköz vételére, felújítására lehet használni a visszlízing során szerzett összeget."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent az allízing?",
+        "Válaszok": [
+            [
+                "A lízingbevevő további lízingbe adja a lízingtárgyat.",
+                true
+            ],
+            [
+                "A lízingbeadó közvetlen gazdasági kapcsolatban lévő félnek adja lízingbe a lízingtárgyat."
+            ],
+            [
+                "Több lízingbevevő jelenik meg egyszerre a szerződésben."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mikor érdemes allízingelni? (Feltételezzük, hogy mind a lízingbeadó, mind a lízingbevevő számára ez a  finanszírozási forma a legkedvezőbb.)",
+        "Válaszok": [
+            [
+                "Jellemzően akkor, amikor több, kisértékű lízingtárgyat kíván valaki bérbe adni, több felhasználónak.",
+                true
+            ],
+            [
+                "Nagyértékű gépek, berendezések esetén."
+            ],
+            [
+                "Nagyértékű szolgáltatások esetén."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi jellemzi az ún. direkt lízinget?",
+        "Válaszok": [
+            [
+                "A lízingbevevő a szállító."
+            ],
+            [
+                "A lízingbeadó és a szállító elkülönül egymástól."
+            ],
+            [
+                "A lízingbeadó és a szállító ugyanaz a személy.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi jellemzi az ún. indirekt lízinget?",
+        "Válaszok": [
+            [
+                "A lízingbevevő a szállító."
+            ],
+            [
+                "A lízingbeadó és a szállító elkülönül egymástól.",
+                true
+            ],
+            [
+                "A lízingbeadó és a szállító ugyanaz a személy."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi jellemzi a visszlízinget?",
+        "Válaszok": [
+            [
+                "A lízingbevevő a szállító.",
+                true
+            ],
+            [
+                "A lízingbeadó és a szállító elkülönül egymástól."
+            ],
+            [
+                "A lízingbeadó és a szállító ugyanaz a személy."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk szervizlízingnek?",
+        "Válaszok": [
+            [
+                "A kizárólag szervízszolgáltatásokra vonatkozó gépjárműlízinget."
+            ],
+            [
+                "A szervízszolgáltatásokra vonatkozó operatív szolgáltatási lízinget."
+            ],
+            [
+                "A pénzügyi vagy operatív lízinget, amelyhez szervízszolgáltatás is kapcsolódik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a pénzügyi lízinggel kapcsolatos helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A pénzügyi lízing során a lízingbeadó viseli a közvetlen terheket (ideértve a fenntartási és amortizációs költségeket is)."
+            ],
+            [
+                "A pénzügyi lízing során a használatba adással a lízingbevevő viseli a kárveszély átszállásából származó kockázatot.",
+                true
+            ],
+            [
+                "A használatba adással a lízingbevevő a hasznok szedésére nem válik jogosulttá."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik pénzügyi lízingre vonatkozó állítás helytelen az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A lízingbevevő a lízingtárgy használatának átengedésére akkor jogosult, ha a lízingbeadás tényét és a lízingbevevő személyét az ingatlan-nyilvántartásba vagy a hitelbiztosítéki nyilvántartásba bejegyezték.",
+                true
+            ],
+            [
+                "A lízingbevevő a lízingtárgy használatának átengedésére a lízingbeadó hozzájárulásával jogosult."
+            ],
+            [
+                "Ha a lízingbevevő a lízingtárgyat a lízingbeadó engedélye nélkül engedi át másnak használatra, felelős azért a kárért is, amely e nélkül nem következett volna be."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Széchenyi Forgószközhitellel kapcsolatban válassza ki a helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Mikro-, kis- és középvállalkozásoknak nyújtott hitelkonstrukció.",
+                true
+            ],
+            [
+                "Bármely vállalkozás számára nyújtható államilag támogatott hitelkonstrukció."
+            ],
+            [
+                "Olyan, bárki által igénybe vehető speciális hitelkonstrukció, amely nem tartalmaz türelmi időt és nem vár el önerőt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a \"de minimis\" támogatás?",
+        "Válaszok": [
+            [
+                "Csekély összegű állami támogatást.",
+                true
+            ],
+            [
+                "A meghatározott árbevételsáv alatti vállalkozások nagyobb kedvezményben, például a kamatok eltörlésében részesülhetnek."
+            ],
+            [
+                "A vállalkozás üzleti tervében előre jelzett mutatószámok alapján kiutalt állami támogatást."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Széchenyi  Forgóeszközhitellel kapcsolatban válassza ki az alábbiak közül a hamis állítást!",
+        "Válaszok": [
+            [
+                "A törlesztés havi gyakorisággal történik az akár 8 hónapig tartó türelmi idő lejártát követően."
+            ],
+            [
+                "A futamidő minimum 13, maximum 120 hónap.",
+                true
+            ],
+            [
+                "A hitel biztosítéka minden esetben a vállalkozás legalább 50%-os tulajdonosának készfizető kezességvállalása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A Széchenyi Forgóeszközhitel futamideje",
+        "Válaszok": [
+            [
+                "maximum 36 hónap.",
+                true
+            ],
+            [
+                "maximum 20 hónap."
+            ],
+            [
+                "maximum 10 hónap."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Széchenyi Forgóeszközhitel milyen devizanemben igényelhető?",
+        "Válaszok": [
+            [
+                "Kizárólag forintban.",
+                true
+            ],
+            [
+                "Kizárólag devizában."
+            ],
+            [
+                "Forintban és devizában egyaránt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi nem lehet az alábbiak közül a Széchenyi Forgóeszközhitel hitelcélja?",
+        "Válaszok": [
+            [
+                "Befektetési célú ingatlanok finanszírozása.",
+                true
+            ],
+            [
+                "Új munkaerő finanszírozása."
+            ],
+            [
+                "Új termék kialakítása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen típusú folyószámla hitel a Széchenyi Kártya?",
+        "Válaszok": [
+            [
+                "Rulírozó jellegű hitelkeret.",
+                true
+            ],
+            [
+                "Hosszú futamidejű beruházási hitel."
+            ],
+            [
+                "Véglejáratú jelzáloghitel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Függ-e a Széchenyi Kártya igénylése attól, hogy induló vállalkozás kívánja-e igénybe venni?",
+        "Válaszok": [
+            [
+                "Nem, induló vállalkozások is igényelhetik."
+            ],
+            [
+                "Igen, induló vállalkozás nem veheti igénybe.",
+                true
+            ],
+            [
+                "Igen, minimum 3 üzleti év pénzügyi beszámolója szükséges a hiteligényléshez."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora maximális hitelkeretet biztosít a Széchenyi Kártya?",
+        "Válaszok": [
+            [
+                "Maximum 5 millió forint hitelkeretet."
+            ],
+            [
+                "Maximum 10 millió forint hitelkeretet."
+            ],
+            [
+                "Maximum 100 millió forint hitelkeretet.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükséges-e készfizető kezességvállalás Széchenyi Kártya igénylése esetén?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, a bank nyújt fizetési garanciát."
+            ],
+            [
+                "Nem, az állam nyújt fizetési garanciát."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora a hitel futamideje Széchenyi Kártya Folyószámlahitel esetében?",
+        "Válaszok": [
+            [
+                "Maximum 1 év."
+            ],
+            [
+                "\"1+1 éves\" hitelkeret biztosítható, amely meghosszabbítható,",
+                true
+            ],
+            [
+                "”1+1 éves” hitelkeret biztosítható, amely nem meghosszabbítható."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik esetben nem igényelhető Széchenyi Kártya?",
+        "Válaszok": [
+            [
+                "Ha a hiteligénylő egyéni vállalkozó."
+            ],
+            [
+                "Ha a hiteligénylő induló vállalkozás.",
+                true
+            ],
+            [
+                "Ha a hiteligénylő társas vállalkozás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik nem kizáró ok Széchenyi Kártya igénylése esetén?",
+        "Válaszok": [
+            [
+                "Az igénylő felszámolási eljárás alatt áll."
+            ],
+            [
+                "Az igénylőnek lejárt köztartozása és negatív saját tőkéje van.."
+            ],
+            [
+                "Az igénylő részvénytársasági formában működik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbi támogatott hitelkonstrukciók közül melyiket segíti az Agrár-Vállalkozási Hitelgarancia Alapítvány (AVHGA) készfizető kezességvállalása ?",
+        "Válaszok": [
+            [
+                "Az Agrár Széchenyi Kártya hitelkonstrukciót.",
+                true
+            ],
+            [
+                "A Széchenyi Kártya Folyószámlahitelt."
+            ],
+            [
+                "A Széchenyi Beruházási Hitelt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi történik a már igénybe vett állami támogatással, amennyiben a hitelcél (pl. beruházás) nem valósul meg?",
+        "Válaszok": [
+            [
+                "Az állami támogatás vissza nem térítendő, megvalósulatlan beruházások esetén sem lehet igénye a Magyar Államnak."
+            ],
+            [
+                "Az állami támogatást egyösszegben kell visszautalni a Magyar Állam részére. Büntető kamat nincs."
+            ],
+            [
+                "Megvalósulatlan beruházás esetén az állami támogatás büntető kamattal megnövelt értéken visszafizetendő.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi történik a már igénybe vett állami támogatással, amennyiben a hitelcél (pl. beruházás) csak részlegesen valósul meg?",
+        "Válaszok": [
+            [
+                "Az állami támogatás vissza nem térítendő, megvalósulatlan beruházások esetén sem lehet igénye a Magyar Államnak."
+            ],
+            [
+                "Az állami támogatást egyösszegben kell visszautalni a Magyar Állam részére. Büntető kamat nincs."
+            ],
+            [
+                "Részlegesen meg nem valósult beruházás esetén az állami támogatás büntető kamattal megnövelt értéken, a megvalósulatlan résszel arányosan visszafizetendő.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Számíthat-e a kis- vagy középvállalkozás a már felvett, beruházással kapcsolatos állami támogatás visszafizetésére, amennyiben nem valósult meg a beruházása?",
+        "Válaszok": [
+            [
+                "Az állami támogatás vissza nem térítendő, megvalósulatlan beruházások esetén sem lehet igénye a Magyar Államnak."
+            ],
+            [
+                "Nem, de hitelminősítési szempontból célszerű visszautalnia."
+            ],
+            [
+                "Igen. Teljes vagy részleges nem teljesülés esetén eltérő mértékben, de vissza kell fizetni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a Széchényi Kártya Folyószámla hitellel kapcsolatos helytelen állítást!",
+        "Válaszok": [
+            [
+                "Ingatlan fedezet nélkül is igényelhető."
+            ],
+            [
+                "Induló vállalkozások is igénybe vehetik.",
+                true
+            ],
+            [
+                "Állami támogatásban részesített konstrukció."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a Széchenyi Beruházási Hitellel kapcsolatos alábbi állítások közül a helytelent!",
+        "Válaszok": [
+            [
+                "A futamidő maximum 120 hónap lehet."
+            ],
+            [
+                "Akár 400 millió forint hitelösszeg igényelhető."
+            ],
+            [
+                "Az igénylőnek a tervezett beruházás összköltsége minimum 30%-nak megfelelő saját erővel szükséges rendelkeznie.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a Széchenyi Beruházási Hitellel kapcsolatos hamis állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Akár 400 millió forint hitelösszeg igényelhető."
+            ],
+            [
+                "A hitel törlesztésének megkezdésére a türelmi időt (maximum 24 hónap) követően kerül sor."
+            ],
+            [
+                "Az igénylőnek szerződéskötési díjat nem kell fizetnie.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik kis- és középvállalkozásokra (KKV) vonatkozó állítás nem igaz az alábbiak közül? Kapcsolódó vállalkozások azok,",
+        "Válaszok": [
+            [
+                "amelyek közül az egyik vállalkozás egy másik vállalkozásban a szavazatok többségével rendelkezik."
+            ],
+            [
+                "amelyek partnervállalkozásként önálló vállalkozásnak minősülnek.",
+                true
+            ],
+            [
+                "amelyek esetében egy vállalkozás egy másik vállalkozásban jogosult arra, hogy a vezető tisztségviselők vagy a felügyelő bizottság tagjai többségét megválassza vagy visszahívja."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen támogatásokat vehetnek igénybe a kis- és középvállalkozások (KKV-k) a központi költségvetésről szóló törvényben e célra létrehozott előirányzat terhére az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Adó- és illetékkedvezményt."
+            ],
+            [
+                "Kamattámogatást, lízingdíj-támogatást, faktoringdíj-támogatást.",
+                true
+            ],
+            [
+                "Ingyenes vállalkozásfejlesztési tanácsadást."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk áthidaló hitelnek az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelkártyát és az ahhoz kapcsolódó hitelkeretet."
+            ],
+            [
+                "Forgótőke hitelt."
+            ],
+            [
+                "Futamidő nélküli vagy 12 hónapnál rövidebb futamidőre nyújtott jelzáloghitelt, amelyet a fogyasztó átmeneti megoldásként vesz igénybe, amíg egy másik finanszírozási formára nem vált.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyek a követelésvásárlás főbb formái?",
+        "Válaszok": [
+            [
+                "Faktorálás és forfetírozás.",
+                true
+            ],
+            [
+                "Részvény- és kötvényvásárlás."
+            ],
+            [
+                "Folyószámlahitel és áruhitel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen értékpapírokra nyújtanak a bankok értékpapírhitelt?",
+        "Válaszok": [
+            [
+                "Átruházható értékpapírokra.",
+                true
+            ],
+            [
+                "Nem átruházható értékpapírokra."
+            ],
+            [
+                "Váltóra, csekkre és kötvényre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit értünk kötelezettségvállalási hitel elnevezés alatt?",
+        "Válaszok": [
+            [
+                "Áruhitel nyújtását."
+            ],
+            [
+                "Hitelintézet hitelnyújtási készségét, részéről hitelnyújtási lehetőség biztosítását.",
+                true
+            ],
+            [
+                "Jelzáloglevél kibocsátást."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a forgótőke-hitel lényege?",
+        "Válaszok": [
+            [
+                "Egyszeri forgóeszköz finanszírozás."
+            ],
+            [
+                "Éven belüli forgóeszköz finanszírozás."
+            ],
+            [
+                "Forgóeszközök tartós (éven túli) növekedésének finanszírozása.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Léteznek különböző projektfinanszírozási megoldások. Mit nevezünk általánosan projektnek?",
+        "Válaszok": [
+            [
+                "Egy adott gazdasági egységet, melynek jövőbeni megtérülése, bevételei és jövedelemtermelő képessége meghatározó szerepet játszik annak finanszírozása szempontjából..",
+                true
+            ],
+            [
+                "A megvalósított beruházásokat, melyek jó jövedelemtermelő képességgel rendelkeznek."
+            ],
+            [
+                "Az üzleti tervet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk projektfinanszírozásnak?",
+        "Válaszok": [
+            [
+                "Üzlet tervben szereplő adatok megvalósulásának elősegítését."
+            ],
+            [
+                "Egy adott gazdasági egység finanszírozását, amelyre a hitel úgy tekint, hogy elsősorban annak pénzáramlása és jövedelme szolgál a kölcsön visszafizetésének forrásául.",
+                true
+            ],
+            [
+                "Jellemzően megvalósult, korábban jól működő beruházás további működésének elősegítését, amelynek alapja a vállalkozás hitelképessége."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit értünk valamely követelés leszámítolásán?",
+        "Válaszok": [
+            [
+                "A követelés megvásárlását, az esedékességig hátralévő kamatok és a díjak levonása mellett.",
+                true
+            ],
+            [
+                "Jellemzően közép- vagy hosszútávú követelés piaci értékének megállapítását."
+            ],
+            [
+                "A követelés esedékesség előtti behajtását."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk részletfizetési hitelnek?",
+        "Válaszok": [
+            [
+                "Az olyan hitelt, amelynek tőke- és kamatrészét rendszeresen, általában havonkénti részletekben kell visszafizetni a hitelintézetnek.",
+                true
+            ],
+            [
+                "A hitelkártyához kapcsolódó hitelkeretet."
+            ],
+            [
+                "A rulírozó jellegű hitelkeretet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e a részletfizetési hitel változó kamatozású?",
+        "Válaszok": [
+            [
+                "Igen, a jelentős piaci kamatmozgások miatt gyakori a változó kamatozású részletfizetési hitel.",
+                true
+            ],
+            [
+                "Nem, a részletfizetési hitelek mindig fix kamatozásúak."
+            ],
+            [
+                "Csak abban az esetben, ha a részletfizetési hitel gépjárművásárláshoz kapcsolódik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A pénzügyi intézmény jogosult-e olyan ügyfél hiteligénylését elutasítani, aki a Központi Hitelinformációs Rendszer [KHR] negatív listáján szerepel?",
+        "Válaszok": [
+            [
+                "Igen, a pénzügyi intézmény kizárhatja a finanszírozásból a negatív listás ügyfelet az adott konstrukciónál.",
+                true
+            ],
+            [
+                "Nem, a negatív lista ugyanis azt jelenti, hogy az ügyfélnek nincs 90 napon túl fennálló lejárt és meg nem fizetett tartozása."
+            ],
+            [
+                "Csak abban az esetben, ha az ügyfél a hitelkérelemben ezt külön jelezte a hitelező felé."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Nyújtanak-e a hitelintézetek kis- és középvállalkozások számára szabad felhasználású hiteleket?",
+        "Válaszok": [
+            [
+                "Igen, például a folyószámlahitelek felhasználása általában nem célhoz kötött.",
+                true
+            ],
+            [
+                "Nem, kizárólag adott célra (pl. beruházás, fejlesztés) kaphat hitelkeretet kis- és középvállalkozás."
+            ],
+            [
+                "Nem, kizárólag lakossági ügyfelek kaphatnak szabad felhasználású hiteleket."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a célja az ügyfélminősítéshez a bankok által is használt rendszereknek (pl. Központi Hitelinformációs Rendszer [KHR])?",
+        "Válaszok": [
+            [
+                "A nemfizető ügyfelek adatainak tárolása korlátlan ideig."
+            ],
+            [
+                "Negatív listás adatbázisok készítése, ily módon indokolatlanul meggyorsítva a hitelkérelmek elutasítását."
+            ],
+            [
+                "Hitelkockázat mérséklése.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miben segítheti a hitelintézetet a kis- és középvállalkozásokkal szemben fennálló követeléseinek folyamatos nyomonkövetése (monitoring)?",
+        "Válaszok": [
+            [
+                "Azonnali jogi útra tudja terelni a nemfizető adósokkal szembeni követelését."
+            ],
+            [
+                "A várható veszteségekkel kapcsolatos intézkedéseket előre meg tudja tervezni.",
+                true
+            ],
+            [
+                "A negatív lista felállításában."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miért a kis- és középvállalati konstrukciók területén van a legnagyobb verseny a hitelintézetek között?",
+        "Válaszok": [
+            [
+                "A növekedési lehetőségek ebben a szegmensben a legnagyobbak.",
+                true
+            ],
+            [
+                "Alacsony a hitelezési kockázat."
+            ],
+            [
+                "A hitel visszafizetése és a vállalkozások jövőbeni teljesítménye ebben a szegmensben a legbiztosabb."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a kis- és középvállalati szegmens számára nyújtott hitelek jellemző hátránya a bankok szempontjából?",
+        "Válaszok": [
+            [
+                "Nincs konkrét hátránya, a kis- és középvállalatok részére történő hitelkihelyezés a legbiztonságosabb a bank számára."
+            ],
+            [
+                "Az adósok nagy fizetőképességi kockázata (gyakori fizetési késedelem).",
+                true
+            ],
+            [
+                "Állandó nagy összegű hitelkihelyezéseket kell a kis- és középvállalkozásoknak nyújtani."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Léteznek-e állami támogatással egybekötött banki konstrukciók?",
+        "Válaszok": [
+            [
+                "Nem, állami támogatást csak az állami intézményektől felvett hitel esetében lehet igénybe venni."
+            ],
+            [
+                "Igen, léteznek állami támogatással egybekötött hitelek (pl. CSOK-hitel).",
+                true
+            ],
+            [
+                "Csak szűk körben léteznek, kedvezményes betéti kamatokat lehet az államtól igényelni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan definiálhatjuk a kezesség fogalmát?",
+        "Válaszok": [
+            [
+                "A bank meghatározott feltételek esetében a kedvezményezettnek a meghatározott összeghatárig határidőn belül teljesíteni fog."
+            ],
+            [
+                "A kezes kötelezettségvállalása a jogosulttal szemben arra, hogy amennyiben a kötelezett nem teljesít, úgy maga fog helyette a jogosultnak teljesíteni.",
+                true
+            ],
+            [
+                "Előlegvisszafizetési-garanciaként definiálhatjuk."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a kezességre vonatkozó helyes állítást!",
+        "Válaszok": [
+            [
+                "Írásban és szóban is vállalható érvényes kezesség."
+            ],
+            [
+                "A kezes kötelezettsége ahhoz a kötelezettséghez igazodik, amelyért a kezességet vállalta.",
+                true
+            ],
+            [
+                "A kezesség nem tételez fel főkötelezettséget, ahhoz nem igazodik, mivel önálló kötelezettségvállalás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül milyen formában valósulhat meg a kezességvállalás?",
+        "Válaszok": [
+            [
+                "Határidős kezesség formájában."
+            ],
+            [
+                "Opcionális kezesség formájában."
+            ],
+            [
+                "Egyszerű kezesség és készfizető kezesség formájában.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent az egyszerű kezesség az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A tartozás behajtását először az adóstól kell megkísérelni, eredménytelenség esetén lehet csak fordulni a kezeshez (sortartás).",
+                true
+            ],
+            [
+                "A tartozás esedékességekor a hitelező egyaránt fordulhat a kezeshez és az adóshoz is (nincs sortartás)."
+            ],
+            [
+                "Nincs sortartási kötelezettség, de a tartozás behajtását először a kezesnél  kell megkísérelni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a készfizető kezesség az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A tartozás behajtását először az adóstól kell megkísérelni, eredménytelenség esetén lehet csak fordulni a kezeshez (sortartás)."
+            ],
+            [
+                "A tartozás esedékességekor a hitelező egyaránt fordulhat a kezeshez és az adóshoz is (nincs sortartás).",
+                true
+            ],
+            [
+                "Nincs sortartási kötelezettség, de a tartozás behajtását először a kezesnél kell megkísérelni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a folyószámlahitel célja az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Átmeneti pénzeszköz ingadozás (likviditás problémák) helyreállítása, átmeneti forgóeszköz igény kielégítése.",
+                true
+            ],
+            [
+                "Tartós forgóeszköz igény finanszírozása."
+            ],
+            [
+                "Fejlesztési, beruházási események finanszírozása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Engedély nélkül, üzletszerűen végzett követelésvásárlási tevékenységet valósíthat-e meg a követelés megvásárlója, ha naptári évenként egy követelést/követeléscsomagot vásárol meg, több éven keresztül?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, mivel az egy naptári évben egynél több követelés megvásárlása lehet csak üzletszerű."
+            ],
+            [
+                "Nem, mivel a követelésvásárlási tevékenység fogalmilag nem lehet üzletszerű tevékenység."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a gépjárművásárláshoz nyújtott hitellel kapcsolatos helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A gépjárművásárláshoz természetes személy részére nyújtott hitelek futamidejét a hitelnyújtó szabadon meghatározhatja."
+            ],
+            [
+                "A gépjárművásárláshoz természetes személy részére nyújtott hitelek futamideje legalább 2 év."
+            ],
+            [
+                "A gépjárművásárláshoz természetes személy részére nyújtott hitel szerződéskötéskori futamideje nem lehet több mint 84 hónap.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Függ-e a banknak a garancianyilatkozatában adott kötelezettségvállalása az adós és a hitelező közötti teljesítési feltételektől?",
+        "Válaszok": [
+            [
+                "Igen, mert a garancianyilatkozat érvényességéhez kell a hitelező elfogadása."
+            ],
+            [
+                "Nem, a garancia önálló kötelezettségvállalásnak minősül.",
+                true
+            ],
+            [
+                "Igen, mert a garancianyilatkozat tartalmának meg kell felelnie a hitelszerződésben foglaltaknak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a bankgaranciával kapcsolatban az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Nemzetközi fizetéseknél nem köthető ki biztosítékként."
+            ],
+            [
+                "Önálló jogügylet.",
+                true
+            ],
+            [
+                "Nem önálló, hanem az adós és a hitelező közötti jogviszonytól függő járulékos jogügylet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás helyes a bankgaranciával kapcsolatban az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A bankgaranciát nemzetközi fizetéseknél nem alkalmazzák."
+            ],
+            [
+                "A bankgarancia önálló kötelezettségvállalásnak minősül.",
+                true
+            ],
+            [
+                "A bankok kizárólag éven belüli garanciát nyújtanak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik a garanciaszerződés definíciója az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A garanciaszerződés, illetve a garanciavállaló nyilatkozat a garantőr olyan kötelezettségvállalása, amely alapján a nyilatkozatban meghatározott feltételek esetén köteles a jogosultnak fizetést teljesíteni.",
+                true
+            ],
+            [
+                "A garanciaszerződés az ügyfél által vállalt fizetési garancia a garantőr felé."
+            ],
+            [
+                "A garanciaszerződés a jogosult kötelezettségvállalása, hogy a vállalt feltételek esetén a garantőr által megjelölt pénzösszeget kifizeti a garantőr javára."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik gazdasági szereplőnél nem jellemző a bankgarancia igénylése az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A vállalati ügyfelek esetében."
+            ],
+            [
+                "Az önkormányzatok esetében."
+            ],
+            [
+                "A magánszemélyek esetében.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kinek a bankgarancia igénylését fogja a bank elutasítani az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az egyéni vállalkozóét."
+            ],
+            [
+                "A szövetkezetét."
+            ],
+            [
+                "Annak a vállalati ügyfélnek az igénylését, akinek köztartozása van.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik fogalom definíciója a következő: „Szerződéses kapcsolatban vállalt fizetés biztosítására vonatkozó garancia.”?",
+        "Válaszok": [
+            [
+                "Fizetési garancia.",
+                true
+            ],
+            [
+                "Jóteljesítési garancia."
+            ],
+            [
+                "Előleg-visszafizetési garancia."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik fogalom definíciója a következő: „A garantőr szerződésszerű és ezt követően a jótállási, szavatossági időszak alatt a kötelezettet terhelő kötelezettségek teljesítését garantálja a kedvezményezett számára.”?",
+        "Válaszok": [
+            [
+                "Fizetési garancia."
+            ],
+            [
+                "Jóteljesítési garancia.",
+                true
+            ],
+            [
+                "Előleg-visszafizetési garancia."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! Nagy költséget és ráfordítást igénylő szolgáltatások megvalósítása esetén adott bankgarancia lehet",
+        "Válaszok": [
+            [
+                "fizetési garancia."
+            ],
+            [
+                "jóteljesítési garancia."
+            ],
+            [
+                "előleg-visszafizetési garancia.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! Szabályszerű szállítást, szolgáltatás teljesítését adott időszakon belül biztosító garanciatípus a",
+        "Válaszok": [
+            [
+                "fizetési garancia."
+            ],
+            [
+                "szavatossági garancia.",
+                true
+            ],
+            [
+                "jövedéki garancia."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent az ún. vámbiztosíték célú bankgarancia?",
+        "Válaszok": [
+            [
+                "Jövedéki eljárásokhoz szükséges garancia."
+            ],
+            [
+                "A bank önálló fizetési kötelezettséget vállal a  vámhatóság mint kedvezményezett felé a nyilatkozatban szereplő határidőig és összegig.",
+                true
+            ],
+            [
+                "Jövedéki áru gyártásához szükséges garanciatípus."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! Állami támogatáshoz kapcsolódó hitelkonstrukcióknál a benyújtott pályázatok elfogadásának egyik feltétele lehet",
+        "Válaszok": [
+            [
+                "a jövedéki garancia."
+            ],
+            [
+                "a jóteljesítési garancia."
+            ],
+            [
+                "a tendergarancia (a jelenlegi banki gyakorlat konstrukciós bankgaranciának is nevezi).",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen devizanemben kínálnak bankgaranciát a hazai bankok?",
+        "Válaszok": [
+            [
+                "Kizárólag forintban."
+            ],
+            [
+                "Forintban és euróban."
+            ],
+            [
+                "Forintban és egyéb devizában.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A bankgarancia vonatkozhat",
+        "Válaszok": [
+            [
+                "csak a vevőre."
+            ],
+            [
+                "csak az eladóra."
+            ],
+            [
+                "az eladóra és a vevőre is, garanciatípustól függően.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás helyes a bankgarancia idejére vonatkozóan?",
+        "Válaszok": [
+            [
+                "Lejárat nélküli."
+            ],
+            [
+                "Maximum 5 éves lehet."
+            ],
+            [
+                "Lejárata konkrét dátum.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Tipikusan a jelenlegi hazai gyakorlatban milyen \"futamidővel\" kínálnak a bankok garanciát?",
+        "Válaszok": [
+            [
+                "A bankok tipikusan éven túli garanciát kínálnak."
+            ],
+            [
+                "A bankok tipikusan rövid futamidejű  garanciát kínálnak."
+            ],
+            [
+                "Lehetséges éven belüli vagy éven túli „futamidő” is.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a pályázati bankgaranciára vonatkozó helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A pályázati bankgarancia pályázati célra nem igényelhető bankgarancia."
+            ],
+            [
+                "Amennyiben a bankgarancia a pályázat kiírásának megfelelő feltételekkel kerül kiadásra, úgy az előmozdíthatja a pályázat eredményességét, előny lehet az elbírálásnál.",
+                true
+            ],
+            [
+                "A pályázati bankgarancia ugyanaz, mint a szavatossági garancia."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a bankgaranciára vonatkozó igaz állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A bankgarancia a bank visszavonhatatlan kötelezettségvállalása meghatározott összeg fizetésére.",
+                true
+            ],
+            [
+                "A bankgarancia nem minősül önálló kötelezettségvállalásnak."
+            ],
+            [
+                "A bankgarancia kizárólag a bank és a kedvezményezett közötti szerződéssel jöhet létre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mikor tekinthető megszűntnek a bankgarancia az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A bankgarancia megszűnik, ha a bank a prudens működés érdekében visszavonja az adott garanciát."
+            ],
+            [
+                "A bankgarancia megszűnik az adós nem szerződésszerű teljesítése esetén."
+            ],
+            [
+                "A bankgarancia megszűnik, ha a garancia érvényesítésére megjelölt határidő eredménytelenül lejár.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miért lehet előnyös a kis- és középvállalkozások számára a bankgarancia?",
+        "Válaszok": [
+            [
+                "Megnő a készpénzállományuk."
+            ],
+            [
+                "Meglévő hiteleiket a bankgaranciával költségmentesen ki tudják fizetni."
+            ],
+            [
+                "Nagyobb összegű finanszírozási lehetőségeket és pályázatok elnyerését teszi lehetővé.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a garanciaszerződéssel kapcsolatos hamis állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A jogosult nem ruházhatja át a garancia érvényesítésének jogát a garantőr hozzájárulása nélkül, de jogosult azt a személyt megjelölni, akinek a garantőr a fizetést teljesíteni köteles."
+            ],
+            [
+                "A garancia lehívásának joga nem száll a jogosult jogutódjára.",
+                true
+            ],
+            [
+                "Ha a garantőr fogyasztó, a garanciavállaló nyilatkozat készfizető kezességként érvényes."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen előny kapcsolható a vevő-követelések faktorálásához?",
+        "Válaszok": [
+            [
+                "Növelhető a faktorálással élő vállalkozás eszközeinek forgási sebessége.",
+                true
+            ],
+            [
+                "Nincsenek előnyök."
+            ],
+            [
+                "A vevők fizetőképességének faktorcég általi vizsgálata megakadályozza behajthatatlan követelések keletkezését."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a faktorálással kapcsolatban az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A faktorálás üzletszerű követelésvásárlás.",
+                true
+            ],
+            [
+                "A faktorálás befektetési szolgáltatásnak minősül, tehát hitelintézet és befektetési vállalkozás végezheti."
+            ],
+            [
+                "A faktorálás nem minősül pénzkölcsön nyújtásnak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a faktorálással kapcsolatos igaz állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A faktorálás a követelések adásvétele.",
+                true
+            ],
+            [
+                "Kizárólag lejárt követelések faktorálása lehetséges."
+            ],
+            [
+                "A faktor megvásárolja a szállító/eladó számlakövetelését egy határidős (később esedékes) fizetés mellett."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Faktorálás alatt a követelések üzletszerű vásárlását értjük. Igaz ez az állítás?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Igen, de kizárólag lejárt követelés faktorálása lehetséges."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Függ-e a faktorálandó követelés leszámítolási értéke attól, hogy próbálták-e már behajtani vagy sem?",
+        "Válaszok": [
+            [
+                "Igen, amennyiben például a hitelintézet már megpróbálta behajtani a követelést, de nem járt sikerrel, akkor – a sikertelen behajtási kísérletre tekintettel – a faktorcég alacsonyabb értéken vásárolja meg a követelést.",
+                true
+            ],
+            [
+                "Nem, a faktorálandó követelések leszámítolási értéke mindig a hitelintézet aktuális likviditási állapotától függ."
+            ],
+            [
+                "Nem, a faktorálandó követelések leszámítolási értéke kizárólag a piaci kamatoktól függ."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e az az állítás, hogy a faktorálás során a vételár majdnem mindig kisebb, mint a követelés valódi értéke?",
+        "Válaszok": [
+            [
+                "Nem, általánosságban a követelés vételára közel azonos a követelés értékével."
+            ],
+            [
+                "Nem, a követelés vételára azonos, vagy amennyiben a faktor cég úgy ítéli meg, több is lehet, mint annak értéke."
+            ],
+            [
+                "Igen, a faktorálandó követelés értéke majdnem mindig magasabb, mint a vételára.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miért előnyös a faktorálás a követelés eladója számára?",
+        "Válaszok": [
+            [
+                "A követelés teljes összege bonyolult, és hosszadalmas behajtási eljárás nélkül az eladó rendelkezésére fog állni."
+            ],
+            [
+                "A követelés eladója azonnali ellenértéket kap a követelés fejében.",
+                true
+            ],
+            [
+                "A faktorcég a követelés sikeres behajtását követően még további százalékos részesedést utal át az eladó számára."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hazai faktorcégek kinek az engedélyével végezhetik a tevékenységüket?",
+        "Válaszok": [
+            [
+                "Az adott hitelintézet engedélyével."
+            ],
+            [
+                "A Magyar Nemzeti Bank engedélyével.",
+                true
+            ],
+            [
+                "A Magyar Kereskedelmi Engedélyezési Hivatal engedélyével."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit értünk belföldi faktoring alatt?",
+        "Válaszok": [
+            [
+                "A szállító, a vevő és a faktor székhelye ugyanabban az országban van.",
+                true
+            ],
+            [
+                "A szállító és a vevő székhelye ugyanabban az országban van."
+            ],
+            [
+                "A szállító és a faktor székhelye ugyanabban az országban van."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mi jellemző a belföldi faktoring ügyletekre?",
+        "Válaszok": [
+            [
+                "Általában teljesítési kockázat átvállalása nélkül működnek.",
+                true
+            ],
+            [
+                "Négyszereplős ügyletek."
+            ],
+            [
+                "Általános a teljesítési kockázat átvállalása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Létezik-e visszterhes, illetve visszteher nélküli faktoring ügylet?",
+        "Válaszok": [
+            [
+                "Nem, egyik megnevezés sem értelmezhető faktoringügylet esetében."
+            ],
+            [
+                "Igen, mind a két típusú faktoring ügylet létezik.",
+                true
+            ],
+            [
+                "Kizárólag vissztehermentes faktoring létezik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik szolgáltatás nem a faktorház feladata az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A vállalkozó követeléseinek nyilvántartása, kezelése és könyvelésre kész állapotban a vállalkozó rendelkezésére bocsátása."
+            ],
+            [
+                "A megvásárolt követelések behajtása."
+            ],
+            [
+                "A követelésért fizetett ellenérték felhasználása a vállalkozás érdekében.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lényeges-e a faktor számára a követelést eladó vállalkozás pénzügyi megbízhatósága?",
+        "Válaszok": [
+            [
+                "Igen, ez a legfőbb szempont a faktor számára."
+            ],
+            [
+                "Igen, kizárólag megbízható és tőkeerős vállalkozások vehetik igénybe a faktorházak szolgáltatásait."
+            ],
+            [
+                "Nem, hiszen elsősorban nem a követelést eladó vállalkozás megítélése számít, hanem az eladott követelések kötelezettjeinek fizetőképessége a mérvadó.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a faktoring-gal kapcsolatos igaz állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az \"advance faktoring\" esetén a faktorcég a követelés megvásárlásakor azonnal fizet.",
+                true
+            ],
+            [
+                "A \"maturity faktoring\" esetén a faktorcég a követelést megelőlegezve, annak esedékessége előtt fizet. (Függetlenül attól, hogy a követelését sikerült-e behajtania vagy sem.)"
+            ],
+            [
+                "A faktoring hosszú lejáratú követelések megvásárlását jelenti."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk \"csendes faktoring-nak\"?",
+        "Válaszok": [
+            [
+                "A kötelezett nem szerez tudomást a vele szemben fennálló követelés faktorálásáról.",
+                true
+            ],
+            [
+                "A bank visszamondja a faktorálást."
+            ],
+            [
+                "A faktorház visszavásárolja a követelést."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen faktorálások közül választhat általában az eladó?",
+        "Válaszok": [
+            [
+                "Nyílt- és zárt faktoring közül."
+            ],
+            [
+                "Csendes- és nyílt engedményezés melletti faktoring közül.",
+                true
+            ],
+            [
+                "Pénzügyi- és operatív faktoring közül."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen vállalkozásnak lehet előnyös a faktorálás?",
+        "Válaszok": [
+            [
+                "Rövid fizetési határidővel, rendszeresen fizető vevőkörrel rendelkező vállalkozásnak lehet előnyös."
+            ],
+            [
+                "Hosszú fizetési határidővel fizető, széles vevőkörrel rendelkező, likviditási gondokkal küzdő vállalkozásnak lehet előnyös.",
+                true
+            ],
+            [
+                "Szűk vevőkörrel rendelkező vállalkozásnak lehet előnyös."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen vállalkozásnak nem ajánlott a faktorálás?",
+        "Válaszok": [
+            [
+                "Olyan vállalkozásnak, amelynek vevőpartnerei hosszú fizetési határidővel teljesítenek."
+            ],
+            [
+                "Olyan vállalkozásnak, amely stabil nagyvállalati vevőkörrel rendelkezik, és folyamatosan szüksége van forgótőkére."
+            ],
+            [
+                "Olyan vállalkozásnak, amelynek nincs szüksége külső forrásra.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a leszámítolás?",
+        "Válaszok": [
+            [
+                "Jövőben esedékes követelés jelenértéken történő megvásárlását.",
+                true
+            ],
+            [
+                "A reálkamatlábak nominális kamatlábakra történő cseréjét, így csökkentve a váltó vagy egyéb értékpapír megvásárlási értékét."
+            ],
+            [
+                "A kötvény árfolyamának alacsonyabb referenciakamatlábbal történő szándékos, üzleti célú lecsökkentését."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a faktoringgal kapcsolatos helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A faktoring hosszú lejáratú követelések megvásárlását jelenti."
+            ],
+            [
+                "A faktorált követelések kötelezettjei fizetőképességének kockázatát a faktorcég átvállalhatja.",
+                true
+            ],
+            [
+                "Faktorálás esetén a követelések engedményezésére nem kerül sor."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a következménye annak, ha a faktor a faktorálás tényét és az adós személyét a hitelbiztosítéki nyilvántartásba nem jegyezteti be?",
+        "Válaszok": [
+            [
+                "A faktoring szerződés a bejegyzés hiányában érvénytelen."
+            ],
+            [
+                "Nincs következménye, mivel a Ptk. nyilvántartásba-vételi kötelezettséget nem ír elő."
+            ],
+            [
+                "Nyilvántartásba vétel hiányában a követelés az engedményezés ellenére nem száll át a faktorra, és a faktort a követelésen olyan jogok illetik meg, mint azt a zálogjogosultat, akinek a követelésen alapított zálogjogát nem jegyezték be a hitelbiztosítéki nyilvántartásba.",
+                true
+            ]
+        ]
+    }
+]

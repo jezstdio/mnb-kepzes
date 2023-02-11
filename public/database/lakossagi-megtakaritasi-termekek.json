@@ -1,0 +1,3959 @@
+[
+    {
+        "Kérdés": "Mi a bankszámlaszerződés (fizetésiszámla-szerződés) elsődleges célja az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A számlatulajdonos megtakarításainak kezelése."
+            ],
+            [
+                "A számlatulajdonos pénzforgalmának lebonyolítása.",
+                true
+            ],
+            [
+                "A számlatulajdonos számláján lévő pénzmozgások nyilvántartása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A bankszámla (fizetési számla) műveletek",
+        "Válaszok": [
+            [
+                "aktív bankügyletnek minősülnek."
+            ],
+            [
+                "passzív bankügyletnek minősülnek."
+            ],
+            [
+                "semleges bankügyletnek minősülnek.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kik kötelesek bankszámlaszerződést (fizetésiszámla-szerződést) kötni?",
+        "Válaszok": [
+            [
+                "A belföldi jogi személyek."
+            ],
+            [
+                "A belföldi az általános forgalmi adó fizetésére kötelezett természetes személyek, ideértve az egyéni vállalkozót is.."
+            ],
+            [
+                "Mindkét csoport.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Fedezetigazolást a fizetés kedvezményezettjének megbízásából a számlavezető pénzforgalmi szolgáltató állíthat ki."
+            ],
+            [
+                "Fő szabály szerint fedezetigazolás csak hatósági megkeresésre adható ki."
+            ],
+            [
+                "A fedezetigazolásban megjelölt összeget a számlavezető pénzforgalmi szolgáltató elkülönítetten köteles kezelni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mire szolgál a pénzforgalmi jelzőszám?",
+        "Válaszok": [
+            [
+                "A bankszámla (fizetési számla) egyértelmű azonosítására szolgál.",
+                true
+            ],
+            [
+                "Az ügyfél egyértelmű azonosítására szolgál."
+            ],
+            [
+                "Az ügylet egyértelmű azonosítására szolgál."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A bankszámla-szerződés (fizetésiszámla-szerződés) szabályai mellett alkalmazni kell",
+        "Válaszok": [
+            [
+                "a megbízási szerződés szabályait."
+            ],
+            [
+                "a takarékbetétre vonatkozó jogszabályi rendelkezéseket és a megbízási szerződés szabályait.",
+                true
+            ],
+            [
+                "a takarékbetétre vonatkozó jogszabályi rendelkezéseket."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A bankszámlaszerződésnek (fizetésiszámla-szerződésnek) melyek a lényeges tartalmi elemei az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A bankszámla (fizetési számla) feletti rendelkezés módjának és a rendelkezés feltételeinek a meghatározása."
+            ],
+            [
+                "A számlatulajdonos tájékoztatási módjának meghatározása."
+            ],
+            [
+                "Mindkettő lényeges elem.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Fő szabály szerint lakossági bankszámla (fizetési számla) esetén a bankszámla feletti rendelkezésre a számlatulajdonos meghatalmazottja jogosult."
+            ],
+            [
+                "Főszabály szerint lakossági bankszámla (fizetési számla) esetén a bankszámla (fizetési számla) egyenlege feletti rendelkezésre a számlatulajdonos, az általa meghatalmazott és a számlavezető részére bejelentett személyek jogosultak.",
+                true
+            ],
+            [
+                "Főszabály szerint, lakossági bankszámla esetén, a bankszámla (fizetési számla) feletti rendelkezésre a számlatulajdonos közvetlen hozzátartozói jogosultak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A bankszámla (fizetési számla) felett rendelkező személy aláírását helyettesítheti jelszó vagy PIN-kód.",
+                true
+            ],
+            [
+                "A bankszámla (fizetési számla) felett rendelkező személy aláírása csak jelszóval vagy PIN-kóddal együtt érvényes."
+            ],
+            [
+                "A számlatulajdonos a bankszámla (fizetési számla) felett csak úgy rendelkezhet, ha személyesen felkeresi a bank egy fiókját."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az állandó meghatalmazott módosíthatja a bankszámla (fizetési számla) adatait."
+            ],
+            [
+                "Az állandó meghatalmazott rendelkezhet bankkártya igénylésről."
+            ],
+            [
+                "Az állandó meghatalmazott pénzt vehet fel a bankszámláról (fizetési számláról).",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a fizetési számláról?",
+        "Válaszok": [
+            [
+                "A meghatalmazást csak közokiratba foglalt nyilatkozatban adhatja meg a számlatulajdonos."
+            ],
+            [
+                "A meghatalmazást csak teljes bizonyító erejű magánokiratba foglalt nyilatkozatban adhatja meg a számlatulajdonos."
+            ],
+            [
+                "A meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozatban adhatja meg a számlatulajdonos.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a fizetési számláról?",
+        "Válaszok": [
+            [
+                "A számlakövetelés kimerülése - más néven a bankszámla (fizetési számla) zérus egyenlege - önmagában is megszünteti a bankszámlaszerződést (fizetésiszámla-szerződést)."
+            ],
+            [
+                "A számlakövetelés kimerülése - más néven a bankszámla (fizetési számla) zérus egyenlege - esetén a hitelintézet minden esetben a szerződést rendes felmondással megszünteti, annak érdekében, hogy további, a számlakezeléssel kapcsolatos indokolatlan költségek ne merüljenek fel."
+            ],
+            [
+                "A hitelintézet a számlakövetelés kimerülése - más néven a bankszámla (fizetési számla) zérus egyenlege - esetén sem szünteti meg a  bankszámla szerződést, (fizetésiszámla-szerződést) és nyújtott hitel módjára számolja el az esetlegesen felmerülő, további költségeket.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás nem igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A bankkártya szolgáltatással együtt általában megszűnik a bankszámlaszerződés (fizetésiszámla-szerződés) is.",
+                true
+            ],
+            [
+                "A bankszámlaszerződés (fizetésiszámla-szerződés) megszűnésével egyidejűleg megszűnik a bankkártya szolgáltatás is."
+            ],
+            [
+                "A bankkártya szolgáltatás megszűnése nem érinti a bankszámlaszerződés érvényességét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A lakossági bankszámla követelést (fizetésiszámla-követelést)",
+        "Válaszok": [
+            [
+                "megszünteti a számlatulajdonos halála."
+            ],
+            [
+                "nem szünteti meg a számlatulajdonos halála, mindössze a betéti követelés tekintetében a számlatulajdonos helyébe annak örököse (esetleg kedvezményezettje) lép.",
+                true
+            ],
+            [
+                "csak a felek közös megegyezésével lehetséges felmondani."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő mondatban szereplő két állítás? A bankszámla szerződés (fizetésiszámla-szerződés) többnyire határozatlan időre szól, és ezért akár a hitelintézet, akár a számlatulajdonos indoklás nélkül, írásban, jogszabályban meghatározott felmondási idővel felmondhatja",
+        "Válaszok": [
+            [
+                "Mindkét állítás igaz és van összefüggés.",
+                true
+            ],
+            [
+                "Mindkét állítás igaz és nincs összefüggés."
+            ],
+            [
+                "Az első állítás igaz, a második hamis."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A hitelintézet nem mondhatja fel rendkívüli, azonnali hatályú felmondással a bankszámlaszerződést (fizetésiszámla-szerződést), ha",
+        "Válaszok": [
+            [
+                "a számlatulajdonos nem fizeti meg a díjakat, jutalékokat vagy egyéb tartozásait a hitelintézet ismételt felszólítása ellenére sem."
+            ],
+            [
+                "a hitelintézet a bankszámlaszerződésben (fizetésiszámla-szerződésben) minimum számlaforgalmat kötött ki, és azt a számlatulajdonos az adott időszakban és a hitelintézet írásos felszólításában megjelölt időtartam lejártát követően sem teljesítette."
+            ],
+            [
+                "a számlatulajdonos a hitelintézettel kötött más (hitel- vagy betéti) szerződését megszegi.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a fizetési számla egyedi azonosító meghatározása az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az egyedi azonosító a fizetési számla, vagy fizetési számla hiányában a kedvezményezett egyértelmű azonosítása céljából a pénzforgalmi szolgáltató által az ügyfél számára meghatározott azonosító, amely kizárólag jelkombináció lehet."
+            ],
+            [
+                "Az egyedi azonosító a fizetési számla, vagy fizetési számla hiányában a kedvezményezett egyértelmű azonosítása céljából a pénzforgalmi szolgáltató által az ügyfél számára meghatározott betű-, számjegy- vagy jelkombináció.",
+                true
+            ],
+            [
+                "Az egyedi azonosító a fizetési számla, vagy fizetési számla hiányában a kedvezményezett egyértelmű azonosítása céljából a pénzforgalmi szolgáltató által az ügyfél számára meghatározott azonosító, amely kizárólag betűkombináció lehet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a fizetési megbízás teljesítése időpontjára az általános szabályok szerint?",
+        "Válaszok": [
+            [
+                "A fizetési megbízás azon a napon teljesül, amikor a számlatulajdonos a fizetési megbízást megadja."
+            ],
+            [
+                "A fizetési megbízás azon a napon teljesül, amikor a számlatulajdonos fizetési számláját a fizetési megbízásban rögzített összeggel megterhelik."
+            ],
+            [
+                "Jogszabály vagy a felek eltérő rendelkezésének hiányában a fizetési megbízás azon a napon teljesül, amikor a pénzösszeget a kedvezményezett fizetési számláján jóváírják.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik a helyes befejezés az alábbiak közül? A számlavezető a fizetési számlán történt téves jóváírás helyesbítése és a számlavezetés körében a számlatulajdonossal szemben keletkezett esedékes követelése érvényesítése céljából",
+        "Válaszok": [
+            [
+                "jogosult a fizetési számlát megterhelni.",
+                true
+            ],
+            [
+                "kizárólag akkor jogosult a fizetési számlát megterhelni, amennyiben a számlatulajdonos ahhoz előzetesen írásban hozzájárult."
+            ],
+            [
+                "nem jogosult a számlát megterhelni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az IBAN az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A fizetési számlák jelölésére szolgáló hazai pénzforgalmi jelzőszám, amely a fizetési számla hazai azonosítására szolgál."
+            ],
+            [
+                "A fizetési számlák jelölésére szolgáló nemzetközi pénzforgalmi jelzőszám, amely a fizetési számla nemzetközi azonosítására szolgál,",
+                true
+            ],
+            [
+                "A pénzforgalmi jelzőszám, amely azonos a SWIFT-kóddal."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül milyen típusú lehet a csak bank által kibocsátott kártya?",
+        "Válaszok": [
+            [
+                "Vásárlási kártya."
+            ],
+            [
+                "Az ügyfél által előre fizetett összeg alapján kibocsájtott kártya (prepaid card).",
+                true
+            ],
+            [
+                "Utazási és szórakozási kártyák."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás nem igaz a hitelkártyára az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelkártya birtokosa szinte korlátlan összeg erejéig vásárolhat.",
+                true
+            ],
+            [
+                "Ott használható, ahol a potenciális elfogadó szerződést kötött a hitelkártya kibocsátójával."
+            ],
+            [
+                "A kibocsátó rulírozó jellegű hitelt nyújt a hitelkártya tulajdonosának."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik bankkártya tulajdonosa vásárolhat szinte korlátlan összeg erejéig?",
+        "Válaszok": [
+            [
+                "A hitelkártya tulajdonosa."
+            ],
+            [
+                "A terhelési kártya tulajdonosa.",
+                true
+            ],
+            [
+                "A betéti kártya tulajdonosa."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! Betéti kártya esetén a bankszámlán (fizetési számlán) rendelkezésre álló betétösszegnél magasabb összegű bankkártya felhasználásra",
+        "Válaszok": [
+            [
+                "mindig van lehetőség."
+            ],
+            [
+                "csak akkor van lehetőség, ha a bankkártya tulajdonosnak van folyószámla hitelkerete.",
+                true
+            ],
+            [
+                "sosincs lehetőség."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Fizikai megjelenés és technológia szerint az alábbiak közül milyen bankkártya létezik?",
+        "Válaszok": [
+            [
+                "Lakossági kártya."
+            ],
+            [
+                "Platina kártya."
+            ],
+            [
+                "Dombornyomásos kártya.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik bankkártyát szokásos smart (okos) card-nak is nevezni az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hibrid kártyát."
+            ],
+            [
+                "A chipes kártyát.",
+                true
+            ],
+            [
+                "A hologramos kártyát."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent az elszámoló bank az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A kibocsátó bankkal azonos az elszámoló bank."
+            ],
+            [
+                "Az a bank, amely szerződésben áll azokkal a kártyatárságokkal, amelyek rendszerében a bankkártyát használni kívánják."
+            ],
+            [
+                "Az a bank, amely valamely kártyarendszerhez csatlakozva vállalja, hogy a vele szerződéses kapcsolatban álló kereskedőktől, illetve szolgáltatóktól a tranzakciók adatait begyűjti és a saját hálózatában (pénztárak, ATM-ek) elfogadásra került tranzakciókkal együtt az elszámoló rendszer felé továbbítja.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a bankkártya aktiválása?",
+        "Válaszok": [
+            [
+                "Az aktiválás a bankkártya működőképessé tételét jelenti; jellemzően akkor kerülhet rá sor, miután a hitelintézet az új bankkártyát átadja vagy postán megküldi a kártyabirtokosnak.",
+                true
+            ],
+            [
+                "A bankkártya használatba vételét, azaz a bankkártyával kezdeményezett első fizetési vagy készpénzfelvételi műveletet."
+            ],
+            [
+                "Azt a gyártási műveletet, amikor a bankkártyát megszemélyesítik (felviszik rá a kártyabirtokos nevét)."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lejárhat-e a bankkártya?",
+        "Válaszok": [
+            [
+                "Nem."
+            ],
+            [
+                "Igen, a kibocsátók a bankkártyára érvényességi időt határoznak meg, a lejáratot a bankkártya előlapján tüntetik fel.",
+                true
+            ],
+            [
+                "Igen, a kibocsátók a bankkártyára érvényességi időt határoznak meg, a lejáratot a bankkártya hátoldalán tüntetik fel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik nem minősül bankkártya elfogadóhelynek?",
+        "Válaszok": [
+            [
+                "A kereskedői elfogadóhely (pld. elektronikus POS-terminál)."
+            ],
+            [
+                "A bankfiók."
+            ],
+            [
+                "Bármely valutaváltó hely.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbi megoldások közül melyik szolgálja a bankkártyával kezdeményezett internetes vásárlások biztonságát?",
+        "Válaszok": [
+            [
+                "A bankkártya hátoldalán lévő aláírás-csíkra nyomtatott azonosító – az aláírás-csíkon található számkarakter utolsó három számjegye, más néven CVV2 vagy CVC2 kód használata.",
+                true
+            ],
+            [
+                "A bankkártyával kezdeményezett fizetési megbízások (időben korlátlan) visszavonhatósága."
+            ],
+            [
+                "A kártyabirtokos aláírása a bankkártya hátoldalán."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Amennyiben a hitelintézet ügyfele kéri a bankkártyájának letiltását, a banki ügyintéző - többek között - jellemzően felveszi a bankszámla (fizetési számla) számát és a kártyabirtokos adatait."
+            ],
+            [
+                "Amennyiben a hitelintézet ügyfele kéri a bankkártyájának letiltását, mert elvesztette azt, a banki ügyintézőnek be kell jelentenie a rendőrségen, hogy bűncselekmény történt.",
+                true
+            ],
+            [
+                "Amennyiben a hitelintézet ügyfele kéri a bankkártyájának letiltását, a banki ügyintézőnek - többek között - rögzítenie kell az elvesztés vagy ellopás körülményeit."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A kárösszeg tekintetében jogszabályi előírás, hogy amennyiben az elveszett, ellopott vagy elrabolt bankkártyát jogosulatlanul használják és a kártyabirtokos egyébként megtette a tőle elvárható biztonsági intézkedéseket (pl. nem a kártyával együtt tárolta a PIN kódját),",
+        "Válaszok": [
+            [
+                "a bejelentést megelőzően bekövetkezett kárt a kártyabirtokos legfeljebb 15.000 Ft erejéig viseli, az ezen felüli összeg a kibocsátó vesztesége.",
+                true
+            ],
+            [
+                "a bejelentést megelőzően bekövetkezett kárt a kártyabirtokos legfeljebb 30.000 Ft erejéig viseli, az ezen felüli összeg a kibocsátó vesztesége."
+            ],
+            [
+                "a bejelentést megelőzően bekövetkezett kárt a kártyabirtokos legfeljebb 50.000 Ft erejéig viseli, az ezen felüli összeg a kibocsátó vesztesége."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A kárösszeg tekintetében jogszabályi előírás, hogy amennyiben az elveszett, ellopott vagy elrabolt bankkártyát jogosulatlanul használják,",
+        "Válaszok": [
+            [
+                "a bejelentést követően keletkezett kárt a kibocsátó legfeljebb 10.000.000 Ft erejéig viseli."
+            ],
+            [
+                "a bejelentést követően keletkezett kárt a kibocsátó viseli.",
+                true
+            ],
+            [
+                "a bejelentést követően keletkezett kárt a kibocsátó legfeljebb 5.000.000 Ft erejéig viseli."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kapcsolódhat-e egy bankszámlához több bankkártya?",
+        "Válaszok": [
+            [
+                "Egy kártyabirtokosnak több bankkártyája is lehet ugyanahhoz a bankszámlához (fizetési számlához)."
+            ],
+            [
+                "Több kártyabirtokosnak is kapcsolódhat ugyanahhoz a bankszámlához (fizetési számlához) a bankkártyája."
+            ],
+            [
+                "Mindkét állítás igaz.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kinek a tulajdona a bankkártya?",
+        "Válaszok": [
+            [
+                "A bankszámla (fizetési számla) tulajdonosáé."
+            ],
+            [
+                "A kibocsátóé.",
+                true
+            ],
+            [
+                "A bankkártya birtokosáé."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a kis összegű készpénz-helyettesítő fizetési eszközről?",
+        "Válaszok": [
+            [
+                "A kis összegű készpénz-helyettesítő fizetési eszköz olyan készpénz-helyettesítő fizetési eszköz, amely kizárólag kilencezer forintot meg nem haladó fizetési műveletre használható, vagy amely negyvenötezer forint fizetési korláttal bír, vagy amelyen a rendelkezésre bocsátott vagy tárolt pénzérték nem haladja meg a negyvenötezer forintot.",
+                true
+            ],
+            [
+                "A kis összegű készpénz-helyettesítő fizetési eszköz olyan készpénz-helyettesítő fizetési eszköz, amely kizárólag háromezer forintot meg nem haladó fizetési műveletre használható, vagy amely tizenötezer forint fizetési korláttal bír, vagy amelyen a rendelkezésre bocsátott vagy tárolt pénzérték nem haladja meg a tizenötezer forintot."
+            ],
+            [
+                "A kis összegű készpénz-helyettesítő fizetési eszköz olyan készpénz-helyettesítő fizetési eszköz, amely kizárólag ötvenezer forintot meg nem haladó fizetési műveletre használható, vagy amely százezer forint fizetési korláttal bír, vagy amelyen a rendelkezésre bocsátott vagy tárolt pénzérték nem haladja meg a százezer forint forintot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az elektronikus bankszolgáltatások legnagyobb előnye az ügyfelek szempontjából?",
+        "Válaszok": [
+            [
+                "Az, hogy az ügyfeleknek nem kell személyesen felkeresniük a pénzügyi szolgáltatót és ezzel időt és fáradságot takaríthatnak meg.",
+                true
+            ],
+            [
+                "Az, hogy az on-line értékesítési csatornák mind az ügyfél, mind a cégek költségeit csökkentik."
+            ],
+            [
+                "Az, hogy csökken az elvégzendő papírmunka mennyisége."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik állítás nem igaz az ún. Call Center szolgáltatásra?",
+        "Válaszok": [
+            [
+                "Célja, hogy a bank ügyfele a világ bármelyik pontjáról, bármikor kapcsolatot tudjon létesíteni bankjával. ."
+            ],
+            [
+                "A Call Center szolgáltatás off-line alkalmazás."
+            ],
+            [
+                "Az elszámolást rögtön a tranzakció után végzik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik állítás nem igaz a Home Banking szolgáltatásra?",
+        "Válaszok": [
+            [
+                "A Home Banking szolgáltatás elektronikus banki tranzakciók megvalósítását teszi lehetővé."
+            ],
+            [
+                "A vállalkozások által igénybevett hasonló szolgáltatást üzleti terminálnak hívjuk."
+            ],
+            [
+                "A Home Banking szolgáltatás off-line alkalmazás.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi tartozik az alábbiak közül az ún. Home Banking megbízási funkciói közé?",
+        "Válaszok": [
+            [
+                "A deviza átutalás.",
+                true
+            ],
+            [
+                "A jelszóváltoztatás."
+            ],
+            [
+                "A bankkártya letiltás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik állítás igaz az internet banking szolgáltatásra?",
+        "Válaszok": [
+            [
+                "Az internet banking szolgáltatás az elektronikus banki tranzakciók megvalósítását lehetővé tevő, az interneten keresztül böngésző programmal igénybe vehető elektronikus banki termék, és az általa nyújtott szolgáltatások összessége.",
+                true
+            ],
+            [
+                "Az internet banking szolgáltatás fizetési számlához, illetve bankkártyához kapcsolódó olyan banki szolgáltatáscsomag, amely az ügyfélkapcsolat egyszerűsítését és folyamatossá tételét szolgálja."
+            ],
+            [
+                "Az internet banking szolgáltatás elektronikus banki tranzakciók megvalósítását lehetővé tevő, számítógépre telepített speciális banki szoftveren keresztül igénybe vehető elektronikus banki termék, és az általa nyújtott szolgáltatások összessége."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az internet banking előnye?",
+        "Válaszok": [
+            [
+                "Az alacsony beruházási költségek."
+            ],
+            [
+                "Az idősebb ügyfelek is hamar megszokják."
+            ],
+            [
+                "Időben és térben rugalmas hozzáférést biztosít egyes banki szolgáltatásokhoz.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A telebank (Call Center) minden szolgáltatásának igénybevételéhez szükséges az egyedi azonosító kód."
+            ],
+            [
+                "A telebank (Call Center) szolgáltatás keretén belül bárki kaphat általános tájékoztatást.",
+                true
+            ],
+            [
+                "A telebank (Call Center) szolgáltatás általában igen drága."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik a tipikus elektronikus banki szolgáltatás?",
+        "Válaszok": [
+            [
+                "A Home bankig.",
+                true
+            ],
+            [
+                "A portfólió kezelés."
+            ],
+            [
+                "A private banking."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a helyes befejezést! Az elektronikus banki szolgáltatások",
+        "Válaszok": [
+            [
+                "pénzügyi szolgáltatásnak minősülnek.",
+                true
+            ],
+            [
+                "biztosítási szolgáltatásnak minősülnek."
+            ],
+            [
+                "kiegészítő befektetési szolgáltatásnak minősülnek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi nem az ún. mobilbank lényeges eleme az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A bank SMS üzenet formájában minden, az ügyfél fizetési számláját érintő változásról (terhelés, jóváírás) értesíti az ügyfelet."
+            ],
+            [
+                "A bankkártyájával végzett tranzakciókról (készpénzfelvétel, vásárlás) a bank SMS-ben értesítést küld a bankkártya-birtokosnak."
+            ],
+            [
+                "A bank az ÁSZF változásairól SMS értesítést küld az ügyfeleinek.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Honnan lehet tudni, hogy mennyibe fog kerülni az átutalási megbízás?",
+        "Válaszok": [
+            [
+                "A bankszámla (fizetési számla) kivonatból utólag kiderül."
+            ],
+            [
+                "A bankszámla (fizetési számla) szerződés feltételei nem változhatnak, ha a hitelintézet módosítani akarja a kapcsolódó szolgáltatások díját, akkor új szerződést kell kötni."
+            ],
+            [
+                "A kondíciós listából.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Konverziónak nevezzük azt a díjat, amit a hitelintézet azért számít fel, hogy a bankszámlánkon (fizetési számlákon) lévő devizánkat egy másik ország devizájára váltsa át."
+            ],
+            [
+                "Konverzió az a díj, amit a hitelintézet a nem forint-alapú bankszámlák (fizetési számlák) vezetéséért számít fel."
+            ],
+            [
+                "Amennyiben az átutalás pénzneme és annak fedezete, vagyis a bankszámlánkon (fizetési számlákon) levő pénz pénzneme eltér, a hitelintézet konverziót hajt végre.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki fizeti az átutalás díját mind belföldi, mind külföldi átutalás esetén?",
+        "Válaszok": [
+            [
+                "Fő szabály az, hogy mindenki maga viseli saját bankjának költségeit.",
+                true
+            ],
+            [
+                "Mindig az átutalás megbízója viseli az átutalás költségeit, az, akinek a számláját terhelik."
+            ],
+            [
+                "Mindig az átutalás kedvezményezettje viseli az átutalás költségeit, az, akinek a számláján jóváírják az összeget."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a helyes befejezést! Belföldi forintátutalásnál az általános gyakorlat az, hogy",
+        "Válaszok": [
+            [
+                "mindenki maga viseli a saját bankjának a költségeit."
+            ],
+            [
+                "a forintátutalást kezdeményező megbízó fizeti a díjat.",
+                true
+            ],
+            [
+                "a kedvezményezett viseli az átutalás költségeit."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az ATM-nél történő készpénzfelvétel jellemzően drágább, mint a bankfióki.",
+                true
+            ],
+            [
+                "A bankfióki készpénzfelvétel jellemzően drágább, mint az ATM-nél történő."
+            ],
+            [
+                "A készpénzfelvételi díjakra vonatkozóan nincs egységes díjszabás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A bankszámlák (fizetési számlák), és ahhoz kapcsolódóan a fizetési forgalom körében az alábbiak közül a hitelintézetnek miről kell tájékoztatnia ügyfelét?",
+        "Válaszok": [
+            [
+                "Részben a fizetési megbízások teljesítésének feltételeiről, részben a bankszámla (fizetési számla) egyenlegét meghatározó időszaki forgalomról és a banki kondíciókról.",
+                true
+            ],
+            [
+                "Kizárólag a bankszámla (fizetési számla) egyenlegét meghatározó időszaki forgalomról."
+            ],
+            [
+                "Kizárólag a banki hitelkondíciókról."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A Bankközi Klíring Rendszerben (BKR) díjfizetésre a fogadó kötelezett",
+        "Válaszok": [
+            [
+                "egyszerű átutalás teljesítése esetén."
+            ],
+            [
+                "csoportos beszedés teljesítése esetén.",
+                true
+            ],
+            [
+                "csoportos átutalás tranzakció esetén."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A bankszámla (fizetési számla) kivonat",
+        "Válaszok": [
+            [
+                "csupán arra szolgál, hogy a bank igazolja, hogy a számlatulajdonos megbízásait a bank teljesítette."
+            ],
+            [
+                "a bankszámla (fizetési számla) egyenlegét meghatározó meghatározott (jellemzően havi) időszaki forgalomról kiállított bizonylat.",
+                true
+            ],
+            [
+                "csak a bank által levont díjakat, jutalékokat és költségtérítéseket tartalmazza."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miről köteles a pénzforgalmi szolgáltató tájékoztatni az ügyfelet az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Valamennyi 5.000 Ft-ot meghaladó díjról."
+            ],
+            [
+                "Valamennyi díjról, költségről vagy egyéb fizetési kötelezettségről.",
+                true
+            ],
+            [
+                "Valamennyi 10.000 Ft-ot meghaladó díjról és költségről."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás igaz a lépcsőzetes kamatozásra?",
+        "Válaszok": [
+            [
+                "Ha a betétes 5.000.000 Ft-ot szeretne lekötni és a hitelintézet a 3.000.000 Ft feletti lekötésekre 15% kamatot fizet, az az alattiakra pedig 12%-ot, akkor a lépcsőzetes kamatozás értelmében 2.000.000 Ft 12%-on kamatozik, 3.000.000 Ft pedig évi 15%-ot fizet."
+            ],
+            [
+                "Ha a betétes 5.000.000 Ft-ot szeretne lekötni és a hitelintézet a 3.000.000 Ft feletti lekötésekre 15% kamatot fizet, az az alattiakra pedig 12%-ot, akkor a lépcsőzetes kamatozás értelmében 3.000.000 Ft 12%-on kamatozik, 2.000.000 Ft pedig évi 15%-ot fizet."
+            ],
+            [
+                "Ha a betétes 5.000.000 Ft-ot szeretne lekötni és a hitelintézet a 3.000.000 Ft feletti lekötésekre 15% kamatot fizet, az az alattiakra pedig 12%-ot, akkor a lépcsőzetes kamatozás értelmében mind az 5.000.000 Ft-ra évi 15% kamatot fog kapni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás igaz a sávos kamatozásra?",
+        "Válaszok": [
+            [
+                "Ha a betétes 5.000.000 Ft-ot szeretne lekötni és a hitelintézet a 3.000.000 Ft feletti lekötésekre 15% kamatot fizet, az az alattiakra pedig 12%-ot, akkor a sávos kamatozás értelmében 2.000.000 Ft 12%-on kamatozik, 3.000.000 Ft pedig évi 15%-ot fizet."
+            ],
+            [
+                "Ha a betétes 5.000.000 Ft-ot szeretne lekötni és a hitelintézet a 3.000.000 Ft feletti lekötésekre 15% kamatot fizet, az az alattiakra pedig 12%-ot, akkor a sávos kamatozás értelmében 3.000.000 Ft 12%-on kamatozik, 2.000.000 Ft pedig évi 15%-ot fizet.",
+                true
+            ],
+            [
+                "Ha a betétes 5.000.000 Ft-ot szeretne lekötni és a hitelintézet a 3.000.000 Ft feletti lekötésekre 15% kamatot fizet, az az alattiakra pedig 12%-ot, akkor a sávos kamatozás értelmében mind az 5.000.000 Ft-ra évi 15% kamatot fog kapni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A sávos vagy a lépcsőzetes kamatozás kedvezőbb a betéteseknek?",
+        "Válaszok": [
+            [
+                "A sávos."
+            ],
+            [
+                "A lépcsőzetes.",
+                true
+            ],
+            [
+                "Nincs különbség, csak a könyvelés technikája más."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az egyszerű kamatozás kedvezőbb a betétesnek, mint a kamatos kamatozás."
+            ],
+            [
+                "Az egyszerű kamatszámítást hívják még lineáris kamatszámításnak is.",
+                true
+            ],
+            [
+                "Az egyszerű kamatszámítást hívják még exponenciális kamatszámításnak is."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az egységes betéti kamatmutató (EBKM) célja, hogy a különböző betéti konstrukciók összehasonlíthatóak legyenek."
+            ],
+            [
+                "Az egységes betéti kamatmutató (EBKM) számításánál a kamatösszegben csak a ténylegesen jóváírandó összeg vehető figyelembe, így a jutalékokkal és díjakkal a bruttó kamatösszeget csökkenteni kell."
+            ],
+            [
+                "Az egységes betéti kamatmutató (EBKM) számításánál a kamatösszeget nem kell csökkenteni a jutalékokkal és díjakkal.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kamatos kamatszámítást feltételezve mekkora a bankbetétek éves tényleges (effektív) kamatlába, ha az éves nominális kamatláb 12%, és a jóváírt kamatok tőkésítése negyedévente történik?",
+        "Válaszok": [
+            [
+                "több, mint évi 12%",
+                true
+            ],
+            [
+                "kevesebb, mint évi 12%"
+            ],
+            [
+                "évi 12%"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kamatos kamatszámítást feltételezve, éves betétlekötés mellett az alábbiak közül mely esetben írja jóvá a bank a legtöbb kamatot az ügyfél számláján? Az éves nominális kamatláb 10%.",
+        "Válaszok": [
+            [
+                "Ha a bank a kamatokat negyedévente tőkésíti."
+            ],
+            [
+                "Ha a bank a kamatokat havonta tőkésíti.",
+                true
+            ],
+            [
+                "Ha a bank a kamatokat évente tőkésíti."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kamatos kamatszámítást feltételezve mekkora a bankbetétek éves hozama, ha az éves nominális kamatláb 12%, és a tőkésítési periódus ideje rövidebb, mint egy év?",
+        "Válaszok": [
+            [
+                "több, mint évi 12%",
+                true
+            ],
+            [
+                "kevesebb, mint évi 12%"
+            ],
+            [
+                "évi 12%"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "1 évre lekötünk 2.000.000 Ft-ot. Az éves névleges kamatláb 30%, tőkésítés évente egyszer történik. Mennyi kamatot írnak jóvá a lakossági bankszámlánkon (fizetési számlánkon), ha a kamatadó 15%?",
+        "Válaszok": [
+            [
+                "2.000.000*(0,3-0,3*0,15)",
+                true
+            ],
+            [
+                "2.000.000*(0,3-0,15)"
+            ],
+            [
+                "A kamatadó csak a vállalkozásokat terheli, ezért tőlünk (lakossági ügyfélkörben) nem is vonják le."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Két évig, minden év elején 200.000 Ft-ot takarítunk meg. Az éves névleges kamat 10% és tőkésítés évente egyszer történik. Mennyi pénzünk lesz a 2. év végén?",
+        "Válaszok": [
+            [
+                "200.000*1,12"
+            ],
+            [
+                "200.000*1,1+200.000*1,1"
+            ],
+            [
+                "(200.000*1,1+200.000)*1,1",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Három évig, minden év végén 100.000 Ft-ot fizetünk be a bankszámlánkra (fizetési számlánkon). Az éves névleges kamat 10% és tőkésítés évente egyszer történik, év végén. Mennyi pénzünk lesz a 3. év végére (első befizetés az első év végén történik)?",
+        "Válaszok": [
+            [
+                "300.000*1,13"
+            ],
+            [
+                "(100.000*1,1+100.000)*1,1+100.000",
+                true
+            ],
+            [
+                "100.000*1,1+100.000*1,1+100.000*1,1"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "2 évre lekötünk 1.000.000 Ft-ot. Az éves névleges kamatláb 25%, tőkésítés évente egyszer történik. Mennyi kamatot írnak jóvá a bankszámlánkon (fizetési számlánkon), ha a kamatadó 15%?",
+        "Válaszok": [
+            [
+                "1.000.000*(0,25-0,15)"
+            ],
+            [
+                "1.000.000*(0,25-0,25*0,15)",
+                true
+            ],
+            [
+                "Mind a 25% kamatot jóváírják a bankszámlánkon (fizetési számlánkon), a 15% kamatadót nekünk kell befizetni az adó-hatóságnak az SZJA bevalláskor."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás nem igaz a kamatadóra?",
+        "Válaszok": [
+            [
+                "A lakossági és a vállalati ügyfeleket is terheli.",
+                true
+            ],
+            [
+                "Csak a lakossági ügyfeleket érinti."
+            ],
+            [
+                "A kamatadót a kifizetőnek kell levonnia."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A kamatnapok számításánál a német módszert alkalmazva",
+        "Válaszok": [
+            [
+                "egy év 365 vagy 366 napos, a hónapokat pedig a tényleges napok számával azonosítják."
+            ],
+            [
+                "egy év mindig 360 napos, a hónapokat pedig 28, 30 vagy 31 naposnak tekintik."
+            ],
+            [
+                "minden hónap 30 napos, egy év pedig mindig 360 napos.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A kamatnapok számításánál a francia módszert alkalmazva",
+        "Válaszok": [
+            [
+                "egy év 365 vagy 366 napos, a hónapokat pedig a tényleges napok számával azonosítják."
+            ],
+            [
+                "egy év mindig 360 napos, a hónapokat pedig 28, 30 vagy 31 naposnak tekintik.",
+                true
+            ],
+            [
+                "minden hónap 30 napos, egy év pedig mindig 360 napos."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz adott éves névleges kamatlábat feltételezve?",
+        "Válaszok": [
+            [
+                "Minél gyakoribb az éven belüli kamattőkésítés, annál nagyobb az éves effektív kamatláb.",
+                true
+            ],
+            [
+                "Minél gyakoribb az éven belüli kamattőkésítés, annál kisebb az éves effektív kamatláb."
+            ],
+            [
+                "Az effektív kamatláb nagyságát csak a nominális kamatláb nagysága befolyásolja."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Három évig, minden év elején 100.000 Ft-ot takarítunk meg. Az éves névleges kamat 10% és tőkésítés évente egyszer történik. Mennyi pénzünk lesz a 3. év végén?",
+        "Válaszok": [
+            [
+                "300.000*1,13"
+            ],
+            [
+                "100.000*1,1+100.000*1,1+100.000*1,1"
+            ],
+            [
+                "[(100.000*1,1+100.000)*1,1+100.000]*1,1",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kétfajta kamatozási konstrukció közül választhatunk: 1. Éves névleges kamatláb 20,5% évi egyszeri tőkésítés mellett, vagy 2. Éves névleges kamatláb 20%, tőkésítés félévente történik. Melyiket válasszuk a magasabb hozam érdekében?",
+        "Válaszok": [
+            [
+                "Az elsőt, mert a névleges kamatláb ott nagyobb, mint a másodiknál."
+            ],
+            [
+                "A másodikat, a névleges kamatláb ott alacsonyabb, mint a másodiknál."
+            ],
+            [
+                "A másodikat, mert a kamatos kamatszámítás miatt ebben az esetben a hozam magasabb lesz, mint a névleges kamat (20,5%<21%/=[1,1^2-1]*100%/).",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mire használják a jelenérték-számítást?",
+        "Válaszok": [
+            [
+                "Mai befektetéseink egy jövőbeni időpontban való értékének a megállapítására."
+            ],
+            [
+                "A diszkontfaktor megállapítására."
+            ],
+            [
+                "Arra, hogy megállapítsák, mekkora egy jövőben esedékes pénzáramlás jelenlegi értéke.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a pénz időértékéről az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Egységnyi pénzösszeg jelenbeli értéke több, mint ha ezt a pénzösszeget majd a jövőben kapjuk meg.",
+                true
+            ],
+            [
+                "Egységnyi pénzösszeg a jövőben az infláció miatt többet fog érni."
+            ],
+            [
+                "Minél kockázatosabb valamely pénzösszeg jövőbeli befolyása, a befektetők annál magasabban állapítják meg a jelenértékét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora 1 év múlva esedékes 3 millió Ft szerzői jogdíj jelenértéke, ha az összehasonlításhoz használható piaci kamatláb 12%?",
+        "Válaszok": [
+            [
+                "Kevesebb, mint 3 millió Ft.",
+                true
+            ],
+            [
+                "Több, mint 3 millió Ft."
+            ],
+            [
+                "3 millió Ft."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alább felsorolt bevétel jellegű pénzáramlások közül melyiknek a legnagyobb a jelenértéke, ha a kamatláb nem nulla? (Feltételezzük, hogy a pénzáramlások 3 egymást követő év végén folynak be, és a piaci kamatláb minden időtávra megegyezik.)",
+        "Válaszok": [
+            [
+                "100, 200, 300"
+            ],
+            [
+                "300, 200, 100",
+                true
+            ],
+            [
+                "200, 200, 200"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alább felsorolt pénzbevételek közül melyiknek a legnagyobb a jelenértéke, ha a kamatláb nem nulla?",
+        "Válaszok": [
+            [
+                "Pontosan egy év múlva esedékes 500 Ft.",
+                true
+            ],
+            [
+                "Pontosan két év múlva esedékes 500 Ft."
+            ],
+            [
+                "Pontosan három év múlva esedékes 500 Ft."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiakban felsoroltak közül melyik esetben kapjuk a legmagasabb jelenértéket?",
+        "Válaszok": [
+            [
+                "Egy év múlva esedékes 1 millió Ft, és a piaci kamatláb 10%.",
+                true
+            ],
+            [
+                "Egy év múlva esedékes 1 millió Ft, és a piaci kamatláb 12%."
+            ],
+            [
+                "Egy év múlva esedékes 1 millió Ft, és a piaci kamatláb 15%."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan számítjuk ki egy pénzáramlás jelenértékét?",
+        "Válaszok": [
+            [
+                "Úgy, hogy egyenként kiszámoljuk minden jövőbeni pénzbevétel jelenértékét, aztán a kapott jelenértékeket összeadjuk.",
+                true
+            ],
+            [
+                "Úgy, hogy összegezzük a pénzbevételeket, majd vesszük ennek az összegnek a jelenértékét."
+            ],
+            [
+                "A pénzbevételeket egyenként megszorozzuk a hozzá tartozó kamatlábbal, majd az így kapott értékeket összeadjuk."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan számítjuk a nettó jelenértéket, egyszeri kezdő tőkebefektetést feltételezve?",
+        "Válaszok": [
+            [
+                "A jövőbeli pénzbevételekből kivonjuk a kezdő tőkebefektetés összegét."
+            ],
+            [
+                "Kiszámítjuk a pénzbevételek jelenértékeinek az összegét és ebből kivonjuk a kezdő tőkebefektetést.",
+                true
+            ],
+            [
+                "Kiszámítjuk a pénzbevételek összegének a jelenértékét és ebből kivonjuk a kezdő tőkebefektetést."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e valamely befektetés jelenértéke negatív?",
+        "Válaszok": [
+            [
+                "Igen, amennyiben a befektetés hozama az elvárt hozam (például a pénzromlás mértéke) alatt marad.",
+                true
+            ],
+            [
+                "Nem, a jelenérték a befektető számára legkedvezőtlenebb esetben zérus."
+            ],
+            [
+                "Igen, amennyiben a befektető által elvárt hozam is negatív."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz jelenérték számításról az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Ha a piacon a kamatlábak emelkednek, a befektetésem várható jelenértéke csökken.",
+                true
+            ],
+            [
+                "Ha a piacon a kamatlábak emelkednek, a befektetésem várható jelenértéke nő."
+            ],
+            [
+                "A befektetésem jelenértékét a piaci kamatlábak változása nem befolyásolja."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik befektetést (beruházást) érdemes megvalósítani?",
+        "Válaszok": [
+            [
+                "Amelyiknek pozitív a nettó jelenértéke.",
+                true
+            ],
+            [
+                "Amelyiknek negatív a nettó jelenértéke."
+            ],
+            [
+                "Amelyiknek nulla a nettó jelenértéke."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A jelenérték számítás valamely jövőbeli pénzáramlás mai időpontra vonatkozó értékének a meghatározását jelenti.",
+                true
+            ],
+            [
+                "A jövőérték számítás a diszkontálás módszerén alapul."
+            ],
+            [
+                "A diszkontálás a kamatszámítással megegyező irányú művelet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik befektetés jelenértéke a legmagasabb?",
+        "Válaszok": [
+            [
+                "Az egy év múlva esedékes 10.000.000 Ft pénzbevétel."
+            ],
+            [
+                "A következő két évben esedékes évi 10.000.000 Ft pénzbevétel.",
+                true
+            ],
+            [
+                "A következő két évben esedékes évi 5.000.000 Ft pénzbevétel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alább felsorolt bevétel jellegű pénzáramlások közül melyiknek a legnagyobb a jelenértéke, ha a kamatláb nem nulla? (Feltételezzük, hogy a pénzáramlások 4 egymást követő negyedév végén folynak be, és a piaci kamatláb minden időtávra megegyezik.)",
+        "Válaszok": [
+            [
+                "1 millió, 2 millió, 3 millió, 4 millió Ft."
+            ],
+            [
+                "minden negyedévben 2 millió Ft."
+            ],
+            [
+                "4 millió, 3 millió, 2 millió, 1 millió Ft.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alább felsorolt befektetések közül melyiknek a legmagasabb a jelenértéke?",
+        "Válaszok": [
+            [
+                "Egy év múlva esedékes 1000 Ft, a kamatláb 10%."
+            ],
+            [
+                "Két év múlva esedékes 1000 Ft, a kamatláb 15%."
+            ],
+            [
+                "Ma esedékes 1000 Ft.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora a nettó jelenértéke a következő pénzáramlás sorozatnak? Ma 200 Ft befektetés, két év múlva esedékes 400 Ft pénzbevétel; a kamatláb 10%.",
+        "Válaszok": [
+            [
+                "400-200"
+            ],
+            [
+                "400/1,1^2-200",
+                true
+            ],
+            [
+                "400/1,1^2-200/1,1"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény értelmezésében mi a betétgyűjtés?",
+        "Válaszok": [
+            [
+                "A betétgyűjtés betétszerződés vagy takarékbetét-szerződés alapján vállalt pénz tartozás."
+            ],
+            [
+                "A betétgyűjtés a pénzeszközök egyedileg előre meg nem határozott személyektől történő gyűjtése oly módon, hogy azzal a betétgyűjtő tulajdonosként rendelkezhet, de köteles azt – kamattal, más előny biztosításával vagy anélkül – visszafizetni.",
+                true
+            ],
+            [
+                "A betétgyűjtés betétszerződés vagy takarékbetét-szerződés alapján vállalt hitel tartozás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A betétgyűjtés milyen bankügyletnek minősül?",
+        "Válaszok": [
+            [
+                "A betétgyűjtés aktív bankügyletnek minősül."
+            ],
+            [
+                "A betétgyűjtés passzív bankügyletnek minősül.",
+                true
+            ],
+            [
+                "A betétgyűjtés semleges bankügyletnek minősül."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A betét pénzneme szerint milyen betétek nem létezhetnek?",
+        "Válaszok": [
+            [
+                "Valuta betét.",
+                true
+            ],
+            [
+                "Deviza betét."
+            ],
+            [
+                "Forint betét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Futamidő szerint mely betéteket nevezzük hosszú távúnak?",
+        "Válaszok": [
+            [
+                "Amelyek legalább egy évre le vannak kötve."
+            ],
+            [
+                "Amelyek legalább 3 évre le vannak kötve."
+            ],
+            [
+                "Amelyek legalább 5 évre le vannak kötve.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik befejezéssel válik az állítás hamissá? A betétszerződés, mint önálló szerződéstípus elemeiben hasonlóságot mutat",
+        "Válaszok": [
+            [
+                "részben a kölcsönszerződéssel."
+            ],
+            [
+                "részben a letéti szerződéssel."
+            ],
+            [
+                "részben a biztosítási szerződéssel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A betétszerződés értelmében a betétes pénze a hitelintézet tulajdonába kerül, a betétest pedig kötelmi jellegű hitelezői jogosultság illeti meg.",
+                true
+            ],
+            [
+                "A számlakövetelés kimerülése a bankszámla-szerződést (fizetésiszámla-szerződés) megszünteti."
+            ],
+            [
+                "A betétszerződés megegyezik a takarékbetét-szerződéssel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A betétszerződés értelmében a betétesnek kötelezettsége keletkezik a hitelintézettel szemben."
+            ],
+            [
+                "A betétszerződés értelmében a betétesnek követelése keletkezik a hitelintézettel szemben.",
+                true
+            ],
+            [
+                "A betétszerződés értelmében a hitelintézet követelést szerez a betétessel szemben."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A betétszerződés alanya betétesként kizárólag magánszemély lehet."
+            ],
+            [
+                "A betétszerződés alanya intézményi oldalról kizárólag hitelintézet vagy pénzügyi vállalkozás lehet."
+            ],
+            [
+                "A jelzáloghitelintézet nem gyűjthet betétet.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a helyes befejezést! Formailag a betétszerződés megköthető",
+        "Válaszok": [
+            [
+                "bankszámla-szerződés (fizetésiszámla-szerződés) keretében."
+            ],
+            [
+                "önálló szerződésként."
+            ],
+            [
+                "bankszámla-szerződés (fizetésiszámla-szerződés) keretében és önálló szerződésként is.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e az alábbi állítás? A betételhelyezés a számlatulajdonos bankszámlájáról (fizetési számlájáról) történő átvezetéssel, vagy közvetlen pénztári befizetéssel történhet.",
+        "Válaszok": [
+            [
+                "Az állítás igaz.",
+                true
+            ],
+            [
+                "Az állítás hamis, mert csak közvetlen pénztári befizetéssel történhet."
+            ],
+            [
+                "Az állítás hamis, mert csak a számlatulajdonos bankszámlájáról (fizetési számlájáról) történő átvezetéssel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Ha egy magánszemélynek euró betétje van és az euró a forinttal szemben 10%-ot erősödik, ez azt jelenti, hogy",
+        "Válaszok": [
+            [
+                "a betét forintban felvehető összege 10%-kal alacsonyabb lesz."
+            ],
+            [
+                "a betét forintban felvehető összege 10%-kal magasabb lesz.",
+                true
+            ],
+            [
+                "a betét euróban felvehető összege 10%-kal alacsonyabb lesz."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A kereskedelmi kommunikációban a hitelintézetnek fel kell tüntetni a betét teljes hiteldíj mutatóját (THM)."
+            ],
+            [
+                "A kereskedelmi kommunikációban a hitelintézetnek fel kell tüntetni a betét egységesített betéti kamatláb mutatóját (EBKM).",
+                true
+            ],
+            [
+                "A kereskedelmi kommunikációban a pénzügyi vállalkozásnak fel kell tüntetni a betét egységesített betéti kamatláb mutatóját (EBKM)."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint mi a betét fogalma?",
+        "Válaszok": [
+            [
+                "A betét a Polgári Törvénykönyv szerinti betétszerződés vagy takarékbetét-szerződés alapján fennálló tartozás."
+            ],
+            [
+                "A betét a bankszámlaszerződés (fizetésiszámla-szerződés) alapján fennálló pozitív számlaegyenleg."
+            ],
+            [
+                "A betét a Polgári Törvénykönyv szerinti betétszerződés vagy a takarékbetétről szóló törvényerejű rendelet szerinti takarékbetét-szerződés alapján fennálló tartozás, ideértve a hitelintézetnél a fizetésiszámla-szerződés alapján fennálló pozitív számlaegyenleget is.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A kamat jóváírás módja szerint az alábbiak közül milyen lekötés nem létezik?",
+        "Válaszok": [
+            [
+                "Lineáris betétlekötés.",
+                true
+            ],
+            [
+                "Eseti betétlekötés."
+            ],
+            [
+                "Ismétlődő betétlekötés."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül az általános szabályok szerint?",
+        "Válaszok": [
+            [
+                "A betétszerződésnél a követelés megfizetése iránti igény nem évül el."
+            ],
+            [
+                "A betétszerződésnél a követelés megfizetése iránti igény 3 év alatt évül el."
+            ],
+            [
+                "A betétszerződésnél a követelés megfizetése iránti igény 5 év alatt évül el.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Határozott időre szóló betét esetén a bank a betét összegét lejáratkor vagy a betétes rendelkezése szerint köteles visszafizetni."
+            ],
+            [
+                "A betétes a betét összegének visszafizetését a szerződésben meghatározott idő lejárta előtt nem jogosult kérni.",
+                true
+            ],
+            [
+                "A bank a szerződésben meghatározott idő lejárta előtt is jogosult akár a betétes felszólítása hiányában is a betét összegének visszafizetésére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik meghatározás igaz a takarékbetét-szerződésre az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A takarékbetét-szerződés alapján a hitelintézet köteles az elhelyezőtől takarékbetétkönyv vagy más okmány ellenében pénzt átvenni, és annak összegét a szerződés szerint visszafizetni.",
+                true
+            ],
+            [
+                "A takarékbetét-szerződés szerint a bankbetét a bank által az ügyfelei részére vezetett nyilvántartás, melynek segítségével a bank kezeli az ügyfél nála elhelyezett pénzét, fogadja és teljesíti az ügyfél fizetési megbízásait, valamint fogadja és jóváírja az ügyfél számára érkezett összegeket."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A takarékbetét-szerződésnél a betétes",
+        "Válaszok": [
+            [
+                "csak természetes személy és jogi személyiséggel rendelkező gazdasági társaság lehet."
+            ],
+            [
+                "kizárólag természetes személy lehet.",
+                true
+            ],
+            [
+                "csak természetes személy és betéti társaság lehet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e az alábbi állítás? A takarékbetétbe történő befizetést, abból történő kifizetést, valamint a kamat jóváírását az okiraton fel kell tüntetni. Kifizetés csak az okirat egyidejű bemutatása mellett teljesíthető.",
+        "Válaszok": [
+            [
+                "Az állítás igaz.",
+                true
+            ],
+            [
+                "Az állítás hamis, mert a takarékbetétkönyvben csak az éves nyitó és záró egyenleget kell feltüntetni, a forgalmi adatok a bankszámlakivonatban szerepelnek."
+            ],
+            [
+                "Az állítás hamis, mert a takarékbetétkönyv nem pénzmozgással kapcsolatos adatokat tartalmaz."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A takarékbetétek látra szólóak."
+            ],
+            [
+                "A takarékbetétek bemutatóra szólóak."
+            ],
+            [
+                "A takarékbetétek névre szólóak.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A kamatozó takarékbetét és a nyereménybetét között az a lényeges különbség, hogy",
+        "Válaszok": [
+            [
+                "a kamatozó takarékbetét után járó kamatot a hitelintézet az egyes betéteseknek közvetlenül fizeti meg, míg a nyereménybetétek után járó kamatokból nyeremény-alapot képez, és a betétesek között nyeremény formájában kisorsolja.",
+                true
+            ],
+            [
+                "a nyereménybetét nem kamatozik."
+            ],
+            [
+                "a kamatozó takarékbetét csak hosszú, míg a nyereménybetét csak rövid futamidejű lehet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A lekötött betét tulajdonosa nem kaphatja vissza a lekötött pénzét a lekötési idő lejárta előtt."
+            ],
+            [
+                "A lekötött betét tulajdonosa ugyan visszakaphatja a lekötött pénzét a lekötési idő lejárta előtt, azonban a hitelintézet a szerződés szerinti lekötési idő előtt felvett betét után - a tényleges elhelyezés idejére - járó kamatnak a kamatfeltételekben meghatározott hányadát fizeti ki.",
+                true
+            ],
+            [
+                "A lekötött betét tulajdonosa kamatveszteség nélkül kaphatja vissza a lekötött pénzét a lekötési idő lejárta előtt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e az alábbi állítás? A takarékbetét összege és a takarékbetét után járó kifizetések minden tekintetben adómentesek.",
+        "Válaszok": [
+            [
+                "Az állítás igaz."
+            ],
+            [
+                "Az állítás hamis, mert csak a nyereménybetétek teljesen adómentesek."
+            ],
+            [
+                "Az állítás hamis, mert az adómentesség csak a takarékbetét tőkeösszegére vonatkozik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A takarékbetét-szerződés alapján kötelező takarékbetétkönyvet kiállítani."
+            ],
+            [
+                "A takarékbetét-szerződés alapján kötelező takarékbetétkönyvet vagy más okiratot kiállítani.",
+                true
+            ],
+            [
+                "A takarékbetétkönyv alaki (pl. mérete) és tartalmi elemeit a Polgári Törvénykönyv szigorúan szabályozza."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A takarékbetét-szerződésnél a követelés megfizetése iránti igény nem évül el.",
+                true
+            ],
+            [
+                "A takarékbetét-szerződésnél a követelés megfizetése iránti igény 3 év alatt évül el."
+            ],
+            [
+                "A takarékbetét-szerződésnél a követelés megfizetése iránti igény 5 év alatt évül el."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az illetékről szóló törvény értelmében a takarékbetét megszerzése mentes az öröklési, illetve az ajándékozási illeték alól."
+            ],
+            [
+                "Az illetékről szóló törvény értelmében a takarékbetét megszerzése mentes az ajándékozási illeték alól."
+            ],
+            [
+                "Az illetékről szóló törvény értelmében a takarékbetét megszerzése nem mentes az öröklési illeték, illetve az ajándékozási illeték alól.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a takarékbetétre az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Közös betét esetén a takarékbetét feletti rendelkezésre – eltérő megállapodás hiányában – valamennyi betétes egyetemlegesen jogosult.",
+                true
+            ],
+            [
+                "Közös betét esetén a takarékbetét feletti rendelkezésre a betétesek csak együttesen jogosultak."
+            ],
+            [
+                "Közös betét esetén a takarékbetét feletti rendelkezésre a betétesek többsége együttesen jogosult."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Takarékbetét kizárólag lekötési idő meghatározása nélkül (látra szólóan) elhelyezhető el."
+            ],
+            [
+                "Takarékbetét lekötési idő meghatározása nélkül vagy előre meghatározott lekötési időre elhelyezhető el.",
+                true
+            ],
+            [
+                "Takarékbetét kizárólag előre meghatározott lekötési időre helyezhető el."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbi lehetőségek közül melyik a helyes folytatás? A takarékbetét összegének visszafizetésére",
+        "Válaszok": [
+            [
+                "és a kamat kifizetésére vonatkozó követelés nem évül el.",
+                true
+            ],
+            [
+                "vonatkozó követelés nem évül el, a kamat kifizetésére vonatkozó követelés elévülési ideje 5 év."
+            ],
+            [
+                "vonatkozó követelés elévülési ideje 5 év."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Nagykorú betétes a takarékbetét elhelyezésekor úgy rendelkezhet, hogy elhalálozása esetén a takarékbetétet az általa megjelölt kedvezményezett részére kell visszafizetni."
+            ],
+            [
+                "Takarékbetét esetében a betétes által megjelölt kedvezményezett csak a hagyatéki eljárás jogerős befejezését követően rendelkezhet a takarékbetét felett.",
+                true
+            ],
+            [
+                "A kedvezményezett a takarékbetét felett a hagyatéki eljárás lefolytatásától függetlenül rendelkezhet, mivel a halál esetére történő kedvezményezett kijelöléssel elhelyezett takarékbetét nem tartozik a takarékbetétes hagyatékához."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A betéti okirat",
+        "Válaszok": [
+            [
+                "alatt a betétszerződést értjük."
+            ],
+            [
+                "betétszerződést testesít meg, van okirat formája.",
+                true
+            ],
+            [
+                "alatt a takarékbetét-szerződést értjük."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e az alábbi állítás? A betét lehet számlához kapcsolódó vagy betéti okirat.",
+        "Válaszok": [
+            [
+                "Az állítás igaz.",
+                true
+            ],
+            [
+                "Az állítás hamis."
+            ],
+            [
+                "Kizárólag a hosszú futamidejű betétre igaz."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő két állítás? A betéti okiratok betétszerződést testesítenek meg, és csak fizikailag különböznek a számlabetétektől.",
+        "Válaszok": [
+            [
+                "Mindkét állítás igaz.",
+                true
+            ],
+            [
+                "Csak a mondat első fele igaz."
+            ],
+            [
+                "Csak a mondat második fele igaz."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiakban felsoroltak közül melyik felel meg a betéti okirat meghatározásának?",
+        "Válaszok": [
+            [
+                "A betéti okirat a hitelintézetnél elhelyezett betétek közül az, amely nem számlán és nem könyvesbetétben került elhelyezésre, függetlenül az okirat elnevezésétől, címletezésétől, lejáratától.",
+                true
+            ],
+            [
+                "A betéti okirat a hitelintézet által elhelyezett betétek közül az, amely  számlán és könyvesbetétben került elhelyezésre, függetlenül az okirat elnevezésétől, címletezésétől, lejáratától."
+            ],
+            [
+                "A betéti okirat a hitelintézetnél elhelyezett bemutatóra szóló betétek közül az, amely nem számlán és nem könyvesbetétben került elhelyezésre, függetlenül az okirat elnevezésétől, címletezésétől, és lejáratától."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelintézet a takarékbetét után járó kamat mértékének egyoldalú módosításához való jogát szerződésben nem kötheti ki."
+            ],
+            [
+                "A betétes a takarékbetét után járó kamat mértékének hitelintézet általi módosítása esetén nem jogosult a szerződést felmondani."
+            ],
+            [
+                "A betétes a takarékbetét után járó kamat mértékének hitelintézet általi módosítása esetén jogosult a szerződést felmondani.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A lakástakarékpénztárak",
+        "Válaszok": [
+            [
+                "pénzügyi vállalkozásnak minősülnek."
+            ],
+            [
+                "banknak minősülnek."
+            ],
+            [
+                "szakosított hitelintézetnek minősülnek.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a lakástakarékpénztár elsődleges feladata?",
+        "Válaszok": [
+            [
+                "Pénzkölcsön nyújtás ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogot is – fedezete mellett."
+            ],
+            [
+                "Lakás-előtakarékossági szerződés alapján végzett betétgyűjtés és hitelnyújtás, ideértve az áthidaló kölcsön nyújtását is.",
+                true
+            ],
+            [
+                "Jelzáloglevelek kibocsátása, melyek a jelzáloghitelek forrásául szolgálnak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Legalább mekkora tőkével alapítható Magyarországon lakástakarékpénztár?",
+        "Válaszok": [
+            [
+                "50 millió forint."
+            ],
+            [
+                "2 milliárd forint.",
+                true
+            ],
+            [
+                "250 millió forint."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi hiányzik a kipontozott részről? A lakástakarékpénztár a szerződéses összeget és annak részeként a lakáskölcsönt [...] folyósítja.",
+        "Válaszok": [
+            [
+                "a kiutalási összegből",
+                true
+            ],
+            [
+                "a szavatolótőkéjéből"
+            ],
+            [
+                "a járulékos tőkeelemekből"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A lakástakarékpénztár az alaptevékenységén kívül még milyen tevékenységet végezhet az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Szavatoló tőkéjének összesen 50%-át meg nem haladó mértékig tulajdoni részesedést szerezhet, kizárólag a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti járulékos vállalkozásokban."
+            ],
+            [
+                "Szavatoló tőkéjének összesen 50%-át meg nem haladó mértékig tulajdoni részesedést szerezhet más lakástakarékpénztárakban."
+            ],
+            [
+                "Hitelnyújtáshoz kapcsolódóan ingatlanértékelési tevékenységet is végezhet.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A lakás-előtakarékoskodó többnyire természetes személy, de lehet intézmény is. Az alábbiak közül az intézmények mely köre nem lehet lakás-előtakarékoskodó?",
+        "Válaszok": [
+            [
+                "Alapítvány, egyesület, egyházi jogi személy, helyi önkormányzat."
+            ],
+            [
+                "Betéti társaság, korlátolt felelősségű társaság, részvénytársaság.",
+                true
+            ],
+            [
+                "Lakásszövetkezet, társasház."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A lakás-előtakarékossági szerződés hitelszerződés jellegű szerződés."
+            ],
+            [
+                "A lakás-előtakarékossági szerződés betétszerződés jellegű szerződés."
+            ],
+            [
+                "A lakás-előtakarékossági szerződés egyszerre betét- és hitelszerződés.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora a lakás-takarékpénztári megtakarítási időszak minimum hossza?",
+        "Válaszok": [
+            [
+                "8 év."
+            ],
+            [
+                "5 év."
+            ],
+            [
+                "4 év.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A lakáskölcsönök biztosítéka rendszerint a finanszírozott ingatlanra (vagy más ingatlanra) alapított jelzálogjog."
+            ],
+            [
+                "Lakáskölcsönt csak akkor nyújthat a lakástakarékpénztár, ha a megtakarítási időszak elérte a 4 évet."
+            ],
+            [
+                "A legalább 4 éves megtakarítási időszak után a lakáskölcsön folyósítása automatikus.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az áthidaló kölcsön, olyan kölcsön, amelyet a lakás-takarékpénztár kizárólag lakás-előtakarékoskodónak, illetve a kedvezményezettnek nyújthat, kizárólag lakáscélú felhasználásra.",
+                true
+            ],
+            [
+                "Az áthidaló kölcsön, olyan kölcsön, amelyet a lakás-takarékpénztár kizárólag lakás-előtakarékoskodónak, illetve a kedvezményezettnek nyújthat lakáscélú felhasználásra, amennyiben a lakás-előtakarékoskodó a szerződéses összegnek legalább 50%-át már megtakarította, és a megtakarítási ideje elérte a 4 évet."
+            ],
+            [
+                "Az áthidaló kölcsön, olyan kölcsön, amelyet a lakás-takarékpénztár kizárólag lakás-előtakarékoskodónak, illetve a kedvezményezettnek nyújthat lakáscélú felhasználásra, amennyiben a lakás-előtakarékoskodó a szerződéses összegnek legalább 60%-át már megtakarította, és a megtakarítási ideje elérte a 4 évet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki nem köthet lakás-előtakarékossági szerződést?",
+        "Válaszok": [
+            [
+                "A gyám a gyermekvédelmi gondoskodásban élő gyermek, mint kedvezményezett javára életkezdésének elősegítése céljából."
+            ],
+            [
+                "Természetes személy saját nevében, saját maga javára."
+            ],
+            [
+                "Építő közösség saját nevében, saját maga javára.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hány szakaszra bontjuk a lakás-előtakarékossági szerződést?",
+        "Válaszok": [
+            [
+                "Kettőre, megtakarítási és törlesztési időszakra."
+            ],
+            [
+                "Háromra, megtakarítási, kiutalási és törlesztési időszakra.",
+                true
+            ],
+            [
+                "Négyre, megtakarítási, kiutalási, törlesztési és monitoring időszakra."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki nem lehet az alábbiak közül lakás-előtakarékossági szerződésben megjelölt kedvezményezett?",
+        "Válaszok": [
+            [
+                "A lakás-előtakarékoskodó közeli hozzátartozója."
+            ],
+            [
+                "A gyámság alatt álló kiskorú, akinek a javára a lakás-előtakarékoskodó a lakás-előtakarékossági szerződést megkötötte."
+            ],
+            [
+                "A lakás-előtakarékoskodó által létrehozott alapítvány.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül legfeljebb hány megtakarítási év során illeti meg a lakás-előtakarékoskodót, illetve a kedvezményezettet állami támogatás?",
+        "Válaszok": [
+            [
+                "Legfeljebb az első 4 megtakarítási év során."
+            ],
+            [
+                "Legfeljebb az első 8 megtakarítási év során."
+            ],
+            [
+                "Legfeljebb az első 10 megtakarítási év során.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora az állami támogatás éves mértékének maximuma lakás-előtakarékoskodás esetén a 2018. október 16. napjáig megkötött lakás-előtakarékossági szerződések alapján?",
+        "Válaszok": [
+            [
+                "Legfeljebb megtakarítási évenként negyvenkétezer forint."
+            ],
+            [
+                "Legfeljebb megtakarítási évenként hetvenkétezer forint.",
+                true
+            ],
+            [
+                "Legfeljebb megtakarítási évenként százhetvenkétezer forint."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen összeg hiányzik a kipontozott részből az alábbiak közül? „Ha a lakás-takarékpénztár megállapítja a támogatással növelt betétösszeg nem lakáscélú felhasználását vagy jogosulatlan igénybevételét, a […] elérő vagy meghaladó állami támogatás és járulékai megfizetése iránti követelést - az állam mint jogosult nevében eljárva - polgári peres vagy nemperes eljárásban érvényesíti.”",
+        "Válaszok": [
+            [
+                "10.000 Ft-ot.",
+                true
+            ],
+            [
+                "50.000 Ft-ot."
+            ],
+            [
+                "100.000 Ft-ot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül az egységesített betéti kamatláb mutatóról (EBKM)?",
+        "Válaszok": [
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) az ügyfél által a kölcsönért fizetendő terhelés, amely tartalmazza a kamatokat, folyósítási jutalékokat (kezelési költséget, hitelbírálati díjat) és minden egyéb, a kölcsön felhasználásával kapcsolatosan fizetendő költséget (így például az ingatlan értékbecslés díját és lakásépítéseknél a helyszíni szemle díját)."
+            ],
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) számításánál a kamatösszegben csak a ténylegesen jóváírandó összeg vehető figyelembe, így a jutalékokkal és díjakkal a bruttó kamatösszeget növelni kell."
+            ],
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) számításánál a kamatösszegben csak a ténylegesen kifizetendő (jóváírandó) összeg vehető figyelembe, így a jutalékokkal és díjakkal a bruttó kamatösszeget csökkenteni kell.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) 365 napra számítja át az éves névleges kamatlábat."
+            ],
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) éven belül lineáris, éven túl kamatos kamatszámítást alkalmaz."
+            ],
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) segítséget nyújt az egyes hitelkonstrukciók összehasonlításában.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora a betét egységesített betéti kamatláb mutatója (EBKM), ha az éves névleges kamatláb 5%, és a bank a francia kamatszámítást alkalmazza?",
+        "Válaszok": [
+            [
+                "5%/365*360"
+            ],
+            [
+                "5%*365/360",
+                true
+            ],
+            [
+                "5%*360/365"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az egységesített betéti kamatláb mutatót (EBKM) minden hitelintézet köteles kiszámítani, de nem szükséges nyilvánosságra hoznia."
+            ],
+            [
+                "Az egységesített betéti kamatláb mutatót (EBKM) minden hitelintézet köteles kiszámítani és ügyfelei tudomására hozni.",
+                true
+            ],
+            [
+                "Csak az elméleti szakemberek használják az egységesített betéti kamatláb mutató (EBKM) az egyes betétek nettó hozamának összehasonlítására, a gyakorlatban nem szokták alkalmazni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) számításának módját jogszabály szabályozza.",
+                true
+            ],
+            [
+                "Az egységesített betéti kamatláb mutatót (EBKM) minden hitelintézet egyedi módon számítja ki."
+            ],
+            [
+                "Az egységesített betéti kamatláb mutatót (EBKM) minden ügyfélre egyedileg kell kiszámítani."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) megmutatja a pénz letét bruttó hozamát."
+            ],
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) megmutatja a betét bruttó hozamát."
+            ],
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) megmutatja a betét nettó hozamát.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Ha a betéti kamatláb a szerződés alapján változó kamatláb, de annak mértéke az egységesített betéti kamatláb mutató (EBKM) kiszámításakor nem határozható meg, az EBKM számításánál az utolsó 1 év kamatlábainak mértani átlagát kell alkalmazni a betéti szerződés lejáratáig."
+            ],
+            [
+                "Ha a betéti kamatláb a szerződés alapján változó kamatláb, de annak mértéke az egységesített betéti kamatláb mutató (EBKM) kiszámításakor nem határozható meg, az egységesített betéti kamatláb mutató (EBKM) számításánál az utolsó 1 év kamatlábainak számtani átlagát kell alkalmazni a betéti szerződés lejáratáig."
+            ],
+            [
+                "Ha a betéti kamatláb a szerződés alapján változó kamatláb, de annak mértéke az egységesített betéti kamatláb mutató (EBKM) kiszámításakor nem határozható meg, az egységesített betéti kamatláb mutató (EBKM) számításánál az utolsó ismert kamatlábat kell alkalmazni a betéti szerződés lejáratáig.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Határozatlan időre lekötött, automatikusan megújuló vagy le nem kötött betét esetén",
+        "Válaszok": [
+            [
+                "az egységesített betéti kamatláb mutatót (EBKM) folytonos kamatozással kell számítani."
+            ],
+            [
+                "az egységesített betéti kamatláb mutató (EBKM) számítása során a lekötési időt egy évnek kell tekinteni, a hitelintézet azonban jogosult az általa jellemzőnek tartott lekötési időre vonatkozóan kiszámított mutatót is közzétenni.",
+                true
+            ],
+            [
+                "az egységesített betéti kamatláb mutatót (EBKM) logaritmikus kamatozással kell számítani."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Lakás-takarékpénztár esetén a kereskedelmi kommunikációban az",
+        "Válaszok": [
+            [
+                "az egységesített betéti kamatláb mutató (EBKM) értékét havi 20.000 Ft folyamatos betételhelyezést feltételezve kell meghatározni.",
+                true
+            ],
+            [
+                "az egységesített betéti kamatláb mutató (EBKM) értékét havi 30.000 Ft folyamatos betételhelyezést feltételezve kell meghatározni."
+            ],
+            [
+                "az egységesített betéti kamatláb mutató (EBKM) értékét havi 40.000 Ft folyamatos betételhelyezést feltételezve kell meghatározni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az egységesített betéti kamatláb mutatót (EBKM) hány tizedes jegy pontossággal kell közzétenni (%-os formában)?",
+        "Válaszok": [
+            [
+                "1 tizedes jegy pontossággal."
+            ],
+            [
+                "2 tizedes jegy pontossággal.",
+                true
+            ],
+            [
+                "4 tizedes jegy pontossággal."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen díjakat vonhatunk le a kamatból, hogy az egységesített betéti kamatláb mutatóhoz (EBKM) jussunk?",
+        "Válaszok": [
+            [
+                "Fedezet értékelés díját."
+            ],
+            [
+                "Hitelképesség vizsgálatának díját."
+            ],
+            [
+                "Számlavezetési díjat.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e az alábbi állítás? Egy ügyfélre kialakított egyedi betéti módozat esetén a hitelintézet az egységesített betéti kamatláb mutatót (EBKM) köteles kiszámítani, és annak értékét a szerződésben szerepeltetni.",
+        "Válaszok": [
+            [
+                "Az állítás igaz.",
+                true
+            ],
+            [
+                "Az állítás hamis, mert a hitelintézetnek nem kell ügyfelenként új egységesített betéti kamatláb mutatót (EBKM-) számolni."
+            ],
+            [
+                "Az állítás hamis, mert a hitelintézeteknél nincsenek egyedi, csak standard termékek"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül az egységes betéti kamatláb mutatóról!",
+        "Válaszok": [
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) számítása során tizenkét hónap lekötési időt kell figyelembe venni."
+            ],
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) számítása során a szerződésben rögzített lekötési időt kell figyelembe venni.",
+                true
+            ],
+            [
+                "Az egységesített betéti kamatláb mutató (EBKM) számítása során hat hónap lekötési időt kell figyelembe venni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A defláció miatt a nominális pénzösszeg reálértéken csak kevesebbet ér."
+            ],
+            [
+                "A reálhozamot úgy kapjuk meg, ha a nominális hozam értékét korrigáljuk az infláció mértékével.",
+                true
+            ],
+            [
+                "Az adózás előtti hozamokat nettó hozamoknak hívjuk."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora egy befektetés reálhozama, ha a nominális hozama 21%, az infláció pedig 10%? (A számításhoz a pontos képletet alkalmazza!)",
+        "Válaszok": [
+            [
+                "21%-10%"
+            ],
+            [
+                "[(1,21/1,1)-1]*100%",
+                true
+            ],
+            [
+                "(0,21/0,1)*100%"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a reálhozam-számítás közelítő képlete?",
+        "Válaszok": [
+            [
+                "reál hozam≈nominális hozam-infláció",
+                true
+            ],
+            [
+                "reál hozam≈[(1+nominális hozam)/(1+infláció)]-1"
+            ],
+            [
+                "reál hozam≈[(1+nominális hozam)/(1+infláció)]"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a reálhozam?",
+        "Válaszok": [
+            [
+                "A befektetés eredményeként keletkezett tőkenövekmény."
+            ],
+            [
+                "A tiszta hozam."
+            ],
+            [
+                "A befektetés hozamának inflációtól mentes értéke, ami megmutatja, hogy adott időszak alatt ténylegesen mennyit nőtt a befektetés értéke.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mitől bruttó a bruttó hozam?",
+        "Válaszok": [
+            [
+                "Mert még nem korrigáltuk az inflációval."
+            ],
+            [
+                "Mert az egy adózás előtti hozam.",
+                true
+            ],
+            [
+                "Mert az egy adózott hozam."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Egy betét lekötési időtartama az az időszak,",
+        "Válaszok": [
+            [
+                "ami alatt semmilyen körülmények között nem kaphatjuk vissza a betett pénzünket."
+            ],
+            [
+                "ami a vizsgálat időpontjától a lejáratig tart."
+            ],
+            [
+                "amin belül az eredetileg megállapítotthoz képest kisebb kamattal jutunk a lekötött pénzünkhöz.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Kockázatmentes vagy alacsony kockázatú befektetési célú eszközök például",
+        "Válaszok": [
+            [
+                "a forint betétszámla, a diszkontkincstárjegy és a deviza bankbetét."
+            ],
+            [
+                "a forint bankbetét, a diszkontkincstárjegy és a tőkevédett/garantált befektetési alap.",
+                true
+            ],
+            [
+                "a vállalati kötvény és a befektetéshez kötött életbiztosítás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mely befektetések tekinthetők kockázatmentesnek?",
+        "Válaszok": [
+            [
+                "Amelyek fix kamatlábbal kamatoznak."
+            ],
+            [
+                "Amelyeknél a befektetési döntés időpontjában a befektetéssel kapcsolatos pénzáramok teljes bizonyossággal ismertek.",
+                true
+            ],
+            [
+                "Amelyek futamideje nem határozatlan."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Az elvárt hozam egyenlő",
+        "Válaszok": [
+            [
+                "a kockázatmentes kamatláb+kockázati prémium összegével.",
+                true
+            ],
+            [
+                "a nominális hozam+infláció összegével."
+            ],
+            [
+                "a bruttó hozam+adóteher összegével."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő két állítás? Az értékpapírok közül a diszkontkincstárjegyek elvárt hozama a legmagasabb, mert a diszkontkincstárjegyek kockázata a legalacsonyabb.",
+        "Válaszok": [
+            [
+                "Mindkét állítás igaz és van köztük összefüggés."
+            ],
+            [
+                "Az első állítás igaz, a második hamis."
+            ],
+            [
+                "Az első állítás hamis, a második igaz.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbi értékpapírok közül melyiknek legmagasabb a kockázata?",
+        "Válaszok": [
+            [
+                "A vállalati kötvényeknek."
+            ],
+            [
+                "A törzsrészvényeknek.",
+                true
+            ],
+            [
+                "Az osztalékelsőbbségi részvényeknek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Valamely befektetéstől elvárt hozam minden esetben megegyezik az adott devizanem szerinti jegybanki alapkamattal."
+            ],
+            [
+                "Valamely befektetéstől elvárt hozam a kockázatmentes befektetés hozama felett egy meghatározott összegű kockázati prémiumot tartalmaz.",
+                true
+            ],
+            [
+                "Valamely befektetéstől elvárt hozam minden esetben megegyezik a kockázati felárral növelt átlagos egységesített betéti kamatláb mutatóval (EBKM)."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan csökkenthető a befektetés kockázata?",
+        "Válaszok": [
+            [
+                "Korrelációval."
+            ],
+            [
+                "Koncentrációval."
+            ],
+            [
+                "Diverzifikációval.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Minél hosszabb egy befektetés futamideje,",
+        "Válaszok": [
+            [
+                "annál kisebb a tőle elvárt hozam."
+            ],
+            [
+                "annál kisebb az árfolyamváltozás kockázata."
+            ],
+            [
+                "annál nagyobb a befektetés újraárazási kockázata.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A likviditási kockázat abból ered, hogy az esedékes kötelezettségek teljesítéséhez szükséges pénzeszközök hiánya miatt bizonytalan feltételek mellett kell pótlólagos forrásokat szerezni vagy eszközöket értékesíteni."
+            ],
+            [
+                "A likviditás tartós, azaz hosszútávú fizetőképességet jelent.",
+                true
+            ],
+            [
+                "A likviditási kockázat az, ha fennáll annak veszélye, hogy a tartozás kiegyenlítésére csak késve, vagy egyáltalán nem kerül sor"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Az egységesített értékpapír hozam mutató (EHM) számításának és közzétételének célja, hogy",
+        "Válaszok": [
+            [
+                "az ügyfelek számára tájékoztatást nyújtson a hitel lehetőségek költségeiről és ezáltal összehasonlíthatóvá váljanak a különböző ajánlatok."
+            ],
+            [
+                "a betéti konstrukciók összehasonlíthatók legyenek."
+            ],
+            [
+                "meghatározott értékpapír-ügyletek tekintetében az ügyfelek megfelelő tájékoztatást kapjanak, illetőleg biztosítva legyen a különböző megtakarítási célú ajánlatok összehasonlíthatósága.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Egységesített értékpapír hozam mutatót (EHM) kell számítani",
+        "Válaszok": [
+            [
+                "minden hitelviszonyt megtestesítő értékpapírnál."
+            ],
+            [
+                "az olyan értékpapíroknál, melyek a teljes futamidőre rögzített kamatlábbal rendelkeznek."
+            ],
+            [
+                "az olyan hitelviszonyt megtestesítő értékpapíroknál, melyek a teljes futamidőre rögzített kamatlábbal rendelkeznek.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik befektetésen veszíthetünk akár sokkal többet is, mint a befektetésünk összege?",
+        "Válaszok": [
+            [
+                "Részvény."
+            ],
+            [
+                "Határidős ügylet.",
+                true
+            ],
+            [
+                "Kötvény."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az egységesített értékpapír hozam mutatót (EHM) hány tizedesjegy pontossággal kell közzétenni (%-os formában)?",
+        "Válaszok": [
+            [
+                "1 tizedesjegy pontossággal."
+            ],
+            [
+                "2 tizedesjegy pontossággal.",
+                true
+            ],
+            [
+                "4 tizedesjegy pontossággal."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik az az értékpapír, amelynek − a lejárat előtti értékesítését kivéve − egyetlen jövőbeli pénzáramlása van, és lejáratkor a kibocsátó az értékpapír névértékét fizeti vissza?",
+        "Válaszok": [
+            [
+                "A törzsrészvény."
+            ],
+            [
+                "A kamatszelvényes kötvény."
+            ],
+            [
+                "A diszkontpapír.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik az elemi kötvény egy másik elnevezése?",
+        "Válaszok": [
+            [
+                "Zéró-kupon kötvény.",
+                true
+            ],
+            [
+                "Fix kamatozású kötvény."
+            ],
+            [
+                "Változó kamatozású kötvény."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A bankbetét és a nagyon rövid lejáratú állampapír kockázatos befektetés."
+            ],
+            [
+                "A vállalati kötvény kockázata nem függ a futamidejétől."
+            ],
+            [
+                "Magasabb hozamot csak magasabb kockázat felvállalása mellett lehet elérni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora a diszkontkincstárjegy futamideje?",
+        "Válaszok": [
+            [
+                "Maximum 1 év.",
+                true
+            ],
+            [
+                "1 év."
+            ],
+            [
+                "Maximum 2 év."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen szempontból azonos a diszkontkincstárjegy és a zéró-kupon kötvény?",
+        "Válaszok": [
+            [
+                "A kibocsátó személye szerint."
+            ],
+            [
+                "A futamidő szempontjából."
+            ],
+            [
+                "Az árfolyam számítása szempontjából.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A forint bankbetétnél a részvény kockázatosabb befektetési eszköz."
+            ],
+            [
+                "A részvénynél kevésbé kockázatos befektetési eszköz a derivatíva (származtatott ügylet).",
+                true
+            ],
+            [
+                "A deviza bankbetétnél a diszkontkincstárjegy kevésbé kockázatos befektetési eszköz."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A türelmi idő alatt semmit sem kell törleszteni."
+            ],
+            [
+                "A türelmi idő alatt csak a kamatot kell törleszteni.",
+                true
+            ],
+            [
+                "A türelmi idő alatt semmit sem kell törleszteni és a kamatokat sem írják hozzá az eredeti tartozáshoz."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik konstrukcióra igaz az, hogy a törlesztőrészletekben foglalt kamat nagysága a futamidő alatt lineárisan csökken?",
+        "Válaszok": [
+            [
+                "Lejáratkor egy összegben történő törlesztés esetén."
+            ],
+            [
+                "Annuitásos törlesztés esetén.",
+                true
+            ],
+            [
+                "Halasztott fizetésű törlesztés esetén."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik konstrukcióra igaz az, hogy a törlesztőrészletek nagysága a futamidő alatt állandó?",
+        "Válaszok": [
+            [
+                "Lejáratkor egy összegben történő törlesztés esetén."
+            ],
+            [
+                "Annuitásos törlesztés esetén.",
+                true
+            ],
+            [
+                "Halasztott fizetésű törlesztés esetén."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik az a kötvény típus, amelynek futamideje alatt a kamattartozás progresszíven növekszik?",
+        "Válaszok": [
+            [
+                "Fix kamatozású kamatszelvényes kötvény."
+            ],
+            [
+                "Annuitásszerűen törlesztő kötvény."
+            ],
+            [
+                "Kamatos kamatozású kötvény.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A kötvény nettó árfolyama a lejárathoz közeledve a kötvény fennálló névértékéhez közelít."
+            ],
+            [
+                "Ha a piaci hozam nagyobb, mint a kötvény éves nominális kamatlába, akkor a kötvény nettó árfolyama felülről közelíti a fennálló (még nem törlesztett) névértéket.",
+                true
+            ],
+            [
+                "Attól még, hogy a kötvény nettó árfolyama alacsonyabb, mint a kötvény fennálló névértéke, a bruttó árfolyama még meghaladhatja fennálló (még nem törlesztett) névértéket."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A részvény kisebb kockázatú pénzügyi eszköz, mint a kötvény.",
+                true
+            ],
+            [
+                "A részvényhez kapcsolódhat kamat vagy szavazati jog."
+            ],
+            [
+                "A részvény tagsági jogot testesít meg."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan számítjuk a részvény várható hozamát?",
+        "Válaszok": [
+            [
+                "Osztalékhozam, plusz eladási árfolyamra vetített árfolyamnyereség vagy -veszteség."
+            ],
+            [
+                "Az eladási és a vásárlási árfolyam különbözete, plusz a várható osztalék összegének és a befektetés összegének a hányadosa.",
+                true
+            ],
+            [
+                "Az első évi osztalék és a jelen árfolyam összegének diszkontált értéke."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan határozhatjuk meg a részvény elméleti árfolyamát?",
+        "Válaszok": [
+            [
+                "A jövőben várható pénzáramokat (osztalékok és eladási árfolyam) meghatározva a jelenérték-számítás módszerével.",
+                true
+            ],
+            [
+                "Az osztalékokból."
+            ],
+            [
+                "Az eladási és a vásárlási árfolyam különbözeteként."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen esetben lehet számítani arra, hogy a részvény fundamentális értéke növekszik?",
+        "Válaszok": [
+            [
+                "A kibocsátó befektetéseinek megtérülési rátája magasabb annál a hozamnál, amit a befektetők várnak.",
+                true
+            ],
+            [
+                "Az egy részvényre jutó nyereség értéke csökken."
+            ],
+            [
+                "A részvények után fizetett osztalék összege nő, de a kibocsátó eredménye veszteségbe fordul át."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen dokumentumokat kell elkészíteni és közzétenni - ha törvény máshogy nem rendelkezik - értékpapír nyilvános forgalomba hozatala esetén?",
+        "Válaszok": [
+            [
+                "Kibocsátási tájékoztatót és hirdetményt.",
+                true
+            ],
+            [
+                "Kibocsátói leiratot és ajánlatot."
+            ],
+            [
+                "Jegyzési felhívást és forgalmazói listát."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Önt ismerőse, aki egy befektetési vállalkozás munkatársa, arra kéri, hogy működjön közre adott értékpapírok befektetők felé történő üzletszerű értékesítésében. Mit tesz Ön, ha helyesen kíván eljárni?",
+        "Válaszok": [
+            [
+                "Ha jó barátom, segítek neki első szóra."
+            ],
+            [
+                "Segítek neki, mivel az értékpapírral és annak értékesítésével kapcsolatban minden felelősséget úgyis a kibocsátó visel."
+            ],
+            [
+                "Előbb ellenőrzöm az MNB honlapján, hogy ismerősöm cége és/vagy a vele szerződéses kapcsolatban álló vállalkozás szerepel-e az MNB nyilvántartásaiban. Ezen túlmenően nyilvános adatbázisokból információkat szerzek az értékpapírról és annak kibocsátójáról, s meggyőződöm ezek engedélyeiről. A függő ügynöki nyilvántartásba vétel után részt vehetek az üzletszerű értékesítésben, mely MNB által történő nyilvántartásba vételnek a feltétele, hogy a megbízó befektetési vállalkozással szerződést kötöttem.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit követ el, aki a törvényben meghatározott engedély nélkül végez befektetési szolgáltatási tevékenységet?",
+        "Válaszok": [
+            [
+                "Tulajdon elleni szabálysértést, mellyel kapcsolatban az önkormányzati hatósági ügyekben illetékes jegyző hoz döntést."
+            ],
+            [
+                "Bennfentes kereskedelmet, melyet az MNB vizsgál ki."
+            ],
+            [
+                "Piacfelügyeleti bírsággal szankcionálható jogszabálysértést, illetve bűncselekményt.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mikor nem minősül az értékpapír forgalomba hozatala zártkörűnek (zártkörű forgalomba hozatal) az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Ha az értékpapír névértéke legalább százezer euró vagy annak megfelelő összeg."
+            ],
+            [
+                "Ha az értékpapírt minősített befektetőnek nem minősülő, tagállamonként százötvennél kevesebb személy részére ajánlják fel."
+            ],
+            [
+                "Ha az értékpapírt minősített befektetőnek nem minősülő, tagállamonként százötvennél több személy részére ajánlják fel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki nem lehet tőkepiaci közvetítő az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Függő ügynök."
+            ],
+            [
+                "Befektetési vállalkozás."
+            ],
+            [
+                "Biztosító.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Ahhoz, hogy egy hitelintézet az ügyfele megbízása alapján nyilvánosan forgalomba hozott értékpapírt  vásároljon, elegendő, hogy az ügyfél ügyfélszámlát nyit a hitelintézetnél."
+            ],
+            [
+                "Ahhoz, hogy egy hitelintézet ügyfele megbízása alapján nyilvánosan forgalomba hozott értékpapírt  vásároljon, elegendő, hogy az ügyfél bankszámla szerződést (fizetésiszámla-szerződést) kössön a hitelintézettel."
+            ],
+            [
+                "Ahhoz, hogy egy hitelintézet az ügyfele megbízása alapján nyilvánosan forgalomba hozott értékpapírt vásároljon, előfeltétel, hogy az ügyfél értékpapír- számlaszerződést kössön a hitelintézettel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A széfszolgáltatás pénzügyi szolgáltatásnak minősül.",
+                true
+            ],
+            [
+                "A széfszolgáltatás befektetési szolgáltatásnak minősül."
+            ],
+            [
+                "A széfszolgáltatás kiegészítő befektetési szolgáltatásnak minősül."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A portfólió kezelés során a hitelintézet mely pénzügyi eszközökbe fektetheti az ügyfél által portfólió kezelésre átadott összeget?",
+        "Válaszok": [
+            [
+                "Kizárólag állampapírokba és egyéb kamatozó értékpapírokba."
+            ],
+            [
+                "Kizárólag részvényekbe és befektetési jegyekbe."
+            ],
+            [
+                "A portfóliókezelési szerződés függvényében akár a felsoroltak mindegyikébe, amennyiben az adott pénzügyi eszköz az ügyfél által kitöltött alkalmassági teszt eredményének megfelel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az állampapírok azok az értékpapírok, amelyeket az állam bocsát ki az állam adósságának fedezésére."
+            ],
+            [
+                "Az állam kibocsáthat hitelviszonyt, az állam adósságát megtestesítő értékpapírokat."
+            ],
+            [
+                "Az állam által kibocsátott értékpapírok nem kamatoznak, hanem mindegyik diszkont értékpapír módjára működik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az államkötvények futamideje egy évnél hosszabb."
+            ],
+            [
+                "Államkötvényeket csak nyilvánosan bocsátanak ki.",
+                true
+            ],
+            [
+                "Az államkötvényeket jogi személyek is megvásárolhatják."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A diszkont kincstárjegyek nem fizetnek kamatot."
+            ],
+            [
+                "A diszkont kincstárjegyek futamideje lehet éven belüli és éven túli is.",
+                true
+            ],
+            [
+                "A diszkont kincstárjegyek alapcímlete 10.000 Ft."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A kincstári takarékjegy alapcímlete 10.000 Ft, 50.000 Ft, 100.000 Ft, 500.000 Ft és 1.000.000 Ft."
+            ],
+            [
+                "A kincstári takarékjegyeket kizárólag magánszemélyek (devizabelföldi természetes személyek) vásárolhatják meg."
+            ],
+            [
+                "A kamatozó kincstárjegy futamideje minimum három év.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miben tér el a nyílt végű és a zárt végű befektetési alap?",
+        "Válaszok": [
+            [
+                "A zártvégűnél korlátozott az ügyfélkör, míg a nyíltvégűnél nem."
+            ],
+            [
+                "A nyíltvégű befektetési alapok sokkal nagyobb hozamot hoznak, mint a zártvégűek."
+            ],
+            [
+                "A nyílt végű befektetési alap befektetési jegyeit a befektetők a folyamatos forgalmazás során az alap futamideje alatt megvásárolhatják, továbbá a befektetési jegyeket a befektetési alap kezelési szabályzatában foglalt szabályok szerint a futamidő alatt visszaválthatják. A zárt végű befektetési alap befektetési jegyei az alap futamideje alatt a befektetők kezdeményezésére nem válthatók vissza, kivéve a törvényben biztosított rendkívüli eseteket.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a befektetési alap fogalma?",
+        "Válaszok": [
+            [
+                "A törvényben meghatározott feltételekkel létrehozott kollektív befektetési forma, azaz minden olyan kollektív befektetés, amely több befektetőtől gyűjt tőkét abból a célból, hogy meghatározott befektetési politikának megfelelően befektesse a befektetők javára.",
+                true
+            ],
+            [
+                "Befektetési jegyek nyilvános vagy zártkörű kibocsátásával létrehozott és működtetett, jogi személyiség nélküli vagyontömeg."
+            ],
+            [
+                "Befektetési jegyek nyilvános vagy zártkörű kibocsátásával létrehozott és működtetett, jogi személyiséggel rendelkező pénzügyi vállalkozás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a nyílt végű befektetési alapra?",
+        "Válaszok": [
+            [
+                "A befektetési jegyeket folyamatosan kínálja megvételre és a befektetők a befektetési jegyeket a befektetési alap kezelési szabályzatában foglalt szabályok szerint a futamidő alatt visszaválthatják.",
+                true
+            ],
+            [
+                "A befektetési jegyek minimális névértéke 1.000 Ft."
+            ],
+            [
+                "A befektetési jegyeket be kell vezetni a tőzsdére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk a befektetési alapok közül esernyőalapnak?",
+        "Válaszok": [
+            [
+                "Az indexkövető befektetési alapokat."
+            ],
+            [
+                "Az ingatlanalapokat."
+            ],
+            [
+                "A részalapokból álló befektetési alapokat.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A jogszabály alapján az alábbiak közül milyen kifejezést kell szerepeltetni azon ingatlanalap elnevezésében, amelynél az építési tevékenység alatt álló ingatlanok aránya az ingatlanalap befektetési politikája szerint meghaladhatja az ingatlanalap eszközeinek 35 %-át?",
+        "Válaszok": [
+            [
+                "Ingatlan építő alap."
+            ],
+            [
+                "Ingatlanfejlesztő alap.",
+                true
+            ],
+            [
+                "Ingatlanforgalmazó alap."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a kötvényekbe fektető befektetési alapról?",
+        "Válaszok": [
+            [
+                "A kötvényalapban nem lehetnek részvények.",
+                true
+            ],
+            [
+                "A kötvényalapban a részvények aránya nem lehet nagyobb 10%-nál."
+            ],
+            [
+                "A kötvényalapban a részvények aránya nem lehet nagyobb 25%-nál."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül az értékpapír befektetési alapokról?",
+        "Válaszok": [
+            [
+                "A kötvényalap kockázata nagyobb, mint a részvényalapé."
+            ],
+            [
+                "A részvényalapok hosszú távon magasabb hozamot érhetnek el a kötvényalapoknál.",
+                true
+            ],
+            [
+                "A pénzpiaci alapok átlagos hátralévő futamidejének 1 évnél hosszabbnak kell lennie."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! A diverzifikáció",
+        "Válaszok": [
+            [
+                "a kockázat csökkentésének eszköze.",
+                true
+            ],
+            [
+                "a hozam maximalizálás eszköze."
+            ],
+            [
+                "a befektetés optimális időzítésének eszköze."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen összefüggés van a befektetés kockázata és a hozam között?",
+        "Válaszok": [
+            [
+                "Minél nagyobb a kockázat, annál nagyobb a potenciális nyereség, de annak az esélye is növekszik, hogy kevesebb pénzt kapok vissza, mint amennyivel indultam.",
+                true
+            ],
+            [
+                "Minél nagyobb a kockázat, annél nagyobb a biztos nyereség, de annak az esélye csökken, hogy kevesebb pénzt kapok vissza, mint amennyivel indultam."
+            ],
+            [
+                "Minél nagyobb a kockázat, annál nagyobb a potenciális biztonság, és annak az esélye is növekszik, hogy ugyanannyi pénzt kapok vissza, mint amennyivel indultam."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a befektetési piacok likviditása? Válassza ki a hamis állítást!",
+        "Válaszok": [
+            [
+                "Minél rövidebb idő alatt végrehajthatók az ügyletek, annál likvidebb a piac."
+            ],
+            [
+                "Minél folytonosabb az áralakulás, annál likvidebb a piac."
+            ],
+            [
+                "Minél egyszerűbb a piaci szereplők kilépése a piacról, annál likvidebb a piac.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi nem számít kollektív befektetési formának az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Minden olyan kollektív befektetés, amely több befektetőtől gyűjt tőkét abból a célból, hogy meghatározott befektetési politikának megfelelően befektesse a befektetők javára."
+            ],
+            [
+                "A befektetési vállalkozás által folytatott portfólió-kezelés.",
+                true
+            ],
+            [
+                "Olyan nyilvános nyílt végű kollektív befektetési forma, amely az ÁÉKBV-irányelv szabályainak más, EGT-állam jogrendszerébe történő átvétele alapján jött létre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a hamis állítást! A befektetési alapok a nyilvánosság szempontjából lehetnek:",
+        "Válaszok": [
+            [
+                "nyilvánosak."
+            ],
+            [
+                "zártkörűek."
+            ],
+            [
+                "zártvégűek.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az egységesített értékpapír hozam mutatóra (EHM) vonatkozóan a hamis állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az egységesített értékpapír hozam mutató (EHM) a tényleges hozam mutatója."
+            ],
+            [
+                "Az egységesített értékpapír hozam mutató (EHM) egységesített hozammutató."
+            ],
+            [
+                "Az egységesített értékpapír hozam mutató (EHM) egyszerűsített hozammutató.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes megállapítást az alábbiak közül! Az állampapír.",
+        "Válaszok": [
+            [
+                "az állam adósságát megtestesítő értékpapír.",
+                true
+            ],
+            [
+                "minden esetben hosszú lejáratú értékpapír."
+            ],
+            [
+                "az állam követelését megtestesítő értékpapír."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik értékpapír definíciója a következő: „Vállalatok beruházásaik finanszírozására bocsátják ki.”?",
+        "Válaszok": [
+            [
+                "a részvényé"
+            ],
+            [
+                "a jelzáloglevélé"
+            ],
+            [
+                "a vállalati kötvényé",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik az a gazdasági társaság, amely működhet nyilvánosan is és zártkörűen is?",
+        "Válaszok": [
+            [
+                "a korlátolt felelősségű társaság."
+            ],
+            [
+                "A részvénytársaság.",
+                true
+            ],
+            [
+                "A szövetkezet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen befektetési alap hozható létre a harmonizáció alapján az alábbiak közül?",
+        "Válaszok": [
+            [
+                "ÁÉKBV és ABA.",
+                true
+            ],
+            [
+                "Nyíltvégű és zártvégű alap."
+            ],
+            [
+                "Értékpapír- és ingatlan alap."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora a nyilvános befektetési alap legkisebb induló saját tőkéje ingatlanalap esetén?",
+        "Válaszok": [
+            [
+                "egymilliárd forint",
+                true
+            ],
+            [
+                "ötszázmillió forint"
+            ],
+            [
+                "kettőszázötvenmillió forint"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik a Ptk. által szabályozott különleges kötvény?",
+        "Válaszok": [
+            [
+                "Az átváltoztatható kötvény.",
+                true
+            ],
+            [
+                "Az elsőbbségi kötvény."
+            ],
+            [
+                "A másodlagos kötvény."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a helytelen befejezést! A befektetési alap a fajtája alapján létrehozható",
+        "Válaszok": [
+            [
+                "nyílt végű vagy zártvégű befektetési alapként."
+            ],
+            [
+                "nyilvános vagy zártkörű befektetési alapként."
+            ],
+            [
+                "határozott idejű vagy határozatlan idejű befektetési alapként.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora a zártkörűen létrehozott befektetési alap legkisebb induló saját tőkéje ingatlanalap esetén az alábbiak közül?",
+        "Válaszok": [
+            [
+                "kettőszázötvenmillió forint"
+            ],
+            [
+                "ötszázmillió forint",
+                true
+            ],
+            [
+                "százmillió forint"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a kincstárjegyre, mint hitelviszonyt megtestesítő értékpapírra?",
+        "Válaszok": [
+            [
+                "A kincstárjegyre a részvényekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni."
+            ],
+            [
+                "A kincstárjegyre a kötvényre vonatkozó jogszabályi rendelkezéseket kell alkalmazni.",
+                true
+            ],
+            [
+                "A kincstárjegyre a befektetési jegyre vonatkozó jogszabályi rendelkezéseket kell alkalmazni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül az előtakarékossági befektetésekről?",
+        "Válaszok": [
+            [
+                "A nyugdíj-előtakarékossági számlát nyitók (előtakarékoskodók) szabadon rendelkezhetnek arról, hogy az általuk befizetett összeget milyen értékpapírba – részvénybe, kötvénybe, vagy befektetési jegybe – fektessék."
+            ],
+            [
+                "A befizetések összegét előtakarékossági támogatás is növeli.",
+                true
+            ],
+            [
+                "A NYESZ a nyugdíj célú megtakarítások egyetlen lehetséges eszköze."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a pontos befejezést! Nyugdíj előtakarékossági pénzszámla vezetésére vonatkozó megállapodás kizárólag",
+        "Válaszok": [
+            [
+                "nyugdíj előtakarékossági értékpapírszámla és nyugdíj előtakarékossági letéti számla vezetésére vonatkozó megállapodással együtt köthető."
+            ],
+            [
+                "nyugdíj előtakarékossági értékpapírszámla vagy nyugdíj előtakarékossági letéti számla vezetésére vonatkozó megállapodással együtt köthető."
+            ],
+            [
+                "nyugdíj előtakarékossági értékpapírszámla és/vagy nyugdíj előtakarékossági letéti számla vezetésére vonatkozó megállapodással együtt köthető.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik befektetési formadefiníciója a következő: „Számla nyitására minden évben van lehetőség, a befizetett összeg a növekménnyel a 3. év elteltével kedvezményes adózással hozzáférhető.”?",
+        "Válaszok": [
+            [
+                "A nyugdíj előtakarékossági számlát."
+            ],
+            [
+                "A Tartós Befektetési Számlát (TBSZ).",
+                true
+            ],
+            [
+                "A Lakás elő-takarékossági Számlát."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő állítás? A Babakötvény klasszikus kötvénynek tekinthető.",
+        "Válaszok": [
+            [
+                "Az állítás igaz."
+            ],
+            [
+                "Az állítás hamis.",
+                true
+            ],
+            [
+                "Az állítás igaz, azzal, hogy a babakötvény bármilyen konvertibilis devizában nyilvántartható."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A nyugdíj előtakarékossági értékpapírszámlán a nyugdíj előtakarékossági pénzszámla egyenlegének fedezete mellett adott megbízás teljesítéséből származó dematerializált értékpapír írható jóvá, a előtakarékossági letéti számlán pedig ugyanilyen megbízás teljesítéséből származó nyomdai úton előállított értékpapír helyezhető letétbe."
+            ],
+            [
+                "A nyugdíj előtakarékossági értékpapírszámlán és a nyugdíj előtakarékossági letéti számlán jóváírt értékpapírok fedezetként nem ajánlhatók fel, óvadék tárgyát nem képezhetik."
+            ],
+            [
+                "A nyugdíj előtakarékossági pénzszámlán nyilvántartott pénzeszközök minden ügyletben fedezetként felajánlhatók, illetve óvadék tárgyát képezhetik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e az alábbi állítás? A nyugdíj-előtakarékossági számla megszűnik az előtakarékoskodó halálával.",
+        "Válaszok": [
+            [
+                "Az állítás igaz, és a számlaegyenlege elveszik."
+            ],
+            [
+                "Az állítás igaz, és a számlaegyenleg összege örökölhető.",
+                true
+            ],
+            [
+                "Az állítás hamis."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen költségeket nem számíthat fel a befektetési vállalkozás az alábbiak közül a nyugdíj-előtakarékossági számla esetén?",
+        "Válaszok": [
+            [
+                "Nyugdíjbiztosítási díj.",
+                true
+            ],
+            [
+                "Megbízási díj."
+            ],
+            [
+                "Számlavezetési díj."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora a számlavezetési díj mértéke nyugdíj-előtakarékossági számla esetén?",
+        "Válaszok": [
+            [
+                "Az előtakarékoskodónál legfeljebb a nyugdíj-előtakarékossági számláin jóváírt éves átlagos állomány 0,1%-ának megfelelő összegű, de legalább 1.000 Ft számlavezetési díj számítható fel."
+            ],
+            [
+                "Az előtakarékoskodónál legfeljebb a nyugdíj-előtakarékossági számláin jóváírt éves átlagos állomány 1%-ának megfelelő összegű, de legalább 2.000 Ft számlavezetési díj számítható fel.",
+                true
+            ],
+            [
+                "Az előtakarékoskodónál legfeljebb a nyugdíj-előtakarékossági számláin jóváírt éves átlagos állomány 1,5%-ának megfelelő összegű, de legalább 1.500 Ft számlavezetési díj számítható fel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő állítás? A piacon fellelhető minden megtakarítási/befektetési termék elérhető minden nyugdíj-előtakarékossági számlát kínáló szolgáltatónál.",
+        "Válaszok": [
+            [
+                "Igen."
+            ],
+            [
+                "Nem, a tagsági jogot megtestesítő értékpapírok túlságosan kockázatosak ahhoz, hogy a nyugdíj-előtakarékoskodás alapját képezzék."
+            ],
+            [
+                "Nem, a nyugdíj-előtakarékossági számlát kínáló szolgáltatóknál e szolgáltatás keretében is csak az egyébként is kínált termékeikre adható megbízás.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A nyugdíj előtakarékoskodó a számlavezetőnek milyen ügyletre nem adhat megbízást?",
+        "Válaszok": [
+            [
+                "A Magyar Állam által kibocsátott állampapírra."
+            ],
+            [
+                "Az EGT más tagállama által kibocsátott állampapírra."
+            ],
+            [
+                "Az USA által kibocsátott állampapírra.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hol köthető nyugdíj-előtakarékossági megállapodás?",
+        "Válaszok": [
+            [
+                "Értékpapírszámla-, értékpapír letéti számla- és ügyfélszámla vezetésére jogosult hitelintézeteknél, biztosító társaságoknál."
+            ],
+            [
+                "Értékpapírszámla-, értékpapír letéti számla- és ügyfélszámla vezetésére jogosult hitelintézeteknél, befektetési vállalkozásoknál.",
+                true
+            ],
+            [
+                "Értékpapírszámla-, értékpapír letéti számla- és ügyfélszámla vezetésére jogosult hitelintézeteknél, szakosított hitelintézeteknél."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést! Nyugdíj-előtakarékosság keretében",
+        "Válaszok": [
+            [
+                "nincs lehetőség EGT tagállamában kibocsátott kollektív befektetési értékpapírba fektetni a pénzünket."
+            ],
+            [
+                "nem vásárolhatók határidős és opciós termékek.",
+                true
+            ],
+            [
+                "nincs lehetőség pénzpiaci eszközbe fektetni a pénzünket."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A számlavezetésért, és a tranzakciók teljesítéséért felszámítható díjak, jutalékok mértékét a számlavezető szabadon határozhatja meg."
+            ],
+            [
+                "Tiltott a nyugdíj-előtakarékossági számlákon nyilvántartott értékpapírok lombard hitel fedezeteként történő felhasználása.",
+                true
+            ],
+            [
+                "Nyugdíj-előtakarékossági számlák vezetésére vonatkozó megállapodás hitelintézeteknél, pénzügyi vállalkozásoknál köthető."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz azokra a személyekre, akik 2020. január 1. után töltik be az esetükben irányadó öregségi nyugdíjkorhatárt?",
+        "Válaszok": [
+            [
+                "A jelenlegi szabályok szerint a számlatulajdonos adóbevallása alapján rendelkezhet az adóévben, általa a számlára befizetett összeg 20%-ának, maximum 100.000 Ft-nak az adójából a nyugdíj-előtakarékossági számlájának javára történő átutalásáról.",
+                true
+            ],
+            [
+                "A jelenlegi szabályok szerint a számlatulajdonos adóbevallása alapján rendelkezhet az adóévben, általa a számlára befizetett összeg 40%-ának, maximum 200.000 Ft-nak az adójából a nyugdíj-előtakarékossági számlájának javára történő átutalásáról."
+            ],
+            [
+                "A jelenlegi szabályok szerint a számlatulajdonos adóbevallása alapján rendelkezhet az adóévben, általa a számlára befizetett összeg 10%-ának, maximum 50.000 Ft-nak az adójából a nyugdíj-előtakarékossági számlájának javára történő átutalásáról."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Nyugdíjszolgáltatás akkor nyújtható a nyugdíj-előtakarékossági számláról, ha a tulajdonos a jogszabályok alapján jogosult nyugdíjra, és a számla felmondására a számlanyitás adóévét követő ötödik adóévben vagy azt követően kerül sor."
+            ],
+            [
+                "Nyugdíjszolgáltatás akkor nyújtható a nyugdíj-előtakarékossági számláról, ha a tulajdonos a jogszabályok alapján jogosult nyugdíjra, és a számla felmondására a számlanyitás adóévét követő hetedik adóévben vagy azt követően kerül sor."
+            ],
+            [
+                "A 2013. január 1-jét követően nyitott nyugdíj-előtakarékossági számláknál nyugdíjszolgáltatás akkor nyújtható a nyugdíj-előtakarékossági számláról, ha a tulajdonos a jogszabályok alapján jogosult nyugdíjra, és a számla felmondására a számlanyitás adóévét követő tizedik adóévben vagy azt követően kerül sor, azon esetben is, ha egyébként már nyugdíjas, illetve akkor, ha jogosultsága rokkanttá nyilvánítása alapján keletkezett.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A nyugdíj-előtakarékossági számlán, az annak fennállása során elért hozamok után milyen módon kell adót fizetni?",
+        "Válaszok": [
+            [
+                "A számlán végrehajtott ügyletek nyeresége, hozama - kivéve az osztalékból származó jövedelmet - adómentes.",
+                true
+            ],
+            [
+                "A számlán végrehajtott ügyletek után árfolyamnyereség adót kell fizetni."
+            ],
+            [
+                "A számlán végrehajtott ügyletek után kamatadót kell fizetni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül a nyugdíj-előtakarékossági számla felmondásáról!",
+        "Válaszok": [
+            [
+                "Az előtakarékoskodó az egy számlavezetőnél vezetett nyugdíj-előtakarékossági számlákat csak együtt mondhatja fel, abban az esetben is, ha a felmondani kívánt számla a nulla egyenlegű nyugdíj letéti számla.",
+                true
+            ],
+            [
+                "Az előtakarékoskodó az egy számlavezetőnél vezetett nyugdíj-előtakarékossági számlákat csak együtt mondhatja fel, kivéve, ha a felmondani kívánt számla a nulla egyenlegű nyugdíj letéti számla."
+            ],
+            [
+                "Az előtakarékoskodó az egy számlavezetőnél vezetett nyugdíj-előtakarékossági számlákat külön-külön is felmondhatja."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a Befektető-védelmi Alapra (BEVA-ra)?",
+        "Válaszok": [
+            [
+                "A BEVA jogi személy, amely tagjai díjbefizetései és egyéb bevételei felhasználásával korlátozott összegű kártalanítást nyújt a befektetőknek abban az esetben, ha a Felügyelet valamely tagjával szemben felszámolási eljárást kezdeményez vagy a bíróság a BEVA tagjának a felszámolását rendeli el és a biztosítás alá tartozó ügyfélköveteléseket fedezet hiányában nem képes kifizetni.",
+                true
+            ],
+            [
+                "Ha valamelyik hitelintézet nem tud eleget tenni a betétesekkel szembeni kötelezettségének, helyette a BEVA-nak kell helyt állnia."
+            ],
+            [
+                "A BEVA a kártalanításra jogosult személy részére a befagyott betét tőke- és kamatösszegét személyenként és hitelintézetenként összevontan a jogszabályban meghatározott összeghatárig fizeti ki kártalanításként."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mely pénzügyi szolgáltatók tagjai a BEVA-nak?",
+        "Válaszok": [
+            [
+                "A bankok, a szakosított hitelintézetek, a pénzügyi vállalkozások."
+            ],
+            [
+                "Minden hitelintézet."
+            ],
+            [
+                "Minden olyan szolgáltató, amely a felügyeleti hatóság (MNB) engedélye alapján a biztosított meghatározott tevékenységek valamelyikét jogosult folytatni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Árutőzsdei szolgáltató is csatlakozhat a BEVA-hoz?",
+        "Válaszok": [
+            [
+                "Igen, minden körülmények között."
+            ],
+            [
+                "Igen, ha pénzügyi eszközre megbízás felvételét és továbbítását, az ügyfél javára megbízás végrehajtását, valamint sajátszámlás kereskedést folytat.",
+                true
+            ],
+            [
+                "Nem."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a Befektető-védelmi Alapról?",
+        "Válaszok": [
+            [
+                "Az Európai Unió másik tagállamában székhellyel rendelkező biztosított tevékenységet végző szervezet fióktelepe egyáltalán nem köteles a Befektető-védelmi Alaphoz csatlakozni."
+            ],
+            [
+                "Köteles csatlakozni a Befektető-védelmi Alaphoz az Európai Unió másik tagállamában székhellyel rendelkező biztosított tevékenységet végző szervezet fióktelepe, még akkor is, ha egyébként tagsággal rendelkezik a másik tagállamban előírt befektetővédelmi rendszerben."
+            ],
+            [
+                "Nem köteles csatlakozni a Befektető-védelmi Alaphoz az Európai Unió másik tagállamában székhellyel rendelkező biztosított tevékenységet végző szervezet fióktelepe, ha egyébként tagsággal rendelkezik az Európai Parlament és Tanács vonatozó irányelve által előírt befektetővédelmi rendszerben.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a Befektető-védelmi Alapról?",
+        "Válaszok": [
+            [
+                "Harmadik országbeli biztosított tevékenységet végző szervezet fióktelepe nem csatlakozhat a Befektető-védelmi Alaphoz."
+            ],
+            [
+                "Köteles csatlakozni a Befektető-védelmi Alaphoz harmadik országbeli biztosított tevékenységet végző szervezet fióktelepe, még akkor is, ha rendelkezik az Európai Tanács vonatkozó irányelve által előírt egyenértékű befektetővédelemmel."
+            ],
+            [
+                "A felügyeleti hatóság (MNB) engedélye alapján nem köteles csatlakozni a Befektető-védelmi Alaphoz harmadik országbeli biztosított tevékenységet végző szervezet fióktelepe, ha rendelkezik az Európai Parlament és Tanács irányelve által előírt biztosítással egyenértékű befektetővédelemmel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Befektető-védelmi Alap (BEVA) milyen határidővel értesíti a befektetőket a kártalanítási igényérvényesítés lehetőségéről?",
+        "Válaszok": [
+            [
+                "A BEVA a felszámolást elrendelő végzés közzététele után 15 napon belül a Felügyelet által üzemeltetett honlapon és a saját honlapján közleményben tájékoztatja a befektetőket a kártalanítási igényérvényesítés lehetőségéről, mely tartalmazza az igényérvényesítés első napját, amely nem lehet később, mint a felszámolást elrendelő végzés közzétételét követő 30. nap.",
+                true
+            ],
+            [
+                "A BEVA a felszámolást elrendelő végzés közzététele után 30 napon belül tájékoztatja a befektetőket a kártalanítási igényérvényesítés lehetőségéről, mely tartalmazza az igényérvényesítés első napját, amely nem lehet később, mint a felszámolást elrendelő végzés közzétételét követő 45 nap."
+            ],
+            [
+                "A BEVA a felszámolást elrendelő végzés közzététele után 20 napon belül tájékoztatja a befektetőket a kártalanítási igényérvényesítés lehetőségéről, mely tartalmazza az igényérvényesítés első napját, amely nem lehet később, mint a felszámolást elrendelő végzés közzétételét követő 40. nap."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a Befektető-védelmi Alaptól (BEVA) való kártalanítási igény kérelemre?",
+        "Válaszok": [
+            [
+                "Az igényérvényesítésre vonatkozó kérelmét a befektető az igényérvényesítés első napjától számított 1 éven belül nyújthatja be.",
+                true
+            ],
+            [
+                "Az igényérvényesítésre vonatkozó kérelmét a befektető az igényérvényesítés első napjától számított fél éven belül nyújthatja be."
+            ],
+            [
+                "Az igényérvényesítésre vonatkozó kérelmét a befektető az igényérvényesítés első napjától számított 1 hónapon belül nyújthatja be."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Befektető-védelmi Alapnak milyen határidőn belül kell legkésőbb kifizetnie a kártalanítást?",
+        "Válaszok": [
+            [
+                "A kérelem benyújtásától számított 90 napon belül."
+            ],
+            [
+                "A kérelem elbírálásától számított 90 napon belül.",
+                true
+            ],
+            [
+                "A BEVA kártérítést fizet és nem kártalanítást."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A Befektető-védelmi Alap (BEVA) kártalanítási kötelezettsége abban az esetben következik be, ha a Felügyelet a BEVA tagjával szemben felszámolási eljárást kezdeményez vagy a bíróság a BEVA tagjának a felszámolását rendeli el.",
+                true
+            ],
+            [
+                "A BEVA kártalanítási kötelezettsége abban az esetben következik be, ha a  BEVA-tag fizetésképtelenné válik."
+            ],
+            [
+                "A BEVA kártalanítási kötelezettsége abban az esetben következik be, ha a  BEVA-tag végelszámolását kezdeményez maga ellen."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A Befektető-védelmi Alap (BEVA) által nyújtott kártalanítás mértéke – személyenként és BEVA tagonként összevontan – legfeljebb 2.000.000 Ft."
+            ],
+            [
+                "A Befektető-védelmi Alap (BEVA) által nyújtott kártalanítás mértéke – személyenként és BEVA tagonként összevontan – legfeljebb 20.000.000 Ft."
+            ],
+            [
+                "A Befektető-védelmi Alap (BEVA) által nyújtott kártalanítás mértéke – személyenként és BEVA tagonként összevontan – legfeljebb 100.000 EUR.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A Befektető-védelmi Alap (BEVA) által fizetett kártalanítás mértéke 2.000.000 Ft összeghatárig 100%, 2.000.000 Ft összeghatár felett a 2.000.000 Ft és az 2.000.000 Ft feletti rész 90%-a."
+            ],
+            [
+                "A Befektető-védelmi Alap (BEVA) által fizetett kártalanítás mértéke 3.000.000 Ft összeghatárig 100%, 3.000.000 Ft összeghatár felett a 3.000.000 Ft és a 3.000.000 Ft feletti rész 90%-a."
+            ],
+            [
+                "A Befektető-védelmi Alap (BAVA) által fizetett kártalanítás mértéke 1.000.000 Ft összeghatárig 100%, 1.000.000 Ft összeghatár felett az 1.000.000 Ft és az 1.000.000 Ft feletti rész 90%-a.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a Befektető-védelmi Alapra?",
+        "Válaszok": [
+            [
+                "A Befektető-védelmi Alap pénzbeli és nem pénzbeli kártalanítást nyújt."
+            ],
+            [
+                "A Befektető-védelmi Alap a kártalanítást pénzben nyújtja.",
+                true
+            ],
+            [
+                "A Befektető-védelmi Alap a kártalanítást nem pénzben nyújtja."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A biztosító társaságok tagjai-e a Befektető-védelmi Alapnak?",
+        "Válaszok": [
+            [
+                "Igen."
+            ],
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Csak akkor, ha úgynevezett unit-linked szolgáltatást is nyújtanak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora a Befektető-védelmi Alap kártalanítási értékhatára?",
+        "Válaszok": [
+            [
+                "100.000 EUR",
+                true
+            ],
+            [
+                "6.000.000 Ft"
+            ],
+            [
+                "2.000.000 Ft"
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a Befektető-védelmi Alapról?",
+        "Válaszok": [
+            [
+                "A biztosított tevékenység folytatására engedélyt kérő vállalkozás a tevékenységi engedély iránti kérelem MNB-hez való benyújtását megelőzően köteles a csatlakozásról szóló nyilatkozatot a Befektető-védelmi Alap (BEVA) igazgatóságának megküldeni, és a csatlakozási díjat a BEVA részére megfizetni (csatlakozási szándék).",
+                true
+            ],
+            [
+                "A biztosított tevékenységet folytató nem köteles a BEVA-hoz csatlakozni."
+            ],
+            [
+                "A BEVA-hoz a biztosított tevékenységet folytató azért csatlakozik, hogy a tevékenység végzésére való elkötelezettségét jelezze."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a Befektető-védelmi Alapról?",
+        "Válaszok": [
+            [
+                "A Befektető-védelmi Alap (BEVA) által kifizetett kártalanítás forrása a BEVA felhalmozott vagyona, valamint a BEVA éves bevételeinek a BEVA igazgatósága által jóváhagyott éves működési költségekkel csökkentett összege.",
+                true
+            ],
+            [
+                "A BEVA a kártalanítást rendkívüli tagdíj befizetés elrendelésével biztosítja."
+            ],
+            [
+                "A BEVA a kártalanítást a központi költségvetés terhére teljesíti."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen mértékű csatlakozási díjat kell a Befektető-védelmi Alaphoz (BEVA) csatlakozó vállalkozásnak megfizetnie?",
+        "Válaszok": [
+            [
+                "A vállalkozás szavatoló tőkéje 5%-ának megfelelő összeget kötelesek csatlakozási díjként megfizetni."
+            ],
+            [
+                "A csatlakozási díj mértéke a csatlakozó vállalkozással szerződött ügyfelek számának függvénye."
+            ],
+            [
+                "A csatlakozási díj mértéke a csatlakozó vállalkozás jegyzett tőkéjének fél százaléka, de nem lehet kevesebb, mint ötszázezer forint, és nem haladhatja meg a hárommillió forintot.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a Befektető-védelmi Alapra?",
+        "Válaszok": [
+            [
+                "Árutőzsdei szolgáltató nem csatlakozhat a Befektető-védelmi Alaphoz (BEVA)."
+            ],
+            [
+                "A törvényben meghatározott tevékenységet végző árutőzsdei szolgáltató csatlakozhat a Befektető-védelmi Alaphoz (BEVA).",
+                true
+            ],
+            [
+                "Árutőzsdei szolgáltató köteles csatlakozni a Befektető-védelmi Alaphoz (BEVA)."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan számolják a Befektető-védelmi Alap (BEVA) tagdíj alapját?",
+        "Válaszok": [
+            [
+                "A díj alapját a tárgyévet megelőző 3 évben a BEVA tagjának átlagos mérleg szerinti eredménye jelenti."
+            ],
+            [
+                "A díj alapját a tárgyévet megelőző naptári évben a BEVA kártalanítási kötelezettsége alá tartozó befektetők tulajdonát képező, a BEVA tagjának kezelésében lévő azon pénz és értékpapír átlagos állománya képezi, amelyre a biztosított tevékenység végzésére kötött szerződés alapján a BEVA tag a letét kiadására köteles.",
+                true
+            ],
+            [
+                "A díj alapját a tárgyévet közvetlenül megelőző 5 évben biztosított tevékenység végzésére vonatkozó szerződés alapján a BEVA tagjának díjbevételei képezik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a Befektető-védelmi Alap (BEVA) éves díjára?",
+        "Válaszok": [
+            [
+                "A BEVA tagja által fizetendő éves díj összege nem haladhatja meg a díjalap mértékének három ezrelékét, de az éves díj nem lehet kevesebb ötszázezer forintnál (minimumdíj). A BEVA igazgatósága szabályzatban a minimumdíj mértékét ötszázezer forintnál magasabb összegben is megállapíthatja, de a minimumdíj mértéke ekkor sem haladhatja meg a kétmillió forintot. Ha a BEVA tagjának sem a tárgyévben, sem a tárgyévet megelőző naptári évben nincs az BEVA kártalanítási kötelezettsége alá tartozó befektetője, csak a törvényi minimum fizetésére kötelezhető.",
+                true
+            ],
+            [
+                "Az éves díj megfizetésének kötelezettsége kizárólag azt a gazdálkodó szervezetet terheli, amellyel szemben a tárgyévben a BEVA-nak kifizetési kötelezettsége keletkezett."
+            ],
+            [
+                "Az éves díj megfizetésének kötelezettsége azt a gazdálkodó szervezetet terheli, amely a tárgyévben a BEVA-val szerződést kötött."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a Befektető-védelmi Alap (BEVA) tagjának éves díjfizetési kötelezettségére?",
+        "Válaszok": [
+            [
+                "Ha a BEVA tagjának sem a tárgyévben, sem a tárgyévet megelőző évben nincs a kártalanítási kötelezettség alá tartozó befektetője, csak a törvényi minimumdíj megfizetésére kötelezhető.",
+                true
+            ],
+            [
+                "Ha a BEVA tagjának sem a tárgyévben, sem a tárgyévet megelőző évben nincs a kártalanítási kötelezettség alá tartozó befektetője, nincs éves díjfizetési kötelezettsége."
+            ],
+            [
+                "Ha a BEVA tagjának sem a tárgyévben, sem a tárgyévet megelőző évben nincs a kártalanítási kötelezettség alá tartozó befektetője, a BEVA Igazgatóságának döntése alapján a BEVA tag éves átalánydíjat köteles fizetni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Befektető-védelmi Alap (BEVA) által nyújtott biztosítás kiterjed-e a befektetési vállalkozás követeléseire?",
+        "Válaszok": [
+            [
+                "Igen."
+            ],
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Csak akkor, ha úgynevezett unit-linked szolgáltatást is nyújtanak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik a hamis állítás az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az egy naptári évben rendkívüli befizetés jogcímén elrendelt fizetési kötelezettség nem haladhatja meg az utolsó megállapított éves díj felét.",
+                true
+            ],
+            [
+                "Az egy naptári évben rendkívüli befizetés jogcímén elrendelt fizetési kötelezettség nem haladhatja meg az utolsó megállapított éves díj mértékét."
+            ],
+            [
+                "Az egy naptári évben rendkívüli befizetés jogcímén elrendelt fizetési kötelezettség nem haladhatja meg az utolsó megállapított éves díj kétszeresét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Ha a befektető menthető okból nem tudta igényét határidőben előterjeszteni a BEVA felé, a kérelem az akadály elhárulását követő tizenöt napon belül terjeszthető elő."
+            ],
+            [
+                "Ha a befektető menthető okból nem tudta igényét határidőben előterjeszteni a BEVA felé, a kérelem az akadály elhárulását követő negyvenöt napon belül terjeszthető elő."
+            ],
+            [
+                "Ha a befektető menthető okból nem tudta igényét határidőben előterjeszteni a BEVA felé, a kérelem az akadály elhárulását követő harminc napon belül terjeszthető elő.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a BEVA Igazgatósága által elrendelhető rendkívüli befizetésre?",
+        "Válaszok": [
+            [
+                "Az egy naptári évben rendkívüli befizetés jogcímén elrendelt fizetési kötelezettség nem haladhatja meg az utolsó megállapított éves díj felét."
+            ],
+            [
+                "Az egy naptári évben rendkívüli befizetés jogcímén elrendelt fizetési kötelezettség nem haladhatja meg az utolsó megállapított éves díj mértékét.",
+                true
+            ],
+            [
+                "Az egy naptári évben rendkívüli befizetés jogcímén elrendelt fizetési kötelezettség nem haladhatja meg az utolsó megállapított éves díj kétszeresét"
+            ]
+        ]
+    }
+]
