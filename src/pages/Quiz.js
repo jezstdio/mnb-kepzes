@@ -106,6 +106,10 @@ function GameSpace(props) {
 function AnswerButton(props) {
     const [status, setStatus] = useState();
 
+    console.log(status, props.isAnswerCorrect);
+
+    useEffect(() => { props.isAnswerCorrect === undefined && setStatus(undefined) });
+
     return (
         <button
             className={`margin-x-auto margin-b-16--d padding-y-16 ${props.isAnswerCorrect === false ? props.answer[1] ? "correct" : '' : ''} ${status ? status : ''}`.trim()}
