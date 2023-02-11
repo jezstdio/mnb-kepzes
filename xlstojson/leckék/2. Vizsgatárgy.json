@@ -1,0 +1,2912 @@
+[
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Közjegyzői okiratnak minősül",
+        "Válaszok": [
+            [
+                "az ügyleti okirat.",
+                true
+            ],
+            [
+                "a teljes bizonyító erejű magánokirat."
+            ],
+            [
+                "a kárfelvételi jegyzőkönyv."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi minősül közokiratnak az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az írásba foglalt szerződés."
+            ],
+            [
+                "A közjegyző által a törvényben meghatározott alakszerűségek megtartásával elkészített közjegyzői okirat, ennek hiteles kiadmánya és hiteles másolata.",
+                true
+            ],
+            [
+                "Az ügyvéd közreműködésével készített szerződés."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyző azért felel, hogy",
+        "Válaszok": [
+            [
+                "a közjegyzői okirat megfelel a bírósági iratok alakszerűségére vonatkozó szabálynak."
+            ],
+            [
+                "a közjegyzői okirat a valóságnak megfelelően tartalmazza a közjegyző jelenlétében történt tényeket.",
+                true
+            ],
+            [
+                "a közjegyzői okirat a közjegyző hivatalában készült."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyzői okiratban",
+        "Válaszok": [
+            [
+                "a határidőt és a pénzkötelezettség összegét számmal és betűvel, az okirat keltét számmal ki kell írni."
+            ],
+            [
+                "a határidőt és a pénzkötelezettséget, az okirat keltét és más számadatot elegendő számmal kiírni."
+            ],
+            [
+                "a határidőt, határnapot, a pénzkötelezettség végösszegét, az okirat keltét és más fontos számadatot számmal és betűvel is ki kell írni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyzői okiratban törölni, átírni vagy a sorok közé írni",
+        "Válaszok": [
+            [
+                "csak úgy szabad a javítást elvégezni, hogy az áthúzott szó olvasható maradjon és a törölt szavak számát fel kell tüntetni és a közjegyző, valamint a felek aláírásával kell ellátni.",
+                true
+            ],
+            [
+                "csak úgy szabad, ha a felek ehhez hozzájárultak."
+            ],
+            [
+                "csak úgy szabad, ha a törölt, átírt vagy módosított rendelkezést tartalmazó lapot a közjegyző kicseréli és a hibás lapot megsemmisíti."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik álltás igaz az alábbiak közül? A közjegyzői okirat",
+        "Válaszok": [
+            [
+                "eredeti példányát a felek megállapodása szerinti személy őrzi, a közjegyzőnél másolati példány marad."
+            ],
+            [
+                "eredeti példányát az a közjegyző őrzi, aki készítette, a felek az okirat hiteles kiadmányát kapják.",
+                true
+            ],
+            [
+                "eggyel több eredeti példányban készül, mint a felek száma, egy példányt a közjegyző őriz, egy-egy példányt pedig maguk a felek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Ha a közjegyzői okirat több lapból áll,",
+        "Válaszok": [
+            [
+                "azokat zsinórral össze kell fűzni és a közjegyzői bélyegzővel megerősíteni.",
+                true
+            ],
+            [
+                "az okirat minden egyes lapján fel kell tüntetni azt, hogy az okirat hány lapból áll."
+            ],
+            [
+                "azokat zsinórral össze kell fűzni; de külön közjegyzői bélyegző alkalmazása nem szükséges."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyző által őrzött eredeti közjegyzői okirat",
+        "Válaszok": [
+            [
+                "a felek bármelyikének írásbeli kérelmére kiadatható."
+            ],
+            [
+                "csak a bíróságnak vagy a területi elnökségnek adható ki.",
+                true
+            ],
+            [
+                "a felek együttes írásbeli kérelmére a kérelemben megjelölt személy számára adható ki."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyző a közjegyzői okiratot",
+        "Válaszok": [
+            [
+                "aláírja (közjegyzői minőségét nem szükséges feltüntetnie, és az okiratot bélyegzővel nem szükséges ellátnia)."
+            ],
+            [
+                "aláírja és közjegyzői minőségét feltünteti (az okiratot bélyegzővel nem szükséges ellátnia)."
+            ],
+            [
+                "aláírja, közjegyzői minőségét feltünteti és bélyegzővel ellátja.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyzői okirat elkészítése alkalmával a közjegyző kötelessége, hogy",
+        "Válaszok": [
+            [
+                "a közjegyzői okiratot a fél/felek előtt felolvassa.",
+                true
+            ],
+            [
+                "a közjegyzői okiratot a felek kérésére felolvassa."
+            ],
+            [
+                "amennyiben a fél vagy a felek valamelyike nem tud olvasni, akkor a közjegyzői okiratot felolvassa."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyzői okirat elkészítése alkalmával a közjegyző kötelessége, hogy",
+        "Válaszok": [
+            [
+                "szóról szóra írásba foglalja a fél nyilatkozatát."
+            ],
+            [
+                "világosan és egyértelműen írásba foglalja a fél nyilatkozatát.",
+                true
+            ],
+            [
+                "a fél nyilatkozatának lényeges elemeit írásba foglalja."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik álltás igaz az alábbiak közül? Ha a közjegyző a felet személyesen nem ismeri,",
+        "Válaszok": [
+            [
+                "személyi adatairól a felet köteles nyilatkoztatni."
+            ],
+            [
+                "személyi adatairól a felet nyilatkoztatja, kétség esetén személyazonosságának igazolására szólítja fel."
+            ],
+            [
+                "személyi adatairól köteles meggyőződni saját kezű aláírással és fényképpel ellátott hivatalos igazolványból.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyző a közokirat elkészítésében a közreműködést",
+        "Válaszok": [
+            [
+                "megtagadhatja, ha a fél a személyazonosság megállapításához nem szolgáltatott adatot."
+            ],
+            [
+                "köteles megtagadni, ha a fél a személyazonosság megállapításához nem szolgáltatott adatot. (Ez alól a jogszabály nem enged kivételt.)",
+                true
+            ],
+            [
+                "megtagadhatja, ha a fél a személyazonosság megállapításához nem szolgáltatott adatot, kivéve, ha két tanú a személyazonosságot igazolja."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyzői okirat elkészítéséhez két ügyleti tanú közreműködése szükséges,",
+        "Válaszok": [
+            [
+                "ha az ügyleti okirat 10 millió Ft-ot meghaladó kötelezettségvállalásról szól."
+            ],
+            [
+                "ha az ügyleti okiratban négy vagy annál több fél szerepel."
+            ],
+            [
+                "ha a fél írástudatlan, illetőleg olvasásra vagy nevének aláírására képtelen.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyzői okirat elkészítéséhez két ügyleti tanú közreműködése szükséges,",
+        "Válaszok": [
+            [
+                "ha a fél vak.",
+                true
+            ],
+            [
+                "ha az ügyleti okiratban a fél 10 millió Ft-ot meghaladóan vállal kötelezettséget."
+            ],
+            [
+                "ha a fél személyazonosságát fényképpel ellátott hivatalos igazolvánnyal igazolni nem tudja."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyzői okirat készítésénél",
+        "Válaszok": [
+            [
+                "a felet meghatalmazott nem képviselheti."
+            ],
+            [
+                "a felet meghatalmazott képviselheti, a meghatalmazást magánokiratba kell foglalni."
+            ],
+            [
+                "a felet meghatalmazott képviselheti, a meghatalmazást közokiratba vagy olyan magánokiratba kell foglalni, amelyben a fél aláírását közjegyző, bíróság, más hatóság vagy magyar külképviseleti szerv hitelesíti.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyző névaláírás vagy kézjegy valódiságát akkor tanúsíthatja,",
+        "Válaszok": [
+            [
+                "ha a fél az okiratot a közjegyző előtt írja alá vagy az okiraton lévő aláírását a közjegyző előtt sajátjának ismeri el.",
+                true
+            ],
+            [
+                "ha az aláírás megegyezik a fél sajátkezű aláírásával és a fényképpel ellátott hivatalos igazolványában szereplő aláírással."
+            ],
+            [
+                "ha két ügyleti tanú és a közjegyző együttes jelenlétében a fél az okiratot aláírja."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A közjegyzői okiratról",
+        "Válaszok": [
+            [
+                "ha a törvényben vagy az okiratban másképpen nem rendelkeztek - csak az abban félként szereplő személy, törvényes képviselője vagy meghatalmazottja részére adható ki hiteles kiadmány.",
+                true
+            ],
+            [
+                "csak az abban félként szereplő személy részére adható ki hiteles kiadmány."
+            ],
+            [
+                "bárki számára kiadható hiteles kiadmány, aki igazolni tudja, hogy az okirat tartalmának  megismerése érdekében áll."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik állítás igaz a közjegyzői okiratba foglalt szerződésekről?",
+        "Válaszok": [
+            [
+                "A közjegyző azért felel, hogy a jelenlétében előadott és közjegyzői okiratba foglalt nyilatkozat a valóságnak megfelelően tartalmazza a tényeket."
+            ],
+            [
+                "A közjegyző azért felel, hogy a közjegyzői okirat a valóságnak megfelelően tartalmazza a közjegyző jelenlétében történt tényeket."
+            ],
+            [
+                "A fenti (a) és (b) pontban foglaltak egyaránt igazak.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Minek minősül az az okirat, amely a bank és az ügyfél között közjegyző előtt került megkötésre?",
+        "Válaszok": [
+            [
+                "Tartozás elismerő nyilatkozatnak."
+            ],
+            [
+                "Egyoldalú kötelezettség vállalásnak."
+            ],
+            [
+                "Kétoldalú közjegyzői okiratnak.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? A bank és az ügyfél között közjegyző előtt megkötésre került szerződés",
+        "Válaszok": [
+            [
+                "bírósági eljárás nélkül is lehetővé teszi a végrehajthatóságot.",
+                true
+            ],
+            [
+                "a választottbíróság döntésével egyenértékű."
+            ],
+            [
+                "bírósági ítéletet követően válik végrehajthatóvá."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Kétoldalú közjegyzői okiratba foglalt kölcsönszerződés esetén",
+        "Válaszok": [
+            [
+                "a közjegyző és az ügyfél a két szerződő fél."
+            ],
+            [
+                "a bank és az ügyfél a szerződő fél.",
+                true
+            ],
+            [
+                "csak az ügyfél minősül szerződő félnek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? A kölcsönszerződés kétoldalú közjegyzői okiratba foglalása esetén",
+        "Válaszok": [
+            [
+                "a követelés egy bírósági fogalmazó által lefolytatott bírósági eljárást követően válik végrehajthatóvá."
+            ],
+            [
+                "azonnali hatályú felmondásnak van helye a bank részéről."
+            ],
+            [
+                "az ügyfél nem szerződésszerű teljesítése esetén a követelés bírósági eljárás nélkül végrehajthatóvá válik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Ha az ügyfél és a bank szerződését kétoldalú közjegyzői okiratba foglalják,",
+        "Válaszok": [
+            [
+                "az ezzel kapcsolatos díj általában az ügyfelet terheli.",
+                true
+            ],
+            [
+                "az ezzel kapcsolatos díj általában fele-fele arányban megoszlik a bank és az ügyfél között."
+            ],
+            [
+                "az ezzel kapcsolatos díj általában a bankot terheli."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Ha kétoldalú közjegyzői okirat elkészítése során a közjegyzőnek valamely fél által beszélt nyelvből nincsen nyelvi jogosítványa",
+        "Válaszok": [
+            [
+                "a közjegyző a közreműködést megtagadhatja."
+            ],
+            [
+                "a közjegyző a közjegyzői okiratot magyar nyelven tolmács közreműködésével készíti el.",
+                true
+            ],
+            [
+                "a közjegyző elkészítheti a közjegyzői okiratot, ha a másik szerződő fél erre a körülményre tekintettel az okirat elkészítéséhez kifejezetten hozzájárul."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A kétoldalú közjegyzői okiratnak tartalmaznia kell-e az eljárt jogi képviselő aláírását?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Csak abban az esetben, ha az eljárt jogi képviselő által képviselt személy nem rendelkezik teljes cselekvőképességgel."
+            ],
+            [
+                "Nem."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? A teljes bizonyító erejű magánokirat az ellenkező bizonyításig teljes bizonyítékul szolgál arra, hogy kiállítója",
+        "Válaszok": [
+            [
+                "szerződést kötött."
+            ],
+            [
+                "az abban foglalt nyilatkozatot megtette, elfogadta vagy magára kötelezőnek ismerte el.",
+                true
+            ],
+            [
+                "az okiratban megnevezett személy."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Az okirat teljes bizonyító erejű magánokirat, ha azt",
+        "Válaszok": [
+            [
+                "a kiállító saját kezűleg írta és aláírta.",
+                true
+            ],
+            [
+                "az okiratból kitűnően a kiállító diktálta, majd aláírta."
+            ],
+            [
+                "az okiratból kitűnően a kiállító maga gépelte, majd aláírta."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Teljes bizonyító erejű magánokiratnak minősül, ha",
+        "Válaszok": [
+            [
+                "a nem a kiállító által írt okirat esetén két tanú aláírása szerepel az okiraton."
+            ],
+            [
+                "a nem kiállító által írt okirat esetén csak a két tanú megnevezése és lakcíme szerepel az okiraton."
+            ],
+            [
+                "a nem kiállító által írt, de általa aláírt okirat esetén két tanú aláírásával igazolja, hogy a kiállító az okiratot előttük írta alá.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Teljes bizonyító erejű magánokiratnak minősül, ha",
+        "Válaszok": [
+            [
+                "a nem általa írt, de aláírt okirat esetén két tanú aláírásával igazolja, hogy a kiállító aláírását előttük saját kezű aláírásának ismerte el.",
+                true
+            ],
+            [
+                "a nem általa írt, de általa aláírt okirat esetén egy tanú aláírása igazolja, hogy a kiállító aláírását előtte sajt kezű aláírásának ismerte el."
+            ],
+            [
+                "a nem általa írt, de általa aláírt okirat esetén a kiállító aláírását szóban saját kezű aláírásának ismerte el."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Teljes bizonyító erejű magánokiratnak minősül, ha",
+        "Válaszok": [
+            [
+                "az okirat aláírójának aláírását hozzátartozója hitelesítette."
+            ],
+            [
+                "az okirat aláírójának aláírását a másik szerződő fél hitelesíti."
+            ],
+            [
+                "az okirat aláírójának aláírását bíró vagy közjegyző hitelesíti.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Teljes bizonyító erejű magánokiratnak minősül, ha",
+        "Válaszok": [
+            [
+                "az ügyvéd az általa készített okirat ellenjegyzésével bizonyítja, hogy az okirat megszerkesztésére megbízást kapott."
+            ],
+            [
+                "az ügyvéd az általa készített okirat ellenjegyzésével bizonyítja, hogy az okirat aláírója a más által írt okiratot előtte írta alá.",
+                true
+            ],
+            [
+                "az ügyvéd az általa készített okirat ellenjegyzésével a kiállítást kérő személyazonosságát ellenőrizte."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Teljes bizonyító erejű magánokiratnak minősül, ha",
+        "Válaszok": [
+            [
+                "az ügyvéd az általa készített okirat ellenjegyzésével bizonyítja, hogy az okirat aláírója a más által írt okiraton az aláírását előtte saját kezű aláírásának ismerte el.",
+                true
+            ],
+            [
+                "az ügyvéd az általa készített okirat ellenjegyzésével bizonyítja, hogy az okirat megszerkesztésére megbízást kapott."
+            ],
+            [
+                "az ügyvéd az általa készített okirat ellenjegyzésével a kiállítást kérő személyazonosságát ellenőrizte."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Teljes bizonyító erejű magánokiratnak minősül, ha",
+        "Válaszok": [
+            [
+                "az okiratot a jogi személy képviseletére jogosult személy a rá vonatkozó szabályok szerint megfelelően aláírja.",
+                true
+            ],
+            [
+                "a jogi személy által üzleti körében kiállított okiratot két munkavállaló minden oldalon szignójával látta el."
+            ],
+            [
+                "a jogi személy által üzleti körében kiállított okiratot a jogi személy könyvvizsgálója aláírta."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Ha az okirat kiállítója nem érti az okirat nyelvét, teljes bizonyító ereje akkor van az okiratnak, ha",
+        "Válaszok": [
+            [
+                "a hitelesített fordítást csatolják."
+            ],
+            [
+                "az okiratból kitűnik, hogy annak tartalmát a tanúk egyike vagy a hitelesítő személy az okirat aláírójának elmagyarázta.",
+                true
+            ],
+            [
+                "az okiratból kitűnik, hogy a tanúk egyike vagy a hitelesítő az okirat nyelvét ismeri."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Ha az okirat kiállítója olvasni nem tud, akkor jön létre teljes bizonyítóerejű magánokirat, ha",
+        "Válaszok": [
+            [
+                "azt közjegyző is ellenjegyzi."
+            ],
+            [
+                "abból kitűnik, hogy a tanúk, illetve a hitelesítő személy tud olvasni."
+            ],
+            [
+                "abból kitűnik, hogy annak tartalmát a tanúk egyike vagy a hitelesítő az okirat aláírójának elmagyarázta.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A teljes bizonyítóerejű magánokirat valódiságát",
+        "Válaszok": [
+            [
+                "kétségbe vonni nem lehet."
+            ],
+            [
+                "csak akkor kell bizonyítani, ha az ellenérdekű fél azt kétségbe vonja vagy a valódiság bizonyítását a bíróság szükségesnek tartja.",
+                true
+            ],
+            [
+                "csak a bíróság kérdőjelezheti meg."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A külföldön kiállított magánokiratra",
+        "Válaszok": [
+            [
+                "a magyar jog szabályait kell alkalmazni, és amennyiben a jogügylet bizonyítása céljából kiállított okirat a magyar szabályoknak nem felel meg, teljes bizonyító erejű magánokiratként nem lehet figyelembe venni."
+            ],
+            [
+                "a magyar jog szabályait alkalmazni kell azzal, hogy a jogügylet bizonyítása céljából kiállított okirat  kiállítási hely joga szerinti fennálló bizonyító erejét akkor is megtartja, ha a magyar szabályoknak nem felel meg.",
+                true
+            ],
+            [
+                "a magyar jog szabályait nem kell alkalmazni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely feltételnek nem kell teljesülnie ahhoz, hogy a nyilatkozatot írásba foglaltnak lehessen tekinteni?",
+        "Válaszok": [
+            [
+                "A jognyilatkozat közlésére olyan formában kerül sor, amely alkalmas a jognyilatkozatban foglalt tartalom változatlan visszaidézésére."
+            ],
+            [
+                "A jognyilatkozat közlésére olyan formában kerül sor, amely alkalmas a nyilatkozattevő személyének azonosítására."
+            ],
+            [
+                "A jognyilatkozat közlésére olyan formában kerül sor, amely alkalmas a nyilatkozatot fogadó személyének azonosítására.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül milyen okirat jön létre abban az esetben, ha az okirat aláírójának aláírását az okiraton bíró hitelesíti?",
+        "Válaszok": [
+            [
+                "Közokirat."
+            ],
+            [
+                "Teljes bizonyító erejű magánokirat.",
+                true
+            ],
+            [
+                "Egyszerű magánokirat."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az ingatlan-nyilvántartásba az alábbiak bejegyzése kérhető:",
+        "Válaszok": [
+            [
+                "ingatlan-tulajdonoshoz kapcsolódó jog keletkezése módosulása."
+            ],
+            [
+                "ingatlanhoz kapcsolódó jog vagy tény keletkezése, módosulása vagy megszűnése.",
+                true
+            ],
+            [
+                "ingatlan-átruházóhoz kapcsolódó jog vagy tény keletkezése, módosulása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az ingatlan-nyilvántartás adatait érintő olyan eljárásokban, amelyekben a jogváltozás bejegyzésének alapjául közjegyző által készített okirat vagy ügyvéd által ellenjegyzett magánokirat szolgál,",
+        "Válaszok": [
+            [
+                "a jogi képviselet kötelező.",
+                true
+            ],
+            [
+                "a jogi képviselet mellőzhető."
+            ],
+            [
+                "a jogi képviselő bírósági titkár is lehet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Az ingatlan-nyilvántartásba történő bejegyzést",
+        "Válaszok": [
+            [
+                "kizárólag az kérheti, akinek ez bejegyzett jogát érinti."
+            ],
+            [
+                "kizárólag az kérheti, aki ezáltal jogosulttá válik."
+            ],
+            [
+                "annak kell kérnie, aki ezáltal jogosulttá válik, illetve kérheti az is, akinek ez bejegyzett jogát érinti.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Az ingatlan-nyilvántartásba való bejegyzés iránti kérelemhez",
+        "Válaszok": [
+            [
+                "a felek számánál eggyel több példányban csatolni kell a bejegyzés alapjául szolgáló okiratot."
+            ],
+            [
+                "két eredeti és egy másolati példányban csatolni kell a bejegyzés alapjául szolgáló okiratot.",
+                true
+            ],
+            [
+                "egy eredeti és két másolati példányban csatolni kell a bejegyzés alapjául szolgáló okiratot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az ingatlan-nyilvántartásba bejegyezhető jog",
+        "Válaszok": [
+            [
+                "a jelzálogjog.",
+                true
+            ],
+            [
+                "a perfeljegyzés."
+            ],
+            [
+                "a tulajdonos gondnokság alá helyezése."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az ingatlan-nyilvántartásba bejegyezhető jog",
+        "Válaszok": [
+            [
+                "a csődeljárás indítása a tulajdonos ellen."
+            ],
+            [
+                "a haszonélvezeti jog és használati jog.",
+                true
+            ],
+            [
+                "a büntető eljárás megindítása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Belföldön kiállított magánokirat az ingatlan-nyilvántartásba bejegyzés alapjául akkor szolgálhat, ha",
+        "Válaszok": [
+            [
+                "az okiratot közjegyző készítette, vagy ügyvéd vagy kamarai jogtanácsos ellenjegyzéssel látta el.",
+                true
+            ],
+            [
+                "a felek a szerződést aláírták."
+            ],
+            [
+                "a szerződést ügyvéd készítette."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Jelzálogjog alapítására, módosítására, megszűnésére vonatkozó bejegyzés az ingatlan-nyilvántartásba olyan magánokirat alapján is teljesíthető,",
+        "Válaszok": [
+            [
+                "amelyet a nyilatkozattevő hitelintézet a nevének feltüntetésével szabályszerűen és nyilvánvalóan azonosítható módon írt alá.",
+                true
+            ],
+            [
+                "amelyet a nyilatkozattevő hitelintézet pecsétjével láttak el."
+            ],
+            [
+                "amelyet a nyilatkozattevő hitelintézet ügyintézője kézjegyével ellátott."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az ingatlan-nyilvántartásba bejegyzés alapjául szolgáló okiratot",
+        "Válaszok": [
+            [
+                "meghatalmazott nem írhatja alá."
+            ],
+            [
+                "meghatalmazotti eljárás esetén közokiratba kell foglalni."
+            ],
+            [
+                "meghatalmazott is aláírhatja, ebben az esetben csatolni kell a meghatalmazást is, amelyet a bejegyzés alapjául szolgáló okiratra előírt alakszerűségek szerint kell kiállítani.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az ingatlan-nyilvántartási eljárás során a kérelemre induló olyan eljárásokban, amelyekben a jogváltozás bejegyzésének alapjául közjegyző által készített magánokirat szolgál,",
+        "Válaszok": [
+            [
+                "a jogi képviselet kötelező.",
+                true
+            ],
+            [
+                "a jogi képviselet nem kötelező."
+            ],
+            [
+                "jogi képviselő közreműködése esetén soron kívüli eljárásnak van helye."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az ingatlan-nyilvántartásba feljegyezhető tény",
+        "Válaszok": [
+            [
+                "a szerződésen alapuló elidegenítési és terhelési tilalom.",
+                true
+            ],
+            [
+                "a telki szolgalom."
+            ],
+            [
+                "az elővásárlási jog."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül az ingatlan mely részére nem jegyezhető be az ingatlan-nyilvántartásba jelzálogjog?",
+        "Válaszok": [
+            [
+                "Az ingatlan egy részére.",
+                true
+            ],
+            [
+                "Az ingatlan egészére."
+            ],
+            [
+                "A közös tulajdonban álló ingatlannak a tulajdonostársat megillető egész tulajdoni illetőségére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül milyen célt szolgál az elidegenítési és terhelési tilalom?",
+        "Válaszok": [
+            [
+                "Az ingatlan állagának megóvását."
+            ],
+            [
+                "A jelzálogjog biztosítását.",
+                true
+            ],
+            [
+                "A közhitelesség elvének biztosítását."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Jelzálogjogot",
+        "Válaszok": [
+            [
+                "csak ingatlanon lehet alapítani."
+            ],
+            [
+                "csak ingóságon lehet alapítani."
+            ],
+            [
+                "ingatlanon és ingóságon egyaránt lehet alapítani.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Ingó dolgot terhelő jelzálog alapításához a zálogszerződést",
+        "Válaszok": [
+            [
+                "közjegyzői okiratba kell foglalni."
+            ],
+            [
+                "írásba kell foglalni.",
+                true
+            ],
+            [
+                "teljes bizonyító erejű magánokiratba kell foglalni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az ingóságot terhelő jelzálogjogot",
+        "Válaszok": [
+            [
+                "be kell jegyezni a gépjármű nyilvántartásba."
+            ],
+            [
+                "be kell jegyezni a Pesti Központi Kerületi Bíróság által vezetett zálogjogi nyilvántartásba."
+            ],
+            [
+                "be kell jegyezni a Magyar Országos Közjegyzői Kamaránál vezetett hitelbiztosítéki nyilvántartásba.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A hitelbiztosítéki nyilvántartásba kell bejegyezni",
+        "Válaszok": [
+            [
+                "az ingatlant terhelő jelzálogjogot."
+            ],
+            [
+                "az ingó dolgot, jogot vagy követelést terhelő jelzálogjogot.",
+                true
+            ],
+            [
+                "a hitelszerződéseket."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül ki tehet a zálogjog hitelbiztosítéki nyilvántartásból való törlésére irányuló nyilatkozatot?",
+        "Válaszok": [
+            [
+                "Kizárólag a közjegyző."
+            ],
+            [
+                "Kizárólag a zálogkötelezett."
+            ],
+            [
+                "A zálogjogosult és a zálogkötelezett egyaránt.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül ki tehet a zálogjog hitelbiztosítéki nyilvántartásba történő bejegyzésre irányuló nyilatkozatot?",
+        "Válaszok": [
+            [
+                "A zálogjogosult és a zálogkötelezett egyaránt.",
+                true
+            ],
+            [
+                "Kizárólag a közjegyző."
+            ],
+            [
+                "Kizárólag a zálogkötelezett."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Be lehet-e tekinteni a hitelbiztosítéki nyilvántartásba?",
+        "Válaszok": [
+            [
+                "Igen, a hitelbiztosítéki nyilvántartás nyilvános, annak tartalmát az interneten bárki megtekintheti a vonatkozó kormányrendelet által előírt díj megfizetését követően."
+            ],
+            [
+                "Igen, a hitelbiztosítéki nyilvántartás nyilvános, annak tartalmát az interneten bárki ingyen megtekintheti.",
+                true
+            ],
+            [
+                "Nem, a hitelbiztosítéki nyilvántartás nem nyilvános, abba csak a vonatkozó kormányrendeletben megjelölt személyek tekinthetnek be."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az adásvételi szerződés alapján a vevő köteles",
+        "Válaszok": [
+            [
+                "a vételárat megfizetni és a dolgot átvenni.",
+                true
+            ],
+            [
+                "a vételárat megfizetni."
+            ],
+            [
+                "a vételár megfizetésére kötelezettséget vállalni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Ingatlan adásvételének érvényességéhez",
+        "Válaszok": [
+            [
+                "a szerződés közokiratba foglalása szükséges."
+            ],
+            [
+                "a szerződés írásba foglalása szükséges.",
+                true
+            ],
+            [
+                "a szóbeli szerződéskötés elegendő."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Adásvétel esetén – eltérő megállapodás hiányában – a dolog átvételének és a tulajdonváltozás ingatlan-nyilvántartásba való bejegyzésének költségei általában",
+        "Válaszok": [
+            [
+                "a vevőt terhelik.",
+                true
+            ],
+            [
+                "az eladót és a vevőt egyenlő arányban terhelik."
+            ],
+            [
+                "az eladót terhelik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Adásvétel esetén – eltérő megállapodás hiányában – a birtokátruházással és az ingatlan-nyilvántartásban feltüntetett állapot rendezésével kapcsolatos költségek",
+        "Válaszok": [
+            [
+                "a vevőt terhelik."
+            ],
+            [
+                "az eladót és a vevőt egyenlő arányban terhelik."
+            ],
+            [
+                "az eladót terhelik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az ingatlan adásvétele esetén az ingatlan tulajdonjogát a vevő akkor szerzi meg,",
+        "Válaszok": [
+            [
+                "ha a szerződés érvényes , és az ingatlant birtokba vette."
+            ],
+            [
+                "ha a szerződés érvényes."
+            ],
+            [
+                "ha a szerződés érvényes, az ingatlant birtokba adták és a vevő tulajdonjogát az ingatlan-nyilvántartásba bejegyezték.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az adásvételi szerződés esetén a vételár teljes kiegyenlítéséig",
+        "Válaszok": [
+            [
+                "az eladó írásban fenntarthatja a dolog tulajdonjogát.",
+                true
+            ],
+            [
+                "az eladó a dolog tulajdonjogát nem szerzi meg."
+            ],
+            [
+                "a vevő a szerződés megkötésekor fenntarthatja a dolog tulajdonjogát."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az adásvételi szerződés esetén kikötött tulajdonjog-fenntartás hatálya idején a vevő a dolgot",
+        "Válaszok": [
+            [
+                "csak az eladó előzetes engedélyével idegenítheti el."
+            ],
+            [
+                "nem idegenítheti el.",
+                true
+            ],
+            [
+                "csak a vételár 75%-ának kiegyenlítése után idegenítheti el."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Az ingatlan adásvétele esetén, ha a vevő tulajdonjogának bejegyzése előtt birtokba lép, ennek napjától",
+        "Válaszok": [
+            [
+                "szedheti a dolog hasznait, viseli terheit és azt a kárt, amelynek megtérítésére senkit nem lehet kötelezni.",
+                true
+            ],
+            [
+                "jogosult a dolog tulajdonjogával felhagyni."
+            ],
+            [
+                "jogosult az elbirtoklás útján történő tulajdonszerzés bejegyzésére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Ha a tulajdonos másnak vételi jogot enged,",
+        "Válaszok": [
+            [
+                "a jogosult egy később meghatározott időpontban adásvételi szerződés megkötését követelheti."
+            ],
+            [
+                "a jogosult 10 év szakadatlan birtoklás után megszerzi a dolog tulajdonjogát."
+            ],
+            [
+                "a jogosult a dolgot a tulajdonoshoz intézett egyoldalú nyilatkozattal megvásárolhatja.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Vételi jog",
+        "Válaszok": [
+            [
+                "legfeljebb 6 hónapra köthető ki."
+            ],
+            [
+                "határozatlan időtartamra is kiköthető.",
+                true
+            ],
+            [
+                "legfeljebb 5 évre köthető ki."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A vételi jogra vonatkozó megállapodás",
+        "Válaszok": [
+            [
+                "szóban vagy írásban köthető."
+            ],
+            [
+                "közokiratba foglalása kötelező."
+            ],
+            [
+                "érvényesen írásban köthető meg.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Ha a tulajdonos meghatározott dologra nézve írásbeli megállapodással elővásárlási jogot enged,",
+        "Válaszok": [
+            [
+                "akkor ha a dolgot el akarja adni, a kapott ajánlatot a szerződés megkötése előtt köteles az elővásárlásra jogosulttal közölni.",
+                true
+            ],
+            [
+                "a dolgot kizárólag az elővásárlási jog jogosultjának adhatja el."
+            ],
+            [
+                "az elővásárlási jog jogosultja az általa meghatározott áron élhet a jogával."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Ha a tulajdonos elővásárlási jogot enged meghatározott dologra; és a tulajdonos a jogosultnak ajánlatot tesz, de a jogosult az ajánlatra nem tesz nyilatkozatot,",
+        "Válaszok": [
+            [
+                "a tulajdonos tetszőleges áron adhatja el a dolgot."
+            ],
+            [
+                "a tulajdonos az ajánlatnak megfelelően vagy annál az eladó számára kedvezőbb feltételek mellett adhatja el a dolgot.",
+                true
+            ],
+            [
+                "a tulajdonos kizárólag az ajánlatnak megfelelő áron adhatja el a dolgot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a jogkövetkezménye annak, ha ugyanazon dologra nézve több személyt azonos rangsorban illet meg az elővásárlási jog és közülük többen tesznek elfogadó nyilatkozatot?",
+        "Válaszok": [
+            [
+                "Az adásvételi szerződés nem jön létre, a jogosultaknak új ajánlatot kell tenniük."
+            ],
+            [
+                "Az adásvételi szerződés a hatályos elfogadó nyilatkozatot tett jogosultakkal létrejön.",
+                true
+            ],
+            [
+                "Az adásvételi szerződés az eladó döntése által kijelölt jogosulttal jön létre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Jognyilatkozatot tenni",
+        "Válaszok": [
+            [
+                "csak személyesen lehet."
+            ],
+            [
+                "más személy (képviselő) útján is lehet, amennyiben az jogszabály által nem kizárt.",
+                true
+            ],
+            [
+                "kizárólag személyesen vagy pénzügyi szolgáltató útján lehet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A képviselő eljárásával",
+        "Válaszok": [
+            [
+                "az általa képviselt válik jogosulttá, illetőleg kötelezetté.",
+                true
+            ],
+            [
+                "a képviselő és a képviselt egyetemlegesen válik jogosulttá, illetőleg egyetemlegesen válik kötelezetté."
+            ],
+            [
+                "a képviselő válik jogosulttá, illetőleg kötelezetté."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Cselekvőképes személyt",
+        "Válaszok": [
+            [
+                "csak cselekvőképes személy képviselhet."
+            ],
+            [
+                "cselekvőképtelen személy is képviselhet."
+            ],
+            [
+                "korlátozottan cselekvőképes személy is képviselhet meghatalmazás alapján.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Üzlethelyiségben vagy az ügyfélforgalom számára nyitva álló egyéb helyiségben azt a személyt, akiről okkal feltételezhető, hogy az ott szokásos jognyilatkozatok megtételére jogosult,",
+        "Válaszok": [
+            [
+                "a meghatalmazása felmutatása után a jogi személy képviselőjének kell tekinteni."
+            ],
+            [
+                "képviselőnek kell tekinteni.",
+                true
+            ],
+            [
+                "közokiratba foglalt általános meghatalmazás alapján a jogi személy képviselőjének kell tekinteni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Meghatalmazás útján képviseleti jogot,",
+        "Válaszok": [
+            [
+                "a képviselőhöz, a bírósághoz, az érdekelt hatósághoz, vagy ahhoz a személyhez intézett nyilatkozattal (meghatalmazással) lehet létesíteni, akihez a meghatalmazás alapján a képviselő jognyilatkozatot jogosult tenni",
+                true
+            ],
+            [
+                "nem lehet létesíteni."
+            ],
+            [
+                "kizárólag ügyvéd által ellenjegyzett teljes bizonyító erejű magánokiratba foglaltan lehet hitelesíteni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Meghatalmazáshoz olyan alakszerűségek szükségesek,",
+        "Válaszok": [
+            [
+                "amilyenben a felek megállapodnak."
+            ],
+            [
+                "amilyent a szerződést ellenjegyző ügyvéd szükségesnek tart."
+            ],
+            [
+                "amilyet a jogszabály a meghatalmazás alapján megtehető jognyilatkozatra előír.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? Az általános meghatalmazás",
+        "Válaszok": [
+            [
+                "csak közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan érvényes.",
+                true
+            ],
+            [
+                "csak közokiratba foglaltan érvényes."
+            ],
+            [
+                "akár szóban, akár írásban érvényes."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? A meghatalmazás",
+        "Válaszok": [
+            [
+                "minden esetben kizárólag egy adott jogügyletre érvényes."
+            ],
+            [
+                "a kiállítás keltétől számított legfeljebb egy évig érvényes."
+            ],
+            [
+                "ellenkező kikötés hiányában visszavonásig érvényes.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? A meghatalmazás-visszavonás harmadik személy irányában akkor hatályos,",
+        "Válaszok": [
+            [
+                "ha arról tudott vagy tudnia kellett.",
+                true
+            ],
+            [
+                "ha a meghatalmazó a meghatalmazottal a visszavonást közölte."
+            ],
+            [
+                "ha a meghatalmazás visszavonásától legalább 15 nap eltelt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás az igaz az alábbiak közül? A meghatalmazás visszavonásának jogáról",
+        "Válaszok": [
+            [
+                "a meghatalmazó közokiratba foglalt nyilatkozattal lemondhat."
+            ],
+            [
+                "való lemondás semmis.",
+                true
+            ],
+            [
+                "a meghatalmazó írásbeli nyilatkozattal lemondhat."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A meghatalmazás az alábbi képviseleti formák mely csoportjába tartozik?",
+        "Válaszok": [
+            [
+                "Ügyleti képviselet.",
+                true
+            ],
+            [
+                "Szervezeti képviselet."
+            ],
+            [
+                "Törvényes képviselet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előtörleszthető-e a fogyasztási kölcsön?",
+        "Válaszok": [
+            [
+                "Nem, mert ezzel a hitelintézet elesne a futamidő további részében esedékes hiteldíjaktól."
+            ],
+            [
+                "Igen, fogyasztási kölcsön esetében az ügyfél – a szerződés megszüntetése érdekében – minden esetben élhet a határidő (lejárat) előtti teljesítés (törlesztés) jogával.",
+                true
+            ],
+            [
+                "Igen, fogyasztási kölcsön esetében az ügyfél – a szerződés megszüntetése érdekében – amennyiben a hitelnyújtó ezt a hitelszerződésben nem tiltotta meg, élhet a határidő (lejárat) előtti teljesítés (törlesztés) jogával."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Fogyasztási kölcsön esetében, amennyiben az adós előtörleszt,",
+        "Válaszok": [
+            [
+                "a még hátralévő tőketartozást és a lejáratig még esedékes kamatokat meg kell fizetnie."
+            ],
+            [
+                "hitelezőnek csökkentenie kell a hitel teljes díját az előtörlesztett részlet vonatkozásában a hitelszerződés eredeti lejárata szerint fennmaradó időtartamára vonatkozó hitelkamattal, és hitelkamaton kívüli minden egyéb ellenszolgáltatással.",
+                true
+            ],
+            [
+                "a még hátralévő tőketartozást, a lejáratig még esedékes kamatokat, valamint előtörlesztési díjat kell fizetnie."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az előtörlesztési díj?",
+        "Válaszok": [
+            [
+                "A részleges előtörlesztés és a teljes kölcsönösszeg előtörlesztése esetén is a hitelezőnek az előtörlesztés napján az ügyféllel szemben hatályos hirdetményében meghatározott díj.",
+                true
+            ],
+            [
+                "A részleges előtörlesztés esetén a hitelezőnek az előtörlesztés napján hatályos hirdetményében a futamidő végére meghatározott díj."
+            ],
+            [
+                "A teljes kölcsönösszeg előtörlesztése esetén a hitelezőnek a szerződéskötés napján hatályos hirdetményében meghatározott díj."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Fogyasztónak nyújtott hitelek esetében törvényi előírás, hogy a hitelezőnek, közvetítőnek a hitelszerződés megkötését megelőzően az előtörlesztés feltételeiről, illetve adott esetben az előtörlesztés költségeiről",
+        "Válaszok": [
+            [
+                "szükségtelen tájékoztatást adnia."
+            ],
+            [
+                "az ügyfél erre irányuló kérdése esetén tájékoztatást kell adnia."
+            ],
+            [
+                "tájékoztatást kell adnia.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő állítás? A lakástakarékpénztárral kötött lakáselőtakarékossági szerződés alapján igénybevett lakáskölcsön törlesztése során az előtakarékoskodó a szerződés módosítása nélkül bármikor jogosult rendkívüli, a szerződésben meghatározott törlesztő részletnél magasabb összegű törlesztés teljesítésére.",
+        "Válaszok": [
+            [
+                "Igen, de azzal a feltétellel, hogy az előtakarékoskodó ezt az összeget egy zárolt, nem kamatozó alszámlára utalja."
+            ],
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Terhelhet-e rendkívüli díjat a lakástakarékpénztár abban az esetben, ha az adós a lakáselőtakarékossági szerződés alapján igénybevett lakáskölcsönnél magasabb törlesztőrészletet fizet?",
+        "Válaszok": [
+            [
+                "Csak abban az esetben, ha az előtakarékoskodó kéri a szerződés módosítását."
+            ],
+            [
+                "Igen."
+            ],
+            [
+                "Nem.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előtörleszthető-e a lakossági jelzáloghitel?",
+        "Válaszok": [
+            [
+                "Nem, mert ezzel a hitelintézet elesne a futamidő további részében esedékes hiteldíjaktól."
+            ],
+            [
+                "A 2010. március 1-jét követően megkötött jelzáloghitel szerződések esetében  az ügyfél minden esetben élhet a részleges vagy teljes előtörlesztés jogával. Az ezt megelőzően kötött szerződések esetében a konkrét szerződéses feltételek szerint lehetséges az előtörlesztés.",
+                true
+            ],
+            [
+                "Igen, lakossági jelzáloghitel esetében az ügyfél, amennyiben a hitelnyújtó ezt a hitelszerződésben nem tiltotta meg, élhet a határidő (lejárat) előtti teljesítés (törlesztés) jogával."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő állítás? Lakossági jelzáloghitel előtörlesztése esetén a hitelező jogosult az előtörlesztés miatt keletkezett költségeinek megtérítésére.",
+        "Válaszok": [
+            [
+                "Nem, az előtörlesztés minden esetben ingyenes, a hitelező nem számíthat fel külön előtörlesztési díjat."
+            ],
+            [
+                "Igen, a deviza alapú kamattámogatott hitelek kivételével."
+            ],
+            [
+                "Főszabály szerint igen.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora az előtörlesztési díj maximális mértéke lakossági jelzáloghitel előtörlesztése esetén (ide nem értve a jelzáloglevéllel finanszírozott kölcsönszerződést)?",
+        "Válaszok": [
+            [
+                "Legfeljebb az előtörlesztett összeg 1,5 százaléka.",
+                true
+            ],
+            [
+                "Legalább az előtörlesztett összeg 2 százaléka."
+            ],
+            [
+                "Az előtörlesztett összeg 2 százaléka, de legalább húszezer Forint."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora az előtörlesztési díj maximális mértéke a jelzáloglevéllel finanszírozott lakossági jelzáloghitel előtörlesztése esetén?",
+        "Válaszok": [
+            [
+                "Az előtörlesztett összeg 2,5 százaléka, de legfeljebb huszonötezer Forint."
+            ],
+            [
+                "Legalább az előtörlesztett összeg 1,5 százaléka."
+            ],
+            [
+                "Legfeljebb az előtörlesztett összeg 2 százaléka.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A 2010. március 1-jét követően megkötött lakossági jelzáloghitel előtörlesztése esetén milyen esetben nem illeti meg a hitelezőt a költségtérítés?",
+        "Válaszok": [
+            [
+                "Abban az esetben, ha az előtörlesztés visszafizetési biztosítékként kötött biztosítási szerződés alapján történt.",
+                true
+            ],
+            [
+                "Abban az esetben, ha az előtörlesztett összeg nem haladja meg a teljes hitelösszeg 10%-át."
+            ],
+            [
+                "Abban az esetben, ha az előtörlesztés előtakarékossági szerződés alapján történt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül a hitelező mely formában köteles a fogyasztó rendelkezésére bocsátani az előtörlesztésre vonatkozó információkat?",
+        "Válaszok": [
+            [
+                "Szóban, írásban, vagy más tartós adathordozón."
+            ],
+            [
+                "Papíron, vagy más tartós adathordozón.",
+                true
+            ],
+            [
+                "A hitelező nem köteles ezeket az információkat a fogyasztó rendelkezésére bocsátani."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő állítás? A futamidő meghosszabbítása esetén - a még fennálló tartozás összegének és a kamatfeltételeknek a változatlanul hagyása mellett - a törlesztőrészlet is azzal arányosan csökken.",
+        "Válaszok": [
+            [
+                "Igen, mert az adósnak hosszabb futamidő alatt, egységnyi időre vetítve kisebb tőkerészleteket kell változatlan kamat- és díjfeltételek mellett törlesztenie.",
+                true
+            ],
+            [
+                "Nem, mert a hosszabb futamidő miatt a fizetendő hiteldíj is növekszik."
+            ],
+            [
+                "Ellenkezőleg, a törlesztőrészlet ezzel arányosan nő."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a hitel prolongálása?",
+        "Válaszok": [
+            [
+                "A hitel lejáratának bármilyen okból szerződés módosítással történő hosszabbítását.",
+                true
+            ],
+            [
+                "A késedelmessé vált (problémás) hitel lejáratának bármilyen okból történő módosítását."
+            ],
+            [
+                "A hitel lejáratának bármilyen okból történő módosítását oly módon, hogy a hitelnyújtó új hitelkeretet vagy hitelösszeget hagy jóvá."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az adós hiteltörlesztési képességének romlása esetén milyen elsődleges célt szolgál a hitel prolongálása?",
+        "Válaszok": [
+            [
+                "A hitelbiztosítéki érték javulását."
+            ],
+            [
+                "Azt, hogy a hitelszerződésből eredő követelésnek az adós - hiteltörlesztési képességének romlása ellenére, a prolongálás miatt alacsonyabb havi törlesztőrészletekkel - eleget tudjon tenni.",
+                true
+            ],
+            [
+                "A hitelcél megvalósulását."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiakban megjelöltek közül mely jellemző ok miatt válhat szükségessé egy forgóeszközhitel prolongálása?",
+        "Válaszok": [
+            [
+                "Mert a hitelszerződésben kikötött biztosíték értéke jelentősen lecsökkent."
+            ],
+            [
+                "Mert az adós vállalkozás által indított beruházás késik, határidőre történő átadása kérdésessé vált."
+            ],
+            [
+                "Mert az adós gazdálkodásában az átmeneti forgóeszköz- (vevő- vagy készletállomány-) növekmény tartóssá vált.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik az az alábbiakban megjelölt ok (kockázati tényező), amely nem a hitel prolongálásához, hanem sokkal inkább a hitel felmondásához vezet?",
+        "Válaszok": [
+            [
+                "Az átmeneti forráshiány tartóssá válása."
+            ],
+            [
+                "Az adós fizetésképtelenné válása.",
+                true
+            ],
+            [
+                "Az átmeneti forgóeszköznövekmény tartóssá válása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A hitel prolongálása a hitelnyújtó számára az eredetihez képest",
+        "Válaszok": [
+            [
+                "hitelveszteséget okoz."
+            ],
+            [
+                "későbbi megtérülést valószínűsít.",
+                true
+            ],
+            [
+                "kisebb megtérülést eredményez."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A futamidő hosszabbítása (a hitel prolongálása) miatt a hitelszerződés egyes feltételeinek változtatására új szerződés, vagy szerződésmódosítás formájában kerülhet sor?",
+        "Válaszok": [
+            [
+                "Kizárólag új szerződés formájában."
+            ],
+            [
+                "Kizárólag szerződésmódosítás formájában."
+            ],
+            [
+                "Akár új szerződés, akár szerződésmódosítás formájában.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan történik normál esetben a folyószámla-hitelkeret rendelkezésre tartásának meghosszabbítása?",
+        "Válaszok": [
+            [
+                "Rendszerint az éves felülvizsgálat keretében – a folyamatos kockázatkezelés tapasztalatai, és/vagy az ügyfél módosító kérelme alapján − történik döntés a keret további rendelkezésre tartásáról.",
+                true
+            ],
+            [
+                "A hitelező felmondja a problémássá vált folyószámla-hitelkeret szerződést, és szigorúbb feltételekkel újabb szerződést köt."
+            ],
+            [
+                "Pótfedezet bekérése mellett."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kezdeményezhető-e futamidő-módosítás az adós fizetési nehézségének kezelése céljából?",
+        "Válaszok": [
+            [
+                "Igen, így például a Magatartási Kódexet aláíró pénzügyi intézmények vállalják, hogy a fizetési nehézségek kezelése körében a hitelek futamidejét minden esetben automatikusan meghosszabbítják."
+            ],
+            [
+                "Igen, így például a Magatartási Kódexet aláíró pénzügyi intézmények vállalják, hogy kidolgoznak a hitelezéssel kapcsolatban olyan termékeket, áthidaló módszereket, intézkedési csomagokat, amelyek a hitelek átütemezésével, vagy a törlesztési időszak meghosszabbításával kapcsolatosak.",
+                true
+            ],
+            [
+                "Nem."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Lakáshiteleknél, átmeneti hiteltörlesztési nehézségek esetén áthidaló megoldást jelenthet",
+        "Válaszok": [
+            [
+                "a hitel futamidejének rövidítése."
+            ],
+            [
+                "a kölcsön előtörlesztése."
+            ],
+            [
+                "a hitel törlesztésének időszakos szüneteltetése.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükségessé teheti-e hitel lejáratának módosítását a szerződésben foglalt finanszírozási cél megváltozása?",
+        "Válaszok": [
+            [
+                "Kizárólag problémás követelések esetében."
+            ],
+            [
+                "Nem jellemző, a szerződésben foglalt finanszírozási cél megváltozása ugyanis azonnali hitelfelmondási ok.",
+                true
+            ],
+            [
+                "Indokolt esetben igen."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelszerződés esetében, mi a következménye annak, ha a szerződésben megjelölt hitelcél a rendelkezésre tartás időtartama alatt nem teljesült, és a hitelkeretből folyósítás még nem történt?",
+        "Válaszok": [
+            [
+                "A rendelkezésre tartási időszak lezárul, és - tekintettel arra, hogy hitelművelet nem történt - a hitelszerződés megszűnik.",
+                true
+            ],
+            [
+                "A hitelező azonnali hatállyal felmondja a hitelszerződést."
+            ],
+            [
+                "Az adós egyoldalú nyilatkozata alapján a rendelkezésre tartási idő meghosszabbodik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelszerződés esetében mi történik, ha a szerződésben megjelölt hitelcél teljesült, de az adós a hitelkeretet teljes egészében nem, csak részben hívta le?",
+        "Válaszok": [
+            [
+                "A rendelkezésre tartási idő meghosszabbodik, abból a célból, hogy az adós a hitelkeretet lehívhassa."
+            ],
+            [
+                "A hitelkeret le nem hívása miatt a hitelező azonnali hatállyal felmondja a hitelszerződést."
+            ],
+            [
+                "A rendelkezésre tartási időszak elteltével az adósnak a szerződésben megjelölt feltételek szerint tartozása áll fenn a lehívott összeg és járulékai erejéig, a rendelkezésre tartási időszak lejáratáig le nem hívott hitelkeret pedig megszűnik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Keretjellegű hitelszerződés esetében, lehetőség van-e a rendelkezésre tartási idő meghosszabbítására, ha a rendelkezésre tartás időtartartama alatt ismertté válik, hogy a kölcsönnek a szerződésben megjelölt célra fordítása lehetetlen, és a hitelkeretből folyósítás még nem történt?",
+        "Válaszok": [
+            [
+                "Tekintettel arra, hogy a hitelszerződés értelmében az ügyfél köteles a kölcsön teljes összegének lehívására, a hitelezőnek a rendelkezésre tartási időt meg kell hosszabbítania."
+            ],
+            [
+                "A rendelkezésre tartási időszak lezárul, és - tekintettel arra, hogy hitellehívás nem történt - a hitelszerződés megszűnik.",
+                true
+            ],
+            [
+                "Igen, ekkor az adósnak egy újabb, megvalósítható hitelcélt kell megjelölnie."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Létezik-e valamilyen időkorlát a hitelkeret (meghosszabbított) rendelkezésre tartására?",
+        "Válaszok": [
+            [
+                "Igen, nem lehet több, mint egy év."
+            ],
+            [
+                "Nem, de a rendelkezésre tartási időszakot célszerű a hitelcél megvalósulásának várható időtartama szerint meghatározni.",
+                true
+            ],
+            [
+                "Igen, nem lehet hosszabb, mint a törlesztési periódus."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelszerződés esetében mi a teendő, ha a meghosszabbított rendelkezésre tartás időtartama alatt az adós körülményeiben olyan lényeges kedvezőtlen változás állt be, melynek köszönhetően hitelképtelenné vált?",
+        "Válaszok": [
+            [
+                "Az adósnak hitelt érdemlően igazolnia kell, hogy jövedelmi/pénzügyi helyzete a hitelintézet számára elfogadható kockázatot jelent."
+            ],
+            [
+                "A hitelezőnek - a hitelszerződés szerinti kötelezettségvállalása okán - újabb adósminősítést kell elvégeznie, és ennek eredményétől függően pótfedezetet kell bekérnie."
+            ],
+            [
+                "A hitelszerződést a hitelező felmondhatja, ha az adós felszólítás ellenére sem ad megfelelő biztosítékot.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Beruházási hitel esetében az alábbiak közül milyen ok miatt hosszabbodhat a rendelkezésre tartási idő?",
+        "Válaszok": [
+            [
+                "Nyilvánvalóvá vált, hogy az adós - vagyoni helyzetének romlása miatt - csak késve tudja megkezdeni a hitel törlesztését."
+            ],
+            [
+                "A beruházás a tervezetthez képest késik, és az adós kérelmét a rendelkezésre tartási idő hosszabbítására a hitelező jóváhagyja.",
+                true
+            ],
+            [
+                "Az adós ellen környezeti károkozás miatt hatósági eljárás indul."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Projekthitel (projektfinanszírozás) esetében az alábbiak közül milyen ok miatt hosszabbodhat a rendelkezésre tartási idő?",
+        "Válaszok": [
+            [
+                "Nyilvánvalóvá vált, hogy az adós - a szponzor vagyoni helyzetének romlása miatt - csak késve tudja megkezdeni a hitel törlesztését."
+            ],
+            [
+                "A projekt a tervezetthez képest késik, és az adós kérelmét a rendelkezésre tartási idő hosszabbítására a hitelező jóváhagyja.",
+                true
+            ],
+            [
+                "A kivitelező cég ellen környezeti károkozás miatt hatósági eljárás indul."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A rendelkezésre tartási idő hosszabbodása automatikusan meghosszabbítja-e a hitelszerződés alapján folyósított kölcsön futamidejét?",
+        "Válaszok": [
+            [
+                "Csak abban az esetben, ha a rendelkezésre tartási idő hosszabbodása jogszerű volt."
+            ],
+            [
+                "Igen, mindig."
+            ],
+            [
+                "Nem, de a  hitelszerződés esetleges módosítása esetén a kölcsön futamideje kitolódhat.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A rendelkezésre tartási idő hosszabbodásával arányosan nő-e a rendelkezésre tartás díja?",
+        "Válaszok": [
+            [
+                "Nem, mert a rendelkezésre tartás díja szinte kivétel nélkül 0%."
+            ],
+            [
+                "Igen, minden esetben."
+            ],
+            [
+                "Általában nem, mert az említett díjat a hitelintézet rendszerint a hitelkeret összegét alapul véve határozza meg.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelszerződés esetében mi a teendő, ha a szerződésben megjelölt hitelcél a rendelkezésre tartás időtartamának vége előtt teljesül, és az adós teljes egészében lehívja a hitelkeret?",
+        "Válaszok": [
+            [
+                "A rendelkezésre tartási időszak lezárul, és ezt követően a szerződésben megjelölt feltételek szerinti visszafizetéssel az adósnak tartozása áll fenn a lehívott összeg és járulékai erejéig.",
+                true
+            ],
+            [
+                "Az adós köteles kezdeményezni a hitelszerződés módosítását a lerövidült rendelkezésre tartási időszak miatt."
+            ],
+            [
+                "A rendelkezésre tartási időszak hátralévő részében az adós jogosult mind a hitelösszeg visszafizetésére, mind a teljes hitelkeret újbóli lehívására."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelszerződés esetében mi a teendő, ha a szerződésben megjelölt hitelcél a rendelkezésre tartás időtartamának vége előtt teljesül, de az adós a hitelkeretet teljes egészében nem hívja le?",
+        "Válaszok": [
+            [
+                "A rendelkezésre tartási időszak lerövidül (tekintettel arra, hogy az említett hitel célhoz kötött, amely cél már megvalósult), és az adós a szerződésben megjelölt feltételek szerint köteles a ténylegesen lehívott hitelkeretnek megfelelő tartozás visszafizetésére.",
+                true
+            ],
+            [
+                "A rendelkezésre tartási időszak hátralévő részében az adós jogosult a hitelkeret fennmaradó részének lehívására."
+            ],
+            [
+                "A rendelkezésre tartási időszak hátralévő részében az adós jogosult mind a hitelösszeg visszafizetésére, mind a teljes hitelkeret újbóli lehívására."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelszerződés esetében, mi a teendő, ha a rendelkezésre tartás időtartama alatt ismertté válik, hogy a hitelszerződés alapján folyósított kölcsönnek a kölcsönszerződésben megjelölt célra való fordítása lehetetlen?",
+        "Válaszok": [
+            [
+                "Tekintettel arra, hogy a hitelszerződés értelmében az ügyfél köteles a kölcsön teljes összegének lehívására, a kölcsönt le kell hívnia, és még a rendelkezésre tartási időszak vége előtt elő kell törlesztenie."
+            ],
+            [
+                "A kölcsön, illetve a rendelkezésre tartott hátralévő hitelrész folyósítását a hitelintézet megtagadhatja, illetve a már lehívott kölcsön visszafizetését azonnal esedékessé teheti (azonnali felmondási ok).",
+                true
+            ],
+            [
+                "Az adósnak egy újabb, megvalósítható hitelcélt kell megjelölnie."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelszerződés esetében mi a teendő, ha a rendelkezésre tartás időtartama alatt ismertté válik, hogy a hitelszerződés alapján folyósított kölcsönt az adós a  szerződésben megjelölt céltól eltérően használta fel?",
+        "Válaszok": [
+            [
+                "Az adósnak a hitelkeret fennmaradó részét le kell hívnia, majd a teljes összeget a rendelkezésre tartási időszak végéig elő kell törlesztenie."
+            ],
+            [
+                "A szerződésben megjelölt hitelcélt módosítani kell."
+            ],
+            [
+                "A hitelező felmondhatja a hitel- és a kölcsönszerződést.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelszerződés esetében mi a teendő, ha a rendelkezésre tartás időtartama alatt ismertté válik, hogy az adós a hitelintézetet a hitelszerződés alapján folyósított kölcsön összegének megállapításánál valótlan tények közlésével, adatok eltitkolásával vagy más módon megtévesztette (amennyiben ez a kölcsön összegének a megállapítását befolyásolta)?",
+        "Válaszok": [
+            [
+                "A rendelkezésre tartási időszak lezárul, és ezt követően a szerződésben megjelölt feltételek szerinti visszafizetéssel az adósnak tartozása áll fenn a lehívott összeg és járulékai erejéig."
+            ],
+            [
+                "A hitelintézetnek - a hitelszerződés szerinti kötelezettségvállalása okán - újabb adósminősítést kell elvégeznie, és ennek eredményétől függően a kölcsön összegét kell módosítania."
+            ],
+            [
+                "A kölcsön, illetve a rendelkezésre tartott hátralévő hitelrész folyósítását a hitelintézet megtagadhatja, a kölcsönszerződést felmondhatja.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelszerződés esetében mi a teendő, ha a rendelkezésre tartás időtartama alatt az adós anyagi helyzete jelentősen romlik, és ennek következtében a hitelszerződés alapján folyósított kölcsön szerződésszerű visszafizetésére képtelenné válik?",
+        "Válaszok": [
+            [
+                "Az adósnak hitelt érdemlően igazolnia kell, hogy jövedelmi/pénzügyi helyzete a hitelintézet számára elfogadható kockázatot jelent."
+            ],
+            [
+                "A hitelintézetnek - a hitelszerződés szerinti kötelezettségvállalása okán - újabb adósminősítést kell elvégeznie, és ennek eredményétől függően pótfedezetet kell bekérnie."
+            ],
+            [
+                "A kölcsön, illetve a rendelkezésre tartott hátralévő hitelrész  folyósítását a hitelintézet megtagadhatja, a kölcsönszerződést felmondhatja.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Beruházási hitel esetében az alábbiak közül milyen ok miatt rövidülhet a rendelkezésre tartási idő (a kölcsönösszeg jogszerű lehívásával egyidejűleg)?",
+        "Válaszok": [
+            [
+                "Az adós vagyoni helyzetének romlása veszélyezteti a kölcsön összegének a visszafizetését."
+            ],
+            [
+                "A beruházás a tervezettnél hamarabb elkészül.",
+                true
+            ],
+            [
+                "Az adós ellen környezeti károkozás miatt hatósági eljárás indul."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Projekthitel (projektfinanszírozás) esetében az alábbiak közül milyen ok miatt rövidülhet a rendelkezésre tartási idő (a kölcsönösszeg jogszerű lehívásával egyidejűleg)?",
+        "Válaszok": [
+            [
+                "A szponzor vagyoni helyzetének romlása veszélyezteti a kölcsön összegének a visszafizetését."
+            ],
+            [
+                "A projekt a tervezettnél hamarabb elkészül (és az átadás is megtörténik).",
+                true
+            ],
+            [
+                "A kivitelező cég ellen környezeti károkozás miatt hatósági eljárás indul."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Devizaalapú hitelszerződés esetében a hitelező egyoldalúan lerövidítheti-e a rendelkezésre tartási időszakot arra hivatkozva, hogy a devizaárfolyam változása jelentősen megnövelte az árfolyamkockázati kitettséget?",
+        "Válaszok": [
+            [
+                "Kizárólag abban az esetben, ha az árfolyamváltozás elérte a hitelkeret 10%-át."
+            ],
+            [
+                "Igen, sőt köteles erre."
+            ],
+            [
+                "Nem.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A rendelkezésre tartási idő rövidülésével arányosan csökken-e a rendelkezésre tartás díja?",
+        "Válaszok": [
+            [
+                "Nem, mert a rendelkezésre tartás díja szinte kivétel nélkül 0%."
+            ],
+            [
+                "Igen, minden esetben."
+            ],
+            [
+                "Nem, mert az említett díjat a hitelintézet rendszerint a hitelkeret összegét alapul véve határozza meg.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Devizanem-váltás esetén a piaci gyakorlat szerint kit terhel a konverzió költsége?",
+        "Válaszok": [
+            [
+                "Megosztottan a hitelezőt és az adóst."
+            ],
+            [
+                "A hitelezőt."
+            ],
+            [
+                "Az adóst.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a devizanem váltásra az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A devinanem váltás költsége nem számít bele a THM-be.",
+                true
+            ],
+            [
+                "A devizanem váltás költsége beleszámít a THM-be."
+            ],
+            [
+                "A bank saját hatáskörében eldöntheti, hogy a devizanem váltás költségét beleszámítja-e a THM-be."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely esetben célszerű egy vállalkozásnak forgóeszköz-finanszírozási céllal devizahitelt felvennie?",
+        "Válaszok": [
+            [
+                "Ha a devizahitel kamatai kedvezőek, és a lejáratot megelőzően a hitelt át tudja váltani egy másik devizanemre. Ebben az esetben nem szükséges, hogy a hitelcél teljesüljön."
+            ],
+            [
+                "Ha lejáratkor eldöntheti, hogy a hitelt milyen devizanemben kéri megújítani."
+            ],
+            [
+                "Ha vevőkövetelései jellemzően az adott devizanemben folynak be és így árfolyamkockázata csekély.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kiküszöböli-e az árfolyamkockázatot a többdevizás hitelkeret?",
+        "Válaszok": [
+            [
+                "Igen, teljes mértékben, tekintettel arra, hogy a hitel összege - a megadott devizanemek közül választva - több devizanemben lehívható."
+            ],
+            [
+                "Teljesen nem küszöböli ki, de jelentős mértékben csökkenti.",
+                true
+            ],
+            [
+                "Igen, gyakori devizanem-váltások esetén."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely esetben célszerű egy vállalkozásnak beruházás-finanszírozási céllal devizahitelt felvennie?",
+        "Válaszok": [
+            [
+                "Ha az adott eszköz vételára ugyanazon devizanemben esedékes, és a beruházás megvalósulásával később realizált árbevétel szintén az adott devizában folyik be.",
+                true
+            ],
+            [
+                "Ha a beruházást EGT-tagállamban aktiválja."
+            ],
+            [
+                "Ha a devizahitel kamatai kedvezőek, és a lejáratot megelőzően a hitelt át tudja váltani egy másik devizanemre. Ebben az esetben nem szükséges, hogy a hitelcél teljesüljön."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükséges-e a hitelszerződéseket módosítani abban az esetben, ha a vállalkozás a könyvvezetésében áttér egy másik devizanemre?",
+        "Válaszok": [
+            [
+                "Igen, abban az esetben, ha a hitelszerződés szerinti devizanemről tér át."
+            ],
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Igen, minden esetben."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Beleszámít-e a lakossági hitelek THM-jébe a devizanemváltás költsége?",
+        "Válaszok": [
+            [
+                "Kizárólag az 5 millió forint összeg alatti, egyenletes törlesztésű hiteltermékek esetében."
+            ],
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Igen, minden esetben."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ha egy adott ország törvényes fizetőeszköze megváltozik, mi történik a korábbi devizanemben szerződött kölcsönökkel?",
+        "Válaszok": [
+            [
+                "A hitelszerződés továbbra is a korábbi devizanem szerinti összegre szól, a hitel nyilvántartása és törlesztése változatlanul a régi pénznemben történik."
+            ],
+            [
+                "Meg kell szüntetni a szerződést és a devizanem-váltás miatt új hitelszerződést kell kötni."
+            ],
+            [
+                "A felek eltérő megállapodása hiányában a hitelszerződés automatikusan az új devizában átszámítva változatlan kamat és díjfeltételekkel él tovább.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a fedezetkiengedés általános szabálya a gyakorlatban?",
+        "Válaszok": [
+            [
+                "Amennyiben a fedezeti körben maradó ingatlan a hitelező által előírt biztosítéki kritériumoknak teljes mértékben megfelel, és olyan értéket képvisel, amely mellett az ügylet kockázatai a fedezetkiengedést követően is vállalhatók, a kiegészítő ingatlan fedezet a hitelintézet döntése alapján kiengedhető a fedezeti körből.",
+                true
+            ],
+            [
+                "Amennyiben az adós jövedelmi helyzete ezt indokolja, a kiegészítő ingatlan kiengedhető a fedezeti körből."
+            ],
+            [
+                "Amennyiben az ügylet miatt fennálló követelés problémamentesnek vagy legfeljebb külön figyelendőnek minősül, a kiegészítő ingatlan kiengedhető a fedezeti körből."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Önmagában a fedezet kiengedés",
+        "Válaszok": [
+            [
+                "pénzügyi kihatással járó szerződésmódosításnak minősül."
+            ],
+            [
+                "pénzügyi teljesítéssel nem járó szerződésmódosításnak minősül.",
+                true
+            ],
+            [
+                "azonnali szerződés felmondási oknak minősül."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lakáshiteleknél, az alábbiak közül mely jellemző esetben nem eredményezi a hitelező kockázatának növekedését a fedezet kiengedése?",
+        "Válaszok": [
+            [
+                "Ha a lakáshitel mögött két, az adós tulajdonában lévő ingatlanra alapított jelzálogjog fedezete áll; és ezen ingatlanok egyikét az adós értékesíteni kívánja, olyan összegű előtörlesztés mellett (vagy a lakáshitelt időközben már olyan összegben törlesztette), hogy a fennálló hiteltartozás összegére a fennmaradó ingatlanfedezet is megfelelő fedezetet nyújt.",
+                true
+            ],
+            [
+                "Ha a lakáshitel mögött két, az adós tulajdonában lévő ingatlanra alapított jelzálogjog fedezete áll, és az adós egy újabb nagyösszegű (jelzálogjoggal fedezett) hitelt szeretne felvenni, amelyhez kéri az egyik ingatlanfedezet kiengedését."
+            ],
+            [
+                "Ha a lakáshitel mögött két, az adós tulajdonában lévő ingatlanra alapított jelzálogjog fedezete áll, és ezen ingatlanok közül a nagyobb értékűt - a lakáshitel előtörlesztése nélkül - az adós értékesíteni szeretné, ehhez kéri ennek a fedezetnek a kiengedését."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Beruházási hiteleknél, az alábbiak közül mely jellemző esetben nem eredményezi a hitelező kockázatának növekedését az ingatlanfedezet kiengedése?",
+        "Válaszok": [
+            [
+                "Ha egyértelmű, hogy a kölcsönnek a szerződésben megjelölt beruházási célra történő fordítása lehetetlen."
+            ],
+            [
+                "Ha az adós a nevezett beruházási hitelt csaknem teljes egészében már törlesztette, és a még hátralévő adósság törlesztésére szolgáló összeg elkülönített számlán rendelkezésre áll.",
+                true
+            ],
+            [
+                "Ha a fedezetül lekötött ingatlan biztosítéki értéke jelentősen csökkent."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Indokolt-e a hitelező részéről a fedezet kiengedése akkor, ha a rendelkezésre tartott hitelkeretet az ügyfél eddig még nem hívta le, és a rendelkezésre tartási idő nagyobbrészt már eltelt?",
+        "Válaszok": [
+            [
+                "Nem, mert a rendelkezésre tartási idő végéig a hitelkeret bármikor lehívható.",
+                true
+            ],
+            [
+                "Igen, minden további nélkül."
+            ],
+            [
+                "Igen, abban az esetben, ha az adós kezességet vállal, hogy a hitelkeretet nem hívja le."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Indokolt-e a hitelező részéről a fedezet kiengedése akkor, ha az adós előtörleszt?",
+        "Válaszok": [
+            [
+                "Igen, mert ezzel az adós jelzi együttműködési készségét a hitelező felé."
+            ],
+            [
+                "Fő szabály szerint csak akkor, ha az adós valamennyi, a hitelező felé fennálló tartozását megfizeti. A hitelezőnek ilyen esetben is mérlegelnie kell, hogy a tartozás (pl. rulírozó jellegére tekintettel) megújulhat-e , ha igen, akkor nem indokolt a fedezet kiengedése.",
+                true
+            ],
+            [
+                "Igen, mert a hitelt más biztosítékok is fedezhetik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a fedezetcsere általános előfordulási esete?",
+        "Válaszok": [
+            [
+                "Az adós a hitelügylet biztosítékául kikötött ingatlanfedezet helyett egy másik megfelelő (a jelenlegi ingatlannal azonos méretű) ingatlanfedezetet nyújt."
+            ],
+            [
+                "Az adós a hitelügylet biztosítékául kikötött ingatlanfedezet helyett egy másik megfelelő (a hitelező kockázatvállalására az előző ingatlannál nem alacsonyabb arányú) ingatlanfedezetet nyújt.",
+                true
+            ],
+            [
+                "A hitelező a hitelügylet biztosítékául kikötött ingatlanfedezet helyett egy nagyobb értékű ingatlanfedezetet von be."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Önmagában a fedezetcsere",
+        "Válaszok": [
+            [
+                "pénzügyi teljesítéssel nem járó szerződésmódosításnak minősül.",
+                true
+            ],
+            [
+                "pénzügyi kihatással járó szerződésmódosításnak minősül."
+            ],
+            [
+                "eredményhatással bíró szerződésmódosításnak minősül."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lakáshiteleknél, az alábbiak közül mely jellemző esetben kezdeményez a hitelező fedezetcserét?",
+        "Válaszok": [
+            [
+                "Ha az ingatlan egy környezetet ért külső változás miatt időközben annyit veszít az értékéből, hogy a fennálló követelésre már nem jelent fedezetet.",
+                true
+            ],
+            [
+                "Ha az ingatlant korszerűsítik."
+            ],
+            [
+                "Ha az ingatlant felújítják."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lakáshiteleknél, az alábbiak közül mely indokolt esetben kezdeményez az adós fedezetcserét?",
+        "Válaszok": [
+            [
+                "Ha meglévő, jelzáloggal terhelt lakását szeretné eladni, majd helyette egy más ingatlant vásárolni, és a meglévő ingatlant az értékesítés előtt a fedezetcsere révén tehermentessé kívánja tenni.",
+                true
+            ],
+            [
+                "Ha az ingatlant szeretné felújítani."
+            ],
+            [
+                "Ha a jelzáloggal terhelt telekre lakóingatlant szeretne építeni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lakáshiteleknél, az alábbiak közül mely jellemző esetben kezdeményez a hitelező fedezetcserét?",
+        "Válaszok": [
+            [
+                "Ha az ingatlan - a hitel futamideje alatt - olyan okból semmisül meg, amelyre a biztosító nem fizet.",
+                true
+            ],
+            [
+                "Ha az ingatlanra - a szerződéskötés óta - nem készült újabb értékbecslés."
+            ],
+            [
+                "Ha az ingatlant közművesítik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lakáshiteleknél, az alábbiak közül mely indokolt esetben kezdeményez az adós fedezetcserét?",
+        "Válaszok": [
+            [
+                "Ha az ingatlan – pl. viharkár miatt - megrongálódik."
+            ],
+            [
+                "Ha az ingatlant szeretné bérbe adni."
+            ],
+            [
+                "Ha meglévő, jelzáloggal terhelt lakását szeretné két kisebbre cserélni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lakásépítési célú államilag támogatott kölcsön esetén mely alábbi szabály alkalmazandó?",
+        "Válaszok": [
+            [
+                "A kamattámogatásra megszerzett jogosultság megszűnik, ha a kölcsön fedezetét képező lakás helyett fedezetül másik lakás kerül bevonásra."
+            ],
+            [
+                "A kamattámogatásra megszerzett jogosultság abban az esetben marad fenn, ha a járási hivatal előzetesen hozzájárul ahhoz, hogy a kölcsön fedezetét képező lakás helyett fedezetül másik lakás kerüljön bevonásra.."
+            ],
+            [
+                "A kamattámogatásra megszerzett jogosultság a kölcsönszerződés megszűnéséig változatlan feltételekkel fennmarad, függetlenül attól, hogy a kölcsön fedezetét képező lakás helyett fedezetül másik lakás kerül bevonásra.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Fedezetcsere esetén jellemzően kér-e a hitelező értékbecslést az újonnan felajánlott ingatlanra?",
+        "Válaszok": [
+            [
+                "Nem."
+            ],
+            [
+                "Abban az esetben, ha fedezetül lekötött ingatlan értéke eléri a teljes hitelösszeg 10%-át."
+            ],
+            [
+                "Igen.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Fedezetcsere esetén be kell-e jegyezni a hitelező új ingatlanra alapított jelzálogjogát az ingatlan-nyilvántartásba?",
+        "Válaszok": [
+            [
+                "Igen. Ingatlanra vonatkozó jelzálogjog alapításához az erre irányuló szerződésen felül a jelzálogjognak az ingatlan-nyilvántartásba való bejegyzése is szükséges.",
+                true
+            ],
+            [
+                "Nem; elegendő a biztosítéki szerződés megkötése."
+            ],
+            [
+                "Az adott hitelszerződés-típustól függően."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mikor kerülhet sor a - hitelnyújtás feltételeként előírt - hitelfedezeti célú életbiztosítás megkötésére?",
+        "Válaszok": [
+            [
+                "A Magatartási Kódexnek megfelelően csak a pozitív hitelbírálatot követően, a hitelfolyósítás feltételeként írhatja elő a hitelező a hitelfedezeti célú életbiztosítás megkötését. Természetesen az ügyfél a hiteligénylést megelőzően is köthet saját elhatározás alapján hitelfelvétel céljából életbiztosítást.",
+                true
+            ],
+            [
+                "A hiteligénylő döntésének megfelelően akár a hitel igénylésekor, akár a hitelbírálatot követően."
+            ],
+            [
+                "A hitelező által megjelölt időpontban, amely hiteltermékenként eltérő lehet, de legkésőbb a hitelbírálatig."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelfedezeti életbiztosítás esetén törölhető-e a hitelező kedvezményezetti pozíciója?",
+        "Válaszok": [
+            [
+                "Nem, a biztosítási szerződésben (jellemzően záradékban) való előzetes megállapodás esetén a biztosítási esemény bekövetkezésekor mindenképpen a hitelezőt illeti a felhalmozott biztosítási összeg (a teljes hiteltartozás erejéig).",
+                true
+            ],
+            [
+                "Attól függően, hogy a hitel megtérülését biztosítva látja, a hitelező töröltetheti a kedvezményezetti pozícióját."
+            ],
+            [
+                "Igen, feltétel nélkül."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A halasztott tőketörlesztéses kombihitelkonstrukciók esetén",
+        "Válaszok": [
+            [
+                "a futamidő alatt az adós a hitelintézet felé annuitásosan törleszt."
+            ],
+            [
+                "lejárat(ok)kor az aktuális biztosítási összeg szolgál a lakáshitel tőkerészének törlesztésére.",
+                true
+            ],
+            [
+                "nem köthető hitelfedezeti életbiztosítás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A halasztott tőketörlesztéses kombihitelkonstrukciók esetén",
+        "Válaszok": [
+            [
+                "a futamidő alatt az adós a hitelintézet felé kamatot és kezelési költséget fizet, a tőketartozást több részletben vagy a futamidő végén egy összegben az életbiztosítási szerződés kifizetése(i) fedezik.",
+                true
+            ],
+            [
+                "a tőkerész törlesztésére minden esetben a futamidő végén egy összegben kerül sor."
+            ],
+            [
+                "nem köthető hitelfedezeti életbiztosítás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Amennyiben hitelfedezetként elfogadható életbiztosításához az ügyfél később vesz fel lakáshitelt, akkor (fő szabály szerint)",
+        "Válaszok": [
+            [
+                "a nyújtott hitel összege legfeljebb a biztosítás még hátralévő elérési/haláleseti szolgáltatásainak összegéig terjedhet.",
+                true
+            ],
+            [
+                "az ügyfélnek kiegészítő fedezetet is kell biztosítania."
+            ],
+            [
+                "a nyújtott hitel összege a biztosítás még hátralévő elérési szolgáltatásaival egyidejűleg emelkedhet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A biztosítónak felmondási okot jelenthet-e a későbbiekben, ha az ügyfél kizárólag arra tekintettel köt életbiztosítást, hogy a hitelintézettől jelzáloghitelt kapjon?",
+        "Válaszok": [
+            [
+                "Igen, mert ebben az esetben a biztosítót megtévesztette."
+            ],
+            [
+                "Nem. Egymással egyidőben, egymásra tekintettel is lehet lakáshitel-, illetve életbiztosítási szerződést kötni.",
+                true
+            ],
+            [
+                "Igen, mert ebben az esetben az ügyfél befizetéseiből még nem képződött megtakarítás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Nem egyidőben kötött életbiztosítással kombinált jelzáloghitelek esetén mi a követendő eljárás abban az esetben, ha az utóbb megítélt lakáscélú hitel tőkeösszege kisebb, mint a korábban létrejött hitelfedezeti életbiztosítási szerződésben szereplő biztosítási összeg?",
+        "Válaszok": [
+            [
+                "Az ügyfél ilyen igénye alapján a biztosítási szerződés közös megegyezéssel történő módosítása (összegének a hitelhez való igazítása) is meg kell történjék, a befizetett biztosítási díjak esetlegesen ellenszolgáltatás nélkül maradó részével való megfelelő elszámolás mellett.",
+                true
+            ],
+            [
+                "A korábbi szerződés felmondását követően új hitelfedezeti életbiztosítási szerződést kell kötni."
+            ],
+            [
+                "Az ügyfél ilyen igénye alapján a biztosítási szerződés módosítása (összegének a hitelhez való igazítása) is meg kell történjék, azonban a befizetett biztosítási díjak esetlegesen ellenszolgáltatás nélkül maradó részét - mint többletköltséget - az ügyfél viseli."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a hitelfedezeti életbiztosításra?",
+        "Válaszok": [
+            [
+                "A hitelfedezeti életbiztosítás olyan életbiztosítás, amely egy hitel- vagy  kölcsönszerződéshez kapcsolódik és a kölcsön – teljes  vagy részleges – törlesztése  az életbiztosítási szerződésben  meghatározott biztosítási összegből történik.",
+                true
+            ],
+            [
+                "A hitelfedezeti életbiztosítás esetén mindig kötelező, hogy az ügyfél  a biztosítás tartalmát  kiegészítse baleseti szolgáltatásra."
+            ],
+            [
+                "A hitelfedezeti életbiztosításnál sosincs lehetőség arra, hogy az ügyfél a biztosítás  tartalmát kiegészítse baleseti szolgáltatásra."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelfedezeti életbiztosítás felmondása esetén megilleti-e a szerződő ügyfelet a visszavásárlási összegre való jogosultság?",
+        "Válaszok": [
+            [
+                "Igen, a hitel és az életbiztosítás összekapcsolása ugyanis nem írja felül az életbiztosítási szerződés jellemzőit.",
+                true
+            ],
+            [
+                "Nem, a kapcsolódó hitelszerződés okán."
+            ],
+            [
+                "Csak abban az esetben, ha ehhez a hitelintézet is hozzájárul, hiszen a hitelfedezeti életbiztosítás kedvezményezettje a hitelező."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Következik-e a lakáscélú hitel előtörlesztéséből a kapcsolódó hitelfedezeti életbiztosítás automatikus megszűnése?",
+        "Válaszok": [
+            [
+                "Nem, az életbiztosítási szerződés az abban foglalt tartalommal (így az eredetileg megállapodott szolgáltatásokkal és az ott kikötött maradékjogokkal) továbbra is fennáll.",
+                true
+            ],
+            [
+                "Igen, következik."
+            ],
+            [
+                "Nem, azonban az életbiztosítási szerződés az abban foglalt tartalommal (így az eredetileg megállapodott szolgáltatásokkal és az ott kikötött maradékjogokkal együtt) automatikusan 10 évvel meghosszabbodik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen lehetőségek közül választhat az az ügyfél, aki a lakáscélú hitel előtörlesztését követően a kapcsolódó hitelfedezeti életbiztosítást nem kívánja tovább fenntartani?",
+        "Válaszok": [
+            [
+                "Díjmentes leszállítás vagy díjcsökkentés."
+            ],
+            [
+                "Visszavásárlás, díjmentes leszállítás vagy rendes felmondás.",
+                true
+            ],
+            [
+                "Visszavásárlás, rendes felmondás vagy díjcsökkentés."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz? A lakáscélú hitelét előtörlesztő ügyfél, amennyiben a kapcsolódó hitelfedezeti életbiztosítását is megszünteti, ez utóbbit",
+        "Válaszok": [
+            [
+                "(a rendszerint a hitel tőkeösszegénél alacsonyabb összegű visszavásárlási illetve díjmentes leszállítási érték okán) valószínűleg veszteséggel fogja lezárni.",
+                true
+            ],
+            [
+                "a hitelkockázatok csökkenése miatt nyereséggel fogja lezárni."
+            ],
+            [
+                "veszteséggel fogja lezárni, amiatt, hogy az életbiztosításhoz igénybe vett SZJA adókedvezmény visszafizetésére is köteles."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Elegendő-e a hitelezőnek az ügyfél hitelképességét, a biztosítékok értékét stb. a hitel jóváhagyását megelőzően vizsgálnia?",
+        "Válaszok": [
+            [
+                "Nem, mert az említett tényezők (csakúgy, mint a hitelügylethez kapcsolódó szereplők) változása a későbbiekben befolyásolja a hitelkockázat mértékét.",
+                true
+            ],
+            [
+                "Igen, mert a későbbiekben a hitelszerződés módosítására csak indokolt esetben kerülhet sor."
+            ],
+            [
+                "Nem, tekintettel arra, hogy a hitelszerződésben megjelölt adós, adóstárs, kezes, stb. személye szinte minden hitelügylet esetén változik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lakáshitelnél (amelynél a szerződésben eredetileg kezességet is kikötöttek), ha az adósság törlesztését az adós egy közeli hozzátartozója átvállalja, fennmarad-e a követelést biztosító kezesség?",
+        "Válaszok": [
+            [
+                "Nem, kivéve, ha a tartozásátvállaláshoz a kezes hozzájárul.",
+                true
+            ],
+            [
+                "Igen, minden esetben."
+            ],
+            [
+                "Csak abban az esetben, ha a tartozás átvállalója nem ajánl fel egy újabb kezest."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Vállalkozói hitelnél (amelynél a szerződésben eredetileg kezességet is kikötöttek), ha az adósság törlesztését az adós cég anyavállalata átvállalja, fennmarad-e a követelést biztosító kezesség?",
+        "Válaszok": [
+            [
+                "Igen, abban az esetben, ha a kezes fizetőképessége lényegesen jobb, mint az adósé."
+            ],
+            [
+                "Igen, minden esetben."
+            ],
+            [
+                "Nem, kivéve, ha a tartozásátvállaláshoz a kezes hozzájárul.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükséges-e a hitelintézet hozzájárulása a tartozásátvállaláshoz, illetőleg ennek kapcsán (ha a szerződésben kezességet kötöttek ki) a kezes személyének változásához?",
+        "Válaszok": [
+            [
+                "Igen, tekintettel arra, hogy megváltozik a hitelkockázat.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Csak abban az esetben, ha a hitel más személyi biztosítékkal nem fedezett."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előidézheti-e a hitel minőségi romlását a garantőr fizetőképességének a romlása?",
+        "Válaszok": [
+            [
+                "Nem, mert a garancia önálló kötelezettségvállalásnak minősül."
+            ],
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, mert a garantőr csak bank lehet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előidézheti-e a hitel minőségi romlását a készfizető kezes fizetőképességének romlása?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Csak abban az esetben, ha ez együttjár a kezes fizetési készségének romlásával is."
+            ],
+            [
+                "Nem idézheti elő, az állami kezességvállalás kivételével."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előidézheti-e a lakáshitel visszafizetési kockázatának növekedését, ha az adós munkahelyet vált?",
+        "Válaszok": [
+            [
+                "Nem. A munkáltató pénzügyi helyzete a hitel megtérülése szempontjából irreleváns, tekintettel a mögöttes ingatlanfedezetre."
+            ],
+            [
+                "Igen, mert a kölcsön visszafizetésének forrása az adós rendszeres (ez esetben munkaviszonyból származó) jövedelme.",
+                true
+            ],
+            [
+                "Nem, tekintettel az állami kezességvállalás lehetőségére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előidézheti-e a lakáshitel visszafizetési kockázatának növekedését, ha az adóstárs munkáltatójának pénzügyi, jövedelmi helyzete lényegesen romlik?",
+        "Válaszok": [
+            [
+                "Igen, mert az adóstárs munkáltatója maga is kezességet vállal a lakáshitel visszafizetéséért."
+            ],
+            [
+                "Nem, mert a lakáshitel törlesztésére elsősorban az adós kötelezett."
+            ],
+            [
+                "Igen, mert a kölcsön visszafizetésének forrása az adós és az adóstárs rendszeres (ez esetben munkaviszonyból származó) jövedelme.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül elsőrendűen mitől függ az adós hiteltörlesztési képessége? (lakossági hitelek)",
+        "Válaszok": [
+            [
+                "A kezes hiteltörlesztési képességétől."
+            ],
+            [
+                "Az adós rendszeres jövedelmétől.",
+                true
+            ],
+            [
+                "Az állami kezességvállalás mértékétől."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előidézheti-e egy magáncélra felvett személyi kölcsön visszafizetési kockázatának növekedését, ha az adós magánvállalkozása csődbe megy?",
+        "Válaszok": [
+            [
+                "Igen, amennyiben az adósnak a hiteltörlesztés forrásául szolgáló rendszeres jövedelme a vállalkozásból származott.",
+                true
+            ],
+            [
+                "Nem, mert az adós a személyi kölcsönt mint magánszemély (és nem mint vállalkozó) vette fel."
+            ],
+            [
+                "Nem, tekintettel az állami kezességvállalás lehetőségére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előidézheti-e a forgóeszköz-hitel visszafizetési kockázatának növekedését, ha az adós vállalkozás szállítója kivonul a piacról?",
+        "Válaszok": [
+            [
+                "Nem, mert a beszállítói piacokat tökéletes verseny jellemzi."
+            ],
+            [
+                "Igen, abban az esetben, ha az adós vállalkozás egyik meghatározó (nem, vagy nehezen helyettesíthető) beszállítójáról van szó.",
+                true
+            ],
+            [
+                "Igen, és ez a hitelnyújtó számára automatikus azonnali felmondási okot képez."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előidézheti-e a forgóeszköz-hitel visszafizetési kockázatának növekedését, ha az adós vállalkozás vevője nem rendel többet?",
+        "Válaszok": [
+            [
+                "Igen, abban az esetben, ha az adós vállalkozás egyik meghatározó vevőjéről van szó.",
+                true
+            ],
+            [
+                "Nem, mert ebben az esetben az igénybevehető hitelösszeg is automatikusan csökken."
+            ],
+            [
+                "Nem, mert az árupiacokat tökéletes verseny jellemzi, következésképp bármely vevő pótolható."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Vállalkozói hitelek esetében indokolt-e a hitelezőnek figyelembe vennie az ügyfélcsoport többi tagjának pénzügyi, jövedelmi helyzetét?",
+        "Válaszok": [
+            [
+                "Abban az esetben, ha a tulajdonosi, illetve üzleti kapcsolat szorossága azt eredményezi, hogy a cégcsoport bármely tagjára nézve a pénzügyi, jövedelmi helyzet romlása veszélyezteti az adós határidőben történő törlesztését.",
+                true
+            ],
+            [
+                "Nem, mert az adós vállalkozásnak önállóan, a cégcsoport többi tagjára tekintet nélkül kell a hitelszerződésből eredő kötelezettségeit teljesíteni."
+            ],
+            [
+                "Abban az esetben, ha éven túli hitelkeretről van szó."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Vállalkozói hitelek esetében, előidézheti-e a hitel minőségi romlását egy, az adós céget (cégcsoportot) érintő hátrányos tulajdonosváltás?",
+        "Válaszok": [
+            [
+                "Nem, mert az adós vállalkozásnak önállóan, a tulajdonosra tekintet nélkül kell a hitelszerződésből eredő kötelezettségeit teljesíteni."
+            ],
+            [
+                "Csak abban az esetben, ha a tulajdonosváltás a cégcsoport egészére nézve hátránnyal bír."
+            ],
+            [
+                "Igen, különösen akkor, ha ez azt eredményezi, az adós határidőben nem fogja tudni a hitelszerződésből eredő fizetési és más kötelezettségeit teljesíteni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Vállalkozói hitelek esetében, ha a cégcsoport tagjai egymásért készfizető kezességet vállalnak, előidézheti-e a hitel minőségi romlását bármelyik cég piaci helyzetének lényeges romlása (esetleges megszűnése)?",
+        "Válaszok": [
+            [
+                "Abban az esetben, ha a piaci helyzet romlásával érintett cég a cégcsoporton (annak eredményén) belül lényeges súlyt képvisel.",
+                true
+            ],
+            [
+                "Csak abban az esetben, ha a hitelező nem él az azonnali hitelfelmondás lehetőségével."
+            ],
+            [
+                "Csak abban az esetben, ha a hitel mögött van kiegészítő tárgyi fedezet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lakáshitelnél, ha az adósság törlesztését az adós egy közeli hozzátartozója átvállalja, fennmarad-e a követelést biztosító zálogjog?",
+        "Válaszok": [
+            [
+                "Nem, kivéve, ha ahhoz a zálogkötelezett hozzájárul.",
+                true
+            ],
+            [
+                "Igen, minden esetben."
+            ],
+            [
+                "Csak abban az esetben, ha a tartozás átvállalója nem ajánl fel ingatlanfedezetet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Beruházási hitelnél, ha az adósság törlesztését az adós cég anyavállalata átvállalja, fennmarad-e a követelést biztosító zálogjog?",
+        "Válaszok": [
+            [
+                "Csak abban az esetben, ha a tartozás átvállalója nem ajánl fel ingatlanfedezetet."
+            ],
+            [
+                "Igen, minden esetben."
+            ],
+            [
+                "Nem, kivéve, ha ahhoz a zálogkötelezett hozzájárul.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükséges-e a hitelintézet hozzájárulása a tartozásátvállaláshoz, illetőleg ennek kapcsán a zálogkötelezett személyének változásához?",
+        "Válaszok": [
+            [
+                "Igen, tekintettel arra, hogy megváltozik a hitelkockázat.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Csak abban az esetben, ha a hitel külön személyi biztosítékkal nem fedezett."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kizárja-e a hitelszerződés fedezeteként kikötött jelzálogjog az adott ingatlan átruházását (és ezzel a zálogkötelezett személyének a változását)?",
+        "Válaszok": [
+            [
+                "Nem. Az új tulajdonos azonban - zálogkötelezetti minőségében - az adós nemteljesítése esetén nem köteles tűrni, hogy az ingatlan a hitelező követelésének kielégítése érdekében végrehajtási értékesítésre kerüljön."
+            ],
+            [
+                "Igen."
+            ],
+            [
+                "Nem. A elidegenítés jogát a jelzálogjog önmagában nem zárja ki és nem korlátozza, de lehetséges, hogy a felek szerződéssel elidegenítési tilalmat kössenek ki.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Jelzálogjoggal biztosított követelés engedményezésekor",
+        "Válaszok": [
+            [
+                "a zálogjogból eredő jogok is átszállnak az új zálogkötelezettre."
+            ],
+            [
+                "a zálogjogból eredő jogok is átszállnak az új jogosultra.",
+                true
+            ],
+            [
+                "a zálogjogból eredő jogok is átszállnak valamely jelzálog-hitelintézetre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Megteheti-e a hitelszerződés adósa, hogy a fedezetül kikötött, jelzálogjoggal terhelt ingatlant - a szerződésben kikötött elidegenítési tilalom ellenére, az elidegenítési és terhelési tilalom jogosultjának hozzájárulása nélkül - átruházza?",
+        "Válaszok": [
+            [
+                "Igen, de ez az ingatlanra kikötött jelzálogjog érvénytelenségét vonja maga után."
+            ],
+            [
+                "Nem; az elidegenítési és terhelési tilalom ellenére gyakorolt rendelkezés ugyan nem érvénytelen, azonban a tilalom jogosultja irányában (relatíve) hatálytalan.",
+                true
+            ],
+            [
+                "Igen, de ekkor a hitelezőnek pótfedezetet kell szolgáltatnia."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lakáshitel esetén változhat-e a zálogkötelezett személye öröklés (a jelzálogjoggal terhelt ingatlan öröklése) folytán?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Csak abban az esetben, ha ehhez a hitelező is hozzájárul."
+            ],
+            [
+                "Nem."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lakáshitel esetén változhat-e a zálogkötelezett személye ajándékozás (a jelzálogjoggal terhelt ingatlan ajándékozása) miatt?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Nem, mert jelzálogjoggal terhelt ingatlant nem lehet ajándékozni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e más-más személy a zálogjoggal biztosított követelés kötelezettje (személyi kötelezett) és a zálogkötelezett (dologi kötelezett)? Változhat-e külön-külön is a személyük?",
+        "Válaszok": [
+            [
+                "Igen. A zálogjoggal biztosított követelés kötelezettje ún. személyi kötelezett; a zálogkötelezett pedig dologi kötelezett; mindkettő személye változhat.",
+                true
+            ],
+            [
+                "Nem, a két személy a hitelszerződésben egy és ugyanaz."
+            ],
+            [
+                "Nem változhat, tekintettel arra, hogy a zálogjog (jelzálogjog) önálló átruházása vagy elzálogosítása tilos."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely állítás igaz az egyoldalú szerződésmódosítás szabályairól?",
+        "Válaszok": [
+            [
+                "Fogyasztó és vállalkozás közötti szerződésben az ellenkező bizonyításig tisztességtelennek kell tekinteni azt a kikötést, amely lehetővé teszi, hogy a vállalkozás a szerződést egyoldalúan, a szerződésben meghatározott alapos ok nélkül módosítsa.",
+                true
+            ],
+            [
+                "Fogyasztók közötti szerződésben az ellenkező bizonyításáig tisztességtelennek kell tekinteni azt a kikötést, amely lehetővé teszi, hogy bármelyik fogyasztó a szerződést egyoldalúan, a szerződésben meghatározott alapos ok nélkül módosítsa."
+            ],
+            [
+                "Vállalkozások közötti szerződésben az ellenkező bizonyításig tisztességtelennek kell tekinteni azt a kikötést, amely lehetővé teszi, hogy bármelyikvállalkozás a szerződést egyoldalúan, a szerződésben meghatározott alapos ok nélkül módosítsa."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helytelen befejezést az alábbiak közül! Fogyasztói kölcsönszerződésben az egyoldalú szerződésmódosításra vonatkozó kikötés különösen akkor tisztességtelen, ha",
+        "Válaszok": [
+            [
+                "tartalma a fogyasztó számára nem világos, nem érthető."
+            ],
+            [
+                "az egyoldalú módosítás feltételei objektív jellegűek.",
+                true
+            ],
+            [
+                "a feltételei nem tételesen meghatározottak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely állítás igaz? Fogyasztói kölcsönszerződésben az egyoldalú szerződésmódosításra vonatkozó kikötés különösen akkor tisztességtelen, ha",
+        "Válaszok": [
+            [
+                "kizárja, hogy a fogyasztó javára bekövetkező feltételváltozás hatása a fogyasztó javára érvényesítésre kerüljön.",
+                true
+            ],
+            [
+                "világosan, érthetően, tételes oklistába rendezve tartalmazza az egyoldalú szerződésmódosítás feltételeit."
+            ],
+            [
+                "a szerződésmódosítás bekövetkezése esetére biztosítja a fogyasztó számára a felmondás jogát."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Fogyasztói kölcsönszerződésben az egyoldalú szerződésmódosításra vonatkozó szabályok között biztosítani kell-e a fogyasztó javára bekövetkező feltételváltozás érvényesítését?",
+        "Válaszok": [
+            [
+                "Nem."
+            ],
+            [
+                "Csak akkor, ha a feltételváltozás a fogyasztók szűk körét érinti."
+            ],
+            [
+                "Igen.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az elsődleges jogkövetkezménye annak, ha a szolgáltató a fogyasztó hátrányára, tisztességtelenül határozza meg az egyoldalú szerződésmódosítás szabályait?",
+        "Válaszok": [
+            [
+                "A Nemzeti Adó- és Vámhivatal általi bírság kiszabása."
+            ],
+            [
+                "A szolgáltató működési engedélyének felfüggesztése."
+            ],
+            [
+                "Érvénytelenség.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Fogyasztó és vállalkozás közötti szerződésben az ellenkező bizonyításig az alábbiak közül mely feltételt kell tisztességtelennek tekinteni?",
+        "Válaszok": [
+            [
+                "Amely lehetővé teszi, hogy a vállalkozás a szerződésben megállapított pénzbeli ellenszolgáltatás mértékét egyoldalúan felemelje.",
+                true
+            ],
+            [
+                "Amely lehetővé teszi, hogy a vállalkozás a szerződésben megállapított pénzbeli ellenszolgáltatás mértékét mérsékelje."
+            ],
+            [
+                "Az ellenkező bizonyításig minden szerződésmódosítási feltétel tisztességtelennek minősül fogyasztó és vállalkozás közötti szerződés esetén."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Fogyasztói kölcsönszerződésben kiköthető-e az egyoldalú szerződésmódosítás joga úgy, hogy az ne legyen tisztességtelen?",
+        "Válaszok": [
+            [
+                "Nem."
+            ],
+            [
+                "Igen, ha az megfelel a jogszabály által előírt és a bírósági gyakorlat által kimunkált feltételeknek.",
+                true
+            ],
+            [
+                "Igen, ha a fogyasztó ahhoz közjegyző jelenlétében hozzájárult."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Jogosult-e a vállalkozás bizonyítani, hogy a szerződés egyoldalú módosítására irányuló kikötés nem tisztességtelen?",
+        "Válaszok": [
+            [
+                "Nem, az ilyen kikötés minden esetben tisztességtelennek minősül."
+            ],
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Igen, ha ahhoz a fogyasztó is hozzájárul."
+            ]
+        ]
+    }
+]

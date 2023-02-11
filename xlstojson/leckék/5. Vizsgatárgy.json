@@ -1,0 +1,3344 @@
+[
+    {
+        "Kérdés": "Milyen célra lehet felhasználni a lakáscélú hiteleket az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Bármilyen célra, a hitel neve csak azt jelzi, hogy a hitelkonstrukció ilyen célra lett optimalizálva."
+            ],
+            [
+                "Csakis az első ingatlan finanszírozására."
+            ],
+            [
+                "Kizárólag jogszabályban meghatározott célokra, így pl. lakóingatlan vásárlására, építésére, cseréjére, bővítésére, felújítására, korszerűsítésére , illetve az e célokra nyújtott jelzáloghitel  kiváltására.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igénybe vehető-e állami kamattámogatás lakáscélú hitelre?",
+        "Válaszok": [
+            [
+                "Nem, ennek törvényi akadályai vannak."
+            ],
+            [
+                "Csak kivételes esetekben, ez belső banki szabályoktól függ."
+            ],
+            [
+                "Igen, ha a hiteligénylő az államilag támogatott hitel kritériumainak megfelel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a különbség a kamatváltoztatási és a kamatfelár-változtatási mutató között?",
+        "Válaszok": [
+            [
+                "A kamatfelár-változtatási mutató a referencia kamatlábhoz kötött kamatozású hiteleknél, míg a kamatváltoztatási mutató a kamatperiódusokban rögzített kamatozású hitelek esetében használható.",
+                true
+            ],
+            [
+                "Nincs különbség, mert a kamatfelár-változtatási mutató alapján kerül kiszámításra a kamatváltoztatási mutató."
+            ],
+            [
+                "A kamatfelár-változtatási mutató a 2015. február 1. előtt folyósított hitelekre érvényes, az azt követően folyósított hitelekre a kamatváltoztatási mutató az irányadó."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Létezik-e 15 éves kamatváltoztatási mutató?",
+        "Válaszok": [
+            [
+                "Csak kamatfelár-változtatási mutatóból van 15 éves."
+            ],
+            [
+                "Igen, a 3, 5 és 10 éves kamatváltoztatási mutató mellett 15 éves is létezik.",
+                true
+            ],
+            [
+                "Nem, csak 3, 5 és 10 éves kamatváltoztatási mutató létezik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A lakáscélú hitelszerződés alapján folyósított hitel összegét kiegészíthetik közvetlen támogatások?",
+        "Válaszok": [
+            [
+                "Arra való jogosultság esetén 2015-ig igénybe vehető volt személyi jövedelemadó-kedvezmény, ma már csak a 2009. július 1-jét megelőzően benyújtott támogatási kérelmek alapján nyújtható közvetlen támogatás."
+            ],
+            [
+                "Igen, ilyen támogatás például a családi otthonteremtési kedvezmény (CSOK).",
+                true
+            ],
+            [
+                "Nem, a lakáscélú hitelek közvetlen támogatásokkal való kiegészítésére a magyar jogszabályok sem korábban, sem jelenleg nem biztosítanak lehetőséget."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A lakáscélú hitelek jellemző biztosítéka",
+        "Válaszok": [
+            [
+                "a kijelölt kezes."
+            ],
+            [
+                "az ingatlanra alapított jelzálogjog.",
+                true
+            ],
+            [
+                "a többi hiteltípushoz hasonlítva a magasabb kamat."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Jelölje meg az alábbiak közül a helyes állítást! A lakáscélú hitel összegének nagysága függ",
+        "Válaszok": [
+            [
+                "az árfolyamváltozásoktól."
+            ],
+            [
+                "a fedezetül felajánlott ingatlan hitelbiztosítéki értékétől.",
+                true
+            ],
+            [
+                "a jegybanki alapkamattól."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a lakáscélú hiteleknél a hitelbiztosítéki érték?",
+        "Válaszok": [
+            [
+                "Azt az összeget, amely alapján a fedezetként szolgáló ingatlanra kölcsön nyújtható."
+            ],
+            [
+                "A fedezetként szolgáló ingatlan óvatos becslés alapján meghatározott értéke, amely megállapítása során a hitelező által folyósított kölcsönök hosszú lejáratából származó sajátos kockázatok, valamint az ingatlannak kizárólag azon tulajdonságai és hozamai kerülnek figyelembevételre, amelyek várhatóan a jövőben bármely tulajdonost megilletnek.",
+                true
+            ],
+            [
+                "A hitelbiztosítéki érték az az összeg, amelyet a kezesnek kell megfizetnie, ha a hiteligénylő nem képes visszafizetni a felvett hitel összegét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Van-e lehetőség ma Magyarországon lakossági deviza-jelzáloghitel igénylésére?",
+        "Válaszok": [
+            [
+                "Igen, a forinthitelekhez fűződő azonos feltételek mellett."
+            ],
+            [
+                "Nem, a lakossági deviza-jelzáloghitelek igénybevételét jogszabály tiltja Magyarországon."
+            ],
+            [
+                "Igen, de csak jogszabályban meghatározott, szigorú feltételek mellett.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a Minősített Fogyasztóbarát Lakáshitel esetében?",
+        "Válaszok": [
+            [
+                "Magyarország területén lévő, lakhatási célú ingatlan építésére, vásárlására, és lakáscélú kölcsön kiváltására is igényelhető hiteltípus.",
+                true
+            ],
+            [
+                "A Minősített Fogyasztóbarát Lakáshitel kizárólag üdülő építése, vásárlása céljából igényelhető hiteltípus."
+            ],
+            [
+                "A kölcsön futamideje maximum 10 év lehet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki, hogy az alábbiak közül ki veheti igénybe a családi otthonteremtési kedvezményt (CSOK)!",
+        "Válaszok": [
+            [
+                "A hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el.",
+                true
+            ],
+            [
+                "A harmadik országbeli állampolgár, akkor is, ha nem rendelkezik Magyarországon bevándorolt vagy letelepedett jogállással."
+            ],
+            [
+                "A magyar állampolgár, akkor, ha a támogatás igénylését megelőző 5 évben igénybe vett vissza nem térítendő lakáscélú állami támogatás visszafizetésére kötelezték."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a lakás bővítésére igényelt családi otthonteremtési kedvezménnyel (CSOK) kapcsolatos helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Családi ház bővítése esetén csupán a költségek felét lehet a CSOK-ból finanszírozni."
+            ],
+            [
+                "Az igénylőknek csak nyilatkozatot kell tenniük arról, hogy megfelelnek a CSOK feltételeinek, az eredeti dokumentumokat nem kell bemutatni a bank számára.",
+                true
+            ],
+            [
+                "A CSOK a használt lakás bővítésén kívül korszerűsítésre is igényelhető."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A szabad felhasználású hitelek",
+        "Válaszok": [
+            [
+                "kizárólag forint alapúak."
+            ],
+            [
+                "kizárólag deviza alapúak."
+            ],
+            [
+                "lehetnek forint vagy deviza alapúak, de ez utóbbiak igénybevétele ma már erősen korlátozott.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igényelhető állami támogatás a jelenlegi hazai szabályozás szerint a szabad felhasználású hitelekhez?",
+        "Válaszok": [
+            [
+                "Nem."
+            ],
+            [
+                "Igen."
+            ],
+            [
+                "Csak speciális esetben, ilyen például a babaváró kölcsön.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szabad felhasználású jelzáloghiteleknél mi szolgál általában biztosítékul az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Kezes."
+            ],
+            [
+                "Ingóságon alapított jelzálogjog."
+            ],
+            [
+                "Ingatlan jelzálogjog.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igényelhető szabad felhasználású hitel hitelkiváltás esetén is?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Kizárólag speciális esetekben."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A szabad felhasználású hitel igénylőjének életkorát illetően léteznek-e jogszabályi korlátozások?",
+        "Válaszok": [
+            [
+                "Igen, minimális és maximális életkori korlát is meghatározásra került."
+            ],
+            [
+                "Igen, de csak a minimális életkort határozzák meg.",
+                true
+            ],
+            [
+                "Nem."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A szabad felhasználású hitel",
+        "Válaszok": [
+            [
+                "folyósítása jellemzően egy összegben történik.",
+                true
+            ],
+            [
+                "folyósítása mindig részletekben történik."
+            ],
+            [
+                "folyósításának üteméről az igénylő rendelkezhet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szabad felhasználású jelzáloghitel igénylése esetén szükséges-e minden esetben önrész (a hiteligénylő részéről)?",
+        "Válaszok": [
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Igen, általában 25% önrész szükséges."
+            ],
+            [
+                "Igen, de annak mértéke a hiteligénylő havi, rendszeres jövedelmétől függ."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szabad felhasználású hitel esetén a hitelbiztosítékként szolgáló ingatlan teljes értékére felvehető hitel?",
+        "Válaszok": [
+            [
+                "Nem, a hitelösszeg nem lehet nagyobb a hitelfedezetként felajánlott ingatlan forgalmi értékének meghatározott százalékánál.",
+                true
+            ],
+            [
+                "Igen, de csak olyan esetben, ha a hiteligénylő egyéb befektetésekkel is rendelkezik."
+            ],
+            [
+                "Igen, még nagyobb is lehet, abban az esetben, ha a hiteligénylő rendszeres havi jövedelme a hitelintézet által meghatározott minimumot eléri."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a hamis állítást!",
+        "Válaszok": [
+            [
+                "A szabad felhasználású hitelek esetében nem kell lekövetni és ellenőrizni a hitelcél teljesülését."
+            ],
+            [
+                "A szabad felhasználású hiteltípus jellemzően olcsóbb, mint az ingatlancélú hitel, azaz alacsonyabb a kamat és a THM.",
+                true
+            ],
+            [
+                "Amennyiben az igénylőnek van házastársa, úgy – néhány kivételes esettől eltekintve – kötelezően bevonandó adósként neki is szerepelnie kell a hitelfelvételi ügyletben."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a mondat helyes befejezését! A felvehető szabad felhasználású jelzáloghitel igénylésekor",
+        "Válaszok": [
+            [
+                "a bankok nem nyújthatnak kizárólag ingatlanfedezetre hitelt, hanem a jövedelmet is vizsgálniuk kell.",
+                true
+            ],
+            [
+                "magas bejelentett hivatalos jövedelem esetén a bankok eltekinthetnek az ingatlanfedezettől."
+            ],
+            [
+                "amennyiben a fedezetként szolgáló ingatlan értéke eléri a jogszabályban meghatározott mértéket, a bankok eltekinthetnek a jövedelem vizsgálatától."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A személyi hitel mely formái terjedtek el napjainkban?",
+        "Válaszok": [
+            [
+                "Kizárólag a kezes és kézizálogjog fedezete melletti."
+            ],
+            [
+                "Kizárólag a jelzálogjog fedezete melletti."
+            ],
+            [
+                "Mind a kezes és kézizálogjog, mind a jelzálogjog fedezete melletti személyi hitelek ismertek; azonban a személyi hitel napjainkban a legtöbb banknál ingatlanfedezet és kezes bevonása nélkül igényelhető.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbi állítások közül melyik igaz jellemzően a személyi hitelekre?",
+        "Válaszok": [
+            [
+                "Mindig  kezes és kézizálogjog fedezete melletti."
+            ],
+            [
+                "Mindig  jelzálogjog fedezete melletti."
+            ],
+            [
+                "A hitelképességet minden esetben vizsgálni kell.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A személyi kölcsönöknél a hitelcél nem kötött.",
+                true
+            ],
+            [
+                "A személyi kölcsönök célja valamely készletbeszerzés finanszírozása."
+            ],
+            [
+                "A személyi kölcsönöknél a hitelcélt a hitelszerződésben meg kell nevezni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Általában melyek a személyi hitel igénylésének feltételei az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hiteligénylőnek nincs adóhátraléka."
+            ],
+            [
+                "A hiteligénylő rendelkezik fizetésképtelenség esetén hosszútávú befektetéssel, melyből továbbra is finanszírozni tudja a havi törlesztő részleteket."
+            ],
+            [
+                "A hiteligénylő igazolható számlamúlttal rendelkezik, és nem szerepel a Központi Hitelinformációs Rendszer (KHR) negatív listáján.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbi állítások közül válassza ki a személyi hitelekkel kapcsolatos igaz állítást!",
+        "Válaszok": [
+            [
+                "A folyósított összeget a hitelfelvevő kapja a hitelszámlára, aminek elköltése nincs célhoz kötve.",
+                true
+            ],
+            [
+                "A devizában való személyi hitel nyújtást jogszabály tiltja."
+            ],
+            [
+                "A folyósított összeget a hitelfelvevő kizárólag ingatlan vásárlására fordíthajta."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelintézet preferálhat-e egy bizonyos célt személyi hitel nyújtásakor?",
+        "Válaszok": [
+            [
+                "Nem, semmilyen esetben, hiszen a személyi hitel által nyújtott kölcsönösszeget a hiteligénylő kizárólag szabadon használhatja fel bármilyen célra."
+            ],
+            [
+                "Igen, mivel a hitelcél megnevezése a szerződésben kötelező."
+            ],
+            [
+                "Nem tiltja semmi, hogy a hitelintézet bizonyos célokat preferáljon, de ez nem szükségszerű.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Amennyiben a személyi hitel fedezete kezesség, a bank kinek a pénzügyi helyzetét vizsgálja a hitel jóváhagyása előtt?",
+        "Válaszok": [
+            [
+                "Csak a hiteligénylő pénzügyi helyzetét."
+            ],
+            [
+                "Csak a kezes pénzügyi helyzetét."
+            ],
+            [
+                "A hiteligénylő és a kezes pénzügyi helyzetét is.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az adósságrendező hitelek a hitelek mely csoportjába tartoznak?",
+        "Válaszok": [
+            [
+                "Kezes által fedezett hitelek."
+            ],
+            [
+                "Jellemzően zálogjoggal fedezett hitelek.",
+                true
+            ],
+            [
+                "Rulírozó hitelek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mire szolgál az adósságrendező hitel?",
+        "Válaszok": [
+            [
+                "Arra, hogy az ügyfél több meglévő tartozását előtörlessze, és ezeket kiváltandó egyetlen (adott esetben nagyobb összegű) bankhitelt vegyen fel.",
+                true
+            ],
+            [
+                "Arra, hogy az ügyfél adósságrendező hitel felvétele után még újabb hiteleket vehessen fel."
+            ],
+            [
+                "Arra, hogy az ügyfél adósságrendező hitel felvétele esetén a hitelösszeg beruházása után a haszonból fizethesse a meglévő hiteleinek törlesztő részleteit."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az adósságrendező hitelekhez minden esetben társul-e  jelzálogjog fedezet?",
+        "Válaszok": [
+            [
+                "Nem, az adósságrendező hitelek egyetlen konstrukciójához sem társul jelzálogjog fedezet."
+            ],
+            [
+                "Az adósságrendező hitelek az esetek nagy többségében a jelzálogjog fedezetű hitelek kategóriájába tartoznak, azonban létezik adósságrendezésre felvehető személyi kölcsön is, amely esetében nincs szükség jelzálogjog fedezetre.",
+                true
+            ],
+            [
+                "Ezt a hitelintézet határozza meg a hiteligénylő hitelképességének megvizsgálása után."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az adósságrendező hitel igénylése esetén igényelhet-e nagyobb összeget a hiteligénylő, mint a meglévő korábbi tartozások összege?",
+        "Válaszok": [
+            [
+                "Nem, hiszen a hiteligénylő már így is el van adósodva, azért fordul ehhez a hiteltípushoz."
+            ],
+            [
+                "Nem valószínű, mivel a hiteligénylő, ha kap is hitelt, csak akkora összeget fog kapni, amennyi a korábbi tartozások összértéke."
+            ],
+            [
+                "Igen, a hitelintézetek nem zárják ki ezt a lehetőséget, de a hiteligénylő csak a hitelképességének megfelelően kaphat nagyobb összeget a meglévő korábbi tartozásainak összértékénél.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az ügyfél számára miért kínálhat vonzó megoldást az adósságrendező hitel?",
+        "Válaszok": [
+            [
+                "Azért, mert megnövekedett törlesztő részlet mellett a futamidő megrövidül és ezáltal kevesebb kamatot kell fizetni a hitelért."
+            ],
+            [
+                "Azért, mert a havi törlesztőrészlet csökken, amit a bankok jellemzően hosszabb futamidővel (illetve esetlegesen kedvezőbb árazási kondíciókkal) érnek el.",
+                true
+            ],
+            [
+                "Azért, mert a hitelkamatok itt a legalacsonyabbak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az adósságrendező hitel többféle tartozás kiváltására is lehetőséget nyújt?",
+        "Válaszok": [
+            [
+                "Igen, például jelzáloghitel, személyi kölcsön, hitelkártya, folyószámlahitel, áruvásárlási hitel, önkormányzati és munkáltatói kölcsön stb.",
+                true
+            ],
+            [
+                "Nem, csakis egy adott hitelintézet által nyújtott hiteltartozások kiváltására."
+            ],
+            [
+                "Nem, csakis nem hitelintézet által nyújtott hiteltartozások kiváltására."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül! Személyi kölcsön esetén a folyósítás módja, hogy",
+        "Válaszok": [
+            [
+                "a bank közvetlenül a megvásárolni kívánt termék kereskedőjének utalja a vételárat."
+            ],
+            [
+                "a bank beállítja a hitelkeretet az igénylő fizetési számlájához."
+            ],
+            [
+                "a bank átutalja az igénylőnek a kölcsönt, mellyel az igénylő szabadon rendelkezhet.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Adósságrendező hitel igénylésekor a bank mely hiteleken vizsgálja az igénylő hitelmúltját?",
+        "Válaszok": [
+            [
+                "Az összes kiváltandó hitelen. A bank csak olyan ügyfél adósságrendező szándékát fogadja el, ahol a korábbi hiteleken tanúsított fizetési magatartást megfelelőnek tartja.",
+                true
+            ],
+            [
+                "Csak a késedelmes törlesztésű hiteleken."
+            ],
+            [
+                "Csak az igénylő által kiváltani kívánt jelzáloghiteleken."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelkártya által nyújtott hitelkeret összegének online felhasználást jogszabály tiltja."
+            ],
+            [
+                "A hitelkártya által nyújtott hitelkeret összege - készpénzfelvétel kivételével - bármilyen célra felhasználható."
+            ],
+            [
+                "A hitelkártya által nyújtott hitelkeret összege csak a hitelkártya-szerződésben megjelölt célra használható fel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelkártya csak hitelkártyás vásárlást elfogadó kereskedelmi elfogadóhelyeknél használható fel."
+            ],
+            [
+                "A hitelkártya nem használható készpénzfelvételre ATM-ből."
+            ],
+            [
+                "A hitelkártya felhasználható mind hitelkártyás vásárlást elfogadó kereskedelmi elfogadóhelyeknél fizetésre, mind ATM-ből való készpénzfelvételre.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Jellemzően milyen jövedelmi elvárást szükséges teljesíteni a hitelkártya igénylés során?",
+        "Válaszok": [
+            [
+                "A kártyaigénylő rendszeres, havi, nettó jövedelme érje el a bank által megjelölt minimumot.",
+                true
+            ],
+            [
+                "A kártyaigénylő rendszeres, havi, bruttó jövedelme érje el a bank által megjelölt minimumot."
+            ],
+            [
+                "A kártyaigénylő rendszeres, havi, bruttó jövedelme érje el a mindenkori minimálbér kétszeresét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A hitelkártya által nyújtott hitelkeret",
+        "Válaszok": [
+            [
+                "egyszeri alkalommal felhasználható."
+            ],
+            [
+                "megújuló jellegű.",
+                true
+            ],
+            [
+                "kizárólag a hitelkártya szerződésben meghatározott alkalmak számának megfelelően használható fel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelkártyák esetében mit értünk minimum fizetendő összegen az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az elszámolási napot követően az adós a fennálló tartozásának legalább a hitelintézet által minimálisan meghatározott részét köteles törleszteni.",
+                true
+            ],
+            [
+                "A fennálló tartozás ezen hányadának megfizetése esetén az adóst megilleti a kamatmentesség a vonatkozó kamatperiódusra."
+            ],
+            [
+                "A hitelintézet kötelezi az adóst, hogy a hó végéig törlessze a hitelkeret kimerített részét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelkártya által lehívott kölcsönt terheli kamat?",
+        "Válaszok": [
+            [
+                "Igen, minden esetben."
+            ],
+            [
+                "Nem, mert a hitelkártya díja és a speciális díjak viszonylag magasak."
+            ],
+            [
+                "Igen, amennyiben a türelmi időszak alatt az adós a felhasznált hitelkeret összegét nem, vagy csak részben fizeti vissza, vagy amennyiben azt készpénzben vette igénybe.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelkártya birtokosa által ATM-ből felvett készpénzösszeg bármely esetben elérheti a hitelkeret maximumát."
+            ],
+            [
+                "A hitelkártya birtokosa által ATM-ből felvett készpénzösszeg nem haladhatja meg a hitelkeret egy a hitelintézet által szerződésben fixen meghatározott százalékát.",
+                true
+            ],
+            [
+                "A hitelkártyát ATM-ből való készpénzfelvételre nem lehet használni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelkártya kamata általában a személyi hitelek kamatához viszonyítva lényegesebben alacsonyabb, viszont az éves kártyadíj magas."
+            ],
+            [
+                "A hitelkártya kamata általában a személyi hitelek kamatához viszonyítva lényegesebben magasabb, és az éves kártyadíj sem elhanyagolható.",
+                true
+            ],
+            [
+                "A hitelkártya kamata általában a személyi hitelek kamatához viszonyítva lényegesebben magasabb, de ezért sosem kell éves kártyadíjat fizetni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelkártyával nem lehet készpénzt felvenni."
+            ],
+            [
+                "A hitelkártyával lehet készpénzt felvenni, melynek díja általában alacsony."
+            ],
+            [
+                "A hitelkártyával lehet készpénzt felvenni, melynek díja általában magas.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hitelkártyájához kapcsolódóan a kártyabirtokosnak milyen állandó díjat kell fizetnie?",
+        "Válaszok": [
+            [
+                "A hitelkártyához nem tartoznak állandó díjtételek."
+            ],
+            [
+                "A hitelkártyához tartozó állandó díjtétel a kártya éves díja, továbbá a havonta esedékes kezelési költség."
+            ],
+            [
+                "A hitelkártyához tartozó állandó díjtétel a kártya éves díja, de emellett lehetnek egyéb állandó díjtételek is.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen következménnyel jár, ha a kártyabirtokos csak a hitelkeretből felhasznált összeg bank által meghatározott minimum összegét fizeti vissza a türelmi időszak alatt?",
+        "Válaszok": [
+            [
+                "Ha ez teljesül, az összeg díj- és kamatmentes."
+            ],
+            [
+                "A szolgáltató kamatot számít fel a felhasznált összegre.",
+                true
+            ],
+            [
+                "A kártyabirtokosnak kamat mellett késedelmi kötbért is fizetnie kell."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Elveszett illetve ellopott hitelkártya esetén a banknak történt bejelentést megelőzően bekövetkezett kár a hitelkártya tulajdonosát terheli korlátlan mértékben."
+            ],
+            [
+                "Elveszett illetve ellopott hitelkártya esetén a banknak történt bejelentést megelőzően bekövetkezett kár szándékos vagy súlyosan gondatlan magatartása esetén is csak 10.000 Ft összegig terheli a hitelkártya tulajdonosát."
+            ],
+            [
+                "Elveszett illetve ellopott hitelkártya esetén a banknak történt bejelentést megelőzően bekövetkezett kár a hitelkártya tulajdonosát szándékos vagy súlyosan gondatlan magatartása esetén korlátlan mértékben terheli.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a fogyasztási hitelre vonatkozó igaz állítást!",
+        "Válaszok": [
+            [
+                "A fogyasztási hitel gyűjtőfogalom, mely alatt általában a fedezet nélküli, csak a lakossági ügyfél jövedelme alapján nyújtott, szabad felhasználási hitelt értünk.",
+                true
+            ],
+            [
+                "A fogyasztási hitel, más néven áruhitel, minden esetben a vásárlás helyszínén igényelhető hitel, melynek során az igénylő nem a hitelösszeget, hanem a vásárolt terméket kapja kézhez."
+            ],
+            [
+                "A fogyasztási hitel gyűjtőfogalom, mely alatt ingatlan jelzálogjog fedezete mellett nyújtott, szabad felhasználású lakossági hitelt értünk."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Áruhitel igénylése esetén az igénylő nem pénzösszeget, hanem a megvásárolni kívánt terméket, szolgáltatást kapja kézhez.",
+                true
+            ],
+            [
+                "Áruhitel igénylése esetén az igénylő készpénzt kap, melyből tudja finanszírozni a kívánt terméket, vagy szolgáltatást."
+            ],
+            [
+                "Áruhitel igénylése esetén az igénylő igényelhet nagyobb összeget is, mint a finanszírozni kívánt termék vagy szolgáltatás összértéke."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik árucikkekre nem alkalmas az áruhitellel történő finanszírozás?",
+        "Válaszok": [
+            [
+                "Háztartási gépekre."
+            ],
+            [
+                "Élelmiszerekre.",
+                true
+            ],
+            [
+                "Bútorokra."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Áruhitel esetén a THM nem haladhatja meg a jegybanki alapkamat 24 százalékponttal növelt mértékét."
+            ],
+            [
+                "Áruhitel esetén a THM nem haladhatja meg a jegybanki alapkamat 39 százalékponttal növelt mértékét.",
+                true
+            ],
+            [
+                "Áruhitel esetén a THM mértéke mindig megegyezik a kamat mértékével."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Áruhitel felvétele esetén az adóst akkor is megilleti a hitelszerződéstől indokolás nélkül való elállás joga, ha",
+        "Válaszok": [
+            [
+                "az áruhitel futamideje alatt csökken, illetve megszűnik a jövedelme."
+            ],
+            [
+                "a törvényben meghatározott, a hitelszerződést megelőzően nyújtandó tájékoztatást a szerződéskötést követően kapja kézhez, a tájékoztatás kézhezvételtől számított 14 napon belül.",
+                true
+            ],
+            [
+                "az áru garanciális okból használhatatlanná válik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Az áruhitel felvételéhez …",
+        "Válaszok": [
+            [
+                "minden esetben szükség van önerőre."
+            ],
+            [
+                "minden esetben szükséges a személyes jelenlét."
+            ],
+            [
+                "a hitelező döntése alapján szükség lehet önerőre.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki vehet igénybe fogyasztási hitelt az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Természetes személyek.",
+                true
+            ],
+            [
+                "Cégek."
+            ],
+            [
+                "Mind vállalkozások, mind magánszemélyek igénybe vehetik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A fogyasztási hitel igénylője a",
+        "Válaszok": [
+            [
+                "szerződéskötést követő 14 napon belül indoklás nélkül elállhat a szerződéstől, ha a hitel folyósítására még nem került sor.",
+                true
+            ],
+            [
+                "szerződéskötést követő 1 éven belül indoklás nélkül elállhat a szerződéstől, ha a hitel folyósítására még nem került sor."
+            ],
+            [
+                "szerződéskötést követő 14 munkanapon belül csak indoklással állhat el a szerződéstől."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül az áruhitelre igaz állítást!",
+        "Válaszok": [
+            [
+                "Az áruhitel esetében a hitelező az adós pénzügyi lehetőségeit, fizetőképességét és egyéb vagyoni feltételeit megismerve nem köt ki biztosítékot, ezért általában a hitel igénylésének feltétele a jövedelemigazolás benyújtása és az igénylő hitelmúltjának lekérdezése a Központi Hitelinformációs Rendszerből (KHR).",
+                true
+            ],
+            [
+                "Az áruhitel célja az adós számára meghatározott jövőbeni időszakra tervezett áruvásárlásokhoz szükséges pénzösszeg biztosítása oly módon, hogy az áruvásárlási hitelkeretet az adós számára a bank a vásárlás időpontjában megnyitja, majd az adós meghatározott időtartamon belül veszi azt igénybe."
+            ],
+            [
+                "Az áruhitel folyósítója valamely, az árukereskedővel függő vagy független ügynöki viszonyban lévő bank, a hitellel kapcsolatos ügyintézés a bankban történik, ahol az ügyfélnek kell a hitelező bankkal kapcsolatba lépnie."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül az állítás helyes befejezését! Az áruhitel előnyei közé tartozik, hogy",
+        "Válaszok": [
+            [
+                "e hitelfajtát általában alacsony teljes hiteldíj mutató (THM) jellemzi."
+            ],
+            [
+                "szabadon felhasználható."
+            ],
+            [
+                "kezes és adóstárs nélkül vehető igénybe.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen célra szolgál a folyószámlahitel az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Hosszútávú pénzügyi befektetés finanszírozására."
+            ],
+            [
+                "Átmeneti finanszírozási lehetőséget nyújt.",
+                true
+            ],
+            [
+                "Elsősorban ingatlanvásárlásra szolgál."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A folyószámlahitel megújuló jellegű hitel-e?",
+        "Válaszok": [
+            [
+                "Igen, mivel az ügyfél a folyószámlahitel törlesztése után a hitelkeretet újra felhasználhatja.",
+                true
+            ],
+            [
+                "Nem, mivel a hitelkeret csak eseti lehívást tesz lehetővé."
+            ],
+            [
+                "Nem, az ügyfél esetenként határozza meg, hogy rulírozó módon kívánja-e igénybe venni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelintézetek kötnek-e ki külön biztosítékot a folyószámlahitel törlesztésére?",
+        "Válaszok": [
+            [
+                "Igen, az ügyfél fizetésképtelensége esetén egy kezesnek kell fedezni a hitelkeretet."
+            ],
+            [
+                "Igen, általában jelzálogjog formájában."
+            ],
+            [
+                "Nem, mivel a kölcsön jóváhagyásának alapja az ügyfél havi rendszeres terhelhető jövedelme.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Felülvizsgálhatja-e rendszeres időközönként a hitelintézet az adós hitelképességét ?",
+        "Válaszok": [
+            [
+                "Nem, személyiségi jogok miatt soha."
+            ],
+            [
+                "Nem, csak a folyószámlahitel szerződés megkötése előtt."
+            ],
+            [
+                "Igen.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A folyószámlahitel a lejárata után meghosszabbítható-e?",
+        "Válaszok": [
+            [
+                "Nem, egyáltalán nincs meghosszabbítási lehetőség."
+            ],
+            [
+                "Igen, egyes bankoknál automatikusan, egyes bankoknál felülbírálatot követően.",
+                true
+            ],
+            [
+                "Kizárólag a futamidő lejárata után eltelt időkorlát után van rá lehetőség."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A folyószámlahitel szabadon, hitelcél megjelölése nélkül, tetszés szerinti ütemezésben felhasználható.",
+                true
+            ],
+            [
+                "A folyószámlahitel hitelcél megjelölése mellett, előre meghatározott ütemezésben használható fel."
+            ],
+            [
+                "A folyószámlahitel célhoz kötött, azonban tetszés szerinti ütemezésben felhasználható."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az igénybe vett folyószámlahitel törlesztése hogyan történhet az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A kölcsön tőkerészét a futamidő végén egy összegben kell visszafizetni, a futamidő alatt csak a kamatok esedékesek."
+            ],
+            [
+                "Csak a futamidő végén kell megfizetni a tőkét és a felhalmozott kamatokat."
+            ],
+            [
+                "A visszafizetés a számlára érkező jóváírások folyamatos felhasználásával történik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A folyószámla-hitelkeret a lejárati időn belül többször is felhasználható?",
+        "Válaszok": [
+            [
+                "Igen, abban az esetben, ha időközben beérkező jóváírásokkal újratöltődik a hitelkeret.",
+                true
+            ],
+            [
+                "Igen, de csak a hitelszerződésben megállapított számú alkalommal."
+            ],
+            [
+                "Nem, a hitelkeretet csak egyszer lehet kimeríteni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik feltétel nem tartozik a folyószámlahitel igénylés általános feltételei közé?",
+        "Válaszok": [
+            [
+                "Az igénylő 18. életévét betöltött természetes személy lehet."
+            ],
+            [
+                "Havi rendszeres jóváírás szükséges a számlán."
+            ],
+            [
+                "Az igénylőnek saját tulajdonú lakóingatlannal kell rendelkeznie.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen hosszú a folyószámlahitelek általános futamideje?",
+        "Válaszok": [
+            [
+                "Korlátlan."
+            ],
+            [
+                "Csakis a hitelkeret egyszeri kimerítéséig tart."
+            ],
+            [
+                "Általában egy év.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A bank folyószámlahitel igénylése esetén végez-e hitelbírálatot?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, hiszen a bank ismeri az igénylő hitelképességét a bankszámlája alapján."
+            ],
+            [
+                "Nem, mivel a hitel nagyon kis összegű."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent az, hogy a folyószámlahitel megújuló jellegű (rulírozó)?",
+        "Válaszok": [
+            [
+                "Azt, hogy a hitelszerződés lejárata után a szerződés egyszeri alkalommal meghosszabbítható."
+            ],
+            [
+                "Azt, hogy a hitelszerződés lejárata után a szerződés többszöri alkalommal meghosszabbítható."
+            ],
+            [
+                "Azt, hogy az ügyfél számláját a hitelkeret erejéig terhelheti, a számlájára érkező befizetések, jóváírások összege a hitelkeret feltöltésée fordítódik, amit újra felhasználhat az ügyfél.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a folyószámlahitel igényelhető hitelösszegének egyik alapja?",
+        "Válaszok": [
+            [
+                "Az ügyfél havi, rendszeres, terhelhető jövedelme.",
+                true
+            ],
+            [
+                "Az ügyfél megtakarításainak mértéke."
+            ],
+            [
+                "Az ügyfél befektetéseinek mértéke."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miként történhet a folyószámlahitel visszafizetése?",
+        "Válaszok": [
+            [
+                "A folyószámlahitel visszafizetése automatikusan történik. A számlára érkező jóváírásokat a bank azonnal a fennálló hiteltartozás törlesztésére fordítja, függetlenül attól, hogy e jóváírás a számlára történő átutalással vagy készpénzbefizetéssel valósult meg.",
+                true
+            ],
+            [
+                "A folyószámlahitel visszafizetése kizárólag a bankban történő személyes készpénzfizetéssel, a készpénzbefizetés céljának megjelölésével bármilyen időközönként elvégezhető."
+            ],
+            [
+                "A folyószámlahitel visszafizetése automatikusan történik, kizárólag a munkáltatótól átutalással a számlára érkező havi munkabér összegének meghatározott hányadából."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a diákhitelre vonatkozó helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A diákhitelt minden felsőfokú képzésben részvevő, nappali, esti, levelezős, illetve távoktatás keretében tanuló, beiratkozott, aktív hallgató igénybe veheti."
+            ],
+            [
+                "A diákhitel folyósítása életkorhoz kötött a hitelfelvevő 45. életéve betöltésének időpontját soron követő tanulmányi félévtől nem folyósítható.",
+                true
+            ],
+            [
+                "A diákhitelt minden 35 év alatti, bármely képzésben résztvevő, nappali oktatás keretében beiratkozott, aktív hallgató igénybe veheti."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mihez igazodik a folyósított diákhitel mértéke?",
+        "Válaszok": [
+            [
+                "A tanuló felsőoktatásban elért teljesítményéhez."
+            ],
+            [
+                "Bizonyos határok között az igénylő szabhatja meg, vagy az önköltséges képzésben részt vevő hallgatónak az intézmény felé fennálló fizetési kötelezettsége határozza meg a mértékét diákhiteltípustól függően.",
+                true
+            ],
+            [
+                "A diákhitel nem változik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e a 45. életév betöltésének időpontját soron követő tanulmányi félévtől diákhitelt folyósítani?",
+        "Válaszok": [
+            [
+                "Igen, korlátlanul."
+            ],
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Igen, de csakis bizonyos esetekben."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mikor kell megkezdeni a diákhitel törlesztését?",
+        "Válaszok": [
+            [
+                "A hitel folyósításának megkezdésével egyidejűleg."
+            ],
+            [
+                "A hitel folyósításának megkezdésétől számított, a szerződésben megjelölt időperióduson belül."
+            ],
+            [
+                "Főszabály szerint csak a hallgatói jogviszony megszűnésének, legkésőbb azonban a 45. életév betöltésének időpontját követő negyedik hónap első napjától.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A diákhitel törlesztőrészletek nagysága az első két törlesztési évben",
+        "Válaszok": [
+            [
+                "fix, havi 50 000,- Ft."
+            ],
+            [
+                "a minimálbér összegéhez igazodik.",
+                true
+            ],
+            [
+                "az adós két évvel azelőtti jövedelméhez igazodik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Jogosult-e diákhitel felvételére az a hallgató, aki az adott félévben külföldön ösztöndíjjal tanul (és minden egyéb feltételben megfelel a diákhitel kitételeinek)?",
+        "Válaszok": [
+            [
+                "Nem, mert az ösztöndíj kizárja a diákhitelre való jogosultságot."
+            ],
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, mert a külföldi ösztöndíj miatt passziváltatni fogja a tanulmányi félévét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki a diákhitelezés lebonyolítója Magyarországon?",
+        "Válaszok": [
+            [
+                "Az Emberi Erőforrások Minisztériuma."
+            ],
+            [
+                "A Magyar Nemzeti Bank."
+            ],
+            [
+                "A Diákhitel Központ Zrt.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e, hogy a diákhitelből kizárólag a tandíj befizetése finanszírozható?",
+        "Válaszok": [
+            [
+                "Nem, a diákhitel a tandíj és a vizsgadíjak befizetésére egyaránt felhasználható."
+            ],
+            [
+                "Igen."
+            ],
+            [
+                "Nem, van olyan diákhitel, amely bármilyen célra szabadon felhasználható.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Feltétele-e a diákhitel folyósításának, hogy a hiteligénylő bankszámlájára rendszeres havi jóváírás érkezzen?",
+        "Válaszok": [
+            [
+                "Igen, minden esetben."
+            ],
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Ezt a diákhitelt nyújtó hitelintézetek határozzák meg."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A diákhitel felvételéhez az igénylőnek szüksége van kezesre."
+            ],
+            [
+                "A diákhitel felvételéhez az igénylőnek szüksége van fedezetre."
+            ],
+            [
+                "A diákhitel felvételéhez az igénylőnek nincs szüksége kezesre vagy egyéb fedezetre.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mire költhető a „Diákhitel1”?",
+        "Válaszok": [
+            [
+                "A tandíj befizetésére."
+            ],
+            [
+                "A diák létminimum szintjének biztosítására és az oktatás költségeire."
+            ],
+            [
+                "Szabadon felhasználható bármilyen célra.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a diákhitelről? Gyermekgondozás idején, aki GYES-re jogosult,",
+        "Válaszok": [
+            [
+                "azt diákhitelénél megilletheti a célzott kamattámogatás.",
+                true
+            ],
+            [
+                "azt diákhitelénél megilleti a törlesztő részlet mérséklés kedvezménye, kivéve, ha teljes munkaidőben kereső tevékenységet folytat."
+            ],
+            [
+                "annak diákhitelénél a törlesztési kötelezettséget szüneteltetik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükséges-e az államilag támogatott lakáscélú hitelnél az önerő?",
+        "Válaszok": [
+            [
+                "Igen, a hitel igénybevételéhez szükséges az önerő.",
+                true
+            ],
+            [
+                "Nem, mivel a hitelt nyújtó intézmény a hitelbírálatkor a hiteligénylő hitelképességét alaposan megvizsgálja."
+            ],
+            [
+                "Nem, mivel a hiteligénylő rendelkezik rendszeres havi jövedelemmel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen célra lehet felhasználni a lakáscélú támogatásokról szóló jogszabály alapján nyújtott államilag támogatott hitelt?",
+        "Válaszok": [
+            [
+                "Nincsen meghatározott célja, ez a hiteligénylőtől függ."
+            ],
+            [
+                "Magyarország területén lévő lakás építésére, vásárlására, bővítésére, korszerűsítésére, a lakóépületek közös használatú részeinek felújítására.",
+                true
+            ],
+            [
+                "Új vállalkozás indítására."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A lakáscélú állami támogatásokról szóló jogszabály alapján nyújtott támogatás igénybevételével vásárolt lakásra az adásvételi szerződés megkötését követően az állam javára mennyi időre kerül bejegyzése jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom?",
+        "Válaszok": [
+            [
+                "10 évig.",
+                true
+            ],
+            [
+                "3 évig."
+            ],
+            [
+                "Nem létezik ilyen típusú időkorlát."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az államilag támogatott lakáscélú hitelt igénylő személynek mekkora tulajdoni hányadot kell elérni a megvásárolandó ingatlanban?",
+        "Válaszok": [
+            [
+                "Minimum 30%- ot kell elérnie."
+            ],
+            [
+                "Minimum 50%-ot kell elérnie.",
+                true
+            ],
+            [
+                "A hitelt igénylő személy lehet csak a kizárólagos tulajdonos, ezért 100%-ot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek támogatásáról szóló jogszabály alapján az alábbiak közül melyik kizáró ok az államilag támogatott lakáscélú hitel igénylésekor?",
+        "Válaszok": [
+            [
+                "A hiteligénylő házastársa, élettársa, vagy gyermeke rendelkezik ingatlannal.",
+                true
+            ],
+            [
+                "A hiteligénylő elmúlt 30 éves."
+            ],
+            [
+                "A hiteligénylőnek már van állandó bejelentett lakhelye."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik nem feltétele a lakás építéséhez vagy vásárlásához a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek támogatásáról szóló jogszabály alapján nyújtható kamattámogatásnak?",
+        "Válaszok": [
+            [
+                "A hiteligénylőnek nincs lakástulajdona, állandó lakáshasználati joga, lízingbe vett lakása nincs."
+            ],
+            [
+                "A hiteligénylő lakástulajdonának ingatlan-nyilvántartási bejegyzésére irányuló kérelem nincs folyamatban."
+            ],
+            [
+                "A hiteligénylés éves jövedelme nem haladja meg az 5 millió forintot.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül az állítás helyes befejezését! Az otthonteremtési kamattámogatás igénylésének feltétele",
+        "Válaszok": [
+            [
+                "a támogatott személy arra vonatkozó kötelezettségvállalása, hogy a hitelcél megvalósulását követő egy éven belül a lakásban lakóhelyet létesít.",
+                true
+            ],
+            [
+                "a támogatott személy arra vonatkozó kötelezettségvállalása, hogy az otthonteremtési kamattámogatással érintett lakás legalább 15 évig lakóhelyéül fog szolgálni."
+            ],
+            [
+                ", hogy az otthonteremtési kamattámogatással épített vagy vásárolt lakást 30 évig nem idegeníti el."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik tényezőtől független az építési költség, a vételár vagy a korszerűsítés költsége kiegyenlítéséhez felvett kamattámogatott hitelintézeti kölcsön összege?",
+        "Válaszok": [
+            [
+                "Attól, hogy új lakás építéséhez, vagy vásárlásához veszik igénybe.",
+                true
+            ],
+            [
+                "Attól, hogy a lakás megyei jogú városban vagy egyéb településen található."
+            ],
+            [
+                "Attól, hogy mekkora az igénylő, annak házastársa, bejegyzett élettársa, élettársa, az eltartott gyermekek és családtagok együttes tulajdoni hányada."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Megelőlegezett családi otthonteremtési kedvezmény igénybevétele esetén a fiatal házaspár gyermekvállalásának teljesítésére előírt határidő",
+        "Válaszok": [
+            [
+                "egy gyermek vállalása esetén 5 év, két gyermek vállalása esetén 10 év."
+            ],
+            [
+                "egy gyermek vállalása esetén 4 év, két gyermek vállalása esetén 8 év.",
+                true
+            ],
+            [
+                "mindkettő hamis."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Babaváró kölcsön törlesztésekor a törlesztőrészlet havi összege a kamattámogatás időszaka alatt - a kezességvállalási díjjal együtt - nem haladhatja meg",
+        "Válaszok": [
+            [
+                "az 50 000 forintot.",
+                true
+            ],
+            [
+                "a 75 000 forintot."
+            ],
+            [
+                "a 100 000 forintot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A babaváró kölcsönszerződés megkötését a házaspár - együttes igénylőként - akkor igényelheti, ha",
+        "Válaszok": [
+            [
+                "vállalja, hogy az igényelt összeget ingatlanvásárlásra, illetve bővítésre vagy korszerűsítésre használja fel."
+            ],
+            [
+                "vállal további 3 gyermeket a kölcsönszerződés időtartama alatt."
+            ],
+            [
+                "a kölcsönkérelem benyújtásának időpontjában a feleség betöltötte a 18. életévét, de még nem töltötte be a 41. életévét.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A családi otthonteremtési kedvezmény összege függ a lakáscéltól és a gyerekek számától.",
+        "Válaszok": [
+            [
+                "Igaz.",
+                true
+            ],
+            [
+                "Hamis."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis?",
+        "Válaszok": [
+            [
+                "A babaváró kölcsön egy legfeljebb 10 millió forint összegű, maximum 20 éves futamidejű támogatott hitel."
+            ],
+            [
+                "A babaváró kölcsön az első 5 évben kamatmentes."
+            ],
+            [
+                "Amennyiben a kamattámogatás időszaka alatt az igénylőknek egy gyermekük születik, akkor a kölcsöntartozás 30%-ának megfelelő összegű, vissza nem térítendő gyermekvállalási támogatásra jogosultak.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen célra lehet felhasználni a gépjárműlízinget az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Csakis új vagy használt személyautó vásárlására."
+            ],
+            [
+                "Haszongépjármű kivételével bármilyen típusú új és használt gépjárműre."
+            ],
+            [
+                "Új és használt személygépjármű, motorkerékpár és haszongépjármű vásárlására.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Gépjárműlízing igénylésekor mi képezi a tárgyi fedezetet?",
+        "Válaszok": [
+            [
+                "Kezes."
+            ],
+            [
+                "Elsődlegesen maga a gépjármű, hiszen a lízing tárgyát képező gépjármű a lízingszer-ződés teljes futamideje alatt a lízingbeadó kizárólagos tulajdonát képezi, a lízingbevevő csak akkor szerzi meg a tulajdonjogát, ha a teljes tartozást megfizette, min-den szerződéses kötelezettségét teljesítette.",
+                true
+            ],
+            [
+                "Gépjárműlízing esetén a közokiratba foglalt zálogszerződés alapján a zálogjoggal biztosított követelés összegére a Gépjármű Zálogjogi Nyilvántartásban zálogjog kerül bejegyzésre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi történik, ha a lízingbevevő nem tudja fizetni a lízingdíj részleteket?",
+        "Válaszok": [
+            [
+                "A kezesnek kell továbbfizetnie a lízingdíjakat vagy a közjegyző a Gépjármű Zálogjogi Nyilvántartás alapján elrendeli a gépjármű lefoglalását, és a lízingbevevő lakóhelye szerint illetékes közterület-felügyeletnél intézkedik a gépjármű forgalomból történő végleges kivonása iránt."
+            ],
+            [
+                "A részlethátralékot ráterhelik a lízing fedezetéül szolgáló ingatlanra."
+            ],
+            [
+                "A finanszírozó visszaveszi és értékesíti a gépjárművet, és elszámol az ügyféllel; vagy átütemezi a szerződést vagy egyéb módon állapodik meg a lízingszerződés folytatásának feltételeiről.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ha a gépjárműlízing részletének nem fizetése esetén a visszavett és eladott autó értéke nem fedezi a teljes tartozást, kit terhel fizetési kötelezettség?",
+        "Válaszok": [
+            [
+                "A lízingbeadót, hiszen az ő feladata, hogy az elvett gépjárművet a legjobb áron értékesítse."
+            ],
+            [
+                "Minden esetben a gépjárműlízing kezesét."
+            ],
+            [
+                "A lízingbevevőt.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi történik, ha a gépjárműlízing tárgyát képező gépjárművet - melyen nem volt casco típusú biztosítás - ellopják?",
+        "Válaszok": [
+            [
+                "Ebben az esetben nem kell visszafizetni a tartozást."
+            ],
+            [
+                "Ebben az esetben a lízingbevevő lakóhelye szerint illetékes bíróság határozza meg a gépjármű piaci értékét, és az alapján dönti el, hogy kire szálljon a gépjármű tulajdonjoga. Ha a lízingbevevőnek ítéli a bíróság a gépjárművet, akkor a lízingbeadót terheli a kár, ellenkező esetben a lízingbevevőt."
+            ],
+            [
+                "Ebben az esetben a gépjárművel kapcsolatban bekö-vetkező minden kárt a lízingbevevő köteles viselni, így a visszalízingszerződésből eredő teljes tartozást meg kell fizetni, vagy megállapodást kell kötni a finanszírozóval a fizetés feltételeiről.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Fogyasztói gépjárműlízing kizárólag forint alapon érhető el."
+            ],
+            [
+                "Fogyasztói gépjárműlízing kizárólag deviza alapon érhető el."
+            ],
+            [
+                "Mind forint-, mind devizaalapú fogyasztói gépjárműlízing létezik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Gépjárműlízing igénylésekor az előírt önerő",
+        "Válaszok": [
+            [
+                "csökkenti a gépjármű értékéből a lízinggel finanszírozott részt.",
+                true
+            ],
+            [
+                "növeli a lízing tárgyát képező gépjármű forgalmi értékét."
+            ],
+            [
+                "fel nem használható pénzletétet jelent."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A gépjárműlízinggel finanszírozott gépjárműre a hitelintézetek szabhatnak-e kikötéseket?",
+        "Válaszok": [
+            [
+                "Nem, semmilyen esetben."
+            ],
+            [
+                "Igen, például, hogy a lízing lejáratakor a személygépjármű nem lehet idősebb adott évnél.",
+                true
+            ],
+            [
+                "Igen, de ez csakis a gépjármű motormérete lehet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! A gépjárműlízinggel finanszírozott gépjárműre casco",
+        "Válaszok": [
+            [
+                "biztosítást a 10 millió Forint forgalmi értéket elérő gépjárműre kötelező kötni."
+            ],
+            [
+                "biztosítást minden esetben a pénzügyi intézmény köt, hogyha a fedezetül szolgáló járművet ellopnák, akkor nem a lízingbevevő, hanem a biztosító fizessen a pénzügyi intézménynek."
+            ],
+            [
+                "biztosítás megkötését előírhatja a finanszírozó.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A gépjárműlízing összegének van-e jogszabályban meghatározott felső vagy alsó korlátja?",
+        "Válaszok": [
+            [
+                "Igen, van mindkettő."
+            ],
+            [
+                "Jogszabályban összegszerűen nincs meghatározott korlátja, de – többek között – a gépjármű piaci értéke is befolyásolja a finanszírozás maximum összegét.",
+                true
+            ],
+            [
+                "Csak alsó időbeli korlátja van."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a gépjárműlízingre vonatkozó helyes állítást!",
+        "Válaszok": [
+            [
+                "A lízing devizaneme nem befolyásolja a felvehető hitel összegét, forintban vagy más pénznemben meghatározott finanszírozás esetén megegyezik, hogy a gépjármű értékének hány százalékára nyújthat finanszírozást a bank."
+            ],
+            [
+                "Az igénylő igazolt havi rendszeres jövedelme nem befolyásolja a lízing összegét."
+            ],
+            [
+                "A lízingelni kívánt gépjármű tartásának várható költségei nem befolyásolják a lízing összegét.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Fejezze be a mondatot! Gépjárművásárláshoz kapcsolódó lízingkérelem elbírálásakor a kitettség",
+        "Válaszok": [
+            [
+                "forint és euró alapú finanszírozás esetén megegyező értékű lehet."
+            ],
+            [
+                "forint alapú finanszírozás esetén magasabb értékű lehet.",
+                true
+            ],
+            [
+                "euró alapú finanszírozás esetén magasabb értékű lehet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mire használható fel a lakás-előtakarékossággal kombinált jelzáloghitel?",
+        "Válaszok": [
+            [
+                "Új és használt lakás vásárlására, meglévő lakás felújítására, bővítésére, valamint lakáscélú hitel kiváltására.",
+                true
+            ],
+            [
+                "Szabad célú felhasználásra."
+            ],
+            [
+                "Kizárólag új lakás vásárlására."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A 2018. október 16. előtt lakás-előtakarékossági szerződések esetén főszabály szerint mekkora a lakás-előtakarékoskodó által igénybe vehető állami támogatás maximális mértéke?",
+        "Válaszok": [
+            [
+                "A megtakarítás 30%-a, maximum évi 72.000,- forint.",
+                true
+            ],
+            [
+                "A megtakarítás 30%-a, maximum évi 100.000,- forint."
+            ],
+            [
+                "A megtakarítás 30%-a, maximum havi 72.000,- forint."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a 2018. októberi törvénymódosítás után indított lakás-előtakarékossági számlával kapcsolatos helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Csak kiskorúnak nyithatnak ilyen számlát."
+            ],
+            [
+                "A megtakarításokat az Országos Betétbiztosítási Alap nem biztosítja."
+            ],
+            [
+                "Állami támogatás nem vehető igénybe.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a lakás-előtakarékossági számlával kapcsolatos helytelen állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Állami támogatás a törvénymódosítás 2018. október 16-i hatályba lépését követően korlátozottabb mértékben jár.",
+                true
+            ],
+            [
+                "Állami támogatás a törvénymódosítás hatályba lépését megelőzően, azaz legkésőbb 2018. október 16. napján aláírt szerződések esetén jár."
+            ],
+            [
+                "Lehet kedvezményezettet módosítani az eredetileg állami támogatásra jogosult szerződésen."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a lakás-előtakarékossággal kombinált jelzáloghitel lényege?",
+        "Válaszok": [
+            [
+                "Hitelfelvétel, a lakás-előtakarékossági szerződés megtakarítási időszaka alatt az adós a fizetett havi megtakarítások mellett a bank felé csak a felvett hitel kamatát és kezelési költségét fizeti.",
+                true
+            ],
+            [
+                "A lakás-előtakarékossági szerződés lejáratát követően kedvezményes hitelfelvétel."
+            ],
+            [
+                "Hitelfelvétel után kedvezményes lakás-előtakarékossági szolgáltatás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a lakás-előtakarékossággal kombinált jelzáloghitel előnye?",
+        "Válaszok": [
+            [
+                "Olcsóbb, mint a normál jelzáloghitel."
+            ],
+            [
+                "Hosszabb futamidejű szerződések érhetőek el."
+            ],
+            [
+                "Kedvezőbbek lehetnek a törlesztőrészletek.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen összetevőkből áll a lakás-előtakarékossággal kombinált jelzáloghitel során a fizetendő törlesztőrészlet?",
+        "Válaszok": [
+            [
+                "Lakástakarékpénztári megtakarítási időszak alatt csak kamatot és kezelési költséget kell fizetni a banknak, valamint lakás-előtakarékossági betétet a lakástakarékpénztárnak. A tőkerész a lakáskasszánál összegyűjtött megtakarításból kerül majd törlesztésre.",
+                true
+            ],
+            [
+                "Hasonlóan a hitelkonstrukciók többségéhez, havi kamat és tőketörlesztést kell fizetni. Különbség mindössze az állami támogatás miatt van."
+            ],
+            [
+                "Egyösszegben történik a szerződés végén a kamat és a tőke visszafizetése."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül válassza ki a lakás-előtakarékossággal kombinált jelzáloghitellel kapcsolatos igaz állítást!",
+        "Válaszok": [
+            [
+                "Lakáscélú hitel kiváltására is felhasználható.",
+                true
+            ],
+            [
+                "Használt lakás vásárlására nem használható fel."
+            ],
+            [
+                "Kizárólag meglévő lakás felújítására, bővítésére használható fel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik állítás nem igaz a Lakástakarék Áthidaló Kölcsönre?",
+        "Válaszok": [
+            [
+                "Az Áthidaló Kölcsön a lakáskassza szerződés részeként nyújtott kölcsön, melynek kamata a kölcsön valamennyi szakaszában fix."
+            ],
+            [
+                "Az Áthidaló Kölcsön olyan lakástakarékkal kombinált hitelkonstrukció, ahol már a megtakarítási időszak kezdetén hozzájuthatunk a teljes szerződéses összeghez."
+            ],
+            [
+                "Az Áthidaló Kölcsön felvételekor a lakáskassza szerződéses összege akár a szerződéskötés másnapján elérhető, azonban azzal a kockázattal jár, hogy a kölcsön második szakaszában jelentősen megnőhet a kamat mértéke.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen célra használható fel a lakás-előtakarékossági szerződés részeként nyújtott Áthidaló Kölcsön?",
+        "Válaszok": [
+            [
+                "Az Áthidaló Kölcsön bármely, a törvényben meghatározott lakáscélra felhasználható.",
+                true
+            ],
+            [
+                "Az Áthidaló Kölcsön kizárólag új  lakás, vagy üdülő vásárlására használható fel."
+            ],
+            [
+                "Az Áthidaló Kölcsön kifejezetten a lakás-előtakarékoskodó tulajdonában álló lakás, családi ház bővítésére, felújítására, korszerűsítésére használható fel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az életbiztosítással kombinált jelzáloghitel lényege?",
+        "Válaszok": [
+            [
+                "A biztosítási díjak fizetésével a hitel összegét egy biztosításban gyűjti össze az ügyfél, így a bank felé csak kamatot és költségeket fizet. A biztosítási esemény bekövetkeztekor a biztosító egyösszegben fizeti a bank felé a hitel tőkerészét.",
+                true
+            ],
+            [
+                "A bank felé nem történik konkrét kifizetés, csak a biztosítás lejáratakor egyösszegben esedékes a teljes hitel és annak kamatai."
+            ],
+            [
+                "A bank helyett biztosítótársaság nyújtja a hitelt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Életbiztosítással kombinált jelzáloghitel esetén miről szól a bank és a biztosító közötti megállapodás?",
+        "Válaszok": [
+            [
+                "Az ügyfélnek nem kell fizetnie hitele kamatát, csak a tőkét."
+            ],
+            [
+                "Az ügyfélnek nem kell fizetnie hitelének tőkerészét a bank felé, csak a kamatot, illetve a kezelési költséget. Az ügyfél a tőketörlesztést az életbiztosításban halmozza fel, és lejáratkor ez szolgál a hitel tőkerészének törlesztésére.",
+                true
+            ],
+            [
+                "Az ügyfélnek mind a tőkét, mind a kamatot egyösszegben kell kifizetnie."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki fekteti be az ügyfél biztosításában elhelyezett tőkét az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az ügyfél a pénzpiacon helyezi el önállóan az összeget."
+            ],
+            [
+                "A bank."
+            ],
+            [
+                "A biztosító.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi lehet az életbiztosítással kombinált jelzáloghitel fedezete az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Kizárólag tehermentes lakóingatlan."
+            ],
+            [
+                "Kizárólag lakóingatlan és nyaraló."
+            ],
+            [
+                "Tehermentes lakóingatlan, üdülő, nyaraló vagy építési telek",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mire használható fel az életbiztosítással kombinált jelzáloghitel az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Új ház, lakás építésére, vásárlására. Használt ház, lakás vásárlására. Lehetséges még szabad célú felhasználás.",
+                true
+            ],
+            [
+                "Kizárólag ház, lakás építésére, illetve vásárlására."
+            ],
+            [
+                "Kizárólag használt ház, lakás építésére, illetve vásárlására."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igénybe vehető-e életbiztosítással kombinált jelzáloghitel szabad célú felhasználásra?",
+        "Válaszok": [
+            [
+                "Igen, bizonyos ajánlatok megengedik a szabad célú felhasználást.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Csak akkor, hogy ha a hitel összege meghaladja az 50 millió forintot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igénybe vehető-e életbiztosítással kombinált jelzáloghitel ingatlanfedezet nélkül?",
+        "Válaszok": [
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Igen, amennyiben a jelzálog fedezete nagyértékű gép."
+            ],
+            [
+                "Csak akkor, hogy ha a hitel összege meghaladja az 50 millió forintot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az életbiztosítással kombinált jelzáloghitel egyik fő előnyét az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Minden esetben olcsóbb, mint a normál hitelkonstrukciók."
+            ],
+            [
+                "Kevésbé kockázatos, biztosabb hitelhez jutási lehetőséget kínál."
+            ],
+            [
+                "A befektetés hozamától függően, a biztosítónál lévő tőkerész (és hozama) a hitel kifizetése után esetlegesen extra profitot nyújthat az ügyfélnek.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen időtávra ajánlott a unit-linked életbiztosítással kombinált jelzáloghitel felvétele?",
+        "Válaszok": [
+            [
+                "Rövidtávra."
+            ],
+            [
+                "Hosszútávra.",
+                true
+            ],
+            [
+                "Rövid-, és hosszútávra."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miért leginkább hosszútávon ajánlott a unit-linked életbiztosítással kombinált jelzáloghitel felvétele?",
+        "Válaszok": [
+            [
+                "A kérdés nem helyes, alapvetően rövidtávon is jobb konstrukciók, mint a piacon lévő egyéb finanszírozási lehetőségek."
+            ],
+            [
+                "A mögöttes befektetés portfóliója, hogy megfelelő hozamot biztosítson, olyan instrumentumokból áll, amelyek hosszabb távon nyújtanak biztosabb hozamlehetőséget.",
+                true
+            ],
+            [
+                "Hosszútávú megoldásoknál jelentősen alacsonyabb a költség, mint a normál hiteleknél."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Előfordulhat-e, hogy a unit-linked életbiztosítással kombinált jelzáloghitel lejáratakor a befektetésen elért eredmény nem fedezi a bank felé fizetendő tőkerészt?",
+        "Válaszok": [
+            [
+                "Igen, előfordulhat. Ebben az esetben természetesen az ügyfélnek kell rendeznie a különbséget.",
+                true
+            ],
+            [
+                "Nem, a pénz- és tőkepiaci szituációk hosszú távon mindig növekedést tudnak a befektetőknek biztosítani."
+            ],
+            [
+                "Nem, mivel a minimális hozam garantált."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen gyakran kell a bank felé tőketörlesztést teljesíteni az életbiztosítással kombinált jelzáloghitelek esetében?",
+        "Válaszok": [
+            [
+                "A szerződéstől függ. Általában a 10., 15. és 20. évben jellemző a hátralévő tőketörlesztés időarányos visszafizetése.",
+                true
+            ],
+            [
+                "Minden esetben egyszer, a szerződés lejáratakor."
+            ],
+            [
+                "Általában havonta."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a \"halasztott tőketörlesztés\" egy életbiztosítással kombinált jelzáloghitel esetében?",
+        "Válaszok": [
+            [
+                "Minden hónap végén kell fizetni törlesztőrészletet."
+            ],
+            [
+                "Minden év végén egyszer kell fizetni egész éves tőketörlesztést."
+            ],
+            [
+                "A tőketörlesztés vagy egyösszegben a futamidő végén, vagy a futamidő alatt három-négy alkalommal történik. Ezeket a befizetéseket a hitel mellett futó befektetés és annak hozama biztosíthatja.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a cél egy életbiztosítással kombinált jelzáloghitel esetében?",
+        "Válaszok": [
+            [
+                "Olcsóbb legyen, mint a normál hitel."
+            ],
+            [
+                "Kevesebb tőketörlesztést kelljen visszafizetni."
+            ],
+            [
+                "A hitel kamatánál nagyobb hozamot adó befektetésből finanszírozzuk a tőketörlesztést, így a hitel kifizetése után akár profitra is szert tehet a hitelfelvevő.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik változó nem lehet negatív hatással a kombinált hitel eredményességére?",
+        "Válaszok": [
+            [
+                "A rossz hitelkonstrukció."
+            ],
+            [
+                "A rosszul választott mögöttes befektetés."
+            ],
+            [
+                "A halasztott tőketörlesztés.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az életbiztosítással kombinált jelzáloghitelről az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A hitelfelvevő csak a kamatokat és a kezelési költséget fizeti a banknak.",
+                true
+            ],
+            [
+                "A hitelfelvevő csak a tőkerészleteket fizeti a banknak."
+            ],
+            [
+                "A hitelfelvevő a kombinált hitelek esetében is havonta fizeti mind a kamatot, mind a tőkerészletet. A különbség nem ebből adódik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az életbiztosítással kombinált jelzáloghitelről az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az optimális eset, ha a befektetésen elért hozam magasabb, mint a hitel kamata.",
+                true
+            ],
+            [
+                "Az optimális eset, ha a befektetésen elért hozam egyenlő a hitel kamatával."
+            ],
+            [
+                "A mögöttes befektetésen elért hozam mindig alacsonyabb, mint az adott hitel kamata."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Garantált-e, hogy a unit-linked  életbiztosítással kombinált jelzáloghitel mögöttes befektetése magasabb hozamot ér el, mint a hitel kamata?",
+        "Válaszok": [
+            [
+                "Igen, minden kombinált jelzáloghitel esetében hozamgarancia van."
+            ],
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Igen, minden kombinált jelzáloghitel esetében tőkegarancia van."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítás az életbiztosítással kombinált jelzáloghitelről az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Kombinált hitelek esetében garantált, hogy a befektetés hozama magasabb lesz, mint a hitel kamata."
+            ],
+            [
+                "Az életbiztosítással kombinált jelzáloghitel konstrukciója leginkább arra alkalmas, hogy az ügyfél likviditási célú hitelhez jusson."
+            ],
+            [
+                "Az életbiztosítással kombinált jelzáloghitel célja, hogy az ügyfél magasabb befektetési hozamot érjen el annál, ami a felvett hitel kamata.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az életbiztosítással kombinált jelzáloghitelről az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az életbiztosítási és a jelzáloghitel szerződések összekapcsolása esetén, bár kezdő időpontjuk lehet eltérő is, lejárati időpontjuk megegyezik, vagy legalábbis a biztosítás tartama értelemszerűen nem lehet rövidebb (nem járhat le korábban), mint a hitelé.",
+                true
+            ],
+            [
+                "Lakáshitel- és életbiztosítási szerződés megkötésére kizárólag egyidejűleg kerülhet sor."
+            ],
+            [
+                "Fedezeti jellegű életbiztosításához az ügyfél kizárólag később vehet fel hitelt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi történik abban az esetben, ha az életbiztosítással kombinált jelzáloghitelhez kapcsolódó biztosítás már megköttetett, de a hitelt nem folyósítja a bank?",
+        "Válaszok": [
+            [
+                "Mivel alapvetően különálló termékek, az ügyfél nem mondhatja fel a biztosítást."
+            ],
+            [
+                "Mivel alapvetően különálló termékek, az ügyfél a szerződési feltételekben foglaltak szerint mondhatja fel a szerződést. A biztosítótól ezekben az esetekben elvárt, hogy a befizetett biztosítási díjak, az esetleges költségek levonását követően kerüljenek az ügyfél részére visszafizetésre.",
+                true
+            ],
+            [
+                "A biztosítás nem mondható fel, kötelező várni jobb ügyfélminősítésre az adott banknál, amely után a hitelt megkapja az ügyfél."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi történik, ha az életbiztosítással kombinált jelzáloghitel esetében a biztosítást felmondja az ügyfél?",
+        "Válaszok": [
+            [
+                "Nem történik különleges esemény, az ügyfél visszakapja a biztosításban már elhelyezett összegét."
+            ],
+            [
+                "Problémás helyzet, mivel minél előbb mondja fel az ügyfél a szerződést, annál kevesebb pénzt fog visszafizetni a biztosító a befizetett díjhoz képest.",
+                true
+            ],
+            [
+                "A befizetett díjak teljes összegét a hitel törlesztésére utalja át a biztosító."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Miért fizet vissza alacsonyabb összeget a biztosító a szerződés lejárat előtti felmondása esetén?",
+        "Válaszok": [
+            [
+                "Nem helyes az állítás, a modern biztosítási szerződések felmondása nem jár együtt a tőke csökkenésével."
+            ],
+            [
+                "A biztosító előre levonja például a különböző kezelési költségeket, amelyektől a szerződés felmondása miatt elesne.",
+                true
+            ],
+            [
+                "A biztosítás évében becsült infláció mértékétől függ, hogy mennyivel csökkentik a tőke összegét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kombinálható-e életbiztosítással jelzálog alapú szabad felhasználású kölcsön illetve lakáscélú kölcsön?",
+        "Válaszok": [
+            [
+                "Igen, mind a kettő kombinálható életbiztosítással.",
+                true
+            ],
+            [
+                "Kizárólag szabad felhasználású, jelzálog alapú kölcsön kombinálható életbiztosítással."
+            ],
+            [
+                "Kizárólag lakáscélú kölcsön kombinálható életbiztosítással."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Életbiztosítással kombinált hitel esetében ki lehet a szerződő fél az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az adós.",
+                true
+            ],
+            [
+                "Nincs előírás."
+            ],
+            [
+                "A banknál számlát vezető ügyfél."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki az életbiztosítással kombinált jelzáloghitel biztosításának elsődleges kedvezményezettje az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Akit szabadon megjelölt a szerződő."
+            ],
+            [
+                "A biztosított."
+            ],
+            [
+                "Hitelfedezeti záradék miatt a bank.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora általában az életbiztosítással kombinált jelzáloghitel biztosításának betegségből adódó haláleseti összege?",
+        "Válaszok": [
+            [
+                "Az előre kalkulált felhalmozható tőke nagysága, de minimum 10 millió forint."
+            ],
+            [
+                "A szerződési feltételek szerinti haláleseti szolgáltatási összeg.",
+                true
+            ],
+            [
+                "15 millió forint."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mivel kell számolni a unit-linked életbiztosítással kombinált jelzáloghitel esetén az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Mivel a befektetés az ügyfél által választott eszközalapokba, jellemzően az ügyfél kockázatára történik, a lejárati biztosítási összeg a kötéskor előre nem határozható meg.",
+                true
+            ],
+            [
+                "Olcsóbb lesz, mint a normál hitel."
+            ],
+            [
+                "Kevesebb költségtétel fog felmerülni, mint normál jelzáloghitel esetén."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Elérhet-e többlethozamot a hitelfelvevő életbiztosítással kombinált jelzáloghitel esetében?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, kizárólag a hitel összege lehet a maximális hozam."
+            ],
+            [
+                "Nem, amennyiben a hitel tőkerészének befektetésen elért összege megvalósul, a konstrukció azonnali hatállyal hatályát veszti."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A jelzáloghitel unit-linked életbiztosítással együtt való felvétele jár-e többletkockázatokkal a hagyományos életbiztosítással kombinált jelzáloghitelek felvételéhez képest?",
+        "Válaszok": [
+            [
+                "A hagyományos életbiztosítással kombinált jelzáloghitelekhez képest a unit-linked életbiztosítással kombinált jelzáloghitel sem jár lényegében többletkockázati elemekkel."
+            ],
+            [
+                "Tőke- és hozamgarancia hiányában a unit-linked életbiztosítással kombinált jelzáloghitel esetében a befektetés kockázatát főszabályként az ügyfél viseli.",
+                true
+            ],
+            [
+                "A kérdés helytelen, hiszen a hagyományos életbiztosítással kombinált jelzáloghitelek nagyobb kockázatot hordoznak magukban."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a lakáshitelekkel kombinálható életbiztosításokra vonatkozó helyes állítást!",
+        "Válaszok": [
+            [
+                "Jelzáloghitel csak tisztán fedezeti jellegű életbiztosítással kombinálható."
+            ],
+            [
+                "Jelzáloghitel csak megtakarítási jellegű életbiztosítással kombinálható."
+            ],
+            [
+                "A kockázati és megtakarítási elemet is tartalmazó életbiztosítások kombinálása jelzáloghitelekkel széles körben elterjedt.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a pénzügyi lízinggel kapcsolatos helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Tárgya dolog vagy jog.",
+                true
+            ],
+            [
+                "A lízing során a lízingbeadó könyveiben kerül kimutatásra a lízingtárgy."
+            ],
+            [
+                "A lízingbeadó jogosult a lízingtárgyból származó hasznok szedésére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szerezhet-e a lízingbevevő tulajdonjogot a lízingelt ingatlan felett (pénzügyi lízing)?",
+        "Válaszok": [
+            [
+                "Nem, kizárólag a lízing alatti, ingatlanból származó hasznok szedésére jogosult."
+            ],
+            [
+                "Nem, kizárólag operatív lízing esetében szerezhet."
+            ],
+            [
+                "Igen.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit jelent a lízingdíj tőkerésze?",
+        "Válaszok": [
+            [
+                "A havonta fizetendő összeget."
+            ],
+            [
+                "A lízingbe adott ingatlan, ingó dolog, valamint jog szerződés szerinti értékét.",
+                true
+            ],
+            [
+                "A teljes visszafizetendő összeget abban az esetben, ha a lízingbe vevő a tulajdonjogot is meg kívánja szerezni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen típusai vannak a pénzügyi lízingnek az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Pénzügyi és operatív lízing."
+            ],
+            [
+                "Zártvégű és nyíltvégű.",
+                true
+            ],
+            [
+                "Operatív lízing és tartós bérlet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül zártvégű pénzügyi lízing esetén?",
+        "Válaszok": [
+            [
+                "A lízingbevevőnek a lízing kezdetekor meg kell fizetnie a teljes tőkeértékre jutó ÁFA összegét. (Ezt a későbbiekben visszaigényelheti.)",
+                true
+            ],
+            [
+                "Olyan lízingbevevőnek ajánlott, aki nem tud áfát visszaigényelni."
+            ],
+            [
+                "Olyan lízingbevevőnek ajánlott, aki nem biztos abban, hogy akar-e tulajdonjogot szerezni a lízingtárgyon."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül nyíltvégű lízing esetén?",
+        "Válaszok": [
+            [
+                "A lízingbevevőnek a lízing kezdetekor meg kell fizetnie a teljes tőkeértékre jutó ÁFA összegét. (Ezt a későbbiekben visszaigényelheti.)"
+            ],
+            [
+                "Olyan lízingbevevőnek ajánlott, aki a futamidő végén nem biztos, hogy tulajdonjogot akar szerezni.",
+                true
+            ],
+            [
+                "Olyan lízingbevevőnek ajánlott, aki biztos abban, hogy  a lízingtárgyon tulajdonjogot akar szerezni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit fizet (pl. havonta) a lízingbevevő nyíltvégű pénzügyi lízing esetén?",
+        "Válaszok": [
+            [
+                "Tőketörlesztést + kamatot."
+            ],
+            [
+                "Tőketörlesztést + ÁFA-t."
+            ],
+            [
+                "Tőketörlesztést + kamatot + tőketörlesztés ÁFÁ-ját.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a pénzügyi lízingről?",
+        "Válaszok": [
+            [
+                "A pénzügyi lízing általában éven belüli szerződés."
+            ],
+            [
+                "A pénzügyi lízing határozatlan idejű szerződés."
+            ],
+            [
+                "A pénzügyi lízing általában éven túli, határozott idejű szerződés.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás igaz a pénzügyi lízingről? Nyílt végű pénzügyi lízing esetén a tulajdonjog",
+        "Válaszok": [
+            [
+                "automatikusan a lízingbevevő részére száll át."
+            ],
+            [
+                "a szerződés teljesítése után a lízingbeadónál marad."
+            ],
+            [
+                "a szerződés teljesítése után a lízingbevevő döntése alapján rá, vagy az általa kijelölt személyre szállhat át vagy a lízingbeadónál maradhat.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki jogosult pénzügyi lízing szolgáltatás nyújtására az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Bárki, aki a bérbeadást felvette a tevékenységi körébe."
+            ],
+            [
+                "Magánszemélyek és bankok."
+            ],
+            [
+                "Hitelintézet vagy pénzügyi vállalkozás, amely ennek a tevékenységnek a végzésére felügyeleti hatóság által kiadott engedéllyel rendelkezik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a pénzügyi lízinggel kapcsolatos helytelen állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A lízing felmondható."
+            ],
+            [
+                "A lízing valós maradványértékének ingadozásából származó nyereség (veszteség) a lízingbevevőt illeti meg (terheli)."
+            ],
+            [
+                "A lejáratot követően a lízingbevevő nem köthet újabb lízingszerződést.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a pénzügyi lízinggel kapcsolatos helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A lízing nem mondható fel."
+            ],
+            [
+                "A lízing valós maradványértékének ingadozásából származó nyereség (veszteség) a lízingbeadót illeti meg (terheli)."
+            ],
+            [
+                "A lízingbevevő folytathatja a lízinget a futamidő lejárata után.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül az állítás helyes befejezését! A pénzügyi lízing az a tevékenység, amelynek során a lízingbeadó a tulajdonában lévő ingatlant vagy ingó dolgot, illetve vagyoni értékű jogot a lízingbevevő határozott idejű használatába adja oly módon, hogy a használatba adással",
+        "Válaszok": [
+            [
+                "a lízingbevevő jogosultságot a hasznok szedésére szerez azzal, hogy a kárveszély átszállásából származó kockázatot és a közvetlen terheket a lízingbeadó viseli."
+            ],
+            [
+                "a lízingbevevő jogosultságot szerez a hasznok szedésére és arra, hogy a szerződésben kikötött időtartam lejártával a dolgon ő vagy az általa megjelölt személy tulajdonjogot szerezzen, azzal, hogy a kárveszély átszállásából származó kockázatot és a közvetlen terheket is végig ő viseli.",
+                true
+            ],
+            [
+                "a lízingbevevő jogosultságot szerez a hasznok szedésére, azzal, hogy a kárveszély átszállásából származó kockázatot és a közvetlen terheket is ő viseli és a szerződésben kikötött időtartam lejártával a lízing tárgya mindig visszakerül a lízingbeadó birtokába."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kinek ajánlható az operatív lízing az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az eszközt a lízing után megtartani kívánó felhasználónak."
+            ],
+            [
+                "Az eszközt később lecserélni kívánó felhasználónak.",
+                true
+            ],
+            [
+                "Annak, aki pénzügyi lízinget igényel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki az operatív lízingelt eszköz tulajdonosa?",
+        "Válaszok": [
+            [
+                "A lízingbeadó (bérbeadó).",
+                true
+            ],
+            [
+                "A lízingbevevő (bérlő)."
+            ],
+            [
+                "A lízingbevevő (bérlő) és a lízingbeadó (bérbeadó) 50-50%-ban."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki az operatív lízingelt eszköz haszonélvezője?",
+        "Válaszok": [
+            [
+                "A lízingbeadó (bérbeadó)."
+            ],
+            [
+                "A lízingbevevő (bérlő).",
+                true
+            ],
+            [
+                "A lízingbevevő (bérlő) és a lízingbeadó (bérbeadó) 50-50%-ban."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül az operatív lízingről?",
+        "Válaszok": [
+            [
+                "Az operatív lízing általában éven belüli szerződés."
+            ],
+            [
+                "Az operatív lízing határozatlan idejű szerződés."
+            ],
+            [
+                "Az operatív lízing általában éven túli, határozott idejű szerződés.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit fizet (pl. havonta) a lízingbevevő operatív lízing esetén?",
+        "Válaszok": [
+            [
+                "Tőketörlesztést + kamatot."
+            ],
+            [
+                "Tőketörlesztést + ÁFA-t."
+            ],
+            [
+                "Bérleti díjat + ÁFA-t.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan történik az ÁFA megfizetése operatív lízing esetében?",
+        "Válaszok": [
+            [
+                "A szerződés megkötésekor egy összegben."
+            ],
+            [
+                "Az operatív lízingnek nincs ÁFA tartalma."
+            ],
+            [
+                "Esedékességkor a nettó bérleti díjra kerül felszámolásra az ÁFA, és ebben a formában kell megfizetni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki jogosult operatív lízing szolgáltatás nyújtására?",
+        "Válaszok": [
+            [
+                "Bárki, aki a bérbeadást, kölcsönzést felvette a tevékenységi körébe.",
+                true
+            ],
+            [
+                "Magánszemélyek és bankok."
+            ],
+            [
+                "Kizárólag pénzügyi intézmények."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a fő eltérés a pénzügyi és operatív lízing között?",
+        "Válaszok": [
+            [
+                "Nincs eltérés."
+            ],
+            [
+                "Operatív lízing esetében a lízingbeadó az eszköz tulajdonosa."
+            ],
+            [
+                "Az operatív lízing (tartós bérlet) egy bérleti szerződés, a pénzügyi lízing pedig hitelszerződésként fogható fel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Operatív lízing esetén vissza kell-e szolgáltatnia a lízingbevevőnek a lízingelt eszközt a futamidő végén?",
+        "Válaszok": [
+            [
+                "Igen, minden esetben, ez az operatív lízing lényege. De van lehetőség a futamidő hosszabbítására is.",
+                true
+            ],
+            [
+                "Nem, meg is hosszabbíthatja a futamidőt, és meg kell vásárolnia a futamidő végén a lízingelt eszközt."
+            ],
+            [
+                "Nem, maradványértéken meg kell vásárolnia azt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az operatív lízingre igaz állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Operatív lízing esetén a lízingbevevő a lízingdíj teljes összegét a számviteli előírások szerint költségként elszámolhatja.",
+                true
+            ],
+            [
+                "Operatív lízing esetén a lízingbevevő a lízingdíj összegét a számviteli előírások szerint nem számolhatja el költségként."
+            ],
+            [
+                "Operatív lízing esetén a lízingbevevő a lízingdíjat a számviteli előírások szerint költségként számolhatja el, az értékcsökkenés leírása után."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a gépjárműlízingre vonatkozó helyes állítást!",
+        "Válaszok": [
+            [
+                "Kizárólag haszongépjárművekre kötött operatív lízing keretében történik a finanszírozás."
+            ],
+            [
+                "A futamidő végéig a lízingbeadó a tulajdonos, így például a gépjármű nem árverezhető el a lízingbevevő más tartozása fejében.",
+                true
+            ],
+            [
+                "A bérlő a szerződés lejáratát követően nem szerez tulajdonjogot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Finanszírozható-e új haszongépjármű gépjárműlízing keretében?",
+        "Válaszok": [
+            [
+                "Igen, új és használt haszongépjármű egyaránt lízingelhető.",
+                true
+            ],
+            [
+                "Nem, kizárólag használt gépjármű lízingelhető."
+            ],
+            [
+                "Nem, kizárólag személygépkocsi lízingelhető."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a gazdasági recesszió egyik fő hatása a gépjárműfinanszírozási szektorra?",
+        "Válaszok": [
+            [
+                "Nem volt hatása a konkrét finanszírozási termékekre. A gépjármű értékesítések visszaestek, de a hozzájuk kapcsolódó pénzügyi szolgáltatások nem."
+            ],
+            [
+                "A hitelfelvételi hajlandóság általános csökkenése folytán drasztikusan csökkent a gépjárműfinanszírozás iránti igény."
+            ],
+            [
+                "Kedvezőbb feltételű és könnyebben megszerezhető finanszírozási alternatívák jelennek meg.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Függ-e a maximális finanszírozás mértéke gépjárművek esetében attól, hogy hitel vagy pénzügyi lízing szerződést kíván-e kötni az ügyfél?",
+        "Válaszok": [
+            [
+                "Igen, pénzügyi lízing igénybevétele esetén jellemzően magasabb önerő szükséges."
+            ],
+            [
+                "Igen, a pénzügyi lízing esetében a gépjármű piaci értékéhez viszonyítva  magasabb finanszírozás vehető igénybe, mint hitel esetében.",
+                true
+            ],
+            [
+                "Nem."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hol kötheti meg az ügyfél a gépjárműlízing-szerződést?",
+        "Válaszok": [
+            [
+                "Kizárólag a finanszírozónál."
+            ],
+            [
+                "Kizárólag a kereskedőnél."
+            ],
+            [
+                "Általában a gépjárműlízing szerződés a kereskedőnél is megköthető, valamint a finanszírozónál is.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e, hogy kisteherautókra, illetve nehézgépjárművekre nem létezik gépjárműlízing lehetőség?",
+        "Válaszok": [
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Részben. Kisteherautók lízingelése megoldható, nehézgépjárműveké azonban nem."
+            ],
+            [
+                "Igen."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a gépjárműlízing egyik fő sajátossága?",
+        "Válaszok": [
+            [
+                "Már a szerződés alatt is a lízingbevevő az elsődleges tulajdonos."
+            ],
+            [
+                "A futamidő végéig a lízingbeadó a tulajdonos, de a lízingbevevő viseli a gépjárművel kapcsolatos kockázatokat, és szedi az abból származó hasznokat.",
+                true
+            ],
+            [
+                "A lízingszerződés alatt és után a tulajdonos a lízingbeadó."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A gyakorlatban mi a gépjárműlízing folyamatának elsődleges lépése?",
+        "Válaszok": [
+            [
+                "Előszerződés megkötése arról, hogy a két fél között lízingszerződés kötése fog történni."
+            ],
+            [
+                "A gépjármű kiválasztása, új gépjárműnél megrendelése, finanszírozó választása.",
+                true
+            ],
+            [
+                "A konkrét lízingszerződés megkötése."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a gépjárműlízingre vonatkozó helyes állítást!",
+        "Válaszok": [
+            [
+                "A tulajdonjog minden esetben átszáll a lízingbevevőre."
+            ],
+            [
+                "A lízingbevevő szintén kapcsolatba kerülhet a márkakereskedővel.",
+                true
+            ],
+            [
+                "Általában operatív gépjárműlízingről kötnek szerződést, a casco biztosítást nem szokták javasolni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Pénzügyi gépjárműlízing esetén kinél van a gépjármű törzskönyve a szerződés alatt?",
+        "Válaszok": [
+            [
+                "A lízingbeadónál.",
+                true
+            ],
+            [
+                "A lízingbevevőnél."
+            ],
+            [
+                "A márkakereskedőnél."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást! (eszközlízing)",
+        "Válaszok": [
+            [
+                "Kizárólag új eszközök (pl. gépek) lízingje lehetséges."
+            ],
+            [
+                "Kizárólag használt eszközök (pl. gépek) lízingje lehetséges."
+            ],
+            [
+                "Új és használt eszközökre (pl. gépek) egyaránt lehetséges lízingszerződést kötni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Egyedi elbírálás mellett megvalósulhat-e olyan eszköz lízingje, amely nem szerepel a lízinggel foglalkozó finanszírozó termékkínálatában?",
+        "Válaszok": [
+            [
+                "Igen, megvalósulhat, amennyiben az ügyfél az egyedi elbírálási folyamat során elfogadja a feltételeket.",
+                true
+            ],
+            [
+                "Nem. A lízingcégek specializáltságuk miatt kizárólag az adott eszköztípusokkal foglalkoznak."
+            ],
+            [
+                "Igen, azonnal, egyedi elbírálásra sincs szükség."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e például építőipari eszközöket és orvosi műszereket lízingelni?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Részben. Építőipari eszközöket lehet lízingelni, azonban orvosi műszereket, humán-egészségügyi eszközöket nem lehet lízingszerződés alá vonni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az eszközlízing fő előnye?",
+        "Válaszok": [
+            [
+                "Nagyon olcsó finanszírozási lehetőség."
+            ],
+            [
+                "Nagy összegű indulóköltség nélkül teszi lehetővé nagyértékű eszközök használatát.",
+                true
+            ],
+            [
+                "Minden esetben lehetséges nulla százalékos önerő."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az eszközlízinggel kapcsolatos helyes állítást!",
+        "Válaszok": [
+            [
+                "100%-os finanszírozás nem lehetséges."
+            ],
+            [
+                "Soha nem termelhetők ki a lízingdíjak a lízingtárgy üzemeltetésével"
+            ],
+            [
+                "Az indulóköltségek és az időközben felmerülő költségek nagy valószínűséggel alacsonyabbak, mint a hitelkonstrukciók esetében.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükséges-e a lízingelt eszközökre biztosítást kötni?",
+        "Válaszok": [
+            [
+                "Nem, mivel a lízing lényege, hogy az esetleges bekövetkezett károkért a lízingbeadó felel."
+            ],
+            [
+                "Igen, vagy a lízingdíj tartalmazza a megfelelő biztosítások díját, így a lízingbevevőnek külön nem kell a biztosítással foglalkoznia, vagy szerződéses kikötés, hogy a lízingbevevő kösse meg azokat.",
+                true
+            ],
+            [
+                "Igen, a biztosítás megkötése minden esetben kötelező a lízingbevevő számára, és a biztosítási díj a lízingdíjba nem építhető be."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen eszközlízing típust kell választani, ha tulajdonjogot kíván szerezni a lízingbevevő?",
+        "Válaszok": [
+            [
+                "Zártvégű pénzügyi lízingnél biztos, nyíltvégűnél a lízingbevevővel kötött megállapodás alapján megszerezhető a tulajdonjog.",
+                true
+            ],
+            [
+                "Nyíltvégű pénzügyi lízing."
+            ],
+            [
+                "Operatív lízing."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást! (eszközlízing)",
+        "Válaszok": [
+            [
+                "Az eszközlízing új és használt gépek, eszközök finanszírozására is felhasználható.",
+                true
+            ],
+            [
+                "Csak olyan eszközöket lehet lízingelni, amelyek piaci értéke állandó."
+            ],
+            [
+                "Építőipari eszközök lízingje nem lehetséges."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Aki nem kíván tulajdonjogot szerezni, vagy nem biztos benne, milyen eszközlízing típust választhat?",
+        "Válaszok": [
+            [
+                "Zártvégű pénzügyi lízinget és nyíltvégű pénzügyi lízinget."
+            ],
+            [
+                "Nyíltvégű pénzügyi lízinget és bérleti szerződést.",
+                true
+            ],
+            [
+                "Zártvégű pénzügyi lízinget és bérleti szerződést."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik esetben fizet bérleti díjat a lízingbevevő a futamidő alatt?",
+        "Válaszok": [
+            [
+                "Nyíltvégű pénzügyi lízing."
+            ],
+            [
+                "Operatív lízing.",
+                true
+            ],
+            [
+                "Zártvégű pénzügyi lízing."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Nyílt végű pénzügyi lízing esetén melyik fél tartja nyilván a lízingelt eszközt a szerződés futamideje alatt?",
+        "Válaszok": [
+            [
+                "Lízingbeadó."
+            ],
+            [
+                "Lízingbevevő.",
+                true
+            ],
+            [
+                "Akitől a lízingbeadó megvette az eszközt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Zárt végű pénzügyi lízing esetén melyik fél tartja nyilván a lízingelt eszközt a szerződés futamideje alatt?",
+        "Válaszok": [
+            [
+                "Lízingbeadó."
+            ],
+            [
+                "Lízingbevevő.",
+                true
+            ],
+            [
+                "Akitől a lízingbeadó megvette az eszközt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Operatív lízing esetén melyik fél tartja nyilván a lízingelt eszközt a szerződés futamideje alatt?",
+        "Válaszok": [
+            [
+                "Lízingbeadó.",
+                true
+            ],
+            [
+                "Lízingbevevő."
+            ],
+            [
+                "Akitől a lízingbeadó megvette az eszközt."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást!",
+        "Válaszok": [
+            [
+                "Ingatlan lízing kizárólag kereskedelmi és ipari jellegű ingatlanok finanszírozásában játszik szerepet."
+            ],
+            [
+                "Létezik lakáscélú ingatlan lízing is.",
+                true
+            ],
+            [
+                "A lakáscélú ingatlan lízing még egyenlőre a tervezési fázisban halad az Európai Unióban."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ingatlanlízing esetén a lízingbevevő:",
+        "Válaszok": [
+            [
+                "a lízingbeadó hozzájárulásával bérbe is adhatja az ingatlant.",
+                true
+            ],
+            [
+                "értékesítheti az ingatlant."
+            ],
+            [
+                "előtörlesztéssel nem élhet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora lehet az ingatlanlízing maximális futamideje?",
+        "Válaszok": [
+            [
+                "Jogszabályban számszerűsítve 35 év."
+            ],
+            [
+                "Jogszabályban konkrétan, számszerűen nincs meghatározva. Jellemzően 25 év.",
+                true
+            ],
+            [
+                "Jogszabályban konkrétan, számszerűen nincs meghatározva. Jellemzően 5 év."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az ingatlanlízing egyik előnye a hitelkonstrukciókkal szemben az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Kisebb önerő mellett lehet (akár befektetési céllal is) ingatlanhoz jutni.",
+                true
+            ],
+            [
+                "Hosszabb futamidőt biztosít."
+            ],
+            [
+                "Magasabb állami támogatást élveznek a lízingszerződések."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbi állítások közül válassza ki az ingatlanlízing esetén igaz állítást!",
+        "Válaszok": [
+            [
+                "A lízingbevevő a lízingbeadó hozzájárulásával bérbe is adhatja az ingatlant.",
+                true
+            ],
+            [
+                "Az ingatlanlízing segítségével csak nagyobb önerő mellett lehet ingatlanhoz jutni."
+            ],
+            [
+                "Ingatlan lízingje kizárólag pénzügyi lízing lehet, operatív lízing nem."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kinek illetve milyen esetben ajánlott az ingatlanlízing igénybevétele?",
+        "Válaszok": [
+            [
+                "Nagy értékű ingatlanok finanszírozásához."
+            ],
+            [
+                "Alacsony önerővel rendelkező magánszemélyeknek.",
+                true
+            ],
+            [
+                "Annak, aki alacsonyabb induló költségeket szeretne, mint hitel esetében."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen előnye van ingatlanok esetében a lízingnek a hitellel szemben a finanszírozó számára?",
+        "Válaszok": [
+            [
+                "A finanszírozó számára biztonságosabb, mert a futamidő végéig a tulajdonában marad az eszköz.",
+                true
+            ],
+            [
+                "Hosszabb futamidőt biztosít."
+            ],
+            [
+                "Rövidebb futamidőt biztosít."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a hamis állítást a fogyasztói ingatlanlízíngről az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Szükséges jövedelemigazolás."
+            ],
+            [
+                "A lízingbevevőt azonosítani kell."
+            ],
+            [
+                "Lízingbevevő aktuális és várható jövedelemi helyzete a lízingdíjfizetés garanciája.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Nem fogyasztói ingatlanlízing szolgáltatások leggyakrabban milyen fő devizákban érhetőek el?",
+        "Válaszok": [
+            [
+                "HUF, JPY, USD."
+            ],
+            [
+                "HUF, CHF, EUR.",
+                true
+            ],
+            [
+                "HUF, EUR."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az ingatlan lízinggel kapcsolatos helytelen megállapítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Nincs előtörlesztési lehetőség.",
+                true
+            ],
+            [
+                "Meg kell fizetni a vagyonszerzési illetéket."
+            ],
+            [
+                "Közjegyzői díjat kell fizetni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Épület lízingje lehet az alábbiak közül",
+        "Válaszok": [
+            [
+                "az operatív lízing"
+            ],
+            [
+                "a pénzügyi lízing."
+            ],
+            [
+                "a pénzügyi és operatív lízing közül bármelyik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül az ingatlanlízingre vonatkozó hamis állítást!",
+        "Válaszok": [
+            [
+                "Devizában is elérhető, tehát euróban (EUR), illetve svájci frankban (CHF) is igénybe vehető."
+            ],
+            [
+                "Ingatlanlízing esetén a forint finanszírozásnál ugyanakkora arányban terhelhető meg az ingatlan, mint jelzáloghitel esetén.",
+                true
+            ],
+            [
+                "Ingatlanlízing esetében hosszú, akár évtizedekre szóló maximális futamidőkkel kell számolnia az igénylőnek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A magyarországi szolgáltatók a tartós bérletet és az operatív lízinget gyakran szinonim fogalmakként használják.",
+                true
+            ],
+            [
+                "A magyarországi szolgáltatók a tartós bérletet és a pénzügyi lízinget gyakran szinonim fogalmakként használják."
+            ],
+            [
+                "A magyarországi szolgáltatók a tartós bérletet és a gépjárműlízinget gyakran szinonim fogalmakként használják."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen lízingtípussal szokás azonosítani a tartós bérletet?",
+        "Válaszok": [
+            [
+                "Nyíltvégű pénzügyi lízing."
+            ],
+            [
+                "Zártvégű pénzügyi lízing."
+            ],
+            [
+                "Operatív lízing.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül a gépjármű tartós bérletéről?",
+        "Válaszok": [
+            [
+                "Olyan gépjármű finanszírozási forma, amelyben a bérbeadó látja el a beszerzéssel és az üzemeltetéssel kapcsolatos feladatokat.",
+                true
+            ],
+            [
+                "Olyan gépjármű finanszírozási forma, amely hosszú távú (5 éven túli) forrást biztosít a bérbevevőnek."
+            ],
+            [
+                "Olyan gépjármű finanszírozási forma, amellyel kizárólag haszongépjárművek üzemben tartása finanszírozható."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás helytelen a flottalízingről?",
+        "Válaszok": [
+            [
+                "A flottakezelési szolgáltatás kizárólag a gépjárművek (tartós bérleti konstrukcióban történő) finanszírozását foglalja magában.",
+                true
+            ],
+            [
+                "A flottakezelési szolgáltatás magába foglalhatja a finanszírozást, a biztosítást, illetve bármilyen üzemeltetéssel kapcsolatos vagy egyéb szolgáltatást is."
+            ],
+            [
+                "A flottakezelési szolgáltatás üzemeltetéssel kapcsolatos szolgáltatásokat is magában foglalhat."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Milyen egyéb szolgáltatás kapcsolódhat az autópark-finanszírozáshoz?",
+        "Válaszok": [
+            [
+                "Biztosítás, „full-service”, csereautó, illetve bérautó, üzemanyag kártya.",
+                true
+            ],
+            [
+                "Kizárólag a klasszikus bérautó szolgáltatás."
+            ],
+            [
+                "Kizárólag a szerviz csereautó szolgáltatás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit takar a „full service” szolgáltatással egybekötött gépjármű tartós bérleti konstrukció?",
+        "Válaszok": [
+            [
+                "Az alapvető javítási-, karbantartási munkálatok a bérbeadó szakszervizében kerülnek végrehajtásra, melynek költsége a bérleti díjakkal egy számlán fizetendő.",
+                true
+            ],
+            [
+                "A bérbevevő előre tudja tervezni a szolgáltatásért fizetendő díjakat."
+            ],
+            [
+                "A finanszírozáshoz biztosítás és kárügyintézés kapcsolódik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az autópark finanszírozásról?",
+        "Válaszok": [
+            [
+                "Tartós bérlet (vagy operatív lízing), amelyben a bérbeadó látja el a beszerzéssel és az üzemeltetéssel kapcsolatos feladatokat.",
+                true
+            ],
+            [
+                "A tartós bérleti finanszírozás hosszú távú (5 éven túli) forrást biztosít a bérbevevőnek."
+            ],
+            [
+                "Ennek keretében kizárólag haszongépjárművek üzemben tartása finanszírozható."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Finanszírozhatók-e személygépjárművek flottalízing keretében?",
+        "Válaszok": [
+            [
+                "Kizárólag pénzügyi lízinggel."
+            ],
+            [
+                "Kizárólag rövid távú (egy napos, vagy egy hetes) bérleti konstrukcióban."
+            ],
+            [
+                "Igen.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A személyi hitel a fedezetlen hitelek kategóriájába sorolható-e?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Igen, feltéve, hogy kezesség áll mögötte."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik hiteltermék definíciója a következő: „A bank a hitelkerethez a világ bármely pontján használható dombornyomott kártyát biztosít, mellyel belföldön és külföldön díjmentesen lehet vásárolni.”?",
+        "Válaszok": [
+            [
+                "Diákhitel."
+            ],
+            [
+                "Hitelkártya.",
+                true
+            ],
+            [
+                "Folyószámlahitel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a hamis állítást az alábbiak közül a diákhitelről! A diákhitel általános jellemzője, hogy",
+        "Válaszok": [
+            [
+                "nem biztosítja a jövedelemarányos törlesztés lehetőségét.",
+                true
+            ],
+            [
+                "korlátlan előtörlesztést biztosít."
+            ],
+            [
+                "szabadon alakítható a futamidő."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás nem vonatkozik az államilag támogatott hitelekre?",
+        "Válaszok": [
+            [
+                "Kizárólag forintban nyújtható és törleszthető."
+            ],
+            [
+                "Kizárólag magyar állampolgár igényelheti.",
+                true
+            ],
+            [
+                "Célja új lakás építése, vásárlása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Családi Otthonteremtési Kedvezmény (CSOK) igénybevétele esetén, új lakás vásárlásakor és építésekor a CSOK-os ingatlanon kívül az igénylőknek lehet-e bármennyi ingatlanja?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem"
+            ],
+            [
+                "Csak az Államkincstár egyedi engedélyével."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e, hogy az életbiztosítással kombinált jelzáloghitel lényege, hogy az ügyfél havonta csak kamatot és kezelési költséget fizet a bank részére, emellett a biztosítónak biztosítási díjat fizet?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Nem, kivéve, ha a felek eredetileg így állapodtak meg."
+            ]
+        ]
+    }
+]

@@ -1,0 +1,3227 @@
+[
+    {
+        "Kérdés": "Melyik állítás nem igaz a pénzügyi piacokra?",
+        "Válaszok": [
+            [
+                "A pénzügyi piac a pénz cseréjének helyszíne, amely magában foglalja a kapcsolódó szabályozásokat és a közvetítésben részt vevő gazdasági szereplőket."
+            ],
+            [
+                "A pénzügyi piacok kizárólag az állam és a bankok részvételével áramoltatnak szabad tőkéket.",
+                true
+            ],
+            [
+                "A pénzügyi piacokat négy fő részpiac (pénzpiac, tőkepiac, pénztári és értékpapírpiac) alkotja."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Definiálja a pénzügyi piacok eszközeit!",
+        "Válaszok": [
+            [
+                "A pénzügyi piacok olyan instrumentumai, amelyek legfőbb sajátossága, hogy nem rendelkeznek használati értékkel, és fizikai megjelenésük nem befolyásolja piaci értéküket. Mint például a részvény, kötvény, váltó, állampapírok, banki hitelkonstrukciók.",
+                true
+            ],
+            [
+                "Kizárólag rövid lejáratú pénzügyi termékek, amelyek segítségével a tőke szabad áramlása biztosítható."
+            ],
+            [
+                "Alapvetően hosszú lejárattal rendelkező pénzügyi instrumentumok, amelyek közép-, és hosszú távon képesek a gazdaság stabil fenntartására."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás jellemzi legteljesebben az alábbiak közül a pénzügyi közvetítés intézményrendszerét?",
+        "Válaszok": [
+            [
+                "A tőke áramlásának biztosítása a lakossági szektor, az állam és a bankok közvetlen, valamint közvetett gazdasági kapcsolatán keresztül történik."
+            ],
+            [
+                "A gazdaság minden szereplője, tehát a vállalatok, a lakosság, az állam és a banki intézmények egyaránt részt vesznek a tőke áramlásának valamelyik szakaszában.",
+                true
+            ],
+            [
+                "A pénzügyi közvetítés a gazdaságban közvetlen módon történik, tehát a tőke közvetlenül cserél gazdát a megtakarító és a felhasználó között. Ilyen például az értékpapír közvetlen, elsődleges átadása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A pénzügyi piacokat milyen fő csoportokra (további részpiacokra) lehet tagolni?",
+        "Válaszok": [
+            [
+                "A pénzügyi piac közgazdaságtanilag a pénzpiacokat jelenti, ahol rövid-, illetve hosszú lejáratú pénzeszközök egyaránt forognak."
+            ],
+            [
+                "A pénzügyi piacok magukban foglalják a hosszú lejáratú pénzeszközök piacát (ez a tőkepiac), amely kiegészül az értékpapírpiaccal."
+            ],
+            [
+                "A pénzügyi piacok rövid lejáratú pénzeszközei a pénzpiacon, a hosszú lejáratú eszközei a tőkepiacon cserélnek gazdát. Az értékpapírpiac a kettő részpiac közös halmazaként értelmezhető.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helytelen állítást!",
+        "Válaszok": [
+            [
+                "A tőkepiacok szereplői az elérhető megtakarításokat hosszú lejáratú befektetéssé konvertálják."
+            ],
+            [
+                "A származtatott ügyletek jellemzően a tőkepiacon fordulnak elő."
+            ],
+            [
+                "Átmeneti likviditáshiányt tőkepiaci eszközökkel lehet megszüntetni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Döntse el, az alábbi állítások közül melyik helyes!",
+        "Válaszok": [
+            [
+                "A hitelintézet az a pénzügyi intézmény, amely a pénzügyi szolgáltatások közül legalább betétet gyűjt (vagy más visszafizetendő pénzeszközt fogad el a nyilvánosságtól, ide nem értve a külön szabályozott nyilvános kötvénykibocsátást), valamint hitelt és pénzkölcsönt nyújt.",
+                true
+            ],
+            [
+                "A pénzügyi vállalkozások a pénzügyi szolgáltatások teljes körének elvégzésére - a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) szerint - jogosultak."
+            ],
+            [
+                "A bankok induló tőkéjének törvényben előírt minimális összege 1 milliárd forint."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) alapján az alábbiak közül melyik állítás helyes az egyes pénzügyi intézmények induló tőkéjének legkisebb összegére vonatkozóan?",
+        "Válaszok": [
+            [
+                "Bank legalább 2 milliárd forint induló tőkével alapítható.",
+                true
+            ],
+            [
+                "Szövetkezeti hitelintézet – kizárólag szövetkezeti formában –legalább 50 millió forint induló tőkével alapítható."
+            ],
+            [
+                "Minden pénzügyi vállalkozás legalább 100 millió forint induló tőkével alapítható."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás nem igaz a bankokra vonatkozóan?",
+        "Válaszok": [
+            [
+                "Kizárólag bank kaphat engedélyt a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) szerinti pénzügyi szolgáltatások teljes körének elvégzésére."
+            ],
+            [
+                "Bank legalább 2 milliárd forint induló tőkével alapítható."
+            ],
+            [
+                "A bankok jellemző intézményi formája a jelzálog-hitelintézet és a lakástakarékpénztár.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? Szakosított hitelintézetként működik",
+        "Válaszok": [
+            [
+                "a jelzálog-hitelintézet, a lakástakarékpénztár, a Magyar Fejlesztési Bank.",
+                true
+            ],
+            [
+                "a befektetési vállalkozás, a lakástakarékpénztár, a takarékszövetkezet."
+            ],
+            [
+                "a pénzügyi vállalkozás, a lakástakarékpénztár."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő állítás? A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) szerint szövetkezeti hitelintézetek kizárólag takarékszövetkezeti és hitelszövetkezeti formában működhetnek.",
+        "Válaszok": [
+            [
+                "Igen, az állítás helyes, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) ezt a két szövetkezeti formát nevesíti.",
+                true
+            ],
+            [
+                "Nem, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) alapján szövetkezeti hitelintézet lehet bank és szakosított hitelintézet is."
+            ],
+            [
+                "Nem, mert a külföldi bank magyarországi fióktelepe is ebbe a hitelintézeti formába tartozik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás nem igaz a pénzügyi vállalkozásokra az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Olyan piaci szereplő, amely a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (Hpt.) meghatározott pénzügyi szolgáltatások közül csak egyet vagy azok csak egy meghatározott körét végezheti."
+            ],
+            [
+                "Betétgyűjtési lehetőséggel igen, számlavezetéssel azonban nem állhat ügyfelei rendelkezéseire.",
+                true
+            ],
+            [
+                "A pénzügyi holding társaság és a fizetési rendszert működtető pénzügyi vállalkozás kivételével legalább 50 millió forint induló tőkével alapítható."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A pénzforgalmi intézményre melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Törvényben meghatározott feltételekkel hitel- és pénzkölcsönnyújtási tevékenységet is végezhet a pénzforgalmi szolgáltatások mellett.",
+                true
+            ],
+            [
+                "A törvény által előírt minimális induló tőke nagysága 50 millió forint."
+            ],
+            [
+                "Hitelnyújtással még szigorú feltételek mellett sem foglalkozhat, ezt a tevékenységet a törvény kizárólag hitelintézetek számára engedélyezi."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Pénzváltási tevékenységnek minősül-e a pénzforgalmi szolgáltatáshoz kapcsolódó pénznemek pénzforgalmi szolgáltató által történő átváltása?",
+        "Válaszok": [
+            [
+                "Nem, a pénzváltási tevékenység definíciója szerint nem minősül pénzváltásnak.",
+                true
+            ],
+            [
+                "Igen, ez a tevékenység pénzváltási tevékenységnek minősül."
+            ],
+            [
+                "Igen, melyhez a pénzforgalmi szolgáltatónak külön engedéllyel kell rendelkeznie."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kik a független pénzpiaci közvetítők?",
+        "Válaszok": [
+            [
+                "A kiemelt közvetítők és az alkuszok."
+            ],
+            [
+                "A többes kiemelt közvetítők, a többes ügynökök és az alkuszok.",
+                true
+            ],
+            [
+                "Az ún. a) és b) típusú ügynökök."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik állítás igaz a jelzáloghitel közvetítőkre? A jelzáloghitel közvetítők",
+        "Válaszok": [
+            [
+                "minden esetben független közvetítők."
+            ],
+            [
+                "függő közvetítőnek minősülnek, ha az e tevékenység végzésére őket megbízó pénzügyi intézmények a rendelkezésre álló állományi adatok szerint együttesen nem teszik ki a magyarországi piac többségét.",
+                true
+            ],
+            [
+                "pénzforgalmi közvetítők."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a befektetési alap jogszabályban meghatározott fogalma az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Olyan alap, amely összegyűjti a befektetni kívánó piaci szereplők tőkéjét, majd gondoskodik annak szakszerű kihelyezéséről a pénzpiacon."
+            ],
+            [
+                "Olyan konstrukció, amely a magánnyugdíj intézményéhez hasonlóan hosszú távon, folyamatosan elhelyezett vagyongazdálkodást tesz lehetővé befektetői számára."
+            ],
+            [
+                "A befektetési alap törvényben meghatározott feltételekkel létrehozott kollektív befektetési forma.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás igaz a befektetési jegyre?",
+        "Válaszok": [
+            [
+                "A befektetési jegy nem értékpapír."
+            ],
+            [
+                "A befektetési jegy jogszabályban meghatározott módon és alakszerűséggel, a befektetési alap, mint kibocsátó által sorozatban forgalomba hozott, a befektetési alappal szembeni, a befektetési alap kezelési szabályzatában meghatározott követelést és egyéb jogokat biztosító, átruházható értékpapír.",
+                true
+            ],
+            [
+                "A befektetési jegy jogszabályban meghatározott módon és alakszerűséggel, a befektetési alap, mint kibocsátó által nem sorozatban (egyedileg) forgalomba hozott, a befektetési alappal szembeni, a befektetési alap kezelési szabályzatában meghatározott követelést és egyéb jogokat biztosító, átruházható értékpapír."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik minősül a hazai alap- és vagyonkezelési szakma érdekképviseleti szervezetének?",
+        "Válaszok": [
+            [
+                "A Magyar Nemzeti Bank (MNB)."
+            ],
+            [
+                "A Befektetési Alapkezelők és Vagyonkezelők Magyarországi Szövetsége (BAMOSZ).",
+                true
+            ],
+            [
+                "Az Alapkezelők Szövetsége (ASZ)."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan definiáljuk a nyílt végű befektetési alapot?",
+        "Válaszok": [
+            [
+                "Olyan befektetési alap, amelynél a futamidő alatt visszaváltható befektetési jegyek kerülnek folyamatos forgalmazásra.",
+                true
+            ],
+            [
+                "Olyan befektetési alap, amelynél a futamidő lejáratának kivételével vissza nem váltható befektetési jegyek kerülnek folyamatos forgalmazásra."
+            ],
+            [
+                "Olyan befektetési alap, amelynél visszaváltható és vissza nem váltható befektetési jegyek kerülnek folyamatos kibocsátásra."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik válasz helyes az alábbiak közül nyilvános nyílt végű befektetési alapok esetében?",
+        "Válaszok": [
+            [
+                "Előre meghatározott befektetői kör nélkül kibocsátott befektetési jegyeket forgalmaznak az MNB engedélyével. Az általuk forgalmazott befektetési jegyek a futamidő alatt bármikor visszaválthatók.",
+                true
+            ],
+            [
+                "Előre meghatározott befektetői körnek kibocsátott befektetési jegyeket forgalmaznak az MNB engedélyével. Az általuk forgalmazott befektetési jegyek a futamidő alatt bármikor visszaválthatók."
+            ],
+            [
+                "Előre meghatározott befektetői kör nélkül kibocsátott befektetési jegyeket forgalmaznak az MNB engedélyével. Az általuk forgalmazott befektetési jegyek a futamidő alatt nem válthatók vissza."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás igaz a befektetési vállalkozásokra?",
+        "Válaszok": [
+            [
+                "Részvénytársaság vagy fióktelep formájában működhet.",
+                true
+            ],
+            [
+                "Az induló tőke nagysága 730 000 euró minden esetben, függetlenül attól, hogy a befektetési vállalkozás milyen befektetési szolgáltatási tevékenységek végzésére jogosult."
+            ],
+            [
+                "Közéjük sorolandó a Magyar Államkincstár (MÁK)."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A befektetési vállalkozás az alábbiak közül milyen kategóriák szerint köteles minősíteni az ügyfeleket?",
+        "Válaszok": [
+            [
+                "Lakossági ügyfelek, szakmai ügyfelek, elfogadható partnerek.",
+                true
+            ],
+            [
+                "Lakossági ügyfelek, vállalati ügyfelek, intézményi ügyfelek."
+            ],
+            [
+                "Lakossági üzletág, vállalati üzletág, szakmai ügyfelek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk ún. szegregációs kötelezettségnek?",
+        "Válaszok": [
+            [
+                "A befektetési vállalkozás elkülönítési kötelezettsége mellett az ügyfél tulajdonában lévő vagy őt megillető pénzügyi eszközt és pénzeszközt az ügyfél rendelkezése szerinti célra használhatja fel; a kezelésében lévő, az ügyfelet megillető pénzügyi eszközzel és pénzeszközzel sajátként nem rendelkezhet, illetve biztosítania kell, hogy az ügyfél bármikor rendelkezni tudjon ezekkel.",
+                true
+            ],
+            [
+                "A befektetési vállalkozásnak a mindenkori előírásoknak megfelelően kell tájékoztatnia ügyfelét a befektetési portfoliójának aktuális állapotáról, illetve a kapcsolódó változásokról."
+            ],
+            [
+                "A befektetési vállalkozás a szerződésben meghatározottak szerint köteles az ügyfél vagyonát adott gazdasági szituációkban sajátként kezelni, ezzel biztosítva az ügyfél vagyonának legoptimálisabb gyarapodását."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás nem igaz a bankok prudenciális működésére vonatkozóan?",
+        "Válaszok": [
+            [
+                "A bank prudens működése során fenn kell, hogy tartsa az azonnali fizetőképességét (likviditását) és a mindenkori fizetőképességét (azaz szolvenciáját)."
+            ],
+            [
+                "A prudenciális szabályozások tartalmazzák (többek között) a tőkemegfelelésre vonatkozó előírásokat is."
+            ],
+            [
+                "Prudenciális működése során a bank az ügyfelek kiszolgálására és a termékekkel kapcsolatos minimális információkra vonatkozóan hoz megfelelési szabályokat.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Egyszerű (szimpla) kamatszámítást használva, számolja ki, mekkora összeget ír jóvá a 3. év végén a hitelintézet, amennyiben a nála három évre elhelyezett betét összege százezer forint és a kamat mértéke 5%?",
+        "Válaszok": [
+            [
+                "100.000 * (1+0,05*3) = 100.000 * (1,15) = 115.000. A harmadik év lejáratát követően a hitelintézet 115.000 forintot fog jóváírni a befektető számára.",
+                true
+            ],
+            [
+                "100.000 * (1+0,05) = 100.000 * 1,05 = 105.000. A harmadik év lejáratát követően a hitelintézet 105.000 forintot fog jóváírni a befektető számára."
+            ],
+            [
+                "100.000 * (1+0,05)3 = 115.762,5. A hitelintézet a harmadik év lejáratát követően 115.762,5 forintot fog jóváírni a befektető számára."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kamatos kamatszámítást használva, számolja ki, mekkora összeget ír jóvá a 3. év végén a hitelintézet, amennyiben a nála három évre elhelyezett betét összege százezer forint és a kamat mértéke 5%?",
+        "Válaszok": [
+            [
+                "100.000 * (1+0,05*3) = 100.000 * (1,15) = 115.000. A harmadik év lejáratát követően a hitelintézet 115.000 forintot fog jóváírni a befektető számára."
+            ],
+            [
+                "100.000 * (1+0,05) = 100.000 * 1,05 = 105.000. A harmadik év lejáratát követően a hitelintézet 105.000 forintot fog jóváírni a befektető számára."
+            ],
+            [
+                "100.000 * (1+0,05)3 = 115.762,5. A hitelintézet a harmadik év lejáratát követően 115.762,5 forintot fog jóváírni a befektető számára.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az összefüggés a kamatfizetés gyakorisága és a realizálható hozam között (kamatos kamatszámítás esetén)?",
+        "Válaszok": [
+            [
+                "Amennyiben a kamatfizetés gyakorisága növekszik (például évesről félévesre), a gyakoribb kamatfizetéssel rendelkező befektető nagyobb hozamot tud realizálni.",
+                true
+            ],
+            [
+                "Amennyiben a kamatfizetés gyakorisága növekszik (például évesről félévesre), a hozamkülönbség nem fog változni, hiszen egyazon időszakra ugyanannyi kamat illeti meg a befektetőt."
+            ],
+            [
+                "Nincsen összefüggés, hiszen kamatos kamatszámítást nem lehet alkalmazni ebben az esetben. Kizárólag egyszerű hozamszámításnál lehetséges a kamatfizetés gyakoriságának értelmezése."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A bankok milyen típusú kamatlábat adnak meg a betétekre vonatkozóan?",
+        "Válaszok": [
+            [
+                "Reálkamatlábat."
+            ],
+            [
+                "Nominális, egyszerű kamatlábat.",
+                true
+            ],
+            [
+                "Folytonos kamatlábat."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Egy befektetés jövőbeni hozamának kiszámítása esetén miért célszerű reálkamatlábbal dolgozni?",
+        "Válaszok": [
+            [
+                "Azért, mert a jövőérték kiszámításához nem elegendő a nominális kamatláb ismerete."
+            ],
+            [
+                "Azért, mert a befektető rendszerint hitelből finanszírozza a befektetéseit."
+            ],
+            [
+                "Szükségszerű a reálkamatláb (ezáltal reálérték) számítása, hiszen a becsült infláció hatása ezáltal beleépíthető a számításokba.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely pénzügyi intézmény kaphat engedélyt a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben (Hpt.) meghatározott pénzügyi szolgáltatások teljes körének üzletszerű végzésére?",
+        "Válaszok": [
+            [
+                "A bank.",
+                true
+            ],
+            [
+                "A szakosított hitelintézet."
+            ],
+            [
+                "A pénzügyi vállalkozás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik pénzügyi intézmény nem jogosult az alábbiak közül pénzváltási tevékenység végzésére?",
+        "Válaszok": [
+            [
+                "A bank."
+            ],
+            [
+                "A szövetkezeti hitelintézet."
+            ],
+            [
+                "A magyarországi székhelyű pénzügyi vállalkozás.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik megfogalmazás helyes a kétszintű bankrendszerre vonatkozóan az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A kétszintű bankrendszer Magyarországon az úgynevezett egyszintű bankrendszert váltotta fel. Alapja, hogy két \"pillérből\" áll a banki rendszer. Egyik pillérként a makrogazdasági és monetáris irányítást végző Magyar Nemzeti Bank, másikként pedig a kereskedelmi bankok állnak. A jegybank a kereskedelmi bankokkal, a kereskedelmi bankok a vállalatokkal és lakossági ügyfelekkel állnak közvetlen kapcsolatban.",
+                true
+            ],
+            [
+                "A kétszintű bankrendszer alapvetően a jegybankot teszi meg a pénzügyi élet központjának. Amellett, hogy az államtól függetlenül, kizárólag közvetetten befolyásolva végzi a gazdasági irányítást, egyben ellátja a kereskedelmi banki funkciókat. A kereskedelmi bankok ebben a rendszerben csupán közvetítőként szerepelnek."
+            ],
+            [
+                "A központi bank a kétszintű bankrendszerben az állam tulajdonát képezi. Amennyiben kereskedelmi bank kíván csatlakozni a rendszerhez, akkor előírásként mind az államnak, mind pedig a jegybanknak köteles tulajdonosi részesedést adni. Ennek mértéke 10%-10%. A kereskedelmi banki funkciók ezt követően válnak el a központi monetáris funkcióktól."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik nem tartozik a jegybank feladatai közé az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A monetáris politika meghatározása és megvalósítása."
+            ],
+            [
+                "A bankjegy- és érmekibocsátás."
+            ],
+            [
+                "A versenyfelügyeleti eljárás lefolytatása.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás nem igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A jegybankot a törvényben meghatározott feladatkörében a Kormány nem utasíthatja."
+            ],
+            [
+                "A jegybank bármely állami hatóságnak, illetve állami többséggel rendelkező gazdasági társaságnak folyósíthat hitelt.",
+                true
+            ],
+            [
+                "A Magyar Nemzeti Bank látja el a pénzügyi közvetítőrendszer felügyeletével kapcsolatos hatósági feladatokat."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A következő állítások közül melyik nem igaz a Magyar Nemzeti Bankra vonatkozóan?",
+        "Válaszok": [
+            [
+                "Részvénytársasági formában működő jogi személy."
+            ],
+            [
+                "A Magyar Nemzeti Bank részvényei az állam tulajdonában vannak."
+            ],
+            [
+                "A Magyar Nemzeti Bank jegyzett tőkéje 50 milliárd forint.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a hitelintézetek szerepe a kétszintű bankrendszerben?",
+        "Válaszok": [
+            [
+                "Mivel a jegybank nem áll közvetlen gazdasági kapcsolatban a lakossági és a vállalati szektorokkal, ezért ezt a feladatot a pénzügyi intézmények (hitelintézetek, pénzügyi vállalkozások) látják el, így tud bekapcsolódni a gazdasági tőkeáramlásba a két szektor.",
+                true
+            ],
+            [
+                "A hitelintézetek szerepe a kétszintű bankrendszerben, hogy eljuttassák a jegybanki szabályozásokat és előírásokat a lakossági (retail) és a vállalati (business) szektorok felé, valamint a jegybanktól független állami szervekhez."
+            ],
+            [
+                "Mivel a jegybank függetlennek minősül az állammal szemben, így a hitelintézetek képezik a gazdasági és kommunikációs csatornát a két szektor között."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik intézményre használja a köznyelv a „bankok bankja” kifejezést?",
+        "Válaszok": [
+            [
+                "A szakosított hitelintézetre."
+            ],
+            [
+                "A jegybankra (MNB).",
+                true
+            ],
+            [
+                "A szövetkezeti hitelintézetre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül az értékpapírra?",
+        "Válaszok": [
+            [
+                "Csak az minősül értékpapírnak, ami fizikai (okirati) formában megjelenik."
+            ],
+            [
+                "Az értékpapír mindig valamilyen pénzkövetelésről szól."
+            ],
+            [
+                "Az értékpapír egyoldalú jognyilatkozat, amely a benne foglalt jogot úgy testesíti meg, hogy azt a jogot gyakorolni, arról rendelkezni csak az értékpapír által, annak birtokában lehet.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mikor minősül az értékpapír forgalomba hozatala zártkörűnek?",
+        "Válaszok": [
+            [
+                "Az értékpapír forgalomba hozatala - többek között - akkor zártkörű, amikor az értékpapírt kizárólag minősített befektetők részére ajánlják fel.",
+                true
+            ],
+            [
+                "Az értékpapír forgalomba hozatala akkor zártkörű, ha a kibocsátó a hitelezőiből álló zárt körnek váltókat állít ki."
+            ],
+            [
+                "Az értékpapír forgalomba hozatala akkor zártkörű, ha az értékpapír névre szóló, és dematerializált formában kerül előállításra."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk jegyzésnek az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az értékpapír forgalomba hozatala során az értékpapírt megszerezni szándékozó befektetőnek az értékpapír megszerzésére irányuló, feltétetlen és visszavonhatatlan nyilatkozatát, amellyel az ajánlatot elfogadja és kötelezettséget vállal az ellenszolgáltatás teljesítésére.",
+                true
+            ],
+            [
+                "Hitelviszonyt megtestesítő értékpapír nyilvános forgalomba hozatalának olyan módja, amelynek keretén belül az értékesítés a kibocsátó által meghatározott időszak alatt történik úgy, hogy az értékpapírok lejárati időpontja azonos."
+            ],
+            [
+                "A forgalomba hozatal azon módja, amely keretén belül a kibocsátó az általa meghatározott feltételek szerint lehetőséget biztosít ajánlattételre és a beérkezett vételi ajánlatok meghatározott szempont alapján versenyeznek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás hamis az értékpapírokra vonatkozóan?",
+        "Válaszok": [
+            [
+                "Ha jogszabály meghatározza egyes értékpapírfajták kötelező tartalmi elemeit, kizárólag az ezeknek megfelelő okiratot vagy dematerializált értékpapírt lehet az adott értékpapírfajtába tartozó értékpapírnak tekinteni."
+            ],
+            [
+                "Az értékpapírban foglalt jogot gyakorolni, arról rendelkezni csak az értékpapír által, annak birtokában lehet."
+            ],
+            [
+                "Értékpapírt kizárólag névre szólóan lehet kiállítani.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül az értékpapírok hozamára?",
+        "Válaszok": [
+            [
+                "A hozam az értékpapír fogalmi eleme, mivel értékpapírnak csak az tekinthető, amely hozammal rendelkezik."
+            ],
+            [
+                "Az értékpapírok csak előre meghatározott kamatozásúak lehetnek."
+            ],
+            [
+                "Megkülönböztethetőek a nem kamatozó, az előre meghatározott kamatozású és a változó hozamú értékpapírok.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a váltó meghatározását az alábbi lehetőségek közül!",
+        "Válaszok": [
+            [
+                "Követelést megtestesítő értékpapír, amely készpénzt helyettesítő fizetési eszköznek minősül."
+            ],
+            [
+                "Követelést megtestesítő értékpapír, amelyben a kibocsátó vagy elismeri a másik féllel szemben fennálló tartozását (saját váltó), vagy fizetésre szólít fel benne egy harmadik személyt (idegen váltó), mindezt előre meghatározott módon és időbeli teljesítés mellett; és amely a váltótörvényben meghatározott tartalmi elemeket (kellékeket) az ott szabályozott formában tartalmazza",
+                true
+            ],
+            [
+                "A váltó kibocsátója (adós) minden esetben arra kötelezi magát, hogy a váltóban megjelölt pénzösszeget, valamint a pénzösszeg előre meghatározott kamatát a váltó mindenkori tulajdonosának (hitelező) a megjelölt időben és módon megfizeti, azzal, hogy a váltóból eredő minden követelés a váltó esedékességétől számított tíz év alatt évül el."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk saját váltónak?",
+        "Válaszok": [
+            [
+                "A saját váltó a váltó kiállítója által vállalt fizetési ígéret.",
+                true
+            ],
+            [
+                "A saját váltóban a kiállító egy harmadik személyt, a címzettet szólítja fel fizetési kötelezettség teljesítésére, amely felszólítással a címzett váltókötelezetté válik."
+            ],
+            [
+                "A saját váltó olyan, jogszabályban meghatározott tartalommal rendelkező, követelést megtestesítő értékpapír, amelynek kibocsátója harmadik személyt (címzettet) szólít fel fizetésre azzal, hogy a saját váltó kibocsátója a címzett teljesítéséért készfizető kezesként felel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Döntse el, hogy az alábbi, kötvényekre vonatkozó alábbi állítások közül melyik a helytelen!",
+        "Válaszok": [
+            [
+                "A kötvény olyan hitelviszonyt megtestesítő értékpapír, amelynek kibocsátója kötelezettséget vállal arra, hogy a kötvényben meghatározott pénzösszeget és annak az előre meghatározott kamatát a kötvényben megjelölt módon és időben megfizeti."
+            ],
+            [
+                "A kötvény olyan okirat, amelyet a bank a nála elhelyezett pénzösszeg ellenében bocsát rendelkezésre, és a bank kötelezettséget vállal arra, hogy az okirat ellenében elhelyezett pénzösszeget kamattal - más előny biztosításával vagy anélkül - visszafizeti.",
+                true
+            ],
+            [
+                "A kötvény hitelviszonyt testesít meg; kamatozását tekintve lehet fix, illetve változó kamatozású, vagy zéró-kupon kötvény."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbi állítások a diszkont kincstárjegyre vonatkoznak. Melyik a helytelen?",
+        "Válaszok": [
+            [
+                "Egy évnél rövidebb futamidejű állampapír, mely kamatot nem fizet, hanem a névértékénél alacsonyabb, diszkont áron kerül forgalomba, lejáratkor pedig a névértéket fizeti vissza."
+            ],
+            [
+                "A diszkont kincstárjegyet - az államkötvényhez hasonlóan - a belföldi magánszemélyen és gazdálkodó szervezeteken kívül - korlátozásokkal - a külföldi befektetők is megvásárolhatják, illetve értékesíthetik az értékpapír teljes futamideje alatt."
+            ],
+            [
+                "Diszkont kincstárjegy kibocsátására bárki jogosult.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az állampapírra vonatkozó helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az állampapír az állampapír-kibocsátónak minősülő jogi személy által kibocsátott hitelviszonyt megtestesítő értékpapír.",
+                true
+            ],
+            [
+                "Az állampapír tagsági jogot megtestesítő olyan értékpapír, amely a tulajdonosát közgyűlésen és szavazásban való részvételre, valamint osztalékra jogosítja."
+            ],
+            [
+                "Az állampapír olyan értékpapír, amelyet az állam bocsátja ki a tulajdonviszonyok rendezése érdekében, az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlásáról szóló törvény alapján."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az állampapírra vonatkozó helytelen állítást!",
+        "Válaszok": [
+            [
+                "Az állampapír olyan hitelviszonyt megtestesítő, névre szóló értékpapír, amelynek kibocsátására az állam jogosult."
+            ],
+            [
+                "Az állampapír kibocsátására kizárólag a Magyar Nemzeti Bank jogosult.",
+                true
+            ],
+            [
+                "Az állampapír kibocsátója lehet többek között az Európai Unió, az Európai Unió valamely tagállama, vagy az Európai Beruházási Bank is."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az állampapír-aukciókra az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az aukciós ajánlatok értékelése azok árfolyamelvárása szerint végzett sorbarendezés útján történik. Az érvényes ajánlatok a legmagasabb árfolyamú ajánlattól kezdődően mindaddig elfogadásra kerülnek, amíg az értékesítésre felajánlott államkötvények mennyisége értékesítésre nem kerül. Az aukción meghirdetett állampapír-mennyiség legkésőbb az aukció napjáig növelhető, illetve csökkenthető.",
+                true
+            ],
+            [
+                "Az állampapír-aukció során nincsen előre meghatározott értékesíteni kívánt mennyiség, a benyújtott ajánlatokat az árfolyam-elvárások közép értékétől számítva felfelé a legmagasabb árfolyam-elvárású ajánlatig kielégítik az aukción."
+            ],
+            [
+                "Az állampapír-aukció során a legalacsonyabb árfolyam ajánlattól indulva addig fogadják el az érvényes ajánlatokat, amíg az előre meghirdetett mennyiséget elérik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz a letéti jegyre vonatkozóan az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Nincs a futamidejére vonatkozó jogszabályi előírás."
+            ],
+            [
+                "Kibocsátásával a bankok hosszú távra szereznek forrást. A letéti jegy futamideje átlagosan öt év."
+            ],
+            [
+                "A letéti jegy futamideje a kibocsátástól számított három évig terjedhet.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a kárpótlási jegyre vonatkozó hamis állítást!",
+        "Válaszok": [
+            [
+                "Az állammal szemben fennálló követelést névértékében megtestesítő értékpapír."
+            ],
+            [
+                "Az állam által az állampolgárok tulajdonában igazságtalanul okozott károk részleges kárpótlására szolgál."
+            ],
+            [
+                "A kárpótlási jegy névre szóló, dematerializált formában kiállított értékpapír.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik meghatározás helyes az alábbiak közül a befektetési jegyekre vonatkozóan?",
+        "Válaszok": [
+            [
+                "A befektetési jegy a befektetési alap mint kibocsátó által sorozatban forgalomba hozott, a befektetési alappal szembeni, a befektetési alap kezelési szabályzatában meghatározott követelést és egyéb jogokat biztosító, átruházható értékpapír.",
+                true
+            ],
+            [
+                "A befektetési jegy olyan értékpapír, amelynek kibocsátására valamennyi pénzügyi szervezet jogosult."
+            ],
+            [
+                "A befektetési jegy a befektetési alap mint kibocsátó által sorozatban forgalomba hozott, a befektetési alappal szembeni, a befektetési alap kezelési szabályzatában meghatározott követelést és egyéb jogokat biztosító, nem átruházható értékpapír."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik kamatozó értékpapír a következők közül?",
+        "Válaszok": [
+            [
+                "A kárpótlási jegy, de csak 1995. január 1. napjától."
+            ],
+            [
+                "A diszkont kincstárjegy."
+            ],
+            [
+                "A letéti jegy.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás nem igaz a részvényre vonatkozóan az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A részvény tagsági jogokat megtestesítő, névre szóló értékpapír."
+            ],
+            [
+                "A dematerializált formában előállított részvény tulajdonosa az a személy - ellenkező bizonyításig -, akinek az értékpapírszámláján az adott részvényt nyilvántartják."
+            ],
+            [
+                "A részvény bemutatóra szóló értékpapír.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Vizsgálja meg a részvénytársaságokra vonatkozó alábbi állításokat! Jelölje meg a helytelen megállapítást!",
+        "Válaszok": [
+            [
+                "A részvénytársaság olyan gazdasági társaság, amely előre meghatározott számú és névértékű részvényekből álló alaptőkével (jegyzett tőkével) alakul."
+            ],
+            [
+                "A részvénytársaság 3 millió forint alaptőke befizetésével alapítható.",
+                true
+            ],
+            [
+                "Működési formáját tekintve létezik nyilvánosan működő részvénytársaság (nyrt.) és zártkörűen működő részvénytársaság (zrt.)."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely részvény kerülhet tőzsdei forgalomba?",
+        "Válaszok": [
+            [
+                "Nyilvános részvénytársaság törzsrészvénye.",
+                true
+            ],
+            [
+                "Nyilvános részvénytársaság dolgozói részvénye."
+            ],
+            [
+                "Zártkörű részvénytársaság elsőbbségi részvénye."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis a tőzsdei kereskedéssel kapcsolatban az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A tőzsde áruk és pénzügyi eszközök anonim kereskedését teszi lehetővé."
+            ],
+            [
+                "A tőzsde nyilvános piac, szigorúan működő sajátos szervezeti keretek között."
+            ],
+            [
+                "A tőzsdei kereskedés jogszabályokban foglaltaknak való megfelelését nem ellenőrzi hatóság.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mennyiben tekinthetők nyilvánosnak a tőzsdei árfolyam adatok?",
+        "Válaszok": [
+            [
+                "A tőzsde a tőzsdei kereskedők és a befektetők tájékoztatása érdekében köteles biztosítani a tőzsdei adatok nyilvánosságát.",
+                true
+            ],
+            [
+                "Korlátozottan, tekintve, hogy a megbízások előtt a tőzsdei kereskedő nem köteles tájékoztatni ügyfelét az adott részvény azonnali  árfolyamáról, illetve a megelőző időszak árfolyam-alakulásáról."
+            ],
+            [
+                "A tőzsde elsődleges célja forgalombahozatal lebonyolítása, az ezzel kapcsolatos információk pedig az értékpapír-titok körébe tartoznak, azaz nem nyilvánosak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ismertesse a különbséget a tőzsde és a tőzsdén kívüli, úgynevezett OTC (\"over the counter\") piacok között!",
+        "Válaszok": [
+            [
+                "A tőzsde az elsődleges, míg az OTC piac úgynevezett tőzsdén kívüli másodlagos értékpapírpiac. A tőzsde működése szabályozott, míg az OTC piac működése kevésbé szabályozott. A tőzsde hatékonyabb információáramlást tud biztosítani a résztvevőknek, mint az OTC piac, ahol nem áll a befektetők rendelkezésére minden információ a kibocsátókról.",
+                true
+            ],
+            [
+                "Az OTC piac az értékpapírok elsődleges és szabályozott kereskedési helyszíne, míg a tőzsde az értékpapírok másodlagos, kevésbé szabályozott kereskedési helyszíne."
+            ],
+            [
+                "Az OTC elnevezés arra utal, hogy a tőzsde nyílt kikiáltásos rendszere mellett megjelentek az úgynevezett \"online trading cash\" piacok, tehát az internetes alapokon fekvő, teljesen elektronikus pénz, vagy pénzügyi instrumentumok kereskedési rendszerei."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a referenciakamatlábra vonatkozó helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Bármilyen alkalmazandó kamat számításának alapjául szolgáló, a nyilvánosság számára hozzáférhető mindenkori kamatláb, amelynek mértékére a hitelezőnek nincs ráhatása. A referenciakamatláb lehet például jegybanki alapkamat, BUBOR, LIBOR stb.",
+                true
+            ],
+            [
+                "A referenciakamatláb a fogyasztó által a hitelszerződés és a lízingszerződés kapcsán fizetendő összes díjat (ideértve a kamatot, díjat, jutalékot, költséget és adót), valamint a hitelhez kapcsolódó járulékos szolgáltatások költségeit mutatja."
+            ],
+            [
+                "A referenciakamatláb alatt kizárólag a mindenkori jegybanki alapkamatot értjük."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Számítsa ki az értékpapíron elérhető első éves hozam nagyságát, ha a kamat évi 10%, a kamatadó 15%, a befektetés nagysága 1.000.000 forint!",
+        "Válaszok": [
+            [
+                "A kamat 100.000 forint. A kamatadó 15.000 forint. A befektetésen realizálható hozam így 85.000 forint.",
+                true
+            ],
+            [
+                "A kamatadó 25.000 forint. A befektetésen realizálható hozam így 75.000 forint."
+            ],
+            [
+                "A kamatadót értékpapírok esetében nem kell megfizetni, így a befektetésen realizálható hozam 100.000 forint."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Fix kamatozású, évente egyenlő tőketörlesztésű kötvény esetében melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Évente lineáris módon csökken a fizetőrészlet nagysága.",
+                true
+            ],
+            [
+                "Évente lineárisan csökken a kamatfizetés, a tőketörlesztés nő."
+            ],
+            [
+                "Évente azonos kamat- és tőkefizetés történik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Igaz-e a következő állítás? Fizetési megbízás alatt kizárólag az átutalási- és beszedési megbízásokat értjük.",
+        "Válaszok": [
+            [
+                "Igen, az állítás ebben a formában helyes és teljes körű."
+            ],
+            [
+                "Nem, a fizetési megbízás kizárólag az átutalási megbízás."
+            ],
+            [
+                "Nem, fizetési megbízásnak minősül még például a készpénzbefizetés fizetési számlára, illetve készpénzkifizetés fizetési számláról, a hatósági átutalási megbízás és az átutalási végzés is.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik fizetési megbízás nem teljesíthető lakossági bankszámla javára?",
+        "Válaszok": [
+            [
+                "Egyszerű átutalás."
+            ],
+            [
+                "Csoportos beszedési megbízás.",
+                true
+            ],
+            [
+                "Csoportos átutalási megbízás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az IBAN?",
+        "Válaszok": [
+            [
+                "Nemzetközi fizetési rendszer."
+            ],
+            [
+                "Belföldi pénzforgalmi jelzőszám."
+            ],
+            [
+                "Nemzetközi bankszámlaszám.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hány karakterből áll a magyar szabvány szerinti nemzetközi bankszámlaszám?",
+        "Válaszok": [
+            [
+                "16 (2x8) vagy 24 (3x8)."
+            ],
+            [
+                "28.",
+                true
+            ],
+            [
+                "Hitelintézetenként változó karakterből."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan nevezzük azt a készpénzes fizetési módot, amellyel a magánszemélyek a közüzemi tartozásaikat jellemzően rendezik (ún. \"sárga csekk\")?",
+        "Válaszok": [
+            [
+                "Belföldi postautalvány."
+            ],
+            [
+                "Befizetés a postahelynél."
+            ],
+            [
+                "Készpénz-átutalási megbízás.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a csoportos beszedésre vonatkozó helytelen megállapítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Abban az esetben, ha a kötelezett több jogosult bankszámlái javára indít fizetési megbízást, csoportos beszedésről beszélünk.",
+                true
+            ],
+            [
+                "Csoportos beszedést például a közüzemdíjak, telefonszámlák beszedésénél is célszerű a szolgáltatónak alkalmaznia."
+            ],
+            [
+                "A csoportos beszedés több kötelezettel szemben azonos jogcímen fennálló követelések érvényesítésére szolgál."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A pénzforgalmi jelzőszám első nyolc karaktere",
+        "Válaszok": [
+            [
+                "az ún. irányítókód; amelyen belül az első három számjegy a számlavezető pénzforgalmi szolgáltatót, a következő négy számjegy pedig a pénzforgalmi szolgáltató fiókját jelöli. A nyolcadik számjegy ellenőrző szám.",
+                true
+            ],
+            [
+                "az ún. irányítókód; amelyen belül az első hét számjegy a számlavezető pénzforgalmi szolgáltatót jelöli. A nyolcadik számjegy ellenőrző szám."
+            ],
+            [
+                "a fizetési számla azonosító száma."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül? A pénzforgalmi jelzőszámon belül a fizetési számla azonosító száma",
+        "Válaszok": [
+            [
+                "az első nyolc karakter."
+            ],
+            [
+                "a 9-16. karakter vagy a 9-24. karakter, attól függően, hogy a pénzforgalmi jelzőszám 16 (2x8) vagy 24 (3x8) numerikus karaktert tartalmaz.",
+                true
+            ],
+            [
+                "16 karakter hosszúságú számsor esetében a 16. számjegy, 24 karakter hosszúságú számsor esetében a 24. számjegy."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik bankkártya-típusról van szó a következő meghatározásban: „A kibocsátó az általa maximált, az ügyfele hitelképességének megfelelően kialakított összeg erejéig, kamat felszámítása ellenében rulírozó jellegű hitelt nyújt.”?",
+        "Válaszok": [
+            [
+                "Hitelkártya.",
+                true
+            ],
+            [
+                "Betéti kártya."
+            ],
+            [
+                "Előre fizetett kártya."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk az alábbiak közül betéti kártyának? Olyan, bankok által kibocsátott kártya, amely…",
+        "Válaszok": [
+            [
+                "…képessé teszi használóját többszöri vásárlásra és hitel megszerzésére ott, ahol a potenciális elfogadó szerződést kötött a kártya kibocsátójával."
+            ],
+            [
+                "…a kártya birtokosa számára szinte korlátlan összegig való vásárlást tesz lehetővé. Előfeltétele a bizonyos időszakonkénti azonnali kiegyenlítés."
+            ],
+            [
+                "…mögött egy betéti számla van, és a számlán lévő egyenleg adja  a vásárlási összegre fordítható keretet.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik bankkártya-típusról van szó a következő meghatározásban: „A kártyabirtokos előre kifizeti a kártyával teljesíthető vásárlások és pénzfelvételek ellenértékét.”?",
+        "Válaszok": [
+            [
+                "Hitelkártya."
+            ],
+            [
+                "Betéti kártya."
+            ],
+            [
+                "Előre fizetett kártya.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kit vagy mit nevezünk a pénzpiacon kártyabirtokosnak az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Azt az ügyfelet jelöli, aki a kibocsátó pénzforgalmi szolgáltatóval bankkártya-szerződést (hitelkártya-szerződést) köt.",
+                true
+            ],
+            [
+                "A hitelintézeteket, kereskedelmi és szolgáltató szervezeteket, akik kibocsátják a kártyát."
+            ],
+            [
+                "Azt, akinek a bankkártya ténylegesen (fizikailag) a birtokában van."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik állítás helyes a banki ún. call centeres szolgáltatásra ?",
+        "Válaszok": [
+            [
+                "Ez egy kétoldalú elektronikus szolgáltatás."
+            ],
+            [
+                "Ez egy automata telefonszolgálat, melyen keresztül banki szolgáltatások nem érhetőek el, csupán panaszbejelentésre van lehetőség."
+            ],
+            [
+                "Az ügyfél telefonon keresztül is igénybe vehet banki szolgáltatásokat.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás helytelen az ún. home banking szolgáltatásokkal kapcsolatban az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Elektronikus banki tranzakciók megvalósítását teszi lehetővé."
+            ],
+            [
+                "Valós idejű átutalás ezen szolgáltatás igénybevételével nem lehetséges.",
+                true
+            ],
+            [
+                "A home banking szolgáltatások a számítógépre telepített szoftver segítségével érhetőek el."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik nem a mobilbank jellemző funkciója?",
+        "Válaszok": [
+            [
+                "Átutalások bármikor (a nap 24 órájában) indíthatóak, és ezek azonnal teljesülnek a valós idejű bruttó elszámolási rendszeren keresztül.",
+                true
+            ],
+            [
+                "A bank igény esetén információt küld az ATM és POS tranzakciókról az ügyfél mobiltelefonjára."
+            ],
+            [
+                "A bankszámlát érintő minden tranzakcióról (pl. levont bankköltség) az ügyfél azonnal tudomást szerezhet."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az ún. internet banking és az ún. home banking közötti legfontosabb eltérés?",
+        "Válaszok": [
+            [
+                "Az ún. home banking nem támogatja a beszedési megbízások online tranzakcióit."
+            ],
+            [
+                "Az ún. home banking esetében telepített szoftver szükséges a számítógépen, míg az Internet banking már internetes böngésző programból is elérhető.",
+                true
+            ],
+            [
+                "Az ún. internet banking kétoldalú elektronikus megoldás, míg az ún. home banking csak egyoldalú, offline szolgáltatás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely intézmény nem végezhet pénzforgalmi szolgáltatást?",
+        "Válaszok": [
+            [
+                "A hitelintézet."
+            ],
+            [
+                "A pénzügyi vállalkozás.",
+                true
+            ],
+            [
+                "Az elektronikuspénz-kibocsátó intézmény."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A következő szolgáltatások melyik pénztári típus tagjai számára állnak kedvezményesen rendelkezésre: a társadalombiztosítás által nem vagy csak részben finanszírozott egészségügyi szolgáltatások, otthoni gondozás, gyógymasszázs, gyógytorna stb.?",
+        "Válaszok": [
+            [
+                "Önkéntes egészségpénztári tagok számára jellemező szolgáltatások.",
+                true
+            ],
+            [
+                "Magánnyugdíjpénztári tagok számára jellemző szolgáltatások."
+            ],
+            [
+                "Önkéntes nyugdíjpénztári tagok számára jellemző szolgáltatások."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A következő előírások közül melyik igaz?",
+        "Válaszok": [
+            [
+                "Kötelező a társadalombiztosítási nyugdíjrendszerbe történő befizetés magánnyugdíjpénztári tagságtól függetlenül.",
+                true
+            ],
+            [
+                "Magánnyugdíjpénztári tagság esetén nem kötelező a társadalombiztosítási nyugdíjrendszerbe történő befizetés."
+            ],
+            [
+                "Az önkéntes nyugdíjpénztári tagság teljes mértékben kiváltja a társadalombiztosítási nyugdíjrendszerbe történő befizetést, így ebben az esetben a társadalombiztosítási nyugdíjrendszerbe történő befizetés nem kötelező."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az önkéntes nyugdíjpénztárakkal kapcsolatban az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Egyazon önkéntes nyugdíjpénztárnál nincs lehetőség egyidejűleg több portfólióba történő befektetésbe, de további önkéntes nyugdíjpénztárakhoz történő csatlakozás megengedett."
+            ],
+            [
+                "A választható portfóliós rendszert működtető önkéntes nyugdíjpénztárnál van lehetőség egyidejűleg több portfólióba történő befektetésbe.",
+                true
+            ],
+            [
+                "Egyazon önkéntes nyugdíjpénztárnál minden esetben van lehetőség legalább három  portfólióba történő befektetésre, valamint a szabad portfólióválasztás lehetősége a tagsági viszony alatt mindvégig korlátlanul fennáll."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az önkéntes nyugdíjpénztárak portfoliókezelésére vonatkozó helytelen megállapítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az önkéntes nyugdíjpénztárhoz való csatlakozáskor minden ügyfélnek kötelező portfóliót választania, mivel az önkéntes nyugdíjpénztárak nem rendelkeznek azzal a joggal, hogy önállóan sorolják be a tag által befizetett tőkét az általuk megfelelőnek vélt portfólióba.",
+                true
+            ],
+            [
+                "Javasolt az önkéntes nyugdíjpénztári tagoknak, hogy a kockázatos eszközöket tartalmazó portfolió rövid távú hozamingadozásait ne vegyék figyelembe, hiszen a tagság alapvetően hosszú távú befektetés, és a felkínált portfoliókat alkotó pénzügyi instrumentumok (pl. részvények) szintén hosszú távú megtakarítási formákat jelentenek."
+            ],
+            [
+                "Amennyiben az önkéntes nyugdíjpénztári tag nem választ aktívan a felkínált portfoliók közül, akkor befizetéseit a pénztár a szabályzatában erre az esetre meghatározott portfólióba helyezi."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az önkéntes egészségpénztárra vonatkozóan a helytelen állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Önkéntes alapon szerveződött, egészségügyi, egészségvédelmi szolgáltatások szervezése és nyújtása érdekében létrejött, természetes személyek által alapított, non-profit elvű társulás."
+            ],
+            [
+                "Az egészségpénztárak kiegészítő egészségbiztosítási szolgáltatásokat, életmódjavító egészségpénztári szolgáltatásokat nyújthatnak, valamint egészségügyi célú önsegélyező feladatokat láthatnak el."
+            ],
+            [
+                "Az önkéntes egészségpénztár non-profit szervezetként a pénztári tagok által befizetett tőkére nem fizet  hozamot és nincs adókedvezmény, de a munkáltató átvállalhatja a tagdíj maximum 50%-át.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Megszűnik-e a pénztártag tagsági jogviszonya egy másik pénztárba történő átlépéssel?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Csak akkor, ha nem azonos típusú pénztárba lép át."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A nyugdíjpénztár az alábbiak közül milyen szolgáltatásokat nyújthat?",
+        "Válaszok": [
+            [
+                "Gyógyszer és gyógyászati segédeszköz árának támogatását."
+            ],
+            [
+                "Nyugdíjszolgáltatást és önsegélyező feladatokat."
+            ],
+            [
+                "Kizárólag nyugdíjszolgáltatást.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely piaci szereplők nem monetáris közvetítők: hitelintézetek, biztosítók, nyugdíjpénztárak?",
+        "Válaszok": [
+            [
+                "A hitelintézetek monetáris közvetítők, a biztosítók és a nyudíjpénztárak nem monetáris közvetítők.",
+                true
+            ],
+            [
+                "Egyik piaci szereplő sem monetáris közvetítő, hiszen ezt a szerepet a jegybank tölti be."
+            ],
+            [
+                "Mindhárom piaci szereplő monetáris közvetítő."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a hamis állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A biztosítók olyan speciális intézmények, amelyek megszervezik az azonos vagy hasonló kockázatoknak kitett személyek közösségét (veszélyközösség), matematikai és statisztikai eszközökkel felmérik a biztosítható kockázatokat, megállapítják és beszedik a kötelezettségvállalás ellenértékét (díját), meghatározott tartalékokat képeznek, a létrejött jogviszony alapján a kockázatot átvállalják és teljesítik a szolgáltatásokat."
+            ],
+            [
+                "A jelzálog-hitelintézetek jelzálogjoggal biztosított hiteleket nyújtanak és névre szóló, átruházható jelzálogleveleket bocsátanak ki."
+            ],
+            [
+                "A pénzügyi intézmények elsődleges profilja, hogy rövid távú befektetési formákat kínálnak a piacon.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik állítás hamis a hitelintézetek és a biztosítók összehasonlításáról?",
+        "Válaszok": [
+            [
+                "A biztosítók és a hitelintézetek is felügyeleti engedéllyel rendelkező pénzügyi szolgáltatók, ezért mindkét intézmény típus jogosult bármilyen üzletszerű tevékenységet folytatni.",
+                true
+            ],
+            [
+                "A biztosítókra és a hitelintézetekre is igaz az, hogy üzletszerűen csak törvényben meghatározott tevékenységeket végezhetnek."
+            ],
+            [
+                "A hitelintézetek biztosítási tevékenységet nem végezhetnek, mivel arra csak a biztosítók jogosultak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik intézménytípus nevezhető profitorientált vállalkozásnak az alábbiak közül: hitelintézetek, befektetési vállalkozások, magánnyugdíjpénztárak, biztosítók?",
+        "Válaszok": [
+            [
+                "Mind a négy intézménytípus.",
+                true
+            ],
+            [
+                "Kizárólag a hitelintézetek és a befektetési vállalkozások."
+            ],
+            [
+                "A bankok, biztosítók és befektetési vállalkozások."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi lehet a hitelintézetek és a biztosítók egyik közös stratégiája?",
+        "Válaszok": [
+            [
+                "Bankbiztosítás, azaz az értékesítési csatornák és termékek integrációja a bankok és biztosítók között.",
+                true
+            ],
+            [
+                "A két szektor profitjának növelése azáltal, hogy közös bizottságban képviselik érdekeiket nemzetközi szervezetekben."
+            ],
+            [
+                "Mivel alapvető versenytársakról van szó a pénzügyi piacokon, így közös stratégiáról nem beszélhetünk."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi lehet a hitelintézetek és a befektetési vállalkozások közötti összefüggés?",
+        "Válaszok": [
+            [
+                "A két szektor profitjának növelése azáltal, hogy közös bizottságban képviselik érdekeiket nemzetközi szervezetekben."
+            ],
+            [
+                "Összefüggésként az általuk végezhető tevékenységek körét lehet megemlíteni. Befektetési szolgáltatási tevékenységet hitelintézet és befektetési vállalkozás egyaránt végezhet. Ebből adódóan az értékesítési csatornák és a termékek integrációja fordulhat elő a két intézménytípus között.",
+                true
+            ],
+            [
+                "Mivel alapvető versenytársakról van szó a pénzügyi piacokon, így közös stratégiáról és összefüggésről nem beszélhetünk."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelintézet a hitelintézetekről és a pénzügyi a vállalkozásokról szóló törvény (Hpt.) alapján az alábbiak közül milyen tevékenységet nem végezhet?",
+        "Válaszok": [
+            [
+                "Befektetési szolgáltatási tevékenységet."
+            ],
+            [
+                "Pénztári tagszervezési tevékenységet."
+            ],
+            [
+                "Kiegészítő biztosításközvetítői tevékenységet.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás helyes a bankokkal kapcsolatban az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelkihelyezések után a bankoknak járó kamat és a gyűjtött betétek után fizetendő kamat különbsége a kamatjövedelem, a bankok elsődleges jövedelme.",
+                true
+            ],
+            [
+                "A bankok az aktívák után kamatot fizetnek."
+            ],
+            [
+                "Passzív bankművelet például a hitelnyújtás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi minősül passzív bankügyletnek az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Betétgyűjtés.",
+                true
+            ],
+            [
+                "Hitelnyújtás."
+            ],
+            [
+                "Követelést megtestesítő értékpapírok bank által történő megvásárlása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi minősül aktív bankügyletnek az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Betétgyűjtés."
+            ],
+            [
+                "Hitelnyújtás.",
+                true
+            ],
+            [
+                "Banki értékpapír kibocsátás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan definiálja a semleges bankügylet fogalmát?",
+        "Válaszok": [
+            [
+                "Olyan banki ügylet, amely sem forrásszerzést, sem pedig kihelyezést nem keletkeztet a hitelintézet számára. Ilyen például a széfszolgáltatás.",
+                true
+            ],
+            [
+                "A semleges, vagy passzív bankügylet a betétgyűjtéssel összefüggő banki ügyletet jelenti."
+            ],
+            [
+                "Semleges bankügylet a bank operatív munkáját nem érintő feladat, szolgáltatás, például bank által támogatott rendezvények, bank épületeinek felújítása stb."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükséges-e az MNB engedélye, amennyiben a hitelintézet a  pénzügyi szolgáltatási tevékenységének végzését többes kiemelt közvetítő igénybevételével kívánja végezni?",
+        "Válaszok": [
+            [
+                "Nem, az adott hitelintézet belső szabályozási rendszere a mérvadó, felügyeleti engedély nem szükséges."
+            ],
+            [
+                "Nem, az adott hitelintézet szabadon megválaszthatja és végeztetheti tevékenységét kiemelt közvetítővel vagy többes kiemelt közvetítővel, felügyeleti engedély nélkül."
+            ],
+            [
+                "Igen.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi az ún. kereskedelmi bankok általánosságban jellemző elsődleges értékesítési csatornája?",
+        "Válaszok": [
+            [
+                "Kiépített banfiók hálózat.",
+                true
+            ],
+            [
+                "Televíziós és rádiós reklámok."
+            ],
+            [
+                "Internet alapú megoldások."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a bankok fiókhálózatának legfőbb előnye az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A bankok a fiókokat jól megközelíthető, forgalmas földrajzi pontokra telepítik, így szolgáltatásaik bárki által könnyen elérhetővé válnak, megteremtve a személyes konzultáció lehetőségét.",
+                true
+            ],
+            [
+                "A széfszolgáltatás."
+            ],
+            [
+                "A fiókban lehet igényelni az internet alapú megoldásokat, ami jelenleg már a legfontosabb értékesítési csatorna."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Lehet-e magánszemélyként tőzsdei értékpapír adás-vételi tranzakcióra megbízást adni a bankfiókban?",
+        "Válaszok": [
+            [
+                "Igen, értékpapírszámla tulajdonosaként tőzsdei értékpapír adás-vételi megbízás adható olyan bankfiókban, amelynek szolgáltatásai között szerepel ez a lehetőség.",
+                true
+            ],
+            [
+                "Nem, az értékpapírügyleteket kizárólag brókercégen keresztül lehet lebonyolítani, legyen az tőzsdei, vagy tőzsdén kívüli megbízás."
+            ],
+            [
+                "Nem, a bankfiókban tőzsdei ügyletet nem lehet lebonyolítani. Kizárólag tőzsdén kívüli, úgynevezett OTC piaci megbízás adható, amelynek egyik hátránya, hogy ha le akarjuk zárni az ügyletet, a bankfiókból indított ellentranzakció átfutási ideje és teljesülése sokáig eltarthat, akár több hétig is."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A pénzügyi szolgáltatások ügynöki hálózat révén történő értékesítésének mi a legnagyobb előnye az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Könnyebben ellenőrizhető az ügynökök tevékenysége, mivel általában megbízási szerződés keretében dolgoznak a vállalkozásnál."
+            ],
+            [
+                "Nagyszámú, a vállalkozással általában megbízási szerződéssel működő ügynök dolgozik a szolgáltatások értékesítésén. Sok közvetítő, sok potenciális ügyfelet képes a vállalkozás látóterébe hozni.",
+                true
+            ],
+            [
+                "Nagyobb hangsúlyt lehet fektetni az ügynökök szakmai továbbképzésére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) alapján az alábbiak közül mely kategóriába tartozik a hitelintézet és a pénzügyi vállalkozás?",
+        "Válaszok": [
+            [
+                "A pénzügyi intézmények kategóriájába.",
+                true
+            ],
+            [
+                "A pénzforgalmi intézmények kategóriájába."
+            ],
+            [
+                "A bankok kategóriájába."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A pénzügyi szolgáltatási szerződés az alábbiak közül mikor nem minősül távértékesítés keretében megkötöttnek?",
+        "Válaszok": [
+            [
+                "Ha a szerződést telefonon keresztül kötik meg."
+            ],
+            [
+                "Ha a szerződést interneten, a pénzügyi szolgáltató honlapján keresztül kötik meg."
+            ],
+            [
+                "Ha a szerződést a bank székhelyétől eltérő valamely bankfiókban kötik meg.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Nyújthat-e a pénzügyi intézmény pénzügyi szolgáltatást távértékesítés keretében?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Igen, feltéve, hogy erre külön felügyeleti engedéllyel rendelkezik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan határozza meg a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) a pénzpiaci függő közvetítő felelősségi körét az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A függő közvetítő tevékenységéért a megbízó felel. Ilyen például a függő ügynök.",
+                true
+            ],
+            [
+                "A függő közvetítő tevékenységéért saját maga felel. Ilyen például az alkusz."
+            ],
+            [
+                "A függő közvetítő tevékenységéért senki sem felel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Hogyan határozza meg a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) a pénzpiaci független közvetítő felelősségi körét az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A független közvetítő a tevékenysége során okozott kárért saját maga felel. Ilyen például az alkusz.",
+                true
+            ],
+            [
+                "A független közvetítő tevékenységéért a megbízó felel. Ilyen például az ügynök."
+            ],
+            [
+                "A független közvetítő tevékenységéért senki sem felel."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora felelősségbiztosítási összeget ír elő a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) a független közvetítők esetében?",
+        "Válaszok": [
+            [
+                "Káreseményenként 5 millió forint, de évente - együttesen - 50 millió forint. Alkuszoknál káreseményenként 10 millió forint, míg évente legalább 100 millió forint.",
+                true
+            ],
+            [
+                "Káreseményenként 10 millió forint, de évente - együttesen - 100 millió forint."
+            ],
+            [
+                "Káreseményenként 2 millió forint, de évente - együttesen - 20 millió forint."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) előírásai alapján mely kategóriák tartoznak a pénzpiaci függő közvetítők csoportjába?",
+        "Válaszok": [
+            [
+                "A kiemelt közvetítő, a függő ügynök,  a pénzforgalmi közvetítő.",
+                true
+            ],
+            [
+                "Többes kiemelt közvetítő és a többes ügynök."
+            ],
+            [
+                "Kiemelt közvetítő és a többes ügynök."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) előírásai alapján mely kategóriák tartoznak a független közvetítők csoportjába?",
+        "Válaszok": [
+            [
+                "A többes kiemelt közvetítő, a többes ügynök és az alkusz.",
+                true
+            ],
+            [
+                "A kiemelt közvetítő és a függő ügynök."
+            ],
+            [
+                "A kiemelt közvetítő és a többes ügynök."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit értünk alkuszi tevékenység alatt az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Pénzügyi szolgáltatást igénybe venni szándékozó ügyféllel kötött megbízási szerződés alapján és nevében pénzügyi intézménnyel történő pénzügyi szolgáltatási szerződés kiválasztására, megkötésének elősegítésére irányuló tevékenység, amely nem terjed ki az ügyfél nevében, javára történő kockázatvállalásra.",
+                true
+            ],
+            [
+                "Pénzügyi intézménnyel kötött megbízási szerződés alapján pénzügyi szolgáltatás, kiegészítő pénzügyi szolgáltatás nyújtásának, ilyen szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, amelynek során a pénzügyi intézmény kockázatára önállóan kötelezettséget nem vállalnak, szerződést nem kötnek."
+            ],
+            [
+                "Bankközi piaci résztvevők közötti forint-, illetve devizahitel- és betétügylet, deviza-adásvétel közvetítése annak érdekében, hogy a hitelintézetek, továbbá más bankközi piaci résztvevők az erre irányuló jogügyleteket egymással közvetlenül megkössék."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a függő ügynökökkel kapcsolatos helytelen állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A függő ügynök az MNB felügyeleti hatósági engedélye nélkül végezhet ügynöki tevékenységet."
+            ],
+            [
+                "A függő ügynök több pénzügyi intézmény egymással versengő pénzügyi szolgáltatását kínálja a piacon.",
+                true
+            ],
+            [
+                "A pénzügyi intézmény az általa megbízott függő ügynök személyét a felügyeleti hatósági jogkörében eljáró MNB által meghatározott módon és gyakorisággal bejelenti az MNB-nek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a függő közvetítőkkel kapcsolatos helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A függő közvetítő a pénzügyi szolgáltatás közvetítését megelőzően köteles az ügyfelet tájékoztatni arról, hogy függő közvetítőként a megbízó (pénzügyi intézmény) nevében és javára jár el, a megbízó érdekeit képviseli.",
+                true
+            ],
+            [
+                "Függő közvetítő az alkusz."
+            ],
+            [
+                "A pénzügyi szolgáltatást nyújtó személy nem lehet felelős az általa foglalkoztatott függő közvetítő szakmai felkészültségéért."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik pénzpiaci közvetítő nem független közvetítő az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az alkusz."
+            ],
+            [
+                "A többes ügynök."
+            ],
+            [
+                "A kiemelt közvetítő.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik pénzpiaci közvetítő nem függő közvetítő az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A többes ügynök.",
+                true
+            ],
+            [
+                "A kiemelt közvetítő."
+            ],
+            [
+                "A pénzforgalmi közvetítő."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Jelölje meg a független közvetítővel kapcsolatos helytelen állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A független közvetítő a pénzügyi szolgáltatás közvetítését kizárólag az MNB  engedélyével végezheti."
+            ],
+            [
+                "Az MNB a független közvetítő működési engedélyét visszavonhatja, ha a közvetítő működése súlyosan vagy ismétlődően sérti az ügyfelek érdekeit."
+            ],
+            [
+                "Kizárólag a függő közvetítőnek kell felelősségbiztosítást kötnie, a független közvetítőnek nem.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely tevékenységhez kapcsolódóan végezhető a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) alapján jelzáloghitel-közvetítői tevékenység?",
+        "Válaszok": [
+            [
+                "Kiemelt közvetítői tevékenységhez kapcsolódóan.",
+                true
+            ],
+            [
+                "Pénzforgalmi közvetítői tevékenységhez kapcsolódóan."
+            ],
+            [
+                "Alkuszi tevékenységhez kapcsolódóan."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik típusú pénzpiaci közvetítői tevékenységre igaz a következő állítás: pénzügyi intézménnyel kötött megbízási szerződés alapján pénzügyi szolgáltatásra irányuló szerződés megkötésének elősegítésére irányuló tevékenység, ideértve a pénzügyi intézmény nevében, javára és kockázatára történő kötelezettségvállalást vagy a szerződés megkötését is?",
+        "Válaszok": [
+            [
+                "Az alügynöki tevékenységre."
+            ],
+            [
+                "Az alkuszi tevékenységre."
+            ],
+            [
+                "A kiemelt közvetítői tevékenységre.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás helyes a következők közül?",
+        "Válaszok": [
+            [
+                "A megbízó és a többes kiemelt közvetítő számára is felügyeleti engedély szükséges a többes kiemelt közvetítő igénybevételével történő pénzügyi szolgáltatás nyújtásához.",
+                true
+            ],
+            [
+                "A többes kiemelt közvetítés esetén kizárólag a megbízó számára ír elő engedélyezési eljárást a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.)."
+            ],
+            [
+                "A többes kiemelt közvetítés esetén kizárólag a közvetítő számára ír elő engedélyezési eljárást a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.)."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az igaz állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Kiemelt közvetítés esetén csak a megbízó részéről követel meg felügyeleti engedélyt a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.).",
+                true
+            ],
+            [
+                "Kiemelt közvetítés esetén csak a közvetítő részéről követel meg felügyeleti engedélyt a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.)."
+            ],
+            [
+                "Kiemelt közvetítés esetén a közvetítő és a megbízó részéről is felügyeleti engedélyt követel meg a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.)."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) szerint melyik közvetítői tevékenység végzéséhez nem szükséges a közvetítő megbízójának felügyeleti engedélyt beszerezni?",
+        "Válaszok": [
+            [
+                "Kiemelt közvetítő igénybevételével történő pénzügyi szolgáltatás nyújtáshoz."
+            ],
+            [
+                "Többes ügynök igénybevételével történő pénzügyi szolgáltatás nyújtáshoz.",
+                true
+            ],
+            [
+                "Többes kiemelt közvetítő igénybevételével történő pénzügyi szolgáltatás nyújtáshoz."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a pénzpiaci többes kiemelt közvetítőre vonatkozó alábbi állítások közül a hamisat!",
+        "Válaszok": [
+            [
+                "A pénzpiaci többes kiemelt közvetítő jogi személyiséggel rendelkező rt., kft., vagy szövetkezet lehet."
+            ],
+            [
+                "A pénzpiaci többes kiemelt közvetítő vezető állású személyének büntetlen előéletűnek kell lennie; megfelelő szakképesítéssel és legalább három év szakirányú szakmai gyakorlattal kell rendelkeznie."
+            ],
+            [
+                "A pénzpiaci többes kiemelt közvetítő egyéni cégként is kaphat felügyeleti engedélyt.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A pénzváltás közvetítésére csak kiemelt közvetítő vagy többes kiemelt közvetítő kaphat engedélyt. Igaz-e ez az állítás?",
+        "Válaszok": [
+            [
+                "Igen, az állítás ebben a megfogalmazásban helyes."
+            ],
+            [
+                "Nem, az állítás helytelen, mivel pénzváltás közvetítését csak többes kiemelt közvetítő végezheti."
+            ],
+            [
+                "Nem, az állítás helytelen, mivel pénzváltás közvetítését csak kiemelt közvetítő végezheti.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás helytelen a független közvetítők engedélyezésével kapcsolatban?",
+        "Válaszok": [
+            [
+                "Ha a kérelmező többes kiemelt közvetítőként vagy alkuszként kíván működni, a kérelemhez mellékelnie kell a pénzmosás megelőzésére és a terrorizmus finanszírozásának megakadályozására vonatkozó szabályzatát és eljárásrendjét."
+            ],
+            [
+                "Ha a kérelmező többes kiemelt közvetítőként kíván működni, a kérelemhez igazolnia kell a szükséges induló tőke teljes összegének (50 millió Forint) rendelkezésre állását."
+            ],
+            [
+                "Ha a kérelmező többes kiemelt közvetítőként kíván működni, a kérelemhez csatolnia kell hatvan napnál nem régebbi okirati igazolást arról, hogy a nyilvántartásba vétele megtörtént, továbbá hogy nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás helyes a pénzpiaci többes kiemelt következőkre vonatkozóan az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A pénzpiaci többes kiemelt közvetítő részvénytársaságként, korlátolt felelősségű társaságként vagy szövetkezetként működhet.",
+                true
+            ],
+            [
+                "A pénzpiaci többes kiemelt közvetítőnek legalább 10 millió Forint induló tőkével kell rendelkeznie."
+            ],
+            [
+                "Az MNB a pénzpiaci többes kiemelt közvetítő működési engedélyét visszavonja, ha a közvetítő tevékenységét három hónapon túl szünetelteti."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A független közvetítőkre vonatkozó alábbi állítások közül melyik helytelen?",
+        "Válaszok": [
+            [
+                "A független közvetítő tevékenysége során okozott kárért a közvetítő felel."
+            ],
+            [
+                "A többes kiemelt közvetítő és a többes ügynök megbízója felel azért, hogy a megbízási szerződés pontosan, egyértelműen meghatározza a közvetítő feladatait."
+            ],
+            [
+                "A független közvetítő a pénzügyi szolgáltatás közvetítéséért közvetítői díjat a megbízótól nem fogadhat el.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Függő közvetítőkre vonatkozó alábbi állítások közül melyik helytelen?",
+        "Válaszok": [
+            [
+                "A kiemelt közvetítő és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy által e tevékenysége során okozott kárért a megbízó pénzügyi intézmény felel."
+            ],
+            [
+                "A közvetítői díj időbeni ütemezése független a szerződések megkötésétől, illetve a közvetített szolgáltatások futamidejétől.",
+                true
+            ],
+            [
+                "A függő közvetítő a pénzügyi szolgáltatás közvetítéséért kizárólag a megbízó pénzügyi intézménytől jogosult közvetítői díjra."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül? Közvetítővel pénzügyi szolgáltatás közvetítésére megbízási jogviszonyt létesíthet az a természetes személy, aki…",
+        "Válaszok": [
+            [
+                "…szakirányú felsőfokú végzettséggel rendelkezik."
+            ],
+            [
+                "…bármilyen felsőfokú szakképesítéssel rendelkezik.",
+                true
+            ],
+            [
+                "…középfokú végzettséggel és emellett banki, befektetési termékértékesítői szakképesítéssel rendelkezik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a pénzforgalmi közvetítőre vonatkozó helytelen állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A közvetítő nem jogosult az ügyfél nevében a pénzforgalmi intézménytől az ügyfelet megillető pénz átvételére."
+            ],
+            [
+                "A közvetítő jogosult az ügyfél nevében a pénzforgalmi intézménytől az ügyfelet megillető pénz átvételére.",
+                true
+            ],
+            [
+                "A közvetítő köteles az ügyfél által befizetett, a pénzforgalmi intézményt megillető pénzösszegeket elkülönített számlán tartani."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely kötelezettség nem terheli valamennyi típusú független pénzpiaci közvetítőt?",
+        "Válaszok": [
+            [
+                "Nyilvántartás vezetése az ügyféllel kötött közvetítői szerződésről és a közvetített pénzügyi szolgáltatási szerződésről."
+            ],
+            [
+                "A független közvetítői tevékenységgel kapcsolatos iratok három évig történő megőrzése."
+            ],
+            [
+                "A pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására vonatkozó saját szabályzat és eljárásrend készítése.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Szükséges-e felügyeleti működési engedély beszerzése a függő jelzáloghitel-közvetítő tevékenység végzéséhez?",
+        "Válaszok": [
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, működési engedélyre nincs szükség, hanem a pénzügyi intézménynek szükséges beszereznie engedélyt a függő jelzáloghitel-közvetítő igénybevételéhez."
+            ],
+            [
+                "Nem, a függő jelzáloghitel-közvetítő engedély nélkül, bejelentés alapján folytathatja ezt a tevékenységét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Terheli-e a függő közvetítőt – a pénzügyi szolgáltatás közvetítését megelőzően – tájékoztatási kötelezettség az ügyfelek felé?",
+        "Válaszok": [
+            [
+                "Nem, ez függő közvetítőként nem szükséges, hiszen független gazdasági alanyként nem érdeke, hogy előtérbe helyezzen az ügyfél számára egy konkrét szolgáltatást a többivel szemben."
+            ],
+            [
+                "Nem, de az ügyfél kérésére el kell mondania a cégnevét, a székhelyét és a felügyeleti hatóságának megjelölését."
+            ],
+            [
+                "Igen, az ügyfelet minden esetben tájékoztatnia kell többek között a cégnevéről, a székhelyéről és a felügyeleti hatóságáról.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kötelezettsége-e a független közvetítőnek tájékoztatást nyújtania a fogyasztó számára arról, hogy a pénzügyi szolgáltatás közvetítéséért közvetítői díjat kizárólag a megbízótól fogadhat el?",
+        "Válaszok": [
+            [
+                "Nem, sőt független közvetítőként kiegészítő közvetítői díjat elfogadhat, illetve kiszámlázhat ügyfele számára."
+            ],
+            [
+                "Nem, ilyen tájékoztatási kötelezettség a fogyasztó felé nem terheli, de független közvetítőként csak a megbízótól fogadhat el közvetítői díjat."
+            ],
+            [
+                "Igen, minden esetben a fogyasztót írásban vagy más tartós adathordozón tájékoztatni kell arról, hogy közvetítői díjat kizárólag a megbízótól fogadhat el.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A független közvetítő köteles-e az ügyfele számára kielégítő mennyiségű, de - ha piacon hozzáférhető - legalább három szolgáltató versengő szolgáltatásnak minősülő ajánlatát elemezni és átadni (amennyiben csupán kettő versengő szolgáltatást közvetít, akkor azt a kettőt)?",
+        "Válaszok": [
+            [
+                "Igen,  és amennyiben a független közvetítő kizárólag két szolgáltatást közvetít, akkor azt a kettőt kell elemezni és átadni.",
+                true
+            ],
+            [
+                "Nem, minimális ajánlattételre nincsen előírás."
+            ],
+            [
+                "Nem, mivel a független közvetítőnek valamennyi szolgáltatással meg kell ismertetnie az ügyfelet, ezáltal tudja csak biztosítani teljes piaci függetlenségét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás helytelen a független közvetítőkkel kapcsolatban?",
+        "Válaszok": [
+            [
+                "A többes ügynök és az alkusz felelős a téves tanácsadásért, az iratok és a nyilatkozatok késedelmes továbbításáért."
+            ],
+            [
+                "Az alkusz a pénzügyi szolgáltatás megkötésének elősegítése során feltár és elemez minden olyan lehetséges ajánlatot, amely az ügyfél céljainak elérésére alkalmas."
+            ],
+            [
+                "A közvetítői díj időbeni ütemezésének nem kell arányosnak lennie a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A függő közvetítőkre vonatkozó alábbi állítások közül válassza ki a helytelen meghatározást!",
+        "Válaszok": [
+            [
+                "A kiemelt közvetítő és az általa az e tevékenységre igénybe vett, vele megbízási, illetve munkavégzésre irányuló egyéb jogviszonyban álló személy által e tevékenysége során okozott kárért a megbízó pénzügyi intézmény felel."
+            ],
+            [
+                "A függő közvetítő a pénzügyi szolgáltatás közvetítéséért az ügyféltől is jogosult közvetítői díj beszedésére.",
+                true
+            ],
+            [
+                "A függő közvetítőnek a pénzügyi szolgáltatás közvetítést megelőzően tájékoztatási kötelezettsége áll fenn az ügyféllel szemben."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Köteles-e a pénzügyi intézménytől díjazásban részesülő független közvetítő a fogyasztót tájékoztatni arról, hogy mennyiben tér el egymástól a fogyasztónak kínált hiteleket nyújtó pénzügyi intézmények által számára fizetendő díjazás mértéke?",
+        "Válaszok": [
+            [
+                "Igen, minden esetben, a fogyasztó külön kérése hiányában is."
+            ],
+            [
+                "Igen, de csak a fogyasztó kérésére.",
+                true
+            ],
+            [
+                "Nem."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül a független pénzpiaci közvetítő miről nem köteles a pénzügyi szolgáltatás közvetítését megelőzően a pénzügyi szolgáltatást igénybe venni szándékozó fogyasztót tájékoztatni?",
+        "Válaszok": [
+            [
+                "A felügyeleti hatóságának megjelöléséről."
+            ],
+            [
+                "Arról, hogy a tevékenysége során okozott kárért a fogyasztó felé a független pénzpiaci közvetítő áll helyt."
+            ],
+            [
+                "Arról, hogy a pénzügyi szolgáltatás közvetítése, illetve hiteltanácsadás mellett milyen egyéb tevékenységeket végez.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A pénzpiaci közvetítő az alábbiak közül milyen formában köteles a pénzügyi szolgáltatást igénybe venni szándékozó fogyasztót tájékoztatni a cég nevéről, székhelyéről, levelezési címéről, felügyeleti hatóságának megjelöléséről?",
+        "Válaszok": [
+            [
+                "Kizárólag írásban adhat tájékoztatást."
+            ],
+            [
+                "Írásban vagy más tartós adathordozón.",
+                true
+            ],
+            [
+                "Elegendő a fogyasztót szóban tájékoztatnia."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki, hogy melyik megállapítás igaz a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bankra vonatkozóan!",
+        "Válaszok": [
+            [
+                "A Magyar Nemzeti Bank kizárólagosan jogosult a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatok ellátására Magyarországon.",
+                true
+            ],
+            [
+                "A Magyar Nemzeti Bankot felügyeleti jogkörének vonatkozásában a Kormány bármikor kötelezheti eljárás lefolytatására."
+            ],
+            [
+                "A pénzügyi közvetítőrendszer felügyelete a Magyar Nemzeti Bankról szóló törvény szerint a Magyar Nemzeti Bank alapvető feladatai közé tartozik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi nem tartozik a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank feladatai közé az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelintézeteknél elhelyezett betétek befagyása esetén a betétes részére a vonatkozó jogszabályban meghatározott kártalanítási összeg kifizetése",
+                true
+            ],
+            [
+                "A pénzügyi közvetítőrendszer stabil, zavartalan, átlátható és hatékony működésének biztosítása."
+            ],
+            [
+                "A pénzügyi szervezetek által nyújtott szolgáltatásokat igénybevevők érdekeinek védelme, a pénzügyi közvetítőrendszerrel szembeni közbizalom erősítése."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik szervezet engedélyezi és ellenőrzi Magyarországon a hitelintézetek és a pénzügyi vállalkozások tevékenységét?",
+        "Válaszok": [
+            [
+                "A Magyar Nemzeti Bank.",
+                true
+            ],
+            [
+                "A Nemzetgazdasági Minisztérium."
+            ],
+            [
+                "A Bankszövetség."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kinek az engedélye szükséges Magyarországon a hitelintézet betétállományának átruházásához?",
+        "Válaszok": [
+            [
+                "Az állomány-átruházáshoz nem szükséges engedély."
+            ],
+            [
+                "A betéteseké."
+            ],
+            [
+                "A Magyar Nemzeti Banké.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül kinek köteles a független közvetítő felügyeleti díjat fizetni Magyarországon?",
+        "Válaszok": [
+            [
+                "A Magyar Nemzeti Banknak.",
+                true
+            ],
+            [
+                "A Gazdasági Versenyhivatalnak."
+            ],
+            [
+                "A Magyar Kereskedelmi Engedélyezési Hivatalnak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely esetben indít a Magyar Nemzeti Bank piacfelügyeleti eljárást?",
+        "Válaszok": [
+            [
+                "A 236/2012/EU európai parlamenti és tanácsi rendeletben előírt bejelentési és közzétételi kötelezettségre és a fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése, valamint a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése során észlelt, a bennfentes kereskedelem és piacbefolyásolás, piaci manipuláció, engedély vagy bejelentés nélküli tevékenység végzésének gyanúja esetén.",
+                true
+            ],
+            [
+                "A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény rendelkezései megtartásának ellenőrzése céljából."
+            ],
+            [
+                "A fogyasztó kérelmére."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mely feladatok ellátása nem minősül a Magyar Nemzeti Bank alapvető feladatának?",
+        "Válaszok": [
+            [
+                "A pénzügyi intézmények közvetlen irányítása.",
+                true
+            ],
+            [
+                "A monetáris politika meghatározása és megvalósítása."
+            ],
+            [
+                "Bankjegy- és érmekibocsátás."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Kérhet-e és elfogadhat-e utasításokat a Magyar Nemzeti Bank az Európai Központi Banktól a Magyar Nemzeti Bankról szóló törvényben foglalt feladatai végrehajtása és kötelességei teljesítése során?",
+        "Válaszok": [
+            [
+                "Igen, mivel Magyarország az Európai Unió tagja."
+            ],
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "A Magyar Nemzeti Bank igen, de szerveinek tagjai nem."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a Magyar Nemzeti Bankra vonatkozó helytelen állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Magyarország központi bankja a Központi Bankok Európai Rendszerének és a Pénzügyi Felügyeletek Európai Rendszerének a tagja."
+            ],
+            [
+                "Az MNB, valamint szerveinek tagjai a törvényben foglalt feladataik végrehajtása és kötelességeik teljesítése során függetlenek, nem kérhetnek és nem fogadhatnak el utasításokat a Kormánytól, az Európai Központi Bank és egyes felügyeleti feladatok ellátásából adódó kivételekkel az Európai Unió intézményeitől, szerveitől, hivatalaitól, tagállamainak kormányaitól vagy bármilyen más szervezettől, illetve politikai párttól."
+            ],
+            [
+                "Az MNB elnöke a Kormánynak beszámolási kötelezettséggel tartozik.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a Magyar Nemzeti Bank elsődleges célja?",
+        "Válaszok": [
+            [
+                "Az euro övezethez történő mielőbbi csatlakozás."
+            ],
+            [
+                "Az árstabilitás elérése és fenntartása.",
+                true
+            ],
+            [
+                "Az, hogy a monetáris politika eszközrendszerét felhasználva támogassa a Kormányt a gazdaságpolitikai irányításban."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyek tartoznak a Magyar Nemzeti Bank alapvető feladataihoz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A monetáris politika meghatározása és annak megvalósítása. Bankjegy- és érmekibocsátás. Deviza- és aranytartalék képzése, annak kezelése. A fizetési és elszámolási rendszerek felvigyázása és részvétel annak kialakításában. A makroprudenciális politika kialakítása.",
+                true
+            ],
+            [
+                "Lakossági hitelezés, betétgyűjtés és ahhoz kapcsolódó banki szolgáltatások."
+            ],
+            [
+                "A Kormány gazdaságpolitikájának elősegítése minden monetáris politikai eszköz segítségével."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a Magyar Nemzeti Bank más szervekkel való kapcsolatára vonatkozó helytelen állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az MNB-t a törvényben meghatározott feladatkörében a Kormány utasíthatja.",
+                true
+            ],
+            [
+                "Az MNB elnöke az MNB tevékenységéről és monetáris politikájáról évente beszámol az Országgyűlésnek. Az Országgyűlés eseti tájékoztatást is kérhet az MNB elnökétől."
+            ],
+            [
+                "A miniszter a költségvetés Kormány által történő elfogadását követően az MNB-t haladéktalanul tájékoztatja a központi költségvetésről szóló törvény tervezetéről. Az MNB jogosult a tervezettel kapcsolatos véleményét közvetlenül megküldeni a miniszternek. Ezt a véleményt a Költségvetési Tanács ülésén az MNB elnöke jeleníti meg. Az így megjelenített vélemény azonban nem köti az MNB elnökét a Költségvetési Tanács tagjaként biztosított jogainak szabad gyakorlásában."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a Magyar Nemzeti Bankra vonatkozó helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az MNB jegyzett tőkéje tízmilliárd forint, társasági formája részvénytársaság.",
+                true
+            ],
+            [
+                "Az MNB alapító okiratát a mindenkori részvényesek állapítják meg, amelyet be kell mutatni a Kormánynak és a köztársasági elnöknek."
+            ],
+            [
+                "Az MNB részvényei az állam tulajdonában vannak. Az államot, mint részvénytulajdonost az MNB-ben a Kormány képviseli."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Magyar Nemzeti Bank a pénzügyi közvetítőrendszer felügyeletének ellátása keretében az alábbiak közül kiknek a felügyeletét látja el?",
+        "Válaszok": [
+            [
+                "Kizárólag a közvetítők felügyeletét látja el."
+            ],
+            [
+                "A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény hatálya alá tartozó személyek közül azoknak a felügyeletét, akik a Magyar Nemzeti Bankhoz csatlakoztak."
+            ],
+            [
+                "A hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Minek minősül a versenytárgyalás és a pályáztatás tisztaságának megsértése az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Tisztességtelen piaci magatartásnak.",
+                true
+            ],
+            [
+                "Etikus piaci magatartásnak."
+            ],
+            [
+                "Tisztességes piaci magatartásnak."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbi felsorolások közül melyik tartalmazza a \"tisztességtelen verseny\" lehetséges példáit?",
+        "Válaszok": [
+            [
+                "Pl. hírnévrontás, bojkott-felhívás, szolgai utánzás, a versenytárgyalás és a pályáztatás tisztaságának megsértése.",
+                true
+            ],
+            [
+                "Pl. a fogyasztó megtévesztése, a fogyasztó választási szabadságának korlátozása, áru árára és lényeges tulajdonságára tett hamis közlés."
+            ],
+            [
+                "Pl. a piaci elemzések elkészítése."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik minősül a fogyasztóvédelem céljának?",
+        "Válaszok": [
+            [
+                "Pl. hírnévrontás, üzleti titok megsértése, bojkott-felhívás, szolgai utánzás tényének nyilvánosságra hozatala."
+            ],
+            [
+                "Pl. a fogyasztók megtévesztése, a fogyasztó választási szabadságának korlátozása, áru árára és lényeges tulajdonságára tett hamis közlés megakadályozása és büntetése.",
+                true
+            ],
+            [
+                "Pl. a versenytárgyalás és a pályáztatás tisztaságának megsértése esetén nyilvános felhívás közzététele."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik tartalmazza a versenykorlátozó megállapodások lehetséges példáit?",
+        "Válaszok": [
+            [
+                "Pl. hírnévrontás, üzleti titok megsértése, bojkott-felhívás, szolgai utánzás, a versenytárgyalás és a pályáztatás tisztaságának megsértése."
+            ],
+            [
+                "Pl. a fogyasztó megtévesztése, a fogyasztó választási szabadságának korlátozása, áru árára és lényeges tulajdonságára tett hamis közlés."
+            ],
+            [
+                "Pl. a kartellek.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi megállapítás nem igaz a \"gazdasági erőfölénnyel való visszaélés\" szabályozására?",
+        "Válaszok": [
+            [
+                "Gazdasági erőfölénnyel rendelkezni nem tilos, azonban az erőfölénnyel visszaélni nem szabad. Ez esetben az úgynevezett \"visszaélési elv\" érvényesül."
+            ],
+            [
+                "Gazdasági erőfölény megszerzése önmagában is tilos, a szabályozás célja ennek mihamarabbi megakadályozása, a tisztességes piaci körülmények és a verseny fenntartása.",
+                true
+            ],
+            [
+                "Az erőfölényes vállalkozás(ok) legveszélyesebb, tiltott piaci magatartásainak hátterében olyan stratégiák állnak, amelyek célja az egyébként is meggyengült piaci verseny további korlátozása a versenytársak kiszorítása, terjeszkedésük akadályozása vagy a hatékony versenyzéstől való elrettentése révén."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Létezik-e ilyen versenyjogi szabály: „Tilos valótlan tény állításával vagy híresztelésével, valamint valós tény hamis színben való feltüntetésével, úgyszintén egyéb magatartással a versenytárs jó hírnevét vagy hitelképességét sérteni, illetőleg veszélyeztetni.”?",
+        "Válaszok": [
+            [
+                "Létezik ilyen szabály, de nem a versenyjog körében."
+            ],
+            [
+                "Nem."
+            ],
+            [
+                "Igen.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a kartellel kapcsolatos hamis állítást!",
+        "Válaszok": [
+            [
+                "A kartell olyan versenytárs vállalatok közötti titkos megállapodás, amely a verseny kiiktatására vagy legalábbis annak korlátozására vonatkozik."
+            ],
+            [
+                "Bárki a versenyhatósághoz fordulhat, akinek információja van egy kartellről."
+            ],
+            [
+                "A kartell megengedett, ha az kizárólag egymástól független versenytárs vállalkozások között jön létre.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás helytelen a Nemzeti Adatvédelmi és Információszabadság Hatósággal kapcsolatban?",
+        "Válaszok": [
+            [
+                "A Nemzeti Adatvédelmi és Információszabadság Hatóság autonóm államigazgatási szerv."
+            ],
+            [
+                "A Nemzeti Adatvédelmi és Információszabadság Hatóság feladata a személyes adatok védelméhez, valamint a közérdekű, és a közérdekből nyilvános adatok megismeréséhez való jog érvényesülésének ellenőrzése és elősegítése, továbbá a személyes adatok Európai Unión belüli szabad áramlásának elősegítése."
+            ],
+            [
+                "A Nemzeti Adatvédelmi és Információszabadság Hatóság kizárólag a Kormánynak köteles beszámolni tevékenységéről.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás helyes a Nemzeti Adatvédelmi és Információszabadság Hatósággal kapcsolatban?",
+        "Válaszok": [
+            [
+                "A Nemzeti Adatvédelmi és Információszabadság Hatóság számára feladatot csak törvény állapíthat meg.",
+                true
+            ],
+            [
+                "A Nemzeti Adatvédelmi és Információszabadság Hatóság vizsgálati jogosultsága a magánszektor adatkezelőire terjed ki."
+            ],
+            [
+                "Személyes adatok kezelésével kapcsolatos jogsérelem esetén, vagy annak közvetlen fennálló veszélyekor a helyi önkormányzat foglalkozik a kivizsgálással, nem pedig a Nemzeti Adatvédelmi és Információszabadság Hatóság."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A polgárok személyi adatainak és lakcímének nyilvántartásával kapcsolatban melyik alábbi állítás hamis?",
+        "Válaszok": [
+            [
+                "A polgár - ha törvény eltérően nem rendelkezik - megtilthatja a róla nyilvántartott adatok kiadását. Ezután csak a polgár eseti engedélye alapján lehet kiadni az adatokat."
+            ],
+            [
+                "Az adatnyilvántartás olyan hatósági nyilvántartás, amely a polgároknak a törvényben meghatározott személyi és lakcím adatait, valamint az azokban bekövetkezett változásokat tartalmazza."
+            ],
+            [
+                "A magyar állampolgárok - eljárási díj ellenében - kérhetik adataiknak az adatnyilvántartásból való törlését.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A kutatás és a közvetlen üzletszerzés célját szolgáló név- és lakcímadatok kezelésével kapcsolatban döntse el melyik állítás igaz az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A tudományos kutató (a közvélemény-kutató és a piackutató)kapcsolatfelvétel céljából név- és lakcímadatot más, ugyanazon tevékenységet végző személytől vagy szervtől nem vehet át, azt nem használhatja fel."
+            ],
+            [
+                "A tudományos kutatónak a kapcsolatfelvétellel egyidejűleg az érintettet írásban tájékoztatni kell arról, hogy a megkereső az adatokat milyen forrásból szerezte.",
+                true
+            ],
+            [
+                "Akkor sem lehet azt elhagyni, vagy az adatgyűjtés végére halasztani  a személyes adatokkal kapcsolatos tájékoztatási kötelezettséget, ha az a kutatási cél megvalósulását veszélyeztetné."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A minősített adat védelméről szólótörvény előírásai alapján melyik nem minősítési kategória az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Az államtitok.",
+                true
+            ],
+            [
+                "A szigorúan titkos."
+            ],
+            [
+                "A titkos."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mire szolgál a közadatkereső (közadattár)?",
+        "Válaszok": [
+            [
+                "Arra, hogy a közoktatási intézmények meghatározott adatokat közöljenek."
+            ],
+            [
+                "A közadatkereső használatával bárki hozzáférhet a közzétételre kötelezett szervek közzétett adataihoz, pontosabban az arra utaló hivatkozásokhoz.",
+                true
+            ],
+            [
+                "Arra, hogy - egyébként nem hozzáférhető - közérdekű adatok nyilvánosságra kerüljenek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik az a magyar hatóság, melynek feladata a személyes adatok védelméhez, valamint a közérdekű és a közérdekből nyilvános adatok megismeréséhez való jog érvényesülésének ellenőrzése és elősegítése, továbbá a személyes adatok Európai Unión belüli szabad áramlásának elősegítése?",
+        "Válaszok": [
+            [
+                "Az Európai Központi Bank."
+            ],
+            [
+                "A Nemzeti Adatvédelmi és Információszabadság Hatóság.",
+                true
+            ],
+            [
+                "A GDPR felügyeletének feladatkörében eljáró Magyar Nemzeti Bank."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mit nevezünk banktitoknak?",
+        "Válaszok": [
+            [
+                "Banktitok minden olyan, az egyes ügyfelekről a pénzügyi intézmény rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint a pénzügyi intézmény által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzügyi intézménnyel kötött szerződéseire vonatkozik.",
+                true
+            ],
+            [
+                "Banktitok a bank gazdasági tevékenységhez kapcsolódó minden olyan tény, információ, megoldás vagy adat, amelynek nyilvánosságra hozatala, illetéktelenek által történő megszerzése vagy felhasználása a jogosult - ide nem értve a magyar államot - jogszerű pénzügyi, gazdasági vagy piaci érdekeit sértené vagy veszélyeztetné, és amelynek titokban tartása érdekében a jogosult a szükséges intézkedéseket megtette."
+            ],
+            [
+                "Banktitok más néven értékpapírtitok. Az egyes ügyfelek által igénybevett befektetési szolgáltatásokkal kapcsolatos információk, amelyek illetéktelen kezekbe kerülése mind az ügyfelek jogait, mind a bank prudenciális működését közvetlenül veszélyeztetné."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a különbség a banktitok és az értékpapírtitok fogalma között?",
+        "Válaszok": [
+            [
+                "A banktitok a pénzügyi intézmény rendelkezésére álló, az ügyfeleire vonatkozó tény, információ, adat, míg az értékpapírtitok elsősorban az ügyfélről a befektetési alapkezelő, a befektetési vállalkozás, az árutőzsdei szolgáltató, a kockázati tőkealap-kezelő, a tőzsde, központi szerződő fél, központi értéktár, multilaterális kereskedési rendszer működtetője ügyfelekről rendelkezésére álló adat.",
+                true
+            ],
+            [
+                "A banktitok a hitelintézetek ügyfeleivel kapcsolatos tények, információk, adatok vagy megoldások, míg az értékpapírtitok a hitelintézet gazdasági tevékenységéhez kapcsolódó tény, információ, megoldás vagy adat."
+            ],
+            [
+                "Nincs különbség, ugyanis minden banktitok értékpapírtitok."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a különbség a banktitok és a fizetési titok között?",
+        "Válaszok": [
+            [
+                "A banktitok azonos az üzletit titokkal, a fizetési titok ezzel szemben nem védett információ."
+            ],
+            [
+                "A kettő fogalom tartalma azonos, a különbség az, hogy a fizetési titkot hitelintézetnek nem minősülő pénzforgalmi intézmény és elektronikuspénz-kibocsátó intézmények, a banktitkot pedig a pénzügyi intézmények vonatkozásában értelmezzük.",
+                true
+            ],
+            [
+                "A fizetési titok megegyezik a befektetési szolgáltatásokra értendő értékpapírtitokkal, a banktitok pedig a pénzügyi szolgáltatásokhoz kapcsolódó fogalom."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Definiálja az üzleti titok fogalmát!",
+        "Válaszok": [
+            [
+                "A gazdasági tevékenységhez kapcsolódó, titkos - egészben, vagy elemeinek összességeként nem közismert vagy az érintett gazdasági tevékenységet végző személyek számára nem könnyen hozzáférhető -, ennélfogva vagyoni értékkel bíró olyan tény, tájékoztatás, egyéb adat és az azokból készült összeállítás, amelynek a titokban tartása érdekében a titok jogosultja az adott helyzetben általában elvárható magatartást tanúsítja.",
+                true
+            ],
+            [
+                "Minden olyan, az egyes ügyfelekről a pénzügyi intézmény rendelkezésére álló tény, információ, megoldás vagy adat, amely ügyfél személyére, adataira, vagyoni helyzetére, üzleti tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, valamint a pénzügyi intézmény által vezetett számlájának egyenlegére, forgalmára, továbbá a pénzügyi intézménnyel kötött szerződéseire vonatkozik."
+            ],
+            [
+                "Minden olyan, az egyes ügyfélről a befektetési alapkezelő, a kockázati tőkealap-kezelő, a tőzsde, az elszámolóházi tevékenységet végző szervezet, központi értéktár, központi szerződő fél rendelkezésére álló adat, amely az ügyfél személyére, adataira, vagyoni helyzetére, üzleti befektetési tevékenységére, gazdálkodására, tulajdonosi, üzleti kapcsolataira, illetve a befektetési alapkezelővel, a kockázati tőkealap-kezelővel, a tőzsdével, az elszámolóházi tevékenységet végző szervezettel, a központi értéktárral, a központi szerződő féllel kötött szerződéseire, számlájának egyenlegére és forgalmára vonatkozik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az üzleti titok és a banktitok közös szabálya közül válassza ki a helyes megfogalmazást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Aki üzleti vagy banktitok birtokába jut, köteles azt időbeli korlátozás nélkül megtartani, kivéve ha jogszabály felmentést ad a titok megtartásának kötelezettsége alól.",
+                true
+            ],
+            [
+                "Aki üzleti vagy banktitok birtokába jut, köteles ezt 30 napon belül az érintett gazdálkodó szervezet tudomására hozni."
+            ],
+            [
+                "Aki üzleti vagy banktitok birtokába jut, köteles 60 napon belül értesíteni az érintett gazdálkodó szervezetet, illetve az ügyben érintett hatóságot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az alábbiak közül a banktitok harmadik személyek részére való kiadásával kapcsolatos hamis állítást!",
+        "Válaszok": [
+            [
+                "A banktitok kiadható harmadik személynek, ha a pénzügyi intézmény ügyfele, vagy annak törvényes képviselője a rá vonatkozó kiszolgáltatható banktitok-kört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad."
+            ],
+            [
+                "A banktitok kiadható harmadik személynek, ha a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi."
+            ],
+            [
+                "A banktitok kiadható harmadik személynek, ha azt a pénzügyi szolgáltatás közvetítésben közreműködő pénzpiaci közvetítő a kiszolgáltatható banktitok-kört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A pénzügyi szolgáltatók az üzleti kapcsolat létesítésekor nem kötelesek átvilágítani az ügyfelet. Ilyen kötelezettségük kizárólag akkor keletkezik, ha pénzmosásra vagy terrorizmusra utaló körülményt vagy tényt tárnak fel."
+            ],
+            [
+                "A pénzügyi szolgáltatók az üzleti kapcsolat létesítésekor nem kötelesek átvilágítani az ügyfelet. Ilyen kötelezettségük kizárólag akkor van, ha a korábban rögzített ügyfélazonosító adatok valódiságával kapcsolatban kétség merül fel."
+            ],
+            [
+                "A pénzügyi szolgáltatók többek között az üzleti kapcsolat létesítésekor kötelesek átvilágítani az ügyfeleket, valamint akkor is, ha az ügyfélazonosító adatok valódiságával vagy megfelelőségével kapcsolatosan kétség merül fel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Elfogadhat-e pénzügyi intézmény ügyleti megbízást azon ügyfelektől, akikre a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti átvilágítási adatok és a tényleges tulajdonosra vonatkozó nyilatkozatok nem állnak teljes körűen rendelkezésére?",
+        "Válaszok": [
+            [
+                "Kizárólag önálló eseti megbízásokat fogadhat el."
+            ],
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Igen."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik eset nem a bankszámla felhasználásával elkövetett pénzmosás tipikus esete az alábbiak közül?",
+        "Válaszok": [
+            [
+                "Ügyfél által több bankszámla vezetése, ugyanannál a banknál, anélkül, hogy ez indokolt lenne. Gyakori tranzakciók a számlákon, átvezetések, racionális indokok nélkül."
+            ],
+            [
+                "Nagy összegű betét után járó kamat felvétele.",
+                true
+            ],
+            [
+                "Több személytől, cégtől ugyanarra a számlára érkező, rendszeres kisösszegű átutalások, amelyeket továbbutalnak egy harmadik számlára, amelyik nincs látható összefüggésben az adott számlával."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Pénzmosás gyanúja esetén milyen módon köteles a hitelintézet bejelentést tenni?",
+        "Válaszok": [
+            [
+                "A bejelentést haladéktalanul, telefonon keresztül kell megtenni."
+            ],
+            [
+                "A bejelentést kódolt üzenet formájában, postai úton kell megtenni."
+            ],
+            [
+                "A bejelentést védelemmel ellátott elektronikus üzenet formájában továbbítva kell megtenni az erre a célra létrehozott belső banki rendszerben.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény alapján az alábbiak közül ki jogosult az ügyfél-átvilágítási intézkedések során a természetes személy ügyfele képmásának rögzítésére?",
+        "Válaszok": [
+            [
+                "Bárki, aki pénzmosásra vagy terrorizmus finanszírozására utaló körülményt észlel."
+            ],
+            [
+                "A többes kiemelt közvetítő."
+            ],
+            [
+                "A játékkaszinót, kártyatermet működtető szolgáltató.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény alapján az alábbiak közül mely pénzpiaci közvetítő köteles saját belső pénzmosás megelőzési szabályzatot készíteni?",
+        "Válaszok": [
+            [
+                "A többes kiemelt közvetítő és az alkusz.",
+                true
+            ],
+            [
+                "Minden független pénzpiaci közvetítő."
+            ],
+            [
+                "Kizárólag a jelzáloghitel-közvetítő."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az Országos Betétbiztosítási Alapra (OBA) vonatkozóan?",
+        "Válaszok": [
+            [
+                "Kivétel nélkül valamennyi hitelintézet fióktelepe köteles csatlakozni az OBA-hoz.",
+                true
+            ],
+            [
+                "Az OBA célja, hogy a vele tagsági jogviszonyban álló hitelintézet tevékenységi engedélyének törvényben meghatározott esetekben történő visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén kártalanítást fizessen a betétesek számára, hitelintézetenként, a törvényben meghatározott kereten belül."
+            ],
+            [
+                "Az OBA által nyújtott biztosítás kizárólag a névre szóló betétekre terjed ki."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mekkora az Országos Betétbiztosítási Alap (OBA) által kifizethető legmagasabb biztosítási összeg?",
+        "Válaszok": [
+            [
+                "Az OBA a kártalanításra jogosult személy részére a betétkövetelés tőke- és kamatösszegét személyenként és hitelintézetenként összevontan legfeljebb 100.000 euró összeghatárig fizeti ki kártalanításként, azzal, hogy a kártalanításra jogosult természetes személy részére bizonyos feltételek esetén további legfeljebb 50.000 euró összeghatárig fizet kártalanítást.",
+                true
+            ],
+            [
+                "Az OBA a kártalanításra jogosult természetes személy részére a betétkövetelés tőke- és kamatösszegét személyenként és hitelintézetenként összevontan legfeljebb 100.000 euró összeghatárig fizeti ki kártalanításként, míg a kártalanításra jogosult nem természetes személy részére legfeljebb 50.000 euró összeghatárig fizet kártalanítást."
+            ],
+            [
+                "Az OBA a kártalanításra jogosult természetes személy részére a betétkövetelés tőke- és kamatösszegét személyenként és hitelintézetenként összevontan legfeljebb 6.000.000 forint összeghatárig fizeti ki kártalanításként."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A kártalanítás kifizetéséhez kapcsolódóan milyen határidők vonatkoznak az Országos Betétbiztosítási Alapra (OBA)?",
+        "Válaszok": [
+            [
+                "A hitelintézet tevékenységi engedélye visszavonásáról hozott határozat közlésének, vagy a felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzése közzétételének időpontját követő napon megkezdi az OBA a betétesek részére a kártalanítás kifizetését, és főszabály szerint 15 munkanapon belül a betétesek rendelkezésére bocsátja a kártalanítást.",
+                true
+            ],
+            [
+                "A kártalanítás kifizetése vonatkozásában a vonatkozó jogszabály nem ír elő határidőt, azt az OBA minden esetben egyedileg határozza meg."
+            ],
+            [
+                "Az OBA a kártalanítást a kártalanítás kezdő időpontjától számított 30 napon belül köteles kifizetni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az Országos Betétbiztosítási Alap (OBA) által fizetendő kártalanítás kifizetéséhez a betétesnek kell-e kérelmet benyújtania?",
+        "Válaszok": [
+            [
+                "Igen, ez a kártalanítás kifizetésének előfeltétele minden esetben."
+            ],
+            [
+                "Csak akkor, ha a betétes a kártalanítás kezdő időpontját követő 2 munkanapon belül szeretné megkapni a kártalanítást."
+            ],
+            [
+                "Nem.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Jelölje meg az Országos Betétbiztosítási Alap (OBA) forrásait az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az OBA a központi költségvetés önálló fejezete, annak forrása az éves költségvetés részeként kerül meghatározásra."
+            ],
+            [
+                "Az OBA a központi költségvetés önálló fejezete, annak forrása az éves költségvetés részeként kerül meghatározásra. A hitelintézeteknek külön kell fizetni egyszeri csatlakozási díjat és éves díjat, valamint hitelt kell nyújtaniuk az OBA számára bizonyos esetekben."
+            ],
+            [
+                "A hitelintézetek egyszeri csatlakozási díja, rendszeres és rendkívüli éves befizetései, az OBA által felvett kölcsön, egyéb bevételek, az OBA által kibocsátott kötvény.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki az Országos Betétbiztosítási Alapra (OBA) vonatkozó helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az elmúlt években a betétbiztosítás összeghatára - részben az európai uniós tendenciákkal összhangban - emelkedett.",
+                true
+            ],
+            [
+                "Az elmúlt években a betétbiztosítás összeghatára - az európai uniós tendenciáknak ellentmondva - emelkedett."
+            ],
+            [
+                "Az elmúlt években a betétbiztosítás összeghatára - részben az európai uniós tendenciákkal összhangban - csökkent."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az Országos Betétbiztosítási Alap (OBA) által biztosított betétek esetében a hitelintézet és a betétes között van helye beszámításnak?",
+        "Válaszok": [
+            [
+                "Nincs."
+            ],
+            [
+                "Akkor van helye, ha a hitelintézetnek a betétessel szemben hitellel vagy más pénzügyi ügylettel kapcsolatos lejárt tartozása van."
+            ],
+            [
+                "Akkor van helye, ha a betétesnek a hitelintézettel szemben a kártalanítás kezdő időpontját megelőzően lejárt tartozása van.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbi, az Országos Betétbiztosítási Alapra (OBA) vonatkozó állítások közül melyik a helyes?",
+        "Válaszok": [
+            [
+                "Az OBA köteles legalább két országos napilapban, valamint honlapján közzétenni a betétesek kártalanításának feltételeit, és a lebonyolításával kapcsolatos információkat.",
+                true
+            ],
+            [
+                "Az OBA kizárólag a kártalanításra jogosult kérelmére ad tájékoztatást a kártalanítás feltételeiről, és a lebonyolítással kapcsolatos információkról."
+            ],
+            [
+                "Az OBA kizárólag a kártalanítással érintett hitelintézetet köteles tájékoztatni a betétesek kártalanításának feltételeiről és a lebonyolítással kapcsolatos információkat a hitelintézet honlapján köteles közzétenni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül mi az Országos Betétbiztosítási Alap (OBA) funkciója?",
+        "Válaszok": [
+            [
+                "Az, hogy a vele tagsági jogviszonyban álló hitelintézet tevékenységi engedélyének a Magyar Nemzeti Bank általi visszavonása alapján indított végelszámolási vagy felszámolási eljárás esetén, illetve hitelintézetnek a bíróság által elrendelt felszámolása esetén törvényben meghatározott feltételek szerint kártalanítást fizessen a betétesek számára,.",
+                true
+            ],
+            [
+                "Az, hogy az esetleges fizetésképtelen hitelintézetek működéséhez forrást biztosítson."
+            ],
+            [
+                "Az, hogy az esetleges fizetésképtelen hitelintézetek betéteinek befagyása esetén kártalanítást fizessen a betétesek számára, korlátlan összegig, a hitelintézet szanálása mellett."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Mi a Pénzügyi Békéltető Testület feladata?",
+        "Válaszok": [
+            [
+                "A fogyasztó és a pénzügyi szervezetek közötti fogyasztói jogviták rendezése bíróságon kívüli eljárás keretében.",
+                true
+            ],
+            [
+                "Az, hogy az állam és a magánszemélyek, vállalkozások közötti esetleges jogvitákat (pl. kárpótlási jegyekkel kapcsolatos jogviták) bíróságon kívüli eljárás keretében, soron kívül rendezze."
+            ],
+            [
+                "Az állami hatóságok közötti jogviták rendezésére szakosodott központi költségvetési szerv, amely a központi és helyi bíróságokon kívüli, soron kívüli megállapodásokra jött létre."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás nem igaz a Pénzügyi Békéltető Testületre vonatkozóan?",
+        "Válaszok": [
+            [
+                "A Pénzügyi Békéltető Testület az MNB által működtetett, szakmailag független testület."
+            ],
+            [
+                "Az MNB gondoskodik a Pénzügyi Békéltető Testület működésének pénzügyi fedezetéről."
+            ],
+            [
+                "Az állam a mindenkori éves központi költségvetésről szóló törvényben gondoskodik a Pénzügyi Békéltető Testület működésének ügyszámarányos támogatásáról.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a Pénzügyi Békéltető Testületre vonatkozó helyes megállapítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A Pénzügyi Békéltető Testület hatáskörébe és illetékességébe tartozik a fogyasztó és a pénzügyi szolgáltatók között - a szolgáltatás igénybevételére vonatkozó – jogviszony létrejöttével és teljesítésével kapcsolatos vitás ügyek (pénzügyi fogyasztói jogviták) bírósági eljáráson kívüli rendezése.",
+                true
+            ],
+            [
+                "Pénzügyi Békéltető Testület hatáskörébe tartozik a fogyasztói csoportokkal kapcsolatos jogvita rendezése is, mert a fogyasztói csoportok szervezői pénzügyi szolgáltatók."
+            ],
+            [
+                "A területi gazdasági kamarák mellett működő békéltető testületek és a Pénzügyi Békéltető Testület egyidejűleg eljárhat ugyanabban az ügyben."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Pénzügyi Békéltető Testülettel kapcsolatos alábbi állítások közül jelölje meg a helyes állítást!",
+        "Válaszok": [
+            [
+                "Célja a fogyasztói jogviták békés lefolytatása egyezség létrehozását megkísérelve, ennek eredménytelensége esetén döntést hoz a fogyasztói jogok egyszerű, gyors, hatékony és költségkímélő érvényesítése érdekében.",
+                true
+            ],
+            [
+                "Célja a fogyasztóvédelemmel kapcsolatos jogszabályok kidolgozása."
+            ],
+            [
+                "Célja a pénzügyi szervezetek - fogyasztókkal szembeni - tisztességtelen piaci magatartásának visszaszorítása."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Az alábbiak közül melyik tartozik a Pénzügyi Békéltető Testület hatáskörébe?",
+        "Válaszok": [
+            [
+                "A Pénzügyi Békéltető Testület hatáskörébe és illetékességébe tartozik a fogyasztó és a pénzügyi szolgáltatók között - a szolgáltatás igénybevételére vonatkozó – jogviszony létrejöttével és teljesítésével kapcsolatos vitás ügyek (pénzügyi fogyasztói jogviták) bírósági eljáráson kívüli rendezése.",
+                true
+            ],
+            [
+                "A hírnévrontással kapcsolatos jogviták bírósági eljáráson kívüli rendezése."
+            ],
+            [
+                "A tisztességtelen piaci magatartás tilalmával kapcsolatos jogviták miatt bírósági eljárás kezdeményezése."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás helyes az alábbiak közül a Pénzügyi Békéltető Testületre vonatkozó előírások alapján?",
+        "Válaszok": [
+            [
+                "A Pénzügyi Békéltető Testület az MNB által működtetett, szakmailag független testület.",
+                true
+            ],
+            [
+                "A Pénzügyi Békéltető Testület a gazdasági kamarák mellett működő független testület."
+            ],
+            [
+                "Pénzügyi Békéltető Testületi tag a fogyasztói jogvitával kapcsolatos döntési jogkörében az MNB elnöke által utasítható."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Pénzügyi Békéltető Testület köteles-e bárki kérésére tájékoztatást adni hatásköréről, illetékességéről, eljárásának szabályairól és költségeiről, a kötelezést tartalmazó határozat, illetve az ajánlás hozatalának feltételeiről, a határozatok kikényszerítésének módjáról?",
+        "Válaszok": [
+            [
+                "Nem, mivel a Pénzügyi Békéltető Testület csak meghatározott személyek részére ad tájékoztatást ezekben a kérdésekben."
+            ],
+            [
+                "Igen.",
+                true
+            ],
+            [
+                "Nem, a Pénzügyi Békéltető Testület nem köteles ezekben a kérdésekben tájékoztatást adni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Pénzügyi Békéltető Testülettel kapcsolatos alábbi állítások közül jelölje meg a helyes állítást!",
+        "Válaszok": [
+            [
+                "Pénzügyi Békéltető Testületi tag az lehet, aki jogi végzettséggel és jogi szakvizsgával vagy közgazdasági egyetemi diplomával rendelkezik.",
+                true
+            ],
+            [
+                "Pénzügyi Békéltető Testületi tag az lehet, aki legalább középfokú iskolai végzettséggel és annak kiegészítéseként elvégzett fogyasztóvédelmi szakvizsgával rendelkezik."
+            ],
+            [
+                "A Pénzügyi Békéltető Testület tagjai köztisztviselőnek minősülnek."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A Pénzügyi Békéltető Testülettel kapcsolatos alábbi állítások közül jelölje meg a helytelen állítást!",
+        "Válaszok": [
+            [
+                "A Pénzügyi Békéltető Testület három tagú tanácsban jár el, kivéve az ötvenezer forintot meg nem haladó összegre vonatkozó vagy egyszerű megítélésű fogyasztói kérelmeket jelentő, valamint méltányossági kérelmet tartalmazó ügyeket, amelyeknél egy testületi tag is eljárhat."
+            ],
+            [
+                "A pártatlanság biztosítása érdekében a tanácsba kijelölt békéltető testületi tag köteles haladéktalanul bejelenteni, feltárni minden olyan körülményt, amely jogos kétségeket ébreszthet függetlensége vagy pártatlansága tekintetében."
+            ],
+            [
+                "A Pénzügyi Békéltető Testületi tagok olyan jogvitákban is részt vehetnek az érdemi határozat meghozatalában, ahol az egyik érintett fél a testület tagjának hozzátartozója és ezért határidőben alapos kizárási kérelmet terjesztettek elő vele szemben. Pártatlanságát a többi tagnak kell felügyelni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Helyes-e az alábbi állítás: A Pénzügyi Békéltető Testület eljárása nem nyilvános, kivéve, ha ahhoz mindkét fél hozzájárul.?",
+        "Válaszok": [
+            [
+                "Igen, az állítás helyes.",
+                true
+            ],
+            [
+                "Nem, az állítás helytelen, a Pénzügyi Békéltető Testület eljárása nyilvános minden esetben."
+            ],
+            [
+                "Nem, az állítás helytelen, a Pénzügyi Békéltető Testület eljárása nyilvános, azonban bármelyik fél kérheti a nyilvánosság kizárását."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Jelölje meg a fogyasztási kölcsönnel kapcsolatos helyes állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "A teljes hiteldíj mutató értékét nem kell feltüntetni minden esetben."
+            ],
+            [
+                "A hitelfelvevő nem élhet a hitel teljes összegű előtörlesztésével."
+            ],
+            [
+                "A fogyasztási kölcsön lehet például személyi hitel és áruhitel.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás helyes a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) panaszkezelésre vonatkozó előírásainak ismeretében?",
+        "Válaszok": [
+            [
+                "A szóbeli panaszt a pénzügyi intézmény és a független közvetítő valamennyi, az ügyfelek számára nyitva álló helyiségben, annak nyitvatartási idejében, ennek hiányában székhelyén minden munkanapon 8 órától 16 óráig köteles fogadni.",
+                true
+            ],
+            [
+                "A telefonon közölt szóbeli panaszt a pénzügyi szervezet legalább a hét három munkanapján 8 órától 20 óráig fogadja."
+            ],
+            [
+                "Telefonon történő panaszkezelés esetén az ügyféllel történő telefonos kommunikációt csak az ügyfél kérésére kell hangfelvétellel rögzíteni."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás helytelen a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény (Hpt.) panaszkezelésre vonatkozó előírásainak ismeretében?",
+        "Válaszok": [
+            [
+                "A pénzügyi szervezet a szóbeli panaszt - amennyiben lehetséges - azonnal megvizsgálja, és szükség szerint orvosolja. Ha az ügyfél a panasz kezelésével nem ért egyet, a pénzügyi szervezet a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén az ügyfélnek átadja, telefonon közölt szóbeli panasz esetén az ügyfélnek megküldi."
+            ],
+            [
+                "A pénzügyi szervezet az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő negyvenöt napon belül megküldi az ügyfélnek.",
+                true
+            ],
+            [
+                "A panasz elutasítása esetén a pénzügyi szervezet tájékoztatja az ügyfelet, hogy fogyasztóvédelmi rendelkezések megsértése esetén a Magyar Nemzeti Banknál fogyasztóvédelmi eljárást kezdeményezhet, a szerződés létrejöttével, érvényességével, joghatásaival, megszűnésével, valamint a szerződésszegés és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti, amennyiben a Pénzügyi Békéltető Testület eljárására vonatkozó szabályok szerint fogyasztónak minősül."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ha az MNB fogyasztóvédelmi ellenőrzése során megállapította a fogyasztóvédelmi rendelkezések megsértését, az alábbiak közül melyik eszközzel élhet?",
+        "Válaszok": [
+            [
+                "Elrendelheti a jogsértő állapot megszüntetését.",
+                true
+            ],
+            [
+                "Nem tilthatja meg a jogsértő magatartás további folytatását, kizárólag figyelmeztetési jogköre van ebben az esetben, a konkrét lépéseket az együttműködő rendészeti szervek tehetik meg."
+            ],
+            [
+                "Elrendelheti a jogsértő magatartás további folytatását."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Jelölje meg az MNB fogyasztóvédelmi ellenőrzésére vonatkozó helytelen állítást az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Az MNB jogosult az ügyletkötést szabályozó rendelkezések betartását próbaügyletkötés keretében ellenőrizni."
+            ],
+            [
+                "Az MNB jogosult az ellenőrzés során próbaügyletet kötni. A próbaügylet körében ellenőrizhető ügylet legfeljebb a próbaügylet tárgyára vonatkozó szerződés aláírásáig, fizetési megbízás vagy bankjegyek és érmék átváltására irányuló próbaügylet esetén az átváltandó bankjegyek és érmék átvételéig tarthat."
+            ],
+            [
+                "Az MNB a próbaügyletkötéshez nem vehet igénybe közreműködő személyt.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a fogyasztó érdek- és jogsérelem orvoslásának lehetséges peren kívüli változatait az alábbiak közül!",
+        "Válaszok": [
+            [
+                "Panasz a pénzügyi szolgáltatónál, és kérelemmel fordulás az MNB-hez illetve a Pénzügyi Békéltető Testülethez.",
+                true
+            ],
+            [
+                "Az Alkotmánybíróság és/vagy a helyi főügyészség eljárásának kezdeményezése."
+            ],
+            [
+                "A Fogyasztóvédelmi Főfelügyelet saját hatáskörében lefolytatott eljárása, amelyben együttműködik a körzeti bíróval."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Válassza ki a helyes befejezést az alábbiak közül! Amennyiben az ügyfél szóbeli panaszát nem a panaszkezelésre kijelölt ügyintézőnél terjeszti elő, akkor",
+        "Válaszok": [
+            [
+                "a pénzügyi intézmény az ügyfél panaszát elutasíthatja."
+            ],
+            [
+                "a pénzügyi intézmény köteles az ügyfelet tájékoztatni a panaszt a továbbiakban kezelő szervezeti egység elérhetőségéről.",
+                true
+            ],
+            [
+                "a pénzügyi intézmény köteles az ügyfelet felszólítani arra, hogy a panasztát a továbbiakban más szervezeti egységnél terjessze elő."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás hamis az alábbiak közül? A pénzügyi intézmény a panaszok kivizsgálását követően olyan választ köteles adni, amelyben részletesen kitér (többek között)",
+        "Válaszok": [
+            [
+                "a kifogás teljes körű kivizsgálásának eredményére, a panasz rendezésére vagy megoldására vonatkozó intézkedésre."
+            ],
+            [
+                "a panasz elutasítása esetén az elutasítás indokára."
+            ],
+            [
+                "a kifogásolt intézkedés, eljárás üzletpolitikai céljaira.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Ki jogosult panaszt tenni a pénzügyi szervezetnél?",
+        "Válaszok": [
+            [
+                "A pénzügyi szervezet ügyfele, de kizárólag oly módon, ha formanyomtatványon tesz panaszt a pénzügyi szervezetnél."
+            ],
+            [
+                "A pénzügyi szervezet ügyfele, legyen az természetes személy fogyasztó, vagy e körön kívül eső jogi személy.",
+                true
+            ],
+            [
+                "Kizárólag a pénzügyi szervezet természetes személy fogyasztónak minősülő ügyfele."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik állítás igaz az alábbiak közül?",
+        "Válaszok": [
+            [
+                "A hitelre vonatkozó kereskedelmi kommunikációnak a teljes hiteldíj mutató (THM) értékén kívül tartalmaznia kell a hitel futamidejét, valamint a hitel teljes összegét."
+            ],
+            [
+                "A hitelközvetítő a hitelre vonatkozó kereskedelmi kommunikációban köteles feltüntetni, hogy kinek a képviseletében jár el.",
+                true
+            ],
+            [
+                "Jelzáloghitel esetén a hitelre vonatkozó kereskedelmi kommunikációnak csak abban az esetben kell tartalmaznia a teljes hiteldíj mutató mértékét, ha a hitel kamatozása változó."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Jelölje meg az alábbiak közül a helyes állítást: A hitelre vonatkozó kereskedelmi kommunikációban a teljes hiteldíj mutató értékét",
+        "Válaszok": [
+            [
+                "két tizedesjegy pontossággal kell megadni, ha a kereskedelmi kommunikáció tartalmazza a hitel kamatának mértékét és típusát."
+            ],
+            [
+                "fogyasztóvédelmi szempontból ajánlott feltüntetni."
+            ],
+            [
+                "feltűnően, a rövidítés feltüntetésével, legalább egy tizedesjegy pontossággal minden esetben meg kell adni.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A hitelközvetítő a fogyasztó által részére fizetendő díj-, költség- és egyéb fizetési kötelezettségről a hitelszerződés megkötését megelőzően a fogyasztót tájékoztatni, és az erről való megegyezést papíron vagy más tartós adathordozón rögzíteni köteles. Ez az állítás igaz, vagy hamis?",
+        "Válaszok": [
+            [
+                "Az állítás igaz.",
+                true
+            ],
+            [
+                "Az állítás hamis, a hitelközvetítő csak arról köteles tájékoztatni a fogyasztót, hogy kinek a képviseletében jár el."
+            ],
+            [
+                "Az állítás hamis, a hitelközvetítő egyáltalán nem köteles tájékoztatni a fogyasztót."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás igaz a teljes hiteldíj mutatóról (THM)?",
+        "Válaszok": [
+            [
+                "Hitelkártya-szerződéshez vagy fizetési számlához kapcsolódó, továbbá kézizálog fedezete mellett nyújtott hitelek esetében a teljes hiteldíj mutató nem haladhatja meg a jegybanki alapkamat 39 százalékponttal növelt mértékét. Az érintett naptári félévet megelőző hónap első napján érvényes jegybanki alapkamat irányadó az adott naptári félév teljes időtartamára.",
+                true
+            ],
+            [
+                "Hitelkártya-szerződéshez vagy fizetési számlához kapcsolódó, továbbá kézizálog fedezete mellett nyújtott hitelek esetében a teljes hiteldíj mutató (THM) nem haladhatja meg a jegybanki alapkamat 24 százalékponttal növelt mértékét. Az érintett naptári félévet megelőző hónap első napján érvényes jegybanki alapkamat irányadó az adott naptári félév teljes időtartamára."
+            ],
+            [
+                "Hitelkártya-szerződéshez vagy fizetési számlához kapcsolódó, továbbá kézizálog fedezete mellett nyújtott hitelek esetében a teljes hiteldíj mutató (THM) nem haladhatja meg a 61 százalékot."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik alábbi állítás igaz a teljes hiteldíj mutatóról (THM)?",
+        "Válaszok": [
+            [
+                "A mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához és szolgáltatások igénybevételéhez nyújtott hitelek (áruhitelek) esetében, amennyiben a hitel folyósítása közvetlenül az áruhitellel érintett termék értékesítőjének, illetve a szolgáltatás nyújtójának történik, a teljes hiteldíj mutató (THM) nem haladhatja meg a jegybanki alapkamat 39 százalékponttal növelt mértékét.",
+                true
+            ],
+            [
+                "A gépjármű megvásárlásához nyújtott hitelek esetében a teljes hiteldíj mutató (THM) nem haladhatja meg a jegybanki alapkamat 39 százalékponttal növelt mértékét."
+            ],
+            [
+                "A mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek, illetve gépjármű megvásárlásához és szolgáltatások igénybevételéhez nyújtott hitelek esetében, amennyiben a hitel folyósítása közvetlenül a hitellel érintett termék értékesítőjének, illetve a szolgáltatás nyújtójának történik, a teljes hiteldíj mutató (THM) nem haladhatja meg a jegybanki alapkamat 39 százalékponttal növelt mértékét."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "Melyik a helyes az alábbiak közül a közvetítői díjról? Fennálló jelzáloghitel-szerződés, illetve ingatlanra vonatkozó pénzügyi lízingszerződés módosítása során eljáró függő közvetítő tekintetében a közvetítői díj mértéke nem haladhatja meg a jelzáloghitel-szerződés módosításakor fennálló tőketartozás, illetve lízingszerződés alapján fennálló tartozás (ideértve a maradványértéket is)",
+        "Válaszok": [
+            [
+                "1,5 %-át."
+            ],
+            [
+                "0.5 %-át."
+            ],
+            [
+                "2 %-át.",
+                true
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A THM számításánál figyelembe kell-e venni a számlavezetés és a készpénz-helyettesítő fizetési eszköz használatának költségeit és a fizetési műveletekkel kapcsolatos egyéb költségeket, ha a számla fenntartását a hitelező nem írja elő az adott hitelszerződéshez és költségeit a fogyasztóval kötött hitelszerződésben egyértelműen és külön feltüntették?",
+        "Válaszok": [
+            [
+                "Igen."
+            ],
+            [
+                "Nem.",
+                true
+            ],
+            [
+                "Kizárólag akkor, ha az ügyfél írásban így rendelkezik."
+            ]
+        ]
+    },
+    {
+        "Kérdés": "A szolgáltató a panasszal kapcsolatos, indokolással ellátott álláspontját tartalmazó választ jogosult-e elektronikus úton megküldeni az ügyfélnek?",
+        "Válaszok": [
+            [
+                "Igen, de csak a jogszabályokban előírt feltételek fennállása esetén."
+            ],
+            [
+                "Igen, az ügyfél eltérő rendelkezése hiányában bármikor.",
+                true
+            ],
+            [
+                "Nem, a panaszra adott választ minden esetben postai úton kell megküldeni az ügyfélnek."
+            ]
+        ]
+    }
+]
