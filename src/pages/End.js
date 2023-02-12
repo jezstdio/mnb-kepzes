@@ -10,27 +10,27 @@ function End(props) {
       <span className="block font_size-40 margin-b-48">🥳</span>
       <span className="block font_weight-bold padding-y-16">Jöhet az újabb kör?</span>
       <button
-        className="block underline margin-x-auto padding-y-16"
+        className="block underline padding-y-16"
         onClick={() => handleLinks("penzugyi-piacok", "Quiz")}
       >Pénzügyi piacok</button>
       <button
-        className="block underline margin-x-auto padding-y-16"
+        className="block underline padding-y-16"
         onClick={() => handleLinks("altalanos-jogi-ismeretek", "Quiz")}
       >Általános jogi ismeretek</button>
       <button
-        className="block underline margin-x-auto padding-y-16"
+        className="block underline padding-y-16"
         onClick={() => handleLinks("lakossagi_megtakaritasi-termekek", "Quiz")}
       >Lakossági megtakarítási termékek</button>
       <button
-        className="block underline margin-x-auto padding-y-16"
+        className="block underline padding-y-16"
         onClick={() => handleLinks("hitelezesi-alapfogalmak", "Quiz")}
       >Hitelezési alapfogalmak</button>
       <button
-        className="block underline margin-x-auto padding-y-16"
+        className="block underline padding-y-16"
         onClick={() => handleLinks("hiteltipusok-es-hiteltermekek", "Quiz")}
       >Hiteltípusok és hiteltermékek</button>
       <button
-        className="block underline margin-x-auto padding-y-16"
+        className="block underline padding-y-16"
         onClick={() => handleLinks("a-mikro-kis-es-kozepvallalati-uzletag-fobb-termekei-es-szolgaltatasai", "Quiz")}
       >A mikro-, kis- és középvállalati üzletág főbb termékei és szolgáltatásai</button>
     </div>

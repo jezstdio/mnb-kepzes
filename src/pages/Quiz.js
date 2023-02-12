@@ -121,13 +121,13 @@ function GameSpace(props) {
                 <div className="relative floating max_width-512px flex end">
                     <button
                         ref={nextButton}
-                        className={`absolute right-0 button ${isAnswerCorrect !== undefined && correctAnswers < questions.length && !isAnimating ? 'visible' : 'hidden opacity-0'}`}
+                        className={`absolute right-0 right-24--d button ${isAnswerCorrect !== undefined && correctAnswers < questions.length && !isAnimating ? 'visible' : 'hidden opacity-0'}`}
                         onClick={handleNextClick}
                         disabled={!(isAnswerCorrect !== undefined && correctAnswers < questions.length)}
                     >Következő</button>
                     <button
                         ref={endButton}
-                        className={`absolute right-0 button ${correctAnswers >= questions.length && !isAnimating? 'visible' : 'hidden opacity-0'}`}
+                        className={`absolute right-0 right-24--d button ${correctAnswers >= questions.length && !isAnimating? 'visible' : 'hidden opacity-0'}`}
                         onClick={handleEndClick}
                         disabled={!(correctAnswers >= questions.length)}
                     >Vége</button>
@@ -174,7 +174,7 @@ function AnswerButton(props) {
     return (
         <button
             ref={props.isAnswerCorrect === undefined ? button : undefined}
-            className={`${props.index + 1} margin-x-auto margin-b-16--d padding-y-16 ${props.isAnswerCorrect === false ? props.answer[1] ? "correct" : '' : ''} ${status ? status : ''}`.trim()}
+            className={`${props.index + 1} margin-b-16--d padding-y-16 ${props.isAnswerCorrect === false ? props.answer[1] ? "correct" : '' : ''} ${status ? status : ''}`.trim()}
             onClick={handleClick}
             disabled={props.isAnswerCorrect !== undefined}
         >{props.answer[0]}</button>
