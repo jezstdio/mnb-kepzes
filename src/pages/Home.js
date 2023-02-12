@@ -6,7 +6,7 @@ function App(props) {
   }
 
   return (
-    <div className="text-center padding-y-80 height-100vh padding-x-24 max_width-512">
+    <div className="text-center padding-y-80 height-100vh padding-x-24 max_width-512px margin-x-auto">
       <span className="block font_size-24 font_weight-bold margin-b-16">Kezdődhet a gyakorlás?</span>
       <span className="block font_size-40 margin-b-48">👇</span>
       <button
