@@ -69,6 +69,7 @@ function GameSpace(props) {
                 return question;
             })).sort((a, b) => a.score - b.score));
             setIsAnswerCorrect(undefined);
+            window.scrollTo(0, 0);
         }, 500);
         setTimeout(() => setIsAnimating(false), 500);
     }
