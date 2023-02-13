@@ -41,7 +41,7 @@ function Quiz(props) {
 function GameSpace(props) {
     const questions = props.data;
     const [correctAnswers, setCorrectAnswers] = useState(0);
-    const [allAnswers, setAllAnswers] = useState(0);
+    const [wrongAnswers, setWrongAnswers] = useState(0);
     const [isAnswerCorrect, setIsAnswerCorrect] = useState(undefined);
     const [isAnimating, setIsAnimating] = useState(false);
 
@@ -107,7 +107,7 @@ function GameSpace(props) {
 
     return (
         <div className={`relative height-100vh width-100 padding-x-24 padding-t-56 padding-b-80 text-center max_width-512px margin-x-auto`}>
-            <span>{correctAnswers} / {allAnswers} / {questions.length}</span>
+            <span><span className="color--green">{correctAnswers}</span> / <span className="color--red">{wrongAnswers}</span> / {questions.length}</span>
             <div className={`animating ${isAnimating ? 'animating-on' : ''}`}>
                 <span className="block font_size-24 font_weight-bold margin-b-56">{ questions[0]["Kérdés"] }</span>
                 <div className="padding-b-128">
@@ -115,7 +115,7 @@ function GameSpace(props) {
                         key={`${index}${answer}`}
                         index={index}
                         setCorrectAnswers={setCorrectAnswers}
-                        setAllAnswers={setAllAnswers}
+                        setWrongAnswers={setWrongAnswers}
                         isAnswerCorrect={isAnswerCorrect}
                         setIsAnswerCorrect={setIsAnswerCorrect}
                         answer={answer} />) }
@@ -145,14 +145,13 @@ function AnswerButton(props) {
     const button = useRef();
 
     function handleClick() {
-        props.setAllAnswers(count => count + 1);
-        
         if (props.answer[1]) {
             setStatus("correct");
             props.setCorrectAnswers(count => count + 1);
             props.setIsAnswerCorrect(true);
         } else {
             setStatus("wrong");
+            props.setWrongAnswers(count => count + 1);
             props.setIsAnswerCorrect(false);
         }
     }
