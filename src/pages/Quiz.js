@@ -64,12 +64,12 @@ function GameSpace(props) {
 
     function handleNextClick() {
         setIsAnimating(true);
+        setIsAnswerCorrect(undefined);
         setTimeout(() => {
             props.setData(shuffleArray(questions.map(question => {
                 question["Válaszok"] = shuffleArray(question["Válaszok"]);
                 return question;
             })).sort((a, b) => a.score - b.score));
-            setIsAnswerCorrect(undefined);
             window.scrollTo(0, 0);
         }, 500);
         setTimeout(() => setIsAnimating(false), 500);
