@@ -40,10 +40,10 @@ button {
             color: #ffffff;
             opacity: 1;
         }
+    }
 
-        @media screen and (min-width: 512px) {
-            border-radius: 32px;
-        }
+    @media screen and (min-width: 512px) {
+        border-radius: 32px;
     }
 }
 
