@@ -107,7 +107,7 @@ function GameSpace(props) {
 
     return (
         <div className={`relative height-100vh width-100 padding-x-24 padding-t-56 padding-b-80 text-center max_width-512px margin-x-auto`}>
-            <span><span className="color--green">{correctAnswers}</span> / <span className="color--red">{wrongAnswers}</span> / {questions.length}</span>
+            <span><span className="color--green">{correctAnswers}</span>/{questions.length} - <span className="color--red">{wrongAnswers}</span></span>
             <div className={`animating ${isAnimating ? 'animating-on' : ''}`}>
                 <span className="block font_size-24 font_weight-bold margin-b-56">{ questions[0]["Kérdés"] }</span>
                 <div className="padding-b-128">
