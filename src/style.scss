@@ -1,3 +1,7 @@
+html, body {
+    min-height: auto;
+}
+
 a {
     color: #000000;
 }
@@ -54,7 +58,7 @@ button {
 
 .floating {
     position: fixed;
-    bottom: 40px;
+    bottom: 0px;
     margin: 0 auto;
     width: calc(100% - 48px);
 }
@@ -71,6 +75,7 @@ button {
 }
 
 .padding-b-128 { padding-bottom: 128px !important; }
+.padding-b-104 { padding-bottom: 104px !important; }
 .max_width-512px { max-width: 512px !important; }
 
 .color--green { color: #7AD223 };
@@ -91,8 +96,8 @@ button {
         color: #ffffff;
 
         &:disabled {
-            &.correct { color: #141414 }
-            &.wrong { color: #141414 }
+            //&.correct { color: #141414 }
+            //&.wrong { color: #141414 }
         }
     }
 

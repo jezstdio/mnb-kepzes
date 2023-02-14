@@ -106,12 +106,11 @@ function GameSpace(props) {
     }, [isAnswerCorrect]);
 
     return (
-        <div className={`relative height-100vh width-100 padding-x-24 padding-t-56 padding-b-80 text-center max_width-512px margin-x-auto`}>
+        <div className={`relative width-100 padding-x-24 padding-t-56 padding-b-104 text-center max_width-512px margin-x-auto`}>
             <span><span className="color--green">{correctAnswers}</span>/{questions.length} - <span className="color--red">{wrongAnswers}</span></span>
             <div className={`animating ${isAnimating ? 'animating-on' : ''}`}>
                 <span className="block font_size-24 font_weight-bold margin-b-56">{ questions[0]["Kérdés"] }</span>
-                <div className="padding-b-128">
-                    { questions[0]["Válaszok"].map((answer, index) => <AnswerButton
+                { questions[0]["Válaszok"].map((answer, index) => <AnswerButton
                         key={`${index}${answer}`}
                         index={index}
                         setCorrectAnswers={setCorrectAnswers}
@@ -119,18 +118,17 @@ function GameSpace(props) {
                         isAnswerCorrect={isAnswerCorrect}
                         setIsAnswerCorrect={setIsAnswerCorrect}
                         answer={answer} />) }
-                </div>
                 
-                <div className="relative floating max_width-512px flex end">
+                <div className="floating max_width-512px flex center">
                     <button
                         ref={nextButton}
-                        className={`absolute right-0 right-24--d button ${isAnswerCorrect !== undefined && correctAnswers < questions.length && !isAnimating ? 'visible' : 'hidden opacity-0'}`}
+                        className={`absolute bottom-24 button ${isAnswerCorrect !== undefined && correctAnswers < questions.length && !isAnimating ? 'visible' : 'hidden opacity-0'}`}
                         onClick={handleNextClick}
                         disabled={!(isAnswerCorrect !== undefined && correctAnswers < questions.length)}
                     >Következő</button>
                     <button
                         ref={endButton}
-                        className={`absolute right-0 right-24--d button ${correctAnswers >= questions.length && !isAnimating? 'visible' : 'hidden opacity-0'}`}
+                        className={`absolute bottom-24 button ${correctAnswers >= questions.length && !isAnimating? 'visible' : 'hidden opacity-0'}`}
                         onClick={handleEndClick}
                         disabled={!(correctAnswers >= questions.length)}
                     >Vége</button>

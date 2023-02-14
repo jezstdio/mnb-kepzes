@@ -5,7 +5,7 @@ function End(props) {
 }
 
   return (
-    <div className="text-center padding-y-80 height-100vh padding-x-24 max_width-512px margin-x-auto">
+    <div className="text-center padding-y-64 padding-x-24 max_width-512px margin-x-auto">
       <span className="block font_size-24 font_weight-bold margin-b-16">Gratula, kész vagy!</span>
       <span className="block font_size-40 margin-b-48">🥳</span>
       <span className="block font_weight-bold padding-y-16">Jöhet az újabb kör?</span>
