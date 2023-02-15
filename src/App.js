@@ -11,16 +11,24 @@ function App() {
   const [progress, setProgress] = useState("Home");
   const [quiz, setQuiz] = useState("");
 
+  function handleLinks(quiz, progress) {
+    setQuiz(quiz);
+    setProgress(progress);
+  }
+
   return (
     <Fragment>
       { progress === "Home" && <Home
         setProgress={setProgress}
-        setQuiz={setQuiz} />
+        setQuiz={setQuiz}
+        handleLinks={handleLinks}
+        />
       }
       { progress === "Quiz" && <Quiz
         quiz={quiz} 
         setQuiz={setQuiz}
         setProgress={setProgress}
+        handleLinks={handleLinks}
         />
       }
       { progress === "End" && <End
@@ -28,22 +36,6 @@ function App() {
         setQuiz={setQuiz} />
       }
     </Fragment>
-    /*
-    <Router>
-      <Routes>
-        <Route exact path="/" element={<Home />} />
-
-        <Route exact path="/penzugyi-piacok" element={<Quiz />} />
-        <Route exact path="/altalanos-jogi-ismeretek" element={<Quiz />} />
-        <Route exact path="/lakossagi-megtakaritasi-termekek" element={<Quiz />} />
-        <Route exact path="/hitelezesi-alapfogalmak" element={<Quiz />} />
-        <Route exact path="/hiteltipusok-es-hiteltermekek" element={<Quiz />} />
-        <Route exact path="/a-mikro-kis-es-kozepvallalati-uzletag-fobb-termekei-es-szolgaltatasai" element={<Quiz />} />
-
-        <Route exact path="/osszefoglalo" element={<End />} />
-      </Routes>
-    </Router>
-    */
   );
 }
 

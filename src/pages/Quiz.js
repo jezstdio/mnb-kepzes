@@ -1,17 +1,9 @@
 import React, { useEffect, useState, useRef } from 'react';
 import axios from 'axios';
+import { shuffleArray } from '../utils';
 
 function Quiz(props) {
     const [data, setData] = useState();
-
-    function shuffleArray(array) {
-        for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [array[i], array[j]] = [array[j], array[i]];
-        }
-
-        return array;
-    }
     
     useEffect(() => {
         axios.get(`database/${props.quiz}.json`)
@@ -33,6 +25,7 @@ function Quiz(props) {
                 setData={setData}
                 setQuiz={props.setQuiz}
                 setProgress={props.setProgress}
+                handleLinks={props.handleLinks}
             />}
         </React.Fragment>
     )
@@ -48,20 +41,6 @@ function GameSpace(props) {
     const nextButton = useRef();
     const endButton = useRef();
 
-    function handleLinks(quiz, progress) {
-        props.setQuiz(quiz);
-        props.setProgress(progress);
-    }
-
-    function shuffleArray(array) {
-        for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [array[i], array[j]] = [array[j], array[i]];
-        }
-
-        return array;
-    }
-
     function handleNextClick() {
         setIsAnimating(true);
         setIsAnswerCorrect(undefined);
@@ -75,7 +54,7 @@ function GameSpace(props) {
         setTimeout(() => setIsAnimating(false), 500);
     }
 
-    function handleEndClick() { handleLinks("", "End") }
+    function handleEndClick() { props.handleLinks("", "End") }
 
     function endKeyDown(e) {
         if (e.key === "Enter" && !endButton.current.disabled && isAnswerCorrect === undefined) { handleEndClick() }
