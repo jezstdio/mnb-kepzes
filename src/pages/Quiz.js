@@ -23,8 +23,6 @@ function Quiz(props) {
             { data && <GameSpace
                 data={data}
                 setData={setData}
-                setQuiz={props.setQuiz}
-                setProgress={props.setProgress}
                 handleLinks={props.handleLinks}
             />}
         </React.Fragment>

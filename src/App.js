@@ -19,21 +19,17 @@ function App() {
   return (
     <Fragment>
       { progress === "Home" && <Home
-        setProgress={setProgress}
-        setQuiz={setQuiz}
         handleLinks={handleLinks}
         />
       }
       { progress === "Quiz" && <Quiz
-        quiz={quiz} 
-        setQuiz={setQuiz}
-        setProgress={setProgress}
+        quiz={quiz}
         handleLinks={handleLinks}
         />
       }
       { progress === "End" && <End
-        setProgress={setProgress}
-        setQuiz={setQuiz} />
+        handleLinks={handleLinks}
+        />
       }
     </Fragment>
   );
