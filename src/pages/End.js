@@ -14,7 +14,7 @@ function End(props) {
       >Általános jogi ismeretek</button>
       <button
         className="block underline padding-y-16"
-        onClick={() => props.handleLinks("lakossagi_megtakaritasi-termekek", "Quiz")}
+        onClick={() => props.handleLinks("lakossagi-megtakaritasi-termekek", "Quiz")}
       >Lakossági megtakarítási termékek</button>
       <button
         className="block underline padding-y-16"
