@@ -2643,11 +2643,11 @@
                 "Nem volt hatása a konkrét finanszírozási termékekre. A gépjármű értékesítések visszaestek, de a hozzájuk kapcsolódó pénzügyi szolgáltatások nem."
             ],
             [
-                "A hitelfelvételi hajlandóság általános csökkenése folytán drasztikusan csökkent a gépjárműfinanszírozás iránti igény."
+                "A hitelfelvételi hajlandóság általános csökkenése folytán drasztikusan csökkent a gépjárműfinanszírozás iránti igény.",
+                true
             ],
             [
-                "Kedvezőbb feltételű és könnyebben megszerezhető finanszírozási alternatívák jelennek meg.",
-                true
+                "Kedvezőbb feltételű és könnyebben megszerezhető finanszírozási alternatívák jelennek meg."
             ]
         ]
     },
